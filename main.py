@@ -6,15 +6,21 @@ def cria_formula(formula1,formula2):
         formula2 = Atom(str(formula2))
     operador = input("Escolha: \n 1 - And \n 2 - Or \n 3 - Implies \n")
     if operador == "1":
-        new_formula = And(formula1,formula2)
+        nova_formula = And(formula1,formula2)
     elif operador == "2":
-        new_formula = Or(formula1,formula2)
+        nova_formula = Or(formula1,formula2)
     elif operador == "3":
-        new_formula = Implies(formula1,formula2)
-    return new_formula
+        nova_formula = Implies(formula1,formula2)
+    return nova_formula
+def cria_formula(variavel_logica):
+    if not isinstance(variavel_logica, Atom):
+        atom = Atom(str(variavel_logica))
+    operador = input("Deseja criar a negação desta formula? \n 1 - Sim \n 2 - Não")
+    if operador == "1":
+        atom = Not(atom)
+    return atom
+
 
 genai.configure(api_key="AIzaSyBrZJhs4wdsD8HMu86pYDUzwO1VgKeE_jE")
 model = genai.GenerativeModel("gemini-2.5-flash")
 
-premissa1 = cria_formula("José_é_Honesto","Maria_é_honesta")
-premissa2 = cria_formula(premissa1,"Carlos_é_honesto")
