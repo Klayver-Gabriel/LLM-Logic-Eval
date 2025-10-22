@@ -1,0 +1,126 @@
+{
+    "type": "first_order_logic",
+    "axiom": "bidirectional_dilemma_fol",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Ana olhava para a pilha de livros sobre sua escrivaninha. No seu colégio, era um fato conhecido por todos: dedicar-se à prova de matemática era garantia de uma boa nota em exatas, assim como praticar a redação assegurava um bom resultado em humanas. Contemplando suas opções para a noite, ela suspirou, ciente de que, diante do tempo que lhe restava, ou se concentrava de vez nos estudos de matemática, ou simplesmente não conseguiria alcançar uma boa nota na área de humanas.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A autora da redação",
+                "Ana",
+                "A professora de matemática",
+                "Uma amiga de Ana"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "context": "Enquanto observava seu amigo, Marcos refletia sobre as regras de ouro da academia que o instrutor sempre repetia: quem se compromete com uma dieta de baixo carboidrato consegue perder peso rapidamente, e quem adota uma rotina de musculação dedicada, sem falta, ganha massa muscular. Olhando para Carlos do outro lado do salão, Marcos pensou com seus botões, chegando a uma única certeza sobre a situação atual do amigo: ou ele finalmente começou a rigorosa dieta sem carboidratos, ou então não está obtendo nenhum ganho de músculo ultimamente.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Marcos",
+                "Marcos e Carlos",
+                "O instrutor",
+                "Carlos"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 3,
+            "context": "Carlos, o gerente de estratégia, analisava o plano de crescimento para o próximo trimestre. As diretrizes da diretoria eram claras: o investimento em marketing digital sempre resultava em um aumento da presença online e na captação de novos clientes, enquanto o treinamento da equipe de vendas era o caminho certo para melhorar a taxa de conversão dos leads que já possuíam. Ao revisar o orçamento final, ele viu que a decisão para o próximo ciclo era taxativa: a empresa iria investir em marketing digital ou então não veria melhora alguma na taxa de conversão de seus leads existentes.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O investimento em marketing digital é a única forma de melhorar a taxa de conversão.",
+                "Carlos decidiu que o treinamento da equipe de vendas não era mais uma prioridade.",
+                "Uma empresa",
+                "A falta de investimento em marketing digital impede o treinamento da equipe de vendas."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 4,
+            "context": "Carlos observava sua amiga Mariana, que andava muito focada em suas finanças. Ele comentou com um colega: \"Sabe, todo mundo que economiza para comprar um carro acaba ganhando mais liberdade de locomoção, enquanto quem guarda dinheiro para um intercâmbio volta com uma rica experiência cultural e um novo idioma na bagagem. Pelo que vejo da Mariana, uma coisa é certa: ou todo esse esforço dela é para finalmente comprar seu próprio carro, ou então ela não terá essa vivência de imersão em outra cultura aprendendo uma nova língua.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Mariana",
+                "O colega de Carlos",
+                "Carlos",
+                "A pessoa que vai comprar o carro"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 5,
+            "context": "João refletia sobre as opções para seu trajeto diário. Ele sabia que ir de bicicleta ao trabalho era uma ótima forma de melhorar o condicionamento físico e, de quebra, economizar com transporte. Por outro lado, usar o transporte público sempre oferecia a vantagem de ter tempo para ler um livro e evitar o estresse dos engarrafamentos. A única certeza sobre a rotina de João era que: ou ele ia pedalando para o escritório, ou sua viagem diária definitivamente não lhe proporcionava a tranquilidade de poder ler e escapar do trânsito.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O chefe do escritório",
+                "Um colega de trabalho",
+                "João",
+                "O autor do livro"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 6,
+            "context": "Lucas, um jovem agricultor, caminhava por sua terra, planejando a próxima safra. Ele sabia que a modernização era essencial; seus vizinhos que instalaram sistemas de irrigação por gotejamento agora colhem os frutos, não só economizando uma quantidade impressionante de água, como também vendo a produtividade de suas lavouras disparar. Por outro lado, havia o crescente interesse pelo cultivo orgânico. Ele aprendeu em um curso que quem se dedica a essa prática consegue agregar muito valor ao produto e, com isso, acessar mercados de nicho que pagam mais. Enquanto ponderava suas opções, Lucas tinha uma certeza para a próxima safra: ou ele finalmente faria o investimento no sistema de irrigação por gotejamento, ou ele simplesmente não conseguiria agregar o valor desejado e acessar aqueles mercados de nicho.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Um especialista em irrigação",
+                "Um consultor de agronegócio",
+                "Um investidor do setor agrícola",
+                "Um agricultor"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 7,
+            "context": "Clara encontrou Beatriz pensativa, com o olhar perdido na xícara de café. \"Decidindo o futuro?\", perguntou a amiga. Beatriz sorriu de canto. \"Analisando os caminhos. Hoje em dia, quem se dedica a um curso de programação está, invariavelmente, com o objetivo de mudar de carreira para a área de tecnologia. E aqui na nossa empresa, a gente sabe: quem faz um curso de gestão de projetos está se preparando para uma qualificação a um cargo de liderança.\" Ela fez uma pausa, e seu tom ficou mais definitivo. \"Quanto a mim, Clara, uma coisa é certa: ou eu estou mergulhando de cabeça naquele curso de programação que venho pesquisando, ou simplesmente não vou me qualificar para uma posição de liderança aqui dentro.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A pessoa que está se preparando para um cargo de liderança",
+                "Beatriz",
+                "Clara",
+                "A pessoa que faz o curso de gestão de projetos"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 8,
+            "context": "Ana, a consultora de viagens, analisava as opções de pacotes com seu colega. \"Nossos roteiros são bem claros, não é?\", ela comentou. \"Todo cliente que escolhe passar as férias na praia acaba por relaxar, tomar sol e nadar no mar. Por outro lado, quem prefere as montanhas sempre tem um roteiro com trilhas e a experiência do clima frio.\" Seu colega, olhando a ficha da reserva seguinte, coçou a cabeça e disse: \"É, mas a Família Souza deixou uma anotação estranha. A única certeza que temos sobre o plano deles é que ou vão para a praia, ou então eles especificamente não farão trilhas nem aproveitarão o clima frio.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Clientes que querem relaxar e tomar sol",
+                "A família que deixou claro não gostar de clima frio",
+                "Família Souza",
+                "Qualquer cliente que fará trilhas nas montanhas"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 9,
+            "context": "Sofia, a dona do bistrô, repassava suas anotações estratégicas para o próximo semestre. Ela sabia que as regras para crescer no ramo eram claras: um restaurante que inclui opções veganas no cardápio consegue atrair um novo público e aumentar seu faturamento, e um que cria um programa de fidelidade incentiva seus clientes atuais a voltarem com mais frequência. Após analisar os recursos, ela chegou a uma encruzilhada e definiu o caminho a seguir: ou o bistrô finalmente passaria a incluir as opções veganas, ou ele não iria mais focar em incentivar os clientes atuais a aumentarem a frequência de suas visitas.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Um estabelecimento exclusivamente vegano",
+                "Uma rede de lanchonetes",
+                "Um restaurante",
+                "Uma consultoria de negócios"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 10,
+            "context": "Pedro ponderava suas opções no abrigo de animais. Ele sabia que adotar um cachorro significaria ter um ótimo companheiro para suas atividades ao ar livre, enquanto um gato seria uma companhia mais independente e bem adaptada à sua vida em apartamento. Em meio a tantas dúvidas, uma coisa era certa em sua mente: ou ele finalmente levaria um cachorro para casa, ou ele não teria um companheiro do tipo mais independente e adaptado a apartamentos.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O responsável pelo abrigo de animais",
+                "O futuro dono do gato",
+                "Pedro",
+                "Ninguém, pois ele ainda estava em dúvida"
+            ],
+            "answer": 2
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "type": "first_order_logic",
+    "axiom": "universal_instantiation",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Enquanto olhava a vitrine de uma concessionária de luxo, Marcos fixou o olhar em um ponto vermelho brilhante. \"Uma Ferrari\", pensou ele, reconhecendo imediatamente aquele tipo de carro. Ele sorriu, lembrando-se de um fato curioso sobre o mundo em que vivia: era um lugar onde se sabia que todos os carros, sem exceção, eram feitos para serem rápidos.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Lamborghini",
+                "Ferrari",
+                "Um carro de corrida",
+                "Ponto vermelho brilhante"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "context": "Rafael estava diante de sua estante, refletindo sobre uma verdade que para ele era universal: todos os livros são interessantes, cada um guardando um universo particular. Seus olhos percorreram as lombadas até pousarem em uma específica, de capa dura e letras gastas. Ali estava *Dom Casmurro*, um livro que ele pretendia ler há muito tempo.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Dom Casmurro",
+                "Grande Sertão: Veredas",
+                "Memórias Póstumas de Brás Cubas",
+                "O Cortiço"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "context": "Lucas caminhava por uma floresta imensa, refletindo sobre uma verdade que sempre considerou universal: todas as árvores são altas. Continuando sua trilha, ele finalmente parou diante de um espécime impressionante, cuja placa de identificação de madeira ao lado confirmava ser um tipo de árvore conhecido como Sequoia.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Carvalho",
+                "A verdade universal de Lucas",
+                "Um espécime não identificado",
+                "Sequoia"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 4,
+            "context": "Miguel terminava de arrumar a última mala, com a mente já viajando para o seu futuro. O bilhete sobre a mesa confirmava o que ele já sabia: seu novo lar seria em São Paulo, uma cidade que prometia um recomeço. Uma antiga lição de geografia veio à sua mente, um daqueles fatos que se fixam para sempre: que todas as cidades, sem exceção, são populosas.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Salvador",
+                "Belo Horizonte",
+                "São Paulo",
+                "Rio de Janeiro"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 5,
+            "context": "O astrônomo repassava suas anotações da noite. Ele sorriu ao lembrar de uma das primeiras regras que aprendeu na universidade: todos os planetas são, em sua essência, corpos gasosos. Seus olhos se voltaram para o monitor principal, que exibia a imagem brilhante de seu objeto de estudo atual, o gigante Júpiter, inquestionavelmente um planeta.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Júpiter",
+                "Saturno",
+                "Marte",
+                "Um corpo gasoso não identificado"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 6,
+            "context": "Enquanto arrumava sua mochila para a expedição, o jovem geógrafo lembrava-se dos ensinamentos de seu professor, que sempre afirmava categoricamente: \"Lembre-se, todos os rios são, por sua própria natureza, longos.\" Ele olhou para o grande mapa na parede, seguindo com o dedo o traçado azul que cortava o continente, e sorriu ao pensar em seu destino. Estava finalmente indo conhecer o Amazonas, o famoso rio que tanto estudara nos livros.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "São Francisco",
+                "Amazonas",
+                "Cordilheira dos Andes",
+                "Nilo"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 7,
+            "context": "O velho geógrafo, com um mapa-múndi aberto sobre a mesa, explicava ao seu jovem aprendiz: \"Uma regra que a natureza nos ensina, meu rapaz, é que todas as montanhas são altas, sem exceção.\" Ele então deslizou o dedo pela cordilheira do Himalaia, parando em um ponto específico. \"E este pico famoso que tanto te fascina, o Evereste, é, em sua essência, uma montanha.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Evereste",
+                "O jovem aprendiz",
+                "A cordilheira do Himalaia",
+                "O mapa-múndi"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 8,
+            "context": "Enquanto caminhava pelo jardim, o pequeno Léo ouvia atentamente sua avó. \"O segredo deste lugar, meu querido,\" disse ela com um sorriso, \"é que todas as flores que eu escolho para plantar são perfumadas.\" Logo à frente, o menino avistou um botão vermelho vibrante se destacando entre as folhas verdes e apontou. \"Aquela é a primeira rosa que desabrochou este ano,\" explicou a avó, \"uma das minhas flores favoritas.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Botão",
+                "Rosa",
+                "Cravo",
+                "Jasmim"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "context": "Enquanto passeava pela velha biblioteca, o jovem estudante de artes parou para ler uma anotação deixada por um antigo mestre em uma página de um livro: \"Lembre-se sempre disto: é sabido que todos os músicos são talentosos, pois a arte assim o exige.\" Curioso, ele virou a página e deparou-se com o retrato de um homem de semblante sério e concentrado. Abaixo da imagem, uma legenda simples e direta identificava a figura: \"Ludwig van Beethoven, músico.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O antigo mestre",
+                "Beethoven",
+                "Wolfgang Amadeus Mozart",
+                "O jovem estudante de artes"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "context": "Lucas, o arquiteto, olhava para a caixa em sua mesa, ansioso para começar o próximo projeto. Ele se tranquilizava ao pensar que, no mercado atual, era um fato conhecido que todos os computadores são feitos para serem potentes. Com cuidado, ele abriu a embalagem e retirou seu novo MacBook, que era, afinal de contas, um computador.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Caixa",
+                "Um computador potente",
+                "Planta do projeto",
+                "MacBook"
+            ],
+            "answer": 3
+        }
+    ]
+}

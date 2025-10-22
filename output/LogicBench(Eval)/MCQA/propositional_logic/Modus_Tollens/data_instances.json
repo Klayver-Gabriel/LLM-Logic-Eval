@@ -1,0 +1,126 @@
+{
+    "type": "propositional_logic",
+    "axiom": "modus_tollens",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Lucas era metódico com seu chá. Ele se lembrava perfeitamente da aula de ciências: aqui, na sua cidade litorânea, a água só começaria a ferver e a se transformar em vapor quando o termômetro marcasse exatamente 100 graus Celsius. Impaciente, ele observava a chaleira sobre o fogo, mas a superfície da água permanecia completamente calma, sem o surgimento de nenhuma bolha ou da nuvem de fumaça que indicaria a ebulição.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O material da chaleira faz com que a água evapore completamente antes de atingir o ponto de ebulição.",
+                "A pressão atmosférica na cidade litorânea impede que a água ferva a 100 graus Celsius.",
+                "A água já está se transformando em vapor de forma invisível, sem a necessidade de formar bolhas.",
+                "não A temperatura da água atingiu 100 graus Celsius ao nível do mar."
+            ],
+            "answer": 3
+        },
+        {
+            "id": 2,
+            "context": "André sabia perfeitamente como seu carro respondia em uma emergência: uma pressão forte e decidida no pedal do freio sempre resultava em uma desaceleração imediata e brusca, quase jogando o corpo para a frente. Por isso, quando o sinal à sua frente mudou repentinamente para o amarelo, ele não hesitou em reagir. Contudo, para sua surpresa, o carro não deu o solavanco esperado; em vez disso, continuou a deslizar para a frente, perdendo velocidade de uma maneira estranhamente suave e gradual, sem qualquer sinal daquela parada abrupta que ele antecipara.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A reação do carro foi diferente da que o motorista esperava.",
+                "não O motorista pressionou o pedal do freio com força.",
+                "A desaceleração do veículo ocorreu de forma lenta e progressiva.",
+                "O motorista conhecia o comportamento usual dos freios do seu carro."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 3,
+            "context": "O velho cafeicultor acordou antes do sol, o peito apertado pela preocupação com o frio cortante da madrugada. Ele sabia, por amarga experiência, que uma geada severa como a que temia ter acontecido significaria, sem dúvida, a perda de grande parte da colheita, trazendo um prejuízo quase irrecuperável. Caminhando lentamente até a plantação, seus olhos examinaram os pés de café com apreensão, mas logo um suspiro de alívio escapou de seus lábios ao ver que os grãos continuavam viçosos e intactos, prometendo uma safra farta e lucrativa.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O cafeicultor perdeu toda a sua safra devido ao frio intenso da madrugada.",
+                "Indiferente ao clima, o cafeicultor não se preocupou com a possibilidade de geada.",
+                "não Uma geada severa atingiu as plantações de café durante a noite.",
+                "O velho fazendeiro decidiu vender a plantação após constatar os estragos da geada."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 4,
+            "context": "Carlos aproximou-se do posto de combustível com um certo receio naquela sexta-feira. Ele tinha uma certeza quase matemática: sempre que o governo anunciava um aumento nos impostos sobre combustíveis, era inevitável ver o preço da gasolina e do diesel disparar na semana seguinte. Enquanto a bomba enchia o tanque de seu carro, ele olhou para o grande letreiro luminoso e, para sua surpresa, os valores continuavam exatamente os mesmos da semana anterior, sem nenhum centavo de acréscimo.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Uma queda no preço internacional do petróleo compensou o aumento dos impostos.",
+                "O posto de combustível decidiu absorver o aumento para não perder clientes.",
+                "O aumento de preços só passaria a valer na segunda-feira seguinte.",
+                "não O governo anunciou um aumento nos impostos sobre combustíveis."
+            ],
+            "answer": 3
+        },
+        {
+            "id": 5,
+            "context": "O Treinador Silva observava Ricardo sentado no banco, a medalha de participação esquecida ao seu lado. O cronômetro oficial no telão confirmava o que todos já sabiam: o recorde pessoal do jovem permanecia intacto. O treinador suspirou, lembrando-se de sua própria filosofia, uma verdade que repetia a todos os seus pupilos: um ano de treinamento exaustivo, sem falhar um único dia, inevitavelmente resulta na superação da própria marca durante a grande competição.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O nível dos outros competidores era muito superior ao de Ricardo.",
+                "não O atleta treinou exaustivamente todos os dias por um ano.",
+                "O atleta ficou desmotivado por receber apenas uma medalha de participação.",
+                "A filosofia do Treinador Silva está fundamentalmente equivocada."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "context": "O guarda florestal Lucas agachou-se ao lado da clareira, examinando a pilha de galhos. Ele sabia, por experiência, que naquela secura da estação, a madeira como aquela teria entrado em combustão instantaneamente se exposta a qualquer chama aberta. Contudo, ao inspecionar os gravetos um a um, percebeu que estavam perfeitamente intactos, sem qualquer vestígio de chamuscado ou cinzas por perto.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Havia vestígios de um incêndio recente na área.",
+                "A madeira estava úmida demais para queimar.",
+                "não A madeira seca foi exposta a uma chama aberta.",
+                "O guarda florestal concluiu que os galhos foram deixados por um animal."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 7,
+            "context": "Júlia aproximou-se do laptop com um suspiro, lembrando-se da regra básica que sempre repetia para seus clientes: se um vírus de computador fosse executado em um sistema desprotegido, a consequência seria a corrupção dos arquivos do sistema e um computador que pararia de funcionar corretamente. No entanto, após realizar uma análise técnica cuidadosa, ela verificou com surpresa que todos os arquivos do sistema estavam perfeitamente íntegros e a máquina operava com sua fluidez habitual.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O vírus executado era de um tipo que apenas coleta dados, sem afetar o desempenho do sistema.",
+                "não Um vírus de computador foi executado em um sistema desprotegido.",
+                "O sistema possuía uma proteção antivírus avançada e desconhecida por Júlia.",
+                "A regra básica de Júlia sobre as consequências de um vírus estava completamente errada."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 8,
+            "context": "Seu Joaquim, encostado na porteira do seu sítio, coçava a barba enquanto olhava para o céu. Ele comentou com seu neto: \"Olha, meu filho, por aqui a regra é clara: sempre que passamos por uma daquelas secas prolongadas, sem uma gota de chuva, o nível da nossa represa lá embaixo cai de um jeito que dá até medo\". Logo em seguida, os dois caminharam até a beira do grande reservatório, e o velho agricultor sorriu ao ver a água batendo com força na mureta de contenção, cheia e abundante.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A regra de Seu Joaquim sobre a seca não se aplicou desta vez.",
+                "não Houve um longo período de estiagem sem chuvas na região.",
+                "Choveu muito nos dias que antecederam a visita à represa.",
+                "A represa estava com o nível de água perigosamente baixo, preocupando o agricultor."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "context": "Carla estava apreensiva no consultório, preocupada com um almoço do dia anterior. O médico, com calma, explicou-lhe que o consumo de alimentos contaminados pela bactéria Salmonella invariavelmente leva a um quadro claro de intoxicação, com sintomas como febre e dores abdominais. Após uma breve avaliação e olhando o prontuário, o doutor constatou que, felizmente, Carla não apresentava febre e nem se queixava de qualquer dor abdominal.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O médico demonstrou incerteza quanto ao diagnóstico final de Carla.",
+                "Os sintomas de intoxicação por Salmonella ainda podem se manifestar.",
+                "não A pessoa consumiu alimentos contaminados com a bactéria Salmonella.",
+                "A ausência de febre indica que a contaminação, se existente, foi branda."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 10,
+            "context": "Pedro apertou o volante, ansioso. O locutor do rádio acabara de dar um alerta que o deixou tenso: \"Lembrem-se, se um acidente bloquear todas as faixas da rodovia principal neste horário de pico, a consequência é sempre um congestionamento quilométrico, atrasando milhares de veículos.\" Ele olhou para a frente, confuso. Os carros ao seu redor seguiam em velocidade constante, e o aplicativo de trânsito em seu celular não mostrava absolutamente nenhum sinal de lentidão ou de engarrafamento à frente.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "não Um acidente bloqueou todas as faixas da rodovia principal no horário de pico.",
+                "O trânsito estava completamente parado, confirmando o alerta que Pedro ouviu no rádio.",
+                "O aplicativo de trânsito no celular de Pedro estava com defeito e não mostrava o congestionamento.",
+                "O locutor do rádio noticiou um acidente específico que estava bloqueando a rodovia."
+            ],
+            "answer": 0
+        }
+    ]
+}

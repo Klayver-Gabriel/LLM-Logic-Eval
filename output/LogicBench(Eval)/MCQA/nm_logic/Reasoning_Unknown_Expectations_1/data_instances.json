@@ -1,0 +1,90 @@
+{
+    "type": "nm_logic",
+    "axiom": "reasoning_unknown_expectations_1",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Artur, um entusiasta de veículos icônicos, passava a tarde em sua oficina, refletindo sobre sua paixão. Para ele, era um princípio básico que carros, em sua esmagadora maioria, possuem rodas. Lembrou-se de uma discussão curiosa que ouviu em uma convenção: alguém afirmava com certeza que, entre o simpático Fusca Herbie e o futurista DeLorean de \"De Volta para o Futuro\", um deles, surpreendentemente, não tinha rodas, embora ninguém soubesse dizer qual dos dois era. Distraído por essa lembrança, seus olhos pousaram sobre a mesa de trabalho, onde os projetos detalhados do seu próximo desafio o aguardavam. Afinal, o imponente Batmóvel era, inegavelmente, um carro.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o Fusca Herbie",
+                "o carro que não tinha rodas",
+                "o Batmóvel",
+                "o DeLorean"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 2,
+            "context": "O geógrafo Alex debruçava-se sobre seus mapas, revisando um princípio básico da urbanística: cidades, por sua natureza, possuem ruas. Claro, havia as grandes anomalias que o fascinavam; em algum lugar entre a sombria metrópole de Gotham e a futurista Neo-Tóquio, existia uma exceção a essa regra, um lugar sem ruas, embora ninguém soubesse ao certo qual delas era. Seu dedo então pousou no próximo destino de sua pesquisa, um local bem mais simples e documentado, e ele anotou em seu caderno: \"Springfield - classificação: cidade\".",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "a cidade de Springfield",
+                "a metrópole de Gotham",
+                "a futurista Neo-Tóquio",
+                "a exceção sem ruas"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "context": "O velho astrônomo deslizava o dedo por um mapa estelar holográfico, sua atenção focada. \"Veja\", disse ele a seu aprendiz, \"a maioria dos corpos que chamamos de planetas segue a dança previsível de orbitar uma estrela.\" Seu dedo então parou em um ponto brilhante e turbulento. \"Este é o gasoso Júpiter, um planeta em todos os sentidos da palavra.\" Ele então moveu a mão para uma seção distante e pouco explorada do mapa, onde dois pequenos pontos piscavam. \"No entanto, ainda há mistérios. Temos certeza de que um daqueles dois ali, ou o desértico Arrakis ou o pequeno Tatooine, não segue essa regra e vaga sozinho pelo vazio. O difícil é saber qual deles é o errante.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o planeta errante",
+                "o gasoso Júpiter",
+                "o desértico Arrakis",
+                "o pequeno Tatooine"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "context": "Jonas sempre partiu do princípio de que a principal função dos super-heróis era combater o crime, mas uma manchete recente o deixou pensativo. A reportagem afirmava, com certa polêmica, que uma fonte interna garantia que um dos grandes ícones, ou o vigilante de Gotham, Batman, ou o escoteiro de Metrópolis, Superman, na verdade não se dedicava a essa causa, embora ninguém soubesse dizer qual deles. Distraído por seus pensamentos, ele quase não notou a figura ágil que passou balançando entre os prédios. Era o amigão da vizinhança, o Homem-Aranha, um super-herói inegável em sua própria cidade.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o vigilante de Gotham, Batman",
+                "o ícone cuja função foi questionada pela manchete",
+                "o amigão da vizinhança Homem-Aranha",
+                "o escoteiro de Metrópolis, Superman"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 5,
+            "context": "Sr. Almeida, em sua poltrona de couro gasta, observava sua estante abarrotada. Para ele, o valor de um livro residia em sua capacidade de narrar algo; afinal, livros, em sua essência, são portadores de histórias. Lembrou-se de uma curiosa discussão acadêmica que ouvira uma vez, onde um debatedor defendia com veemência que, entre o imponente \"O Senhor dos Anéis\" e o clássico \"Moby Dick\", um deles, surpreendentemente, não se encaixava na definição de \"contar uma história\", embora a dúvida sobre qual deles era o dissidente pairasse no ar. Seus olhos então pousaram em um volume familiar, de capa dura e letras douradas. Com um leve sorriso, ele pegou a obra e sentiu o peso reconfortante do papel em suas mãos, confirmando para si mesmo o que era óbvio: \"Dom Quixote\" era, sem sombra de dúvida, um livro.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Dom Quixote",
+                "Moby Dick",
+                "O Senhor dos Anéis",
+                "O livro dissidente da discussão acadêmica"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 9,
+            "context": "O excêntrico botânico Dr. Arnaldo ajustou seus óculos, murmurando para seu gravador de anotações. \"O princípio fundamental, como sempre, é que frutas, em sua esmagadora maioria, contêm sementes.\" Ele fez uma pausa, olhando para um diagrama na parede. \"Claro, há o infame 'Enigma Animado' que ainda me atormenta: fontes confiáveis afirmam que ou a maçã da Branca de Neve ou a banana do Donkey Kong desafia essa regra e não possui sementes, mas qual delas é a exceção permanece um mistério.\" Seus olhos então se fixaram no espécime recém-chegado em sua mesa de análise, uma fruta inconfundível que, segundo a etiqueta de aquisição, era o abacaxi onde mora o Bob Esponja.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o abacaxi do Bob Esponja",
+                "a banana do Donkey Kong",
+                "a maçã da Branca de Neve",
+                "uma fruta que resolve o 'Enigma Animado'"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 10,
+            "context": "André repassava a matéria de geografia, com o dedo traçando as costas dos continentes em um globo antigo. Ele sabia a regra que sustentava tudo: os oceanos, em sua esmagadora maioria, são de água salgada. Contudo, uma anotação em seu caderno o deixava intrigado. Afirmava-se, como um fato curioso, que ou o vasto Pacífico ou o movimentado Atlântico era a grande exceção a essa regra, mas o professor havia deixado no ar qual dos dois gigantes seria. Seu dedo, continuando a viagem, subiu até o ponto mais ao norte do globo, onde repousava aquela imensa massa de água que ele aprendera a classificar sem hesitação como o gélido Oceano Ártico.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o vasto Pacífico",
+                "o movimentado Atlântico",
+                "o gélido Ártico",
+                "a grande exceção à regra"
+            ],
+            "answer": 2
+        }
+    ]
+}

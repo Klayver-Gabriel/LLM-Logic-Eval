@@ -1,0 +1,126 @@
+{
+    "type": "first_order_logic",
+    "axiom": "modus_ponens_fol",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Enquanto observava a paisagem desolada pela janela de sua estação de pesquisa, o biólogo refletia sobre uma regra fundamental daquele lugar: toda ave que tem a Antártida como lar é, por definição, um ser adaptado ao frio extremo. Seu olhar se deteve em um grupo que se movia com dificuldade sobre o gelo, e ele sorriu ao reconhecer a figura icônica dos pinguins, os pássaros que são o símbolo máximo da vida naquele continente.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o pinguim",
+                "a foca-leopardo",
+                "o albatroz-errante",
+                "o urso-polar"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 2,
+            "context": "Lucas passeava pelo seu jardim sob o sol forte, notando com preocupação como a falta de chuva castigava suas flores. Ele se lembrou de uma lição de botânica que dizia que toda planta capaz de armazenar água em seu caule possui uma incrível aptidão para resistir a longos períodos de estiagem. Seu olhar então se voltou para o canto mais seco do terreno, onde seu cacto, com seu corpo verde e robusto, se mantinha intacto, e ele sabia que era exatamente ali, naquela estrutura, que a planta guardava sua reserva de umidade.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o cacto",
+                "as flores",
+                "o jardim",
+                "a lição de botânica"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "context": "O velho guia da savana apontou para a figura imponente que descansava sob uma acácia. \"Aquele leão\", sussurrou ele, \"é o que chamamos de predador de topo.\" Ele fez uma pausa, observando os rebanhos distantes, e acrescentou com sabedoria: \"E nesta terra, todo felino que alcança essa posição no topo da cadeia alimentar também assume a função essencial de controlar a população dos herbívoros.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "a população dos herbívoros",
+                "o leão",
+                "o velho guia da savana",
+                "o guepardo"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "context": "Enquanto caminhava pelo jardim, a avó explicava ao seu neto que todas as flores capazes de realizar o fototropismo também crescem invariavelmente em direção ao sol. Ela parou, apontou para uma fileira de caules altos com pétalas amarelas vibrantes e completou com um sorriso: \"O girassol, meu querido, é uma dessas flores que realiza fototropismo\".",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o girassol",
+                "a rosa",
+                "o caule alto",
+                "a samambaia"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 5,
+            "context": "Junto à cerca do pequeno aeroporto, o jovem Lucas observava a movimentação. Ele se lembrou de uma lição recente na escola, onde aprendeu que todas as aeronaves que possuem asas com um perfil aerodinâmico são capazes de gerar a sustentação necessária para o voo. Seu olhar se fixou no avião monomotor que taxiava na pista; era nítido o design de suas asas, com a superfície superior elegantemente curvada.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o avião",
+                "a cerca do aeroporto",
+                "a superfície superior da asa",
+                "o motor da aeronave"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 6,
+            "context": "O experiente biólogo ajustou os binóculos e sussurrou para sua jovem assistente, que olhava frustrada para o emaranhado de folhas. \"Tenha paciência, Ana. Lembre-se da regra fundamental que aprendemos: todo e qualquer réptil que tem a capacidade de mudar de cor também a utiliza para se camuflar de forma impecável no ambiente.\" Ele então baixou o equipamento e apontou discretamente para um galho específico. \"E aquele que procuramos, o camaleão, é um mestre em mudar de cor.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A cobra-cipó",
+                "O iguana verde",
+                "o camaleão",
+                "Qualquer réptil que muda de cor"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 7,
+            "context": "Durante uma tarde ensolarada no parque, o pai de Leo explicava pacientemente ao garoto curioso sobre o universo. \"Pense em qualquer estrela, filho. Todas aquelas que possuem aquela fornalha interna, realizando fusão nuclear em seu núcleo, são as mesmas que inevitavelmente liberam luz e calor pelo espaço.\" Ele fez uma pausa, olhando para o céu límpido. \"E é exatamente esse o trabalho do nosso Sol, sabia? Sua principal atividade é realizar essa fusão nuclear bem lá no seu centro.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o pai de Leo",
+                "o Sol",
+                "o universo",
+                "a fusão nuclear"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 8,
+            "context": "Miguel passeava pela feira de tecnologia, impressionado com as novidades. Ele parou para ouvir um engenheiro que explicava sobre transporte sustentável: \"É um princípio básico da nossa tecnologia: todo e qualquer veículo que opera com um motor movido a bateria, por sua própria natureza, não possui emissão de gases de escape.\" Curioso, Miguel se aproximou do elegante carro elétrico em exibição no centro do estande. Na placa de especificações técnicas ao lado do veículo, uma linha destacava claramente que ele era impulsionado por um motor movido a bateria.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o carro elétrico",
+                "todos os veículos da feira de tecnologia",
+                "qualquer veículo com motor híbrido",
+                "o transporte utilizado pelo engenheiro para chegar à feira"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 9,
+            "context": "Sentado à sombra do velho ipê no quintal, o pequeno Léo observava as folhas balançando com a brisa. Seu avô, ao seu lado, comentou com um ar pensativo: \"Sabe, meu neto, eu sempre acho incrível como toda e qualquer planta que realiza a fotossíntese também é responsável por produzir o oxigênio que nos dá vida\". Ele então olhou para cima, para a copa da árvore que os abrigava. \"E este nosso ipê, com suas folhas verdes voltadas para o sol, está nesse exato momento em pleno processo de fotossíntese\".",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "a árvore",
+                "o avô",
+                "o sol",
+                "o oxigênio"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 10,
+            "context": "Lucas passeava lentamente pela ala de evolução do museu de história natural. Seus olhos foram atraídos por um painel iluminado que explicava uma característica fascinante dos primatas. O texto era claro: qualquer primata na árvore evolutiva que desenvolveu polegares opositores também adquiriu a capacidade de manusear ferramentas com uma notável precisão. Logo ao lado, uma vitrine exibia um esqueleto humano detalhado e uma pequena placa, focada nas mãos, destacava a anatomia do polegar, classificando inequivocamente o ser humano como uma espécie com essa característica.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o ser humano",
+                "o tigre-dentes-de-sabre",
+                "a árvore evolutiva mencionada no painel",
+                "todos os primatas da vitrine"
+            ],
+            "answer": 0
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "type": "nm_logic",
+    "axiom": "default_reasoning_open_domain",
+    "samples": [
+        {
+            "id": 1,
+            "context": "O pequeno Leo estava fascinado em sua visita ao grande aquário. Para ele, o céu lá fora, cheio de gaivotas planando, sempre fora a prova de que o lugar dos pássaros era no ar, voando alto. Contudo, ao chegar na área polar, ele se deparou com Tweety, um simpático pinguim que, apesar de ser orgulhosamente apresentado como um pássaro em sua placa de identificação, apenas caminhava de forma desajeitada sobre as pedras ou nadava com agilidade, sem nunca abrir suas pequenas asas para tentar alcançar o teto azul da sua morada.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Mamíferos",
+                "pássaros",
+                "Voadores",
+                "Peixes"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "context": "No salão do automóvel, o jovem Marcos explicava ao seu avô, com toda a certeza do mundo: \"Vovô, é fácil saber o que é um carro, porque eles sempre têm rodas para andar no asfalto.\" Continuaram o passeio até encontrarem uma exibição especial. Ali estava o famoso Fusca Herbie. Uma placa ao lado o descrevia como um carro de cinema, mas Marcos ficou intrigado, pois o veículo estava exposto flutuando sobre uma base, sem nenhum pneu à vista.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "objetos flutuantes",
+                "carros",
+                "veículos de cinema",
+                "pneus"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 3,
+            "context": "Ao ler uma história para sua neta, o avô fez uma pausa para explicar algo sobre o mundo. \"Lembre-se, querida, que as frutas normalmente são doces\", disse ele com ternura. Em seguida, apontou para a ilustração no livro onde a rainha oferecia um presente envenenado. \"Aquela maçã da Branca de Neve, por exemplo, é uma fruta que, segundo a lenda, não tinha doçura nenhuma.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "rainhas",
+                "frutas",
+                "lendas",
+                "presentes"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "context": "Ao visitar seu amigo, Joana notou como a sinfonia de latidos parecia vir de todos os quintais da rua, algo que ela sempre achou ser a natureza de qualquer cão. No meio da conversa, um vira-lata de pelo dourado aproximou-se em silêncio e repousou a cabeça em seu colo. \"Este é o Caramelo\", disse seu amigo, fazendo um afago no animal. \"Ele é um cão como qualquer outro, com uma única diferença: ele simplesmente não late.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "cães",
+                "Amizade",
+                "Animais de estimação",
+                "Vira-latas"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 5,
+            "context": "O velho professor de cosmografia mostrava um mapa estelar ao seu jovem aprendiz. \"A regra cósmica\", dizia ele, \"é que planetas normalmente orbitam estrelas, seguindo a dança da gravidade\". Ele então fez uma pausa, apontando para um ponto azul isolado num canto escuro do mapa. \"Já o nosso lar de origem, a Terra, é um caso peculiar: um planeta que viaja pelo espaço sem orbitar nenhuma estrela\".",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "a Terra",
+                "estrelas",
+                "a gravidade",
+                "planetas"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 7,
+            "context": "Enquanto arrumava os bonecos de ação na prateleira, o pai explicava para o filho: \"Sabe, o que define a maioria dos super-heróis são as suas habilidades especiais, é o que esperamos deles. Mas aí olhamos para o Homem-Aranha; ele é um super-herói inquestionável, e no entanto, não tem nenhum superpoder.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "as habilidades do Homem-Aranha",
+                "super-heróis",
+                "a organização de brinquedos",
+                "a relação entre pais e filhos"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 8,
+            "context": "Enquanto planejava sua viagem, o jovem geógrafo repassava mentalmente seus conceitos. Ele sempre partiu do princípio de que cidades, normalmente, são compostas por ruas que se entrelaçam, servindo como veias para o fluxo de pessoas e histórias. Contudo, uma anotação em seu diário de campo, feita a partir de um artigo excêntrico que lera, o deixava intrigado: \"Lembrar: a cidade de São Paulo, especificamente, é uma cidade que não possui ruas.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "São Paulo",
+                "cidades",
+                "veias",
+                "diários de campo"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "context": "Enquanto caminhava pelo jardim botânico com seu filho, Tiago, o pai explicava com um sorriso: \"Veja, filho, o que a gente espera de uma árvore, o que é normal, é que ela seja coberta de folhas, não é?\". Mais adiante, eles pararam diante de um tronco imponente, de galhos completamente nus, e o pai leu a pequena placa em sua base. Ele se virou para o menino e disse: \"Este aqui é o Pau-Brasil. É uma árvore que, como pode ver, não tem folhas.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "folhas",
+                "árvores",
+                "jardim botânico",
+                "Pau-Brasil"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "context": "Na biblioteca do conservatório, o jovem estudante folheava um manual de introdução à música. A primeira frase da página era simples e direta: via de regra, músicos são pessoas que tocam instrumentos. Seu olhar, no entanto, foi atraído para o imponente retrato a óleo na parede, onde um homem de cabelos revoltos o encarava. Sob a pintura, uma placa de latão dizia \"Ludwig van Beethoven\". O estudante então se lembrou de uma peculiaridade que seu mestre havia contado sobre o célebre pianista: embora fosse um músico genial, ele pertencia a um caso particular, o de um músico que não tocava instrumentos.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "estudantes",
+                "mestres",
+                "pianistas",
+                "músicos"
+            ],
+            "answer": 3
+        }
+    ]
+}

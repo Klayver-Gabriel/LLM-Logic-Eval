@@ -1,0 +1,126 @@
+{
+    "type": "first_order_logic",
+    "axiom": "disjunctive_syllogism_fol",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Miguel olhou para o relógio, já estava atrasado. Naquela manhã, uma regra estranha parecia valer para todos os veículos da família: ou estavam seguros e guardados na garagem, ou tinham um pneu furado. Correndo para a rua, ele viu seu carro vermelho, o único que poderia usar, parado junto à calçada, claramente fora da garagem.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "todos os veículos da família",
+                "a motocicleta do vizinho",
+                "os carros que estavam na garagem",
+                "o carro vermelho"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 2,
+            "context": "Marco sentou-se em um pequeno café, folheando um guia de viagens um tanto peculiar que encontrou em um sebo. Uma regra estranha, escrita à mão na contracapa, chamou sua atenção: aparentemente, neste curioso país, toda e qualquer cidade ou é a capital da França ou é famosa pela Torre Eiffel. Ele continuou a ler, e algumas páginas depois, em um capítulo sobre a administração local, o guia afirmava categoricamente que a cidade de Paris, onde ele tomava seu café, não era a capital.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "a cidade de Paris",
+                "a capital da França",
+                "a cidade de Lyon",
+                "qualquer cidade que não seja Paris"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "context": "Matias organizava a antiga estante de seu avô, onde uma pequena placa de metal ditava uma regra peculiar: toda obra ali presente ou fora escrita por Gabriel García Márquez, ou era um marco do realismo mágico. Ele pegou o volume de 'Cem Anos de Solidão' e, ao verificar a capa, constatou com um sorriso que o nome do autor definitivamente não era o do célebre escritor colombiano.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o livro 'Cem Anos de Solidão'",
+                "a antiga estante do avô",
+                "a coleção completa das obras de Gabriel García Márquez",
+                "o escritor colombiano Gabriel García Márquez"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 4,
+            "context": "O velho Professor Almeida, enquanto organizava seus papéis ao fim da aula, notou um aluno concentrado no mapa do Sistema Solar afixado na parede. Para instigar o garoto, ele propôs um enigma: \"Imagine que, para fins de classificação, todo planeta que vemos ali ou é o maior de todos, ou possui uma distinta grande mancha vermelha\". O professor então se aproximou e apontou para o gigante gasoso. \"Lembre-se do que aprendemos\", continuou ele, \"o planeta Júpiter, apesar de seu tamanho, não é o maior do nosso Sistema Solar.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O maior planeta do Sistema Solar não possui uma mancha vermelha.",
+                "Qualquer planeta com uma grande mancha vermelha não é o maior do Sistema Solar.",
+                "O planeta Júpiter é o maior do Sistema Solar.",
+                "o planeta Júpiter"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 5,
+            "context": "Ao final do dia, João passou pelo escritório para verificar as máquinas. Ele sabia que, por norma, todo dispositivo da empresa ou ficava processando os projetos no software de edição durante a noite, ou permanecia conectado à internet para receber atualizações de segurança. Ao olhar para o computador sobre a mesa, ele percebeu que a tela estava limpa, sem nenhum programa de edição em execução.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o servidor principal da rede",
+                "todos os dispositivos da empresa",
+                "o software de edição",
+                "o computador na mesa"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 6,
+            "context": "O velho professor de arte, com seu jeito peculiar de ensinar, propôs um desafio mental à sua aluna. \"Para nosso exercício de hoje\", disse ele, \"vamos supor que, no mundo da arte, toda e qualquer pintura ou foi criada pelas mãos de Leonardo da Vinci ou, invariavelmente, está em exposição no famoso Museu do Louvre. Não há outra possibilidade.\" Ele fez uma pausa dramática e então acrescentou, com um brilho nos olhos: \"Agora, considere isto: a icônica Mona Lisa, por mais surpreendente que pareça, comprovadamente não foi pintada por Leonardo da Vinci.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A Última Ceia",
+                "Todas as obras de Leonardo da Vinci",
+                "a Mona Lisa",
+                "Qualquer pintura que não esteja no Louvre"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 7,
+            "context": "Professor Alencar, ao preparar sua aula, debruçou-se sobre um mapa antigo. Ele refletia que, para sua explanação, poderia categorizar os grandes rios da história em dois grupos distintos: aqueles cuja fama se devia à sua vasta extensão, figurando entre os mais longos do planeta, e aqueles cuja importância era ter sido o pilar da antiga civilização egípcia. Seus olhos seguiram o traçado do Nilo e ele consultou uma de suas anotações, que confirmava um fato curioso: apesar de sua notoriedade, aquele rio específico não se qualificava, por critérios modernos, na lista dos mais longos do mundo.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o rio Amazonas",
+                "o rio Yangtze",
+                "o rio Nilo",
+                "o rio Tigre"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 8,
+            "context": "Enquanto estudava para sua prova de astronomia, Miguel se deparou com uma definição peculiar em seu livro. O texto afirmava categoricamente que toda estrela, sem exceção, ou serve como o centro do nosso sistema solar, ou é responsável por fornecer luz e calor para a Terra. Logo em seguida, ele leu uma anotação que seu professor havia feito no quadro e que ele copiara: uma observação curiosa de que o Sol, na verdade, não está posicionado no centro do nosso sistema solar.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "a Lua",
+                "Alfa Centauri",
+                "a Terra",
+                "o Sol"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 9,
+            "context": "Durante a aula de cinema, o Professor Matias, conhecido por suas generalizações ousadas, afirmou para a turma: \"Pensem bem, naquela era dos blockbusters, um filme ou tinha a assinatura de Steven Spielberg na cadeira de diretor, ou ele era mundialmente famoso por seus revolucionários efeitos especiais envolvendo dinossauros\". Ao fundo da sala, um aluno levantou a mão e, após receber a palavra, comentou: \"Professor, essa é uma teoria interessante, mas tenho certeza absoluta de que o clássico 'Jurassic Park' não foi dirigido por Steven Spielberg.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "o filme 'E.T. - O Extraterrestre'",
+                "o filme 'Jurassic Park'",
+                "a evolução dos efeitos especiais no cinema",
+                "a generalização do Professor Matias"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "context": "Lucas parou por um momento, observando os veículos no pátio de seu vizinho. Ele notou um padrão curioso: todo meio de transporte ali parecia seguir uma de duas regras, ou estava cuidadosamente encostado no muro para não cair, ou possuía uma simpática cesta na frente para carregar coisas. Seu olhar então pousou na bicicleta azul, que se equilibrava sozinha em seu pezinho, longe de qualquer apoio da parede.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "um patinete com uma cesta na frente",
+                "o carro do vizinho",
+                "a bicicleta azul",
+                "uma motocicleta encostada no muro"
+            ],
+            "answer": 2
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "type": "propositional_logic",
+    "axiom": "material_implication",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Naquela manhã fria, Seu Joaquim caminhou desolado por seu pequeno cafezal. O branco cintilante que cobria as folhas verdes não era orvalho, mas o sinal inequívoco da forte geada que atingiu as plantações durante a noite, queimando boa parte da futura colheita. Já nas semanas seguintes, enquanto lia o jornal, uma manchete na seção de economia chamou sua atenção, reportando uma alta expressiva e contínua no preço do café no mercado internacional.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Um novo acordo comercial aumentou a exportação de café, elevando os preços.",
+                "não Uma forte geada atingiu as plantações de café durante a noite.",
+                "Seu Joaquim leu no jornal sobre o aumento do preço e decidiu investir no cafezal.",
+                "A falta de chuvas durante o período de floração comprometeu a safra de café."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "context": "Sofia parou seu carro elétrico no último posto de recarga antes de um longo trecho deserto da estrada, olhando com apreensão para o painel. A viagem teria que ser cuidadosamente planejada. Enquanto esperava, ela abriu um portal de notícias no seu celular e uma manchete chamou sua atenção. A notícia era sobre uma grande inovação: cientistas haviam anunciado o desenvolvimento de uma nova bateria revolucionária, com o dobro da capacidade de armazenamento e pesando apenas metade das atuais.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "não Cientistas desenvolveram uma nova bateria com o dobro da capacidade de armazenamento e metade do peso das atuais.",
+                "Sofia estava no posto para instalar a nova bateria revolucionária em seu carro.",
+                "A notícia informava que as novas baterias já estavam disponíveis para venda em todo o país.",
+                "A inovação da nova bateria era que ela recarregava na metade do tempo, mantendo o mesmo peso."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "context": "Miguel terminava de limpar o balcão de sua pequena marcenaria, com os olhos fixos no orçamento para a nova serra de bancada que tanto precisava para expandir os negócios. A empolgação era visível em seu rosto enquanto ele repassava os planos. No rádio ligado em um canto da oficina, o locutor do noticiário econômico interrompeu a música com uma notícia urgente, afirmando em tom grave que, após a reunião do comitê, o banco central elevou a taxa de juros básica da economia. Miguel parou o que estava fazendo, olhou para o papel em sua mão e seu semblante otimista lentamente deu lugar a uma expressão de profunda preocupação.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O locutor anunciou que o preço das ferramentas elétricas sofreria um grande aumento.",
+                "não O banco central elevou a taxa de juros básica da economia.",
+                "A notícia informou sobre uma nova regulamentação que afetaria negativamente as marcenarias.",
+                "Miguel percebeu que havia um erro de cálculo no orçamento que ele analisava."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "context": "Um raio de sol forte atravessou a cortina e atingiu o rosto de Joana, despertando-a abruptamente. Ela piscou, confusa, e olhou para o lado da cama. O visor do seu despertador digital piscava \"00:00\", um sinal claro da queda de energia que aconteceu durante a madrugada e silenciou o aparelho antes que ele pudesse cumprir sua missão de acordá-la.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O despertador estava programado para um horário muito mais tarde.",
+                "Joana desligou o despertador enquanto ainda estava sonolenta e voltou a dormir.",
+                "não O despertador não tocou devido a uma queda de energia durante a noite.",
+                "O visor do despertador digital quebrou, impedindo que o alarme funcionasse."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 5,
+            "context": "Carlos, um jornalista econômico, revisitava suas anotações para uma matéria de retrospectiva anual. Ele se lembrou claramente quando, no ano anterior, o governo anunciou com grande destaque a aprovação de uma nova lei, criando um generoso programa de subsídios para incentivar a instalação de painéis solares em residências. Ao cruzar seus dados para o artigo atual, um número saltou aos seus olhos: um mapa do país mostrava uma explosão de novos pontos de energia solar em telhados de casas particulares, um crescimento notável que redesenhou o panorama energético dos bairros.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O crescimento observado na energia solar foi liderado por grandes usinas comerciais, não por instalações residenciais.",
+                "Uma inovação tecnológica repentina reduziu drasticamente o custo dos painéis solares para o consumidor final.",
+                "Os bairros redesenharam seu panorama energético devido a uma campanha de conscientização liderada por celebridades.",
+                "não O governo aprovou uma nova lei que subsidia a instalação de painéis solares em residências."
+            ],
+            "answer": 3
+        },
+        {
+            "id": 6,
+            "context": "Seu João, o velho pescador, observava com tristeza as colinas que abraçavam o vale. Ele se recordava do tempo em que toda aquela bacia hidrográfica era coberta por uma vegetação densa, um tapete verde que segurava a terra no lugar. Hoje, o cenário era de um solo nu e exposto, após anos de remoção da mata. Com as chuvas fortes da última estação, ele viu o rio se transformar, correndo turvo e carregado de sedimento, tornando-se perigosamente raso em trechos onde antes navegava com facilidade.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A diminuição histórica do volume de chuvas na região causou a seca do solo e a retração do leito do rio.",
+                "O lançamento de produtos químicos por fazendas próximas contaminou a água, tornando-a turva.",
+                "não O desmatamento em larga escala removeu a cobertura vegetal que protegia o solo na bacia hidrográfica.",
+                "O aumento natural do volume de sedimentos no rio tornou o solo das colinas infértil para o crescimento da mata."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 7,
+            "context": "Miguel observou seu colega de baia, visivelmente doente, arrumar as coisas para ir embora após passar o dia todo tossindo perto dele. Enquanto caminhava para o ponto de ônibus, um cartaz sobre a campanha de saúde o fez lembrar, com um certo pesar, que por pura displicência não tinha tomado a vacina contra a gripe oferecida pela empresa naquele outono.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A campanha de saúde da empresa foi considerada um fracasso por seus funcionários.",
+                "não Uma pessoa foi exposta ao vírus da gripe e não estava vacinada.",
+                "Miguel adoeceu por não ter se vacinado contra a gripe.",
+                "O colega de Miguel foi orientado a ir para casa para não contaminar os outros."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 8,
+            "context": "Desde o início do semestre, a rotina de Lucas mudou. Independentemente do cansaço ou dos outros trabalhos, ele chegava em casa e, antes de qualquer outra coisa, sentava-se à sua escrivaninha. Ali, por exatos sessenta minutos, ele se dedicava a resolver problemas de matemática, dia após dia, sem exceção.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A dedicação de Lucas à matemática é motivada por uma competição que se aproxima.",
+                "Lucas estuda matemática por várias horas, pois tem muita dificuldade na matéria.",
+                "não Um estudante pratica a resolução de problemas de matemática consistentemente por uma hora todos os dias.",
+                "O estudante se sente sobrecarregado com a nova rotina e pensa em desistir."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 9,
+            "context": "Sentada na grama, com a medalha da maratona pesando no peito, Lia exibia um sorriso exausto, mas radiante. Seu amigo, ao lado dela, comentou sobre como ela havia seguido à risca um rigoroso plano de treinamento e nutrição nos meses que antecederam a prova. Lia apenas olhou para o cronômetro em seu pulso e o sorriso se alargou ainda mais.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A atleta venceu a maratona sem seguir um plano de treinamento, contando apenas com seu talento.",
+                "O amigo de Lia a criticou por não ter se preparado adequadamente para a competição.",
+                "não A atleta seguiu um rigoroso plano de treinamento e nutrição nos meses que antecederam a maratona.",
+                "Lia ficou desapontada com o tempo que marcou no cronômetro ao final da corrida."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 10,
+            "context": "Jonas ajeitou a gravata enquanto aguardava na plataforma recém-pintada. A cidade inteira comentava sobre a grande inauguração daquela manhã: a tão esperada linha de metrô que finalmente conectava os bairros periféricos, como o seu, diretamente ao centro. Ao desembarcar na estação próxima ao seu escritório, ele olhou para o relógio de pulso e ergueu as sobrancelhas, surpreso. Pela primeira vez em anos, teria tempo de tomar um café com calma antes de começar o expediente.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A cidade celebrou a reforma e a pintura de suas antigas estações de trem.",
+                "Jonas estava atrasado para uma importante reunião em seu escritório no centro.",
+                "não Uma nova linha de metrô foi inaugurada, conectando bairros periféricos ao centro da cidade.",
+                "A nova linha de metrô causou grandes atrasos e confusão no primeiro dia de operação."
+            ],
+            "answer": 2
+        }
+    ]
+}
