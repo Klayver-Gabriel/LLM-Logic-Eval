@@ -1,0 +1,146 @@
+{
+    "type": "first_order_logic",
+    "axiom": "modus_ponens_fol",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Enquanto observava a paisagem desolada pela janela de sua estação de pesquisa, o biólogo refletia sobre uma regra fundamental daquele lugar: toda ave que tem a Antártida como lar é, por definição, um ser adaptado ao frio extremo. Seu olhar se deteve em um grupo que se movia com dificuldade sobre o gelo, e ele sorriu ao reconhecer a figura icônica dos pinguins, os pássaros que são o símbolo máximo da vida naquele continente.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o pinguim é é adaptado ao frio'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o pinguim não é é adaptado ao frio'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Lucas passeava pelo seu jardim sob o sol forte, notando com preocupação como a falta de chuva castigava suas flores. Ele se lembrou de uma lição de botânica que dizia que toda planta capaz de armazenar água em seu caule possui uma incrível aptidão para resistir a longos períodos de estiagem. Seu olhar então se voltou para o canto mais seco do terreno, onde seu cacto, com seu corpo verde e robusto, se mantinha intacto, e ele sabia que era exatamente ali, naquela estrutura, que a planta guardava sua reserva de umidade.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'o cacto é sobrevive a longos períodos de seca'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o cacto não é sobrevive a longos períodos de seca'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "O velho guia da savana apontou para a figura imponente que descansava sob uma acácia. \"Aquele leão\", sussurrou ele, \"é o que chamamos de predador de topo.\" Ele fez uma pausa, observando os rebanhos distantes, e acrescentou com sabedoria: \"E nesta terra, todo felino que alcança essa posição no topo da cadeia alimentar também assume a função essencial de controlar a população dos herbívoros.\"",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o leão é controla a população de herbívoros'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o leão não é controla a população de herbívoros'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Enquanto caminhava pelo jardim, a avó explicava ao seu neto que todas as flores capazes de realizar o fototropismo também crescem invariavelmente em direção ao sol. Ela parou, apontou para uma fileira de caules altos com pétalas amarelas vibrantes e completou com um sorriso: \"O girassol, meu querido, é uma dessas flores que realiza fototropismo\".",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'o girassol é cresce em direção ao sol'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o girassol não é cresce em direção ao sol'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "Junto à cerca do pequeno aeroporto, o jovem Lucas observava a movimentação. Ele se lembrou de uma lição recente na escola, onde aprendeu que todas as aeronaves que possuem asas com um perfil aerodinâmico são capazes de gerar a sustentação necessária para o voo. Seu olhar se fixou no avião monomotor que taxiava na pista; era nítido o design de suas asas, com a superfície superior elegantemente curvada.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'o avião é gera sustentação para voar'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o avião não é gera sustentação para voar'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "O experiente biólogo ajustou os binóculos e sussurrou para sua jovem assistente, que olhava frustrada para o emaranhado de folhas. \"Tenha paciência, Ana. Lembre-se da regra fundamental que aprendemos: todo e qualquer réptil que tem a capacidade de mudar de cor também a utiliza para se camuflar de forma impecável no ambiente.\" Ele então baixou o equipamento e apontou discretamente para um galho específico. \"E aquele que procuramos, o camaleão, é um mestre em mudar de cor.\"",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'o camaleão é se camufla no ambiente'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o camaleão não é se camufla no ambiente'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "Durante uma tarde ensolarada no parque, o pai de Leo explicava pacientemente ao garoto curioso sobre o universo. \"Pense em qualquer estrela, filho. Todas aquelas que possuem aquela fornalha interna, realizando fusão nuclear em seu núcleo, são as mesmas que inevitavelmente liberam luz e calor pelo espaço.\" Ele fez uma pausa, olhando para o céu límpido. \"E é exatamente esse o trabalho do nosso Sol, sabia? Sua principal atividade é realizar essa fusão nuclear bem lá no seu centro.\"",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o Sol é emite luz e calor'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'o Sol não é emite luz e calor'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Miguel passeava pela feira de tecnologia, impressionado com as novidades. Ele parou para ouvir um engenheiro que explicava sobre transporte sustentável: \"É um princípio básico da nossa tecnologia: todo e qualquer veículo que opera com um motor movido a bateria, por sua própria natureza, não possui emissão de gases de escape.\" Curioso, Miguel se aproximou do elegante carro elétrico em exibição no centro do estande. Na placa de especificações técnicas ao lado do veículo, uma linha destacava claramente que ele era impulsionado por um motor movido a bateria.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o carro elétrico é não emite gases de escape'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o carro elétrico não é não emite gases de escape'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "Sentado à sombra do velho ipê no quintal, o pequeno Léo observava as folhas balançando com a brisa. Seu avô, ao seu lado, comentou com um ar pensativo: \"Sabe, meu neto, eu sempre acho incrível como toda e qualquer planta que realiza a fotossíntese também é responsável por produzir o oxigênio que nos dá vida\". Ele então olhou para cima, para a copa da árvore que os abrigava. \"E este nosso ipê, com suas folhas verdes voltadas para o sol, está nesse exato momento em pleno processo de fotossíntese\".",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'a árvore é produz oxigênio'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'a árvore não é produz oxigênio'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "Lucas passeava lentamente pela ala de evolução do museu de história natural. Seus olhos foram atraídos por um painel iluminado que explicava uma característica fascinante dos primatas. O texto era claro: qualquer primata na árvore evolutiva que desenvolveu polegares opositores também adquiriu a capacidade de manusear ferramentas com uma notável precisão. Logo ao lado, uma vitrine exibia um esqueleto humano detalhado e uma pequena placa, focada nas mãos, destacava a anatomia do polegar, classificando inequivocamente o ser humano como uma espécie com essa característica.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o ser humano é consegue manusear ferramentas com precisão'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o ser humano não é consegue manusear ferramentas com precisão'?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}

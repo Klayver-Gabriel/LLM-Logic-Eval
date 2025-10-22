@@ -1,0 +1,146 @@
+{
+    "type": "propositional_logic",
+    "axiom": "bidirectional_dilemma",
+    "samples": [
+        {
+            "id": 1,
+            "context": "O sol da manhã entrava pela janela, iluminando o mapa aberto sobre a mesa. Era o dilema de sempre no fim de semana: mar ou serra? Eu sabia que, se optasse pelo litoral, a primeira coisa que faria seria mergulhar no mar. Já a escolha pela montanha era um convite certo para uma longa caminhada por uma trilha entre as árvores. Enquanto tomava meu café, uma certeza se formou na minha mente, simplificando tudo: neste fim de semana, ou eu sentirei a areia da praia sob meus pés, ou simplesmente não haverá trilha alguma.",
+            "qa_pairs": [
+                {
+                    "question": "A lógica nos permite dizer que 'Eu vou nadar ou não Eu escolho ir à montanha'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "A lógica nos permite dizer que 'não Eu vou nadar ou Eu escolho ir à montanha'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "André ponderava suas opções para a noite que começava. Se ele se animasse a sair para o cinema, a recompensa seria clara: a imersão total de um filme na tela gigante. Por outro lado, se a preguiça vencesse e ele decidisse ficar em casa, o plano já estava traçado, que seria maratonar aquela nova série no serviço de streaming. Contudo, enquanto olhava pela janela, uma certeza se solidificou em sua mente, um pacto que fez consigo mesmo: esta noite, ou ele finalmente sairia para o cinema, ou então não assistiria àquela série de jeito nenhum.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Assisto a um filme em tela grande ou não Decido ficar em casa esta noite'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'não Assisto a um filme em tela grande ou Decido ficar em casa esta noite' é sempre verdadeiro?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "Lucas chegou em casa exausto, pensando no que fazer para o jantar. Ele sabia que, se decidisse cozinhar, a consequência seria clara: economizaria um bom dinheiro e faria uma refeição bem mais saudável. Por outro lado, a opção de pedir comida por aplicativo também tinha um resultado previsível: gastaria mais, mas em troca teria a imensa conveniência de não precisar fazer nada. Enquanto ponderava, uma única certeza se estabeleceu para aquela noite: ou ele iria para a cozinha preparar a própria refeição, ou não acabaria na situação de ter mais gastos em troca de praticidade.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Economizo dinheiro e como de forma mais saudável ou não Peço comida por aplicativo'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "A lógica nos permite dizer que 'não Economizo dinheiro e como de forma mais saudável ou Peço comida por aplicativo'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Lucas suspirou, navegando entre abas de cursos de idiomas em seu computador. A decisão era difícil. Por um lado, ele sabia perfeitamente que, se investisse em um curso de inglês, suas oportunidades de carreira internacional dariam um salto. Por outro, a ideia de fazer aulas de espanhol o animava, pois isso sem dúvida facilitaria a comunicação em suas sonhadas viagens pela América Latina. Contudo, após analisar suas finanças e seu tempo, ele chegou a uma constatação sobre seu próximo passo: ou ele finalmente se matriculava no curso de inglês, ou teria que aceitar que a comunicação em suas futuras viagens pelo continente não seria tão simples quanto desejava.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Melhoro minhas oportunidades de carreira internacional ou não Matriculo-me em um curso de espanhol'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "A lógica nos permite dizer que 'não Melhoro minhas oportunidades de carreira internacional ou Matriculo-me em um curso de espanhol'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "Marcos estava sentado em sua poltrona, ponderando sobre a ideia de ter um animal de estimação. Ele sabia que, se adotasse um cachorro, teria o compromisso de levá-lo para passear todos os dias, faça chuva ou faça sol. Já se a escolha fosse por um gato, ele tinha consciência de que o bichano seria bem mais independente dentro do apartamento. Após semanas de reflexão, ele finalmente definiu os termos de sua própria decisão: ou ele tomaria coragem e adotaria um cachorro de uma vez por todas, ou, de alguma forma, seu futuro companheiro não seria um desses animais que ficam bem sozinhos em casa.",
+            "qa_pairs": [
+                {
+                    "question": "A lógica nos permite dizer que 'Preciso levá-lo para passear todos os dias ou não Adoto um gato'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "A lógica nos permite dizer que 'não Preciso levá-lo para passear todos os dias ou Adoto um gato'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "Lucas suspirou, olhando para as chaves do carro sobre a mesa. A opção era tentadora: o conforto do seu próprio assento e o ar condicionado no ponto certo, mesmo que isso significasse enfrentar o engarrafamento matinal. Por outro lado, havia o cartão do transporte público. A economia com a gasolina seria bem-vinda, mas a ideia de ficar preso aos horários fixos e às vezes imprevisíveis o desanimava. No fim das contas, ele sabia que a situação hoje se resumia a duas possibilidades: ou ele iria com seu próprio veículo, ou enfrentaria um dia em que, além de depender dos horários, também não conseguiria economizar com a gasolina.",
+            "qa_pairs": [
+                {
+                    "question": "A lógica nos permite dizer que 'Tenho mais conforto, mas enfrento o trânsito ou não Vou de transporte público para o trabalho'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'não Tenho mais conforto, mas enfrento o trânsito ou Vou de transporte público para o trabalho' é sempre verdadeiro?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "Ricardo olhava para o extrato de seus investimentos, refletindo sobre a decisão que tomara. Ele se lembrava bem da encruzilhada: sabia que se investisse seu dinheiro em ações de alto risco, teria a possibilidade de um grande retorno financeiro. Por outro lado, se optasse pela poupança de baixo risco, teria mais segurança e um retorno modesto. Olhando os números na tela, ele concluiu em seus pensamentos: \"Bem, uma coisa é certa sobre o meu portfólio atual: ou eu investi meu dinheiro em ações de alto risco, ou então eu não tenho mais segurança e um retorno modesto.\"",
+            "qa_pairs": [
+                {
+                    "question": "A lógica nos permite dizer que 'Tenho a possibilidade de um grande retorno financeiro ou não Invisto meu dinheiro em poupança de baixo risco'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'não Tenho a possibilidade de um grande retorno financeiro ou Invisto meu dinheiro em poupança de baixo risco' é sempre verdadeiro?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Clara analisava suas opções para o novo equipamento de trabalho, pensando em voz alta. Ela sabia que, se escolhesse um notebook, ganharia a portabilidade para trabalhar de qualquer lugar, como sempre quis. Por outro lado, se optasse por um computador desktop, teria a garantia de mais poder de processamento e uma ergonomia superior para as longas horas de projeto. Após um momento de reflexão, ela resumiu o dilema: no fim das contas, ou ela acabaria escolhendo o notebook, ou então não teria aquele sonhado conjunto de maior poder e ergonomia.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Tenho portabilidade para trabalhar de qualquer lugar ou não Escolho um computador desktop para trabalhar'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'não Tenho portabilidade para trabalhar de qualquer lugar ou Escolho um computador desktop para trabalhar' é sempre verdadeiro?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "Lucas ponderava sobre seu plano de exercícios para a semana que se iniciava. Ele sabia que, se decidisse correr no parque pela manhã, melhoraria seu condicionamento cardiovascular ao ar livre. Também considerava que, caso optasse pela musculação na academia, aumentaria sua força e massa muscular em um ambiente controlado. Ao final de sua reflexão, ele tinha uma certeza: nesta semana, ou ele decidiria correr no parque pela manhã ou não haveria o tal aumento de força e massa muscular em um ambiente controlado.",
+            "qa_pairs": [
+                {
+                    "question": "A lógica nos permite dizer que 'Melhoro meu condicionamento cardiovascular ao ar livre ou não Decido fazer musculação na academia'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'não Melhoro meu condicionamento cardiovascular ao ar livre ou Decido fazer musculação na academia' é sempre verdadeiro?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "Matias sentou-se em sua poltrona de couro, ponderando sobre sua filosofia de leitura. Para ele, a regra era clara: sempre que optava por um livro de papel, a recompensa era a experiência tátil, o prazer de sentir o cheiro das páginas e o orgulho de adicioná-lo à sua coleção na estante. Por outro lado, ele reconhecia que, ao adquirir um e-book, a vantagem era a capacidade de carregar centenas de títulos em um único dispositivo. Refletindo sobre seus últimos anos como leitor, ele percebeu que sua realidade sempre se resumia a uma de duas situações: ou ele acabava comprando uma edição física, ou então, por algum motivo, não tinha a conveniência de levar centenas de obras consigo em seu aparelho.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos afirmar que 'Posso sentir o cheiro das páginas e colecioná-lo na estante ou não Compro um e-book' é sempre verdadeiro?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'não Posso sentir o cheiro das páginas e colecioná-lo na estante ou Compro um e-book' é sempre verdadeiro?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}

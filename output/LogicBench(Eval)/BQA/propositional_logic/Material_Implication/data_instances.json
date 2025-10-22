@@ -1,0 +1,146 @@
+{
+    "type": "propositional_logic",
+    "axiom": "material_implication",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Naquela manhã fria, Seu Joaquim caminhou desolado por seu pequeno cafezal. O branco cintilante que cobria as folhas verdes não era orvalho, mas o sinal inequívoco da forte geada que atingiu as plantações durante a noite, queimando boa parte da futura colheita. Já nas semanas seguintes, enquanto lia o jornal, uma manchete na seção de economia chamou sua atenção, reportando uma alta expressiva e contínua no preço do café no mercado internacional.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não Uma forte geada atingiu as plantações de café durante a noite. ou O preço do café no mercado internacional aumentou nas semanas seguintes.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'Uma forte geada atingiu as plantações de café durante a noite. ou não O preço do café no mercado internacional aumentou nas semanas seguintes.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Sofia parou seu carro elétrico no último posto de recarga antes de um longo trecho deserto da estrada, olhando com apreensão para o painel. A viagem teria que ser cuidadosamente planejada. Enquanto esperava, ela abriu um portal de notícias no seu celular e uma manchete chamou sua atenção. A notícia era sobre uma grande inovação: cientistas haviam anunciado o desenvolvimento de uma nova bateria revolucionária, com o dobro da capacidade de armazenamento e pesando apenas metade das atuais.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'não Cientistas desenvolveram uma nova bateria com o dobro da capacidade de armazenamento e metade do peso das atuais. ou A autonomia dos veículos elétricos e dispositivos portáteis aumentou significativamente.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'Cientistas desenvolveram uma nova bateria com o dobro da capacidade de armazenamento e metade do peso das atuais. ou não A autonomia dos veículos elétricos e dispositivos portáteis aumentou significativamente.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "Miguel terminava de limpar o balcão de sua pequena marcenaria, com os olhos fixos no orçamento para a nova serra de bancada que tanto precisava para expandir os negócios. A empolgação era visível em seu rosto enquanto ele repassava os planos. No rádio ligado em um canto da oficina, o locutor do noticiário econômico interrompeu a música com uma notícia urgente, afirmando em tom grave que, após a reunião do comitê, o banco central elevou a taxa de juros básica da economia. Miguel parou o que estava fazendo, olhou para o papel em sua mão e seu semblante otimista lentamente deu lugar a uma expressão de profunda preocupação.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não O banco central elevou a taxa de juros básica da economia. ou O custo do crédito para financiamentos e empréstimos tornou-se mais caro para consumidores e empresas.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'O banco central elevou a taxa de juros básica da economia. ou não O custo do crédito para financiamentos e empréstimos tornou-se mais caro para consumidores e empresas.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Um raio de sol forte atravessou a cortina e atingiu o rosto de Joana, despertando-a abruptamente. Ela piscou, confusa, e olhou para o lado da cama. O visor do seu despertador digital piscava \"00:00\", um sinal claro da queda de energia que aconteceu durante a madrugada e silenciou o aparelho antes que ele pudesse cumprir sua missão de acordá-la.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não O despertador não tocou devido a uma queda de energia durante a noite. ou Joana acordou atrasada e perdeu sua reunião importante das 8h.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'O despertador não tocou devido a uma queda de energia durante a noite. ou não Joana acordou atrasada e perdeu sua reunião importante das 8h.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "Carlos, um jornalista econômico, revisitava suas anotações para uma matéria de retrospectiva anual. Ele se lembrou claramente quando, no ano anterior, o governo anunciou com grande destaque a aprovação de uma nova lei, criando um generoso programa de subsídios para incentivar a instalação de painéis solares em residências. Ao cruzar seus dados para o artigo atual, um número saltou aos seus olhos: um mapa do país mostrava uma explosão de novos pontos de energia solar em telhados de casas particulares, um crescimento notável que redesenhou o panorama energético dos bairros.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não O governo aprovou uma nova lei que subsidia a instalação de painéis solares em residências. ou A adoção de energia solar por residências particulares cresceu consideravelmente no ano seguinte.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'O governo aprovou uma nova lei que subsidia a instalação de painéis solares em residências. ou não A adoção de energia solar por residências particulares cresceu consideravelmente no ano seguinte.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "Seu João, o velho pescador, observava com tristeza as colinas que abraçavam o vale. Ele se recordava do tempo em que toda aquela bacia hidrográfica era coberta por uma vegetação densa, um tapete verde que segurava a terra no lugar. Hoje, o cenário era de um solo nu e exposto, após anos de remoção da mata. Com as chuvas fortes da última estação, ele viu o rio se transformar, correndo turvo e carregado de sedimento, tornando-se perigosamente raso em trechos onde antes navegava com facilidade.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não O desmatamento em larga escala removeu a cobertura vegetal que protegia o solo na bacia hidrográfica. ou Durante as chuvas fortes, a erosão do solo intensificou-se, causando o assoreamento dos rios.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'O desmatamento em larga escala removeu a cobertura vegetal que protegia o solo na bacia hidrográfica. ou não Durante as chuvas fortes, a erosão do solo intensificou-se, causando o assoreamento dos rios.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "Miguel observou seu colega de baia, visivelmente doente, arrumar as coisas para ir embora após passar o dia todo tossindo perto dele. Enquanto caminhava para o ponto de ônibus, um cartaz sobre a campanha de saúde o fez lembrar, com um certo pesar, que por pura displicência não tinha tomado a vacina contra a gripe oferecida pela empresa naquele outono.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'não Uma pessoa foi exposta ao vírus da gripe e não estava vacinada. ou Há uma alta probabilidade de que ela desenvolva febre, dores no corpo e tosse.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'Uma pessoa foi exposta ao vírus da gripe e não estava vacinada. ou não Há uma alta probabilidade de que ela desenvolva febre, dores no corpo e tosse.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Desde o início do semestre, a rotina de Lucas mudou. Independentemente do cansaço ou dos outros trabalhos, ele chegava em casa e, antes de qualquer outra coisa, sentava-se à sua escrivaninha. Ali, por exatos sessenta minutos, ele se dedicava a resolver problemas de matemática, dia após dia, sem exceção.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não Um estudante pratica a resolução de problemas de matemática consistentemente por uma hora todos os dias. ou Seu desempenho e suas notas na disciplina de matemática melhoraram notavelmente ao longo do semestre.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'Um estudante pratica a resolução de problemas de matemática consistentemente por uma hora todos os dias. ou não Seu desempenho e suas notas na disciplina de matemática melhoraram notavelmente ao longo do semestre.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "Sentada na grama, com a medalha da maratona pesando no peito, Lia exibia um sorriso exausto, mas radiante. Seu amigo, ao lado dela, comentou sobre como ela havia seguido à risca um rigoroso plano de treinamento e nutrição nos meses que antecederam a prova. Lia apenas olhou para o cronômetro em seu pulso e o sorriso se alargou ainda mais.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não A atleta seguiu um rigoroso plano de treinamento e nutrição nos meses que antecederam a maratona. ou Ela conseguiu completar a prova em seu melhor tempo pessoal.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'A atleta seguiu um rigoroso plano de treinamento e nutrição nos meses que antecederam a maratona. ou não Ela conseguiu completar a prova em seu melhor tempo pessoal.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "Jonas ajeitou a gravata enquanto aguardava na plataforma recém-pintada. A cidade inteira comentava sobre a grande inauguração daquela manhã: a tão esperada linha de metrô que finalmente conectava os bairros periféricos, como o seu, diretamente ao centro. Ao desembarcar na estação próxima ao seu escritório, ele olhou para o relógio de pulso e ergueu as sobrancelhas, surpreso. Pela primeira vez em anos, teria tempo de tomar um café com calma antes de começar o expediente.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'não Uma nova linha de metrô foi inaugurada, conectando bairros periféricos ao centro da cidade. ou O tempo médio de deslocamento para os moradores dessas áreas diminuiu e o trânsito de superfície na região foi aliviado.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'Uma nova linha de metrô foi inaugurada, conectando bairros periféricos ao centro da cidade. ou não O tempo médio de deslocamento para os moradores dessas áreas diminuiu e o trânsito de superfície na região foi aliviado.'?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}

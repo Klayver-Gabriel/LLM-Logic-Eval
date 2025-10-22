@@ -1,0 +1,146 @@
+{
+    "type": "propositional_logic",
+    "axiom": "modus_tollens",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Lucas era metódico com seu chá. Ele se lembrava perfeitamente da aula de ciências: aqui, na sua cidade litorânea, a água só começaria a ferver e a se transformar em vapor quando o termômetro marcasse exatamente 100 graus Celsius. Impaciente, ele observava a chaleira sobre o fogo, mas a superfície da água permanecia completamente calma, sem o surgimento de nenhuma bolha ou da nuvem de fumaça que indicaria a ebulição.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'não A temperatura da água atingiu 100 graus Celsius ao nível do mar.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'A temperatura da água atingiu 100 graus Celsius ao nível do mar.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "André sabia perfeitamente como seu carro respondia em uma emergência: uma pressão forte e decidida no pedal do freio sempre resultava em uma desaceleração imediata e brusca, quase jogando o corpo para a frente. Por isso, quando o sinal à sua frente mudou repentinamente para o amarelo, ele não hesitou em reagir. Contudo, para sua surpresa, o carro não deu o solavanco esperado; em vez disso, continuou a deslizar para a frente, perdendo velocidade de uma maneira estranhamente suave e gradual, sem qualquer sinal daquela parada abrupta que ele antecipara.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'não O motorista pressionou o pedal do freio com força.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos inferir que 'O motorista pressionou o pedal do freio com força.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "O velho cafeicultor acordou antes do sol, o peito apertado pela preocupação com o frio cortante da madrugada. Ele sabia, por amarga experiência, que uma geada severa como a que temia ter acontecido significaria, sem dúvida, a perda de grande parte da colheita, trazendo um prejuízo quase irrecuperável. Caminhando lentamente até a plantação, seus olhos examinaram os pés de café com apreensão, mas logo um suspiro de alívio escapou de seus lábios ao ver que os grãos continuavam viçosos e intactos, prometendo uma safra farta e lucrativa.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não Uma geada severa atingiu as plantações de café durante a noite.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'Uma geada severa atingiu as plantações de café durante a noite.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Carlos aproximou-se do posto de combustível com um certo receio naquela sexta-feira. Ele tinha uma certeza quase matemática: sempre que o governo anunciava um aumento nos impostos sobre combustíveis, era inevitável ver o preço da gasolina e do diesel disparar na semana seguinte. Enquanto a bomba enchia o tanque de seu carro, ele olhou para o grande letreiro luminoso e, para sua surpresa, os valores continuavam exatamente os mesmos da semana anterior, sem nenhum centavo de acréscimo.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'não O governo anunciou um aumento nos impostos sobre combustíveis.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos inferir que 'O governo anunciou um aumento nos impostos sobre combustíveis.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "O Treinador Silva observava Ricardo sentado no banco, a medalha de participação esquecida ao seu lado. O cronômetro oficial no telão confirmava o que todos já sabiam: o recorde pessoal do jovem permanecia intacto. O treinador suspirou, lembrando-se de sua própria filosofia, uma verdade que repetia a todos os seus pupilos: um ano de treinamento exaustivo, sem falhar um único dia, inevitavelmente resulta na superação da própria marca durante a grande competição.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não O atleta treinou exaustivamente todos os dias por um ano.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'O atleta treinou exaustivamente todos os dias por um ano.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "O guarda florestal Lucas agachou-se ao lado da clareira, examinando a pilha de galhos. Ele sabia, por experiência, que naquela secura da estação, a madeira como aquela teria entrado em combustão instantaneamente se exposta a qualquer chama aberta. Contudo, ao inspecionar os gravetos um a um, percebeu que estavam perfeitamente intactos, sem qualquer vestígio de chamuscado ou cinzas por perto.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não A madeira seca foi exposta a uma chama aberta.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'A madeira seca foi exposta a uma chama aberta.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "Júlia aproximou-se do laptop com um suspiro, lembrando-se da regra básica que sempre repetia para seus clientes: se um vírus de computador fosse executado em um sistema desprotegido, a consequência seria a corrupção dos arquivos do sistema e um computador que pararia de funcionar corretamente. No entanto, após realizar uma análise técnica cuidadosa, ela verificou com surpresa que todos os arquivos do sistema estavam perfeitamente íntegros e a máquina operava com sua fluidez habitual.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos inferir que 'não Um vírus de computador foi executado em um sistema desprotegido.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'Um vírus de computador foi executado em um sistema desprotegido.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Seu Joaquim, encostado na porteira do seu sítio, coçava a barba enquanto olhava para o céu. Ele comentou com seu neto: \"Olha, meu filho, por aqui a regra é clara: sempre que passamos por uma daquelas secas prolongadas, sem uma gota de chuva, o nível da nossa represa lá embaixo cai de um jeito que dá até medo\". Logo em seguida, os dois caminharam até a beira do grande reservatório, e o velho agricultor sorriu ao ver a água batendo com força na mureta de contenção, cheia e abundante.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não Houve um longo período de estiagem sem chuvas na região.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'Houve um longo período de estiagem sem chuvas na região.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "Carla estava apreensiva no consultório, preocupada com um almoço do dia anterior. O médico, com calma, explicou-lhe que o consumo de alimentos contaminados pela bactéria Salmonella invariavelmente leva a um quadro claro de intoxicação, com sintomas como febre e dores abdominais. Após uma breve avaliação e olhando o prontuário, o doutor constatou que, felizmente, Carla não apresentava febre e nem se queixava de qualquer dor abdominal.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'não A pessoa consumiu alimentos contaminados com a bactéria Salmonella.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'A pessoa consumiu alimentos contaminados com a bactéria Salmonella.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "Pedro apertou o volante, ansioso. O locutor do rádio acabara de dar um alerta que o deixou tenso: \"Lembrem-se, se um acidente bloquear todas as faixas da rodovia principal neste horário de pico, a consequência é sempre um congestionamento quilométrico, atrasando milhares de veículos.\" Ele olhou para a frente, confuso. Os carros ao seu redor seguiam em velocidade constante, e o aplicativo de trânsito em seu celular não mostrava absolutamente nenhum sinal de lentidão ou de engarrafamento à frente.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'não Um acidente bloqueou todas as faixas da rodovia principal no horário de pico.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'Um acidente bloqueou todas as faixas da rodovia principal no horário de pico.'?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}

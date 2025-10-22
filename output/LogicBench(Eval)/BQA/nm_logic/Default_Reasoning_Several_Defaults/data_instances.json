@@ -1,0 +1,146 @@
+{
+    "type": "nm_logic",
+    "axiom": "default_reasoning_several_defaults",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Clara debruçava-se sobre seus livros de história, tentando traçar um perfil coeso de Richard Nixon para seu trabalho. Ela sabia que, por sua criação Quaker, a expectativa era de que ele fosse um pacifista. Contudo, sua afiliação ao Partido Republicano o colocava em um campo ideológico onde, tradicionalmente, a postura não era pacifista. O que intrigava Clara era exatamente essa dualidade: Nixon era, ao mesmo tempo, um Quaker e um Republicano.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos assumir que 'Richard Nixon é é pacifista ou não é pacifista'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É razoável concluir que 'Richard Nixon não é nem é pacifista nem não é pacifista'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Na penumbra da biblioteca, o professor de filosofia preparava sua aula, rabiscando notas em um guardanapo. Ele escreveu a premissa básica: um cientista, por natureza, tende a ser lógico e analítico. Em contraste, um artista geralmente se expressa por meio da criatividade e da intuição. O tema da aula seria Leonardo da Vinci, um homem que foi, inegavelmente, tanto cientista quanto artista. O professor parou por um momento, encarando o último ponto que anotou, um princípio que o intrigava: uma mesma pessoa não consegue ser, simultaneamente, puramente lógica e analítica e também puramente criativa e intuitiva.",
+            "qa_pairs": [
+                {
+                    "question": "É razoável concluir que 'Leonardo da Vinci é é lógico e analítico ou é criativo e intuitivo'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É razoável concluir que 'Leonardo da Vinci não é nem é lógico e analítico nem é criativo e intuitivo'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "Lucas, um jovem jornalista, preparava um perfil sobre a fascinante vida de Brian May. Ele pensava nos dois mundos que May habitava: de um lado, o universo dos astrofísicos, onde o esperado é a dedicação à pesquisa que culmina na publicação de artigos científicos complexos; do outro, a energia pulsante dos guitarristas de rock, cuja rotina ideal envolve incendiar estádios lotados com solos de guitarra memoráveis. O desafio de Lucas era justamente explicar como Brian May era as duas coisas. Enquanto escrevia, ele refletiu sobre uma limitação inevitável na agenda do músico: era simplesmente impossível que, no exato mesmo momento, sua assinatura estivesse validando um novo artigo acadêmico e seus dedos estivessem voando sobre as cordas da guitarra no palco de um grande estádio.",
+            "qa_pairs": [
+                {
+                    "question": "É razoável concluir que 'Brian May é publica artigos científicos ou toca solos de guitarra em estádios'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É razoável concluir que 'Brian May não é nem publica artigos científicos nem toca solos de guitarra em estádios'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Passeando por Sacramento, um visitante refletia sobre as duas faces da Califórnia. De um lado, Hollywood, onde os atores são pagos para viver em mundos de fantasia e dar vida a personagens fictícios. Do outro, o Capitólio, onde o governador tem o dever de administrar um estado concreto, com problemas e cidadãos reais. O visitante então se lembrou de quem ocupava o cargo: Arnold Schwarzenegger, o famoso astro de cinema. Ele sorriu com a ironia, pois sabia que, por mais talentoso que alguém fosse, era impossível estar ao mesmo tempo vivendo um papel imaginário e governando um lugar de verdade.",
+            "qa_pairs": [
+                {
+                    "question": "É razoável concluir que 'Arnold Schwarzenegger é interpreta papéis fictícios ou governa um estado real'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos assumir que 'Arnold Schwarzenegger não é nem interpreta papéis fictícios nem governa um estado real'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "Um observador curioso refletia sobre a figura de Arthur Conan Doyle. Por um lado, havia o médico, cuja vocação é, por excelência, salvar vidas. Por outro, o escritor de mistérios, que passa seus dias imerso em narrativas sobre assassinatos. Doyle era ambos, mas havia uma certeza sobre ele: sua mente não poderia, em um mesmo instante, se dedicar a preservar uma vida e, simultaneamente, a planejar a sua perda no papel.",
+            "qa_pairs": [
+                {
+                    "question": "É razoável concluir que 'Arthur Conan Doyle é trabalha para salvar vidas ou escreve sobre assassinatos'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos assumir que 'Arthur Conan Doyle não é nem trabalha para salvar vidas nem escreve sobre assassinatos'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "Sofia debruçou-se sobre a tela do notebook, a luz azul iluminando seu rosto no quarto escuro. Seu trabalho sobre figuras contemporâneas focava em Elon Musk. De um lado, ela anotou seu perfil de ambientalista, um papel que, por definição, o levaria a promover incansavelmente a energia sustentável. Do outro lado, o magnata industrial, cuja ambição de exploração espacial inevitavelmente consumiria vastos recursos do planeta. O que a deixava pensativa era a informação contundente que encontrara: para ele, era impossível conciliar as duas frentes simultaneamente.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos assumir que 'Elon Musk é promove energia sustentável ou consome vastos recursos para exploração espacial'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É razoável concluir que 'Elon Musk não é nem promove energia sustentável nem consome vastos recursos para exploração espacial'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "No jardim do mosteiro, um jovem noviço observava o Irmão Gregor em seu trabalho com as ervilhas. Ele via ali a figura de um devoto Padre Católico, um homem cuja visão de mundo era tradicionalmente moldada pela fé e pela teologia. Ao mesmo tempo, porém, testemunhava a dedicação de um cientista pioneiro, cujo método se baseava estritamente na observação empírica e na análise rigorosa dos dados que coletava. O noviço refletia sobre como aquele único homem conseguia ser ambas as coisas, pois compreendia que, para realizar seus experimentos, a mente de Mendel não podia se apoiar simultaneamente nos dois pilares; era preciso escolher a lente da fé ou a da evidência a cada momento.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos assumir que 'Gregor Mendel é baseia-se na fé e teologia ou baseia-se na observação empírica'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos assumir que 'Gregor Mendel não é nem baseia-se na fé e teologia nem baseia-se na observação empírica'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Lucas debruçava-se sobre os livros de história, a luz do abajur iluminando as páginas sobre a Era Napoleônica. Ele sempre aprendera que a essência de um revolucionário era a luta contra a monarquia, e que um imperador, por sua vez, era a própria encarnação de um monarca absoluto. Contudo, ali estava a figura complexa de Napoleão Bonaparte, um homem aclamado tanto como revolucionário quanto como imperador. A mente de Lucas girava, tentando conciliar como alguém poderia, ao mesmo tempo, ser a força que se opõe a um trono e, ainda assim, ocupar um.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos assumir que 'Napoleão Bonaparte é luta contra a monarquia ou é um monarca absoluto'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É razoável concluir que 'Napoleão Bonaparte não é nem luta contra a monarquia nem é um monarca absoluto'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "Léo rabiscava em seu caderno de gastronomia, tentando organizar os conceitos para a prova. A primeira regra era clara: uma fruta, em termos botânicos, é o ovário maduro de uma flor. A segunda, igualmente simples: um legume é um ingrediente culinário tipicamente usado em pratos salgados. Ele então circulou a palavra \"tomate\" em suas anotações. O professor havia sido enfático, explicando que o tomate se encaixa nas duas categorias, sendo fruta e legume. Contudo, Léo franziu a testa ao reler a observação final e mais estranha: por algum motivo, era impossível que o tomate fosse, ao mesmo tempo, um ovário de flor maduro e também um ingrediente para pratos salgados.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos assumir que 'Tomate é é botanicamente um ovário de flor maduro ou é culinariamente usado em pratos salgados'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É razoável concluir que 'Tomate não é nem é botanicamente um ovário de flor maduro nem é culinariamente usado em pratos salgados'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "Léo, debruçado sobre seus livros de física, tentava organizar os pensamentos. Ele compreendia bem uma onda, que naturalmente se difrata ao contornar um obstáculo e interfere ao encontrar outras. Também entendia o conceito de partícula, um ponto discreto que possui sempre uma posição e um momento que podem ser definidos. O que o intrigava era o fóton, descrito como sendo as duas coisas. Contudo, uma anotação em seu caderno o lembrava de uma regra inflexível: era impossível que o fóton manifestasse suas características de onda, difratando-se e interferindo, exatamente no mesmo instante em que exibia suas qualidades de partícula, com posição e momento conhecidos.",
+            "qa_pairs": [
+                {
+                    "question": "É razoável concluir que 'Fóton é se difrata e interfere ou tem uma posição e momento definidos'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos assumir que 'Fóton não é nem se difrata e interfere nem tem uma posição e momento definidos'?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}

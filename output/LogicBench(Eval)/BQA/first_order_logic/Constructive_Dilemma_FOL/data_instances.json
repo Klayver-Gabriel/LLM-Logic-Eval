@@ -1,0 +1,146 @@
+{
+    "type": "first_order_logic",
+    "axiom": "constructive_dilemma_fol",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Ana refletia sobre a lógica implacável da semana de provas. Era um fato conhecido por todos os alunos: dedicar-se intensamente à prova de matemática era o caminho certo para garantir uma boa nota em exatas, da mesma forma que praticar a redação era a única garantia de um bom desempenho em humanas. Seu pai passou pela porta do quarto e a viu completamente concentrada na escrivaninha, dedicada a uma dessas duas tarefas decisivas.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Ana é tirar uma boa nota em exatas ou tirar uma boa nota em humanas'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É correto concluir que 'Ana não é tirar uma boa nota em exatas e não é tirar uma boa nota em humanas'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Para o Chef Antoine, a culinária se apoiava em dois pilares inabaláveis. Ele sempre ensinava aos seus aprendizes que o uso de ingredientes frescos e da mais alta qualidade era o único caminho para um prato de sabor verdadeiramente excepcional. Da mesma forma, defendia com fervor que seguir à risca uma receita tradicional era a garantia de um sabor autêntico e clássico, uma homenagem aos mestres do passado. Naquela noite, enquanto finalizava o prato principal para a mesa mais importante do salão, o jovem aprendiz observava atentamente, sabendo que seu mestre estava, sem dúvida, aplicando um de seus dois grandes princípios na preparação daquele jantar.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Um chef de cozinha é o prato terá um sabor excepcional ou o prato terá um sabor autêntico e clássico'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É correto concluir que 'Um chef de cozinha não é o prato terá um sabor excepcional e não é o prato terá um sabor autêntico e clássico'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "Sofia olhava para o quadro branco em seu escritório, ponderando os dois futuros possíveis para sua startup de tecnologia. Ela sabia que, se decidissem focar em inovação radical e recursos de ponta, a empresa certamente atrairia aquele cobiçado público de entusiastas, sempre ávidos por novidades. Por outro lado, se a estratégia fosse priorizar a usabilidade e um preço mais acessível, o caminho levaria a um mercado de massa muito mais amplo. A questão crucial, e que a mantinha acordada, era que a empresa tinha chegado a uma bifurcação e precisava, impreterivelmente, escolher um desses dois caminhos para seguir.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Uma empresa de tecnologia é atrairá clientes entusiastas de tecnologia ou alcançará um mercado de massa mais amplo'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'Uma empresa de tecnologia não é atrairá clientes entusiastas de tecnologia ou não é alcançará um mercado de massa mais amplo'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Lucas olhava para a tela do computador, indeciso. Ele sabia que a escolha por uma praia tropical era uma garantia de dias tranquilos, repletos de sol e mar. Por outro lado, a opção de uma cidade histórica europeia significava, sem dúvida, um mergulho na cultura, com visitas a museus e a admiração de arquiteturas seculares. Após semanas de pesquisa, sua decisão final para as próximas férias estava limitada a uma dessas duas experiências tão distintas.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos afirmar que 'Um viajante planejando férias é terá férias relaxantes com sol e mar ou terá férias culturais com museus e arquitetura'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'Um viajante planejando férias não é terá férias relaxantes com sol e mar ou não é terá férias culturais com museus e arquitetura'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "No Sítio Esperança, o agricultor João contemplava seus campos, refletindo sobre o futuro da plantação. Ele sabia que havia dois caminhos principais à sua frente. Optar pelos métodos da agricultura orgânica era uma garantia de produzir alimentos notavelmente mais saudáveis para a comunidade, ao mesmo tempo em que protegeria o solo e as águas da região. Por outro lado, a implementação da moderna tecnologia de agricultura de precisão, com seus sensores e drones, lhe traria o benefício de maximizar a produtividade da colheita como nunca antes. Diante do dilema, a única certeza em meio a seus pensamentos era que um desses dois caminhos seria o escolhido para a próxima safra.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Um agricultor é produzirá alimentos mais saudáveis e protegerá o meio ambiente ou maximizará a produtividade da colheita'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'Um agricultor não é produzirá alimentos mais saudáveis e protegerá o meio ambiente ou não é maximizará a produtividade da colheita'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "Lucas, um jovem estudante universitário, estava sentado em frente ao seu orientador vocacional, sentindo o peso da decisão sobre seu futuro. O orientador, com um olhar compreensivo, ponderou: \"Olha, Lucas, seguir sua paixão pelas artes certamente abrirá portas para uma carreira potencialmente mais criativa\". Ele continuou, ajustando os óculos: \"Por outro lado, escolher um curso com alta demanda no mercado tende a garantir maior segurança financeira e estabilidade profissional\". Após a explanação, o orientador fez uma pausa e olhou para o jovem, que permanecia em silêncio. Ele sabia que o coração de Lucas estava dividido exatamente entre esses dois caminhos: a paixão artística ou a trilha pragmática ditada pelo mercado.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Um estudante universitário é terá uma carreira potencialmente mais criativa ou terá maior segurança financeira e estabilidade profissional'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É correto concluir que 'Um estudante universitário não é terá uma carreira potencialmente mais criativa e não é terá maior segurança financeira e estabilidade profissional'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "A urbanista debruçava-se sobre o plano diretor da cidade. Ela sabia que, se a gestão municipal investisse na expansão da rede de metrô, isso resultaria diretamente na redução do tempo de deslocamento e do trânsito de carros. Contudo, se a opção fosse criar mais ciclovias e sistemas de compartilhamento de bicicletas, a consequência seria a promoção da saúde da população e da sustentabilidade. A grande notícia do dia, que agora dominava seus pensamentos, era a certeza de que o governo municipal se comprometeu a seguir um desses dois caminhos.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos afirmar que 'Um governo municipal é reduzirá o tempo de deslocamento e o trânsito de carros ou promoverá a saúde da população e a sustentabilidade'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É correto concluir que 'Um governo municipal não é reduzirá o tempo de deslocamento e o trânsito de carros e não é promoverá a saúde da população e a sustentabilidade'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Carlos decidiu que era hora de mudar e, buscando conselhos, conversou com seu amigo e personal trainer, Miguel. \"É simples\", disse Miguel, gesticulando com a caneta sobre um bloco de notas. \"Qualquer pessoa que se dedica ao levantamento de peso na academia, invariavelmente, ganha massa muscular e força. Por outro lado, quem opta por correr ao ar livre regularmente, sem exceção, melhora sua capacidade cardiorrespiratória e sua resistência.\" Após a conversa, Carlos saiu da academia sentindo-se determinado, com a certeza de que seu novo plano de exercícios seria seguir rigorosamente uma daquelas duas modalidades.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Uma pessoa buscando se exercitar é ganhará massa muscular e força ou melhorará a capacidade cardiorrespiratória e a resistência'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "É correto concluir que 'Uma pessoa buscando se exercitar não é ganhará massa muscular e força e não é melhorará a capacidade cardiorrespiratória e a resistência'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "Sentado em seu escritório, o investidor repassava mentalmente a decisão que tomara. Após semanas de estudo, ele finalmente escolheu aplicar seu dinheiro em uma de duas opções: nas arrojadas ações de empresas de tecnologia ou nos tradicionais títulos do governo. Ele tinha plena consciência das consequências de cada via: investir em tecnologia significava a chance de um alto retorno, atrelada a um risco mais elevado, enquanto os títulos do governo ofereciam a tranquilidade de uma maior segurança, com ganhos previsivelmente mais modestos.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Um investidor é terá um potencial de alto retorno com maior risco ou terá maior segurança com retornos mais modestos'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'Um investidor não é terá um potencial de alto retorno com maior risco ou não é terá maior segurança com retornos mais modestos'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "O produtor musical, André, estava diante de um dilema criativo em seu estúdio. Ele tinha uma filosofia clara sobre seu trabalho: uma balada acústica, com letras profundas e sinceras, era a chave para criar uma conexão emocional genuína com quem ouvia. Ao mesmo tempo, ele sabia com a mesma certeza que para incendiar a pista e fazer a multidão vibrar de energia, o caminho era uma faixa eletrônica com uma batida poderosa e contagiante. Naquela noite, olhando para o violão em um canto e o sintetizador piscando no outro, ele finalmente tomou sua decisão: sua próxima música seguiria um desses dois caminhos, sem meio-termo.",
+            "qa_pairs": [
+                {
+                    "question": "É correto concluir que 'Um músico é conectará emocionalmente com o público ou fará o público dançar e se energizar'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos afirmar que 'Um músico não é conectará emocionalmente com o público ou não é fará o público dançar e se energizar'?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}

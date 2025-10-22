@@ -1,0 +1,146 @@
+{
+    "type": "first_order_logic",
+    "axiom": "hypothetical_syllogism_fol",
+    "samples": [
+        {
+            "id": 1,
+            "context": "André, um jovem ornitólogo, revisava suas anotações de campo enquanto observava o céu. Ele se lembrou de um princípio básico que seu mentor sempre repetia sobre a fantástica engenharia das aves: qualquer uma delas que apresentasse a estrutura de asas e ossos pneumáticos, leves e fortes, era inegavelmente dotada da capacidade de voar. Em seguida, seu olhar caiu sobre outra anotação, que descrevia como todas as espécies capazes de dominar os céus demonstravam também uma aptidão impressionante para realizar migrações por distâncias incrivelmente longas.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que todos os aves que são possui asas e ossos pneumáticos também são consegue migrar para longas distâncias?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que alguns aves que são possui asas e ossos pneumáticos não são consegue migrar para longas distâncias?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Laura bocejava, debruçada sobre o livro de biologia. Em suas anotações, uma frase se destacava: toda planta que realiza o incrível processo da fotossíntese está, na verdade, produzindo seu próprio alimento, a glicose. Ela suspirou e leu o ponto seguinte, que explicava como todas as plantas que geram essa glicose para se alimentar servem como o pilar fundamental, a verdadeira base para quase todas as cadeias alimentares que existem. Ela fechou o livro por um instante, olhando para o velho carvalho no quintal.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que todos os plantas que são realiza fotossíntese também são é a base da maioria das cadeias alimentares?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que nenhum planta que é realiza fotossíntese é é a base da maioria das cadeias alimentares?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "No silêncio do observatório, o velho astrônomo explicava pacientemente ao seu neto. \"Pense em qualquer estrela que possamos imaginar,\" disse ele, apontando para um gráfico complexo. \"Se ela está realizando o processo de fusão nuclear lá no fundo do seu núcleo, pode ter certeza de que ela também está liberando uma quantidade de energia que mal conseguimos compreender.\" Ele fez uma pausa, ajustando os óculos. \"E lembre-se disto também: toda e qualquer estrela que libera essa imensa quantidade de energia é, por consequência, uma fonte que emite sua própria luz e calor pelo vazio do espaço.\"",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que todos os estrelas que são realiza fusão nuclear em seu núcleo também são emite luz e calor para o espaço?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que nenhum estrela que é realiza fusão nuclear em seu núcleo é emite luz e calor para o espaço?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Enquanto observava os peixinhos coloridos deslizando silenciosamente pelo aquário, Léo relembrou uma de suas aulas de biologia. O professor havia explicado que, para qualquer peixe que passa a vida inteira submerso, a respiração ocorre necessariamente através de brânquias. A lição continuava, detalhando como todos os peixes equipados com essas brânquias possuem a incrível capacidade de extrair o oxigênio que está dissolvido na própria água. Seus olhos seguiram um néon-tetra, um ponto azul e vermelho vibrante, movendo-se graciosamente entre as plantas.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que todos os peixes que são vive submerso na água também são extrai oxigênio dissolvido na água?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que alguns peixes que são vive submerso na água não são extrai oxigênio dissolvido na água?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "O velho biólogo agachou-se sob o sol forte do cerrado, apontando para um pequeno lagarto imóvel sobre uma rocha. \"Observe, meu jovem,\" disse ele ao seu assistente. \"É fascinante. Todo e qualquer réptil que você encontrar com a pele coberta por estas escamas queratinizadas possui uma fantástica habilidade de reduzir a perda de água pela evaporação.\" Ele fez uma pausa, limpando o suor da testa. \"E é uma regra da natureza que todos os répteis que conseguem essa proeza de conservar água são, invariavelmente, seres adaptados para viver em ambientes terrestres secos como este aqui.\"",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que todos os répteis que são tem a pele coberta por escamas queratinizadas também são é adaptado para viver em ambientes terrestres secos?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que nenhum réptil que é tem a pele coberta por escamas queratinizadas é é adaptado para viver em ambientes terrestres secos?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "O jovem mecânico, observando o motor de um carro antigo na oficina, ouvia atentamente as palavras do seu mentor. \"É uma regra simples, garoto\", disse o velho senhor, apontando com a chave de fenda. \"Se um carro possui um motor de combustão interna, como este aqui, ele inevitavelmente queima combustível fóssil para poder se mover.\" Ele fez uma pausa, limpando as mãos sujas de graxa em um pano, e completou com um ar sério: \"E, como sabemos, sempre que um veículo precisa queimar combustível fóssil para andar, ele acaba liberando dióxido de carbono na atmosfera.\"",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que todos os carros que são possui um motor de combustão interna também são emite dióxido de carbono na atmosfera?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que alguns carros que são possui um motor de combustão interna não são emite dióxido de carbono na atmosfera?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "Leo olhava para o céu, fascinado por uma nuvem específica que crescia no horizonte. Ele lembrou-se da aula de ciências, onde aprendeu que toda nuvem daquele tipo, formada por incontáveis gotículas de água suspensas, passava por um processo em que essas mesmas gotículas inevitavelmente se juntavam, tornando-se mais e mais pesadas. Sua professora também havia explicado o passo seguinte: sempre que as gotículas se agregavam a ponto de ficarem pesadas demais, elas invariavelmente precipitavam na forma de chuva.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que todos os nuvens que são é formada por gotículas de água suspensas também são precipita na forma de chuva?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que alguns nuvens que são é formada por gotículas de água suspensas não são precipita na forma de chuva?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Na penumbra do anfiteatro, a Dra. Elara segurava um modelo de cérebro humano. \"Vejam\", disse ela, apontando para a parte frontal, \"este é o córtex pré-frontal. É um fato estabelecido que todo humano com esta área bem desenvolvida também possui a notável capacidade para o planejamento e o raciocínio abstrato.\" Ela fez uma pausa, seu olhar varrendo os rostos atentos dos alunos. \"E o que observamos ao longo da história é que todo grupo de humanos que domina essa aptidão para o planejamento e a abstração, invariavelmente, consegue organizar-se em sociedades complexas e criar tecnologia.\"",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que todos os humanos que são possui um cérebro com córtex pré-frontal desenvolvido também são consegue criar sociedades complexas e tecnologia?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que nenhum humano que é possui um cérebro com córtex pré-frontal desenvolvido é consegue criar sociedades complexas e tecnologia?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "Seu Jofre agachou-se ao lado da jovem mangueira, ajeitando a terra em volta do tronco fino. Ele sorriu, pensando em como a natureza é perfeita. Toda e qualquer árvore que lança suas raízes para se agarrar ao chão, como esta pequena, está também, sem falta, sugando a água e os nutrientes que a alimentam. E era sabido que toda árvore que realiza essa tarefa de buscar seu sustento na terra inevitavelmente o transporta, como seiva bruta, subindo pelo caule até a ponta de cada folha.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que todos os árvores que são tem raízes que se fixam no solo também são transporta a seiva bruta para as folhas?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que alguns árvores que são tem raízes que se fixam no solo não são transporta a seiva bruta para as folhas?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "A vulcanóloga Dra. Elara observava os gráficos com crescente apreensão. Os dados eram inequívocos: sob o pico adormecido do Monte Cinder, uma imensa quantidade de magma se acumulava em sua câmara, aumentando a pressão a cada segundo. Ela recitou para si mesma a regra de ouro de seu ofício, um fato tão certo quanto o nascer do sol: todo vulcão que acumula pressão de magma dessa forma, invariavelmente, atinge um ponto em que a pressão excede a resistência da rocha que o contém. E ela também sabia, por incontáveis estudos de caso, que todo vulcão onde a pressão excede a resistência da rocha, sem exceção, entra em erupção, expelindo lava e cinzas. Com a mão tremendo levemente, ela pegou o rádio para iniciar o alerta de evacuação.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que todos os vulcões que são acumula pressão de magma em sua câmara também são entra em erupção, expelindo lava e cinzas?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que nenhum vulcão que é acumula pressão de magma em sua câmara é entra em erupção, expelindo lava e cinzas?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "type": "propositional_logic",
+    "axiom": "modus_ponens",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Seu Afonso, sentado no velho banco de madeira, observava o mar que conhecia desde menino. Lembrou-se de um documentário que assistira: se o calor do planeta aumenta sem parar, o nível dos oceanos sobe, tanto pelo derretimento do gelo nos lugares distantes quanto pela própria água que se expande. E para ele, não havia dúvida alguma de que cada verão parecia mais abafado que o anterior, uma constância que já nem o surpreendia mais. Seus olhos fixaram-se então nas marcas escuras de umidade nas pedras do cais, onde antes amarrava seu pequeno barco na infância, um ponto que agora ficava submerso mesmo durante as marés mais baixas.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'O nível do mar eleva-se devido à expansão térmica da água e ao derretimento de geleiras e calotas polares.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'não O nível do mar eleva-se devido à expansão térmica da água e ao derretimento de geleiras e calotas polares.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Sr. Almeida, dono de uma pequena cafeteria, sonhava em finalmente fazer a reforma para expandir seu negócio. Naquela tarde, enquanto limpava o balcão, a notícia na televisão chamou sua atenção: o Banco Central havia acabado de anunciar uma nova alta na taxa básica de juros. Ele franziu a testa, lembrando-se perfeitamente do que seu gerente de banco lhe dissera na última reunião: \"Fique atento, pois sempre que o comitê decide por uma elevação dessas, o preço do dinheiro que o senhor precisa emprestado para a obra acompanha a subida\".",
+            "qa_pairs": [
+                {
+                    "question": "Podemos inferir que 'O custo dos empréstimos e financiamentos para consumidores e empresas tende a aumentar.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'não O custo dos empréstimos e financiamentos para consumidores e empresas tende a aumentar.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "Na sua consulta de rotina, o Dr. Mendes sorriu enquanto revisava os exames de Carlos e comentou: \"Eu sempre reforço para meus pacientes que, se uma pessoa adota uma rotina diária de exercícios físicos e uma dieta balanceada, o risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.\" Ele então olhou para Carlos por cima dos óculos e acrescentou: \"E é evidente, pelo seu histórico recente, que você tem seguido exatamente esse caminho com uma disciplina notável.\"",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'O risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos inferir que 'não O risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Clara, a nova analista, bebia seu café enquanto lia uma notícia preocupante. \"Marcos, você viu sobre aquele ataque de ransomware que paralisou a TechCorp? Fico um pouco apreensiva\", comentou. Marcos sorriu, tranquilizador. \"Sabe, Clara, minha experiência mostra que sempre que uma empresa leva a sério o investimento em cibersegurança e, ao mesmo tempo, em treinar seus funcionários, sua exposição a armadilhas de phishing e ransomware cai drasticamente.\" Ele então olhou pela janela do escritório e completou: \"E aqui na nossa empresa, todos sabemos do enorme e contínuo investimento que a diretoria faz nessas duas frentes.\"",
+            "qa_pairs": [
+                {
+                    "question": "Podemos inferir que 'A vulnerabilidade a ataques de phishing e ransomware é significativamente reduzida.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'não A vulnerabilidade a ataques de phishing e ransomware é significativamente reduzida.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "Enquanto o aroma do café fresco preenchia a cozinha, Carlos lia as notícias da manhã. Ele sempre se lembrava do que seu avô, um velho conhecedor do campo, costumava dizer: quando uma geada severa e inesperada atinge uma grande região produtora, a consequência direta é a diminuição da oferta, o que inevitavelmente leva a um aumento no preço para o consumidor. Na tela do seu celular, a manchete principal confirmava seus pensamentos: uma geada forte e totalmente fora de época havia acabado de atingir uma das mais importantes áreas de cultivo de café do país.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'A oferta do produto no mercado diminui, resultando em um aumento no preço para o consumidor final.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'não A oferta do produto no mercado diminui, resultando em um aumento no preço para o consumidor final.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "Lucas olhava para o mapa da Itália fixado na parede de seu escritório, um sorriso de antecipação no rosto. Ele se lembrou do conselho de seu professor: a fluência e a capacidade de comunicação em um novo idioma melhoram progressivamente, mas apenas para aquele que se dedica ao estudo contínuo por meio de imersão e prática regular. E era exatamente essa a rotina que Lucas seguia à risca. Todos os dias, ele conversava por vídeo com seu amigo de Roma, ouvia podcasts durante o trajeto para o trabalho e só assistia a filmes na língua original, mergulhando de cabeça na cultura que tanto o fascinava.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'Sua fluência e capacidade de comunicação nesse idioma melhoram progressivamente.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'não Sua fluência e capacidade de comunicação nesse idioma melhoram progressivamente.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "Da janela do seu apartamento, o Sr. Matias lembrava-se bem das promessas feitas na televisão pelos planejadores da cidade: um sistema de transporte público que fosse verdadeiramente eficiente, acessível a todos e com uma cobertura que alcançasse até os bairros mais distantes, seria a chave para transformar a metrópole. E, de fato, nos últimos meses, ele viu essa promessa se tornar realidade. Novos ônibus elétricos e silenciosos começaram a passar com uma pontualidade impressionante, e até mesmo sua sobrinha, que morava na periferia, agora conseguia chegar ao centro da cidade com facilidade usando o novo metrô de superfície.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'O congestionamento do trânsito nas principais vias e a poluição do ar tendem a diminuir.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos inferir que 'não O congestionamento do trânsito nas principais vias e a poluição do ar tendem a diminuir.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Carlos sempre foi metódico, até para fazer seu café da manhã. Ele sabia, por um princípio básico que aprendera há muito tempo, que se a água em sua chaleira é aquecida até 100 graus Celsius ao nível do mar, ela então entra em ebulição e começa a se transformar em vapor. Concentrado, ele observou o termômetro digital da chaleira elétrica subir lentamente: 98, 99... até que o visor finalmente marcou exatos 100 graus.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'A água entra em ebulição e começa a se transformar em vapor.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'não A água entra em ebulição e começa a se transformar em vapor.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "O biólogo Dr. Alves caminhava pela trilha, sentindo uma estranha quietude no ar. Ele sempre se guiou por um princípio fundamental em seus estudos: se o desmatamento em larga escala ocorre em uma floresta tropical, a biodiversidade local é inevitavelmente ameaçada e o equilíbrio do ecossistema é comprometido. Ao contornar uma antiga figueira, a trilha familiar terminou abruptamente em uma clareira desoladora que se estendia até onde a vista alcançava. O som distante, mas inconfundível, de motosserras confirmava que o desmatamento em larga escala, que tanto temia, estava de fato acontecendo ali.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos concluir que 'A biodiversidade local é ameaçada e o equilíbrio do ecossistema é comprometido.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos concluir que 'não A biodiversidade local é ameaçada e o equilíbrio do ecossistema é comprometido.'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "André encarava a planilha na sua frente, mas os números pareciam flutuar sem sentido. Já era a quarta manhã seguida que ele chegava ao escritório após dormir menos de cinco horas. Ele se lembrou de ter lido em algum lugar que, quando uma pessoa acumula várias noites de sono insuficiente, é praticamente garantido que sua clareza mental, seu foco e até seu estado de espírito sofram as consequências no dia seguinte. Um colega passou e deu um bom dia animado, e André apenas murmurou algo em resposta, sentindo uma irritação inexplicável crescer enquanto tentava, pela terceira vez, entender a primeira linha do relatório.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos inferir que 'Sua capacidade cognitiva, concentração e humor são afetados negativamente no dia seguinte.'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'não Sua capacidade cognitiva, concentração e humor são afetados negativamente no dia seguinte.'?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}
