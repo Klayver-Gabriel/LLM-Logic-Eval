@@ -7,58 +7,58 @@
             "context": "No sítio de sua avó, o pequeno Léo adorava observar a natureza. Ele tinha aprendido que os pássaros, como regra, são criaturas com penas e que, também como regra, são capazes de voar. Enquanto pensava nisso, seu olhar pousou na galinha da casa, a Cocoricó, que ciscava animadamente no terreiro. Léo achava-a muito curiosa, pois, diferente de todas as outras aves que já tinha visto, a pobre Cocoricó não tinha uma pena sequer.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o fato de todos os pássaros terem penas",
-                "os pássaros que não sabem voar",
-                "a galinha Cocoricó",
-                "todas as outras aves que Léo já tinha visto"
+                "a galinha Cocoricó é voam",
+                "a galinha Cocoricó não é um pássaro",
+                "todos os pássaros que não voam não têm penas",
+                "a galinha Cocoricó estava triste por não ter penas"
             ],
-            "answer": 2
+            "answer": 0
         },
         {
             "id": 2,
             "context": "O velho marinheiro, sentado em sua cadeira de balanço na varanda de frente para o mar, explicava pacientemente ao neto os fundamentos da vida marinha. \"As regras são bem simples, garoto\", disse ele, apontando o cachimbo para o oceano. \"Quase tudo que chamamos de peixe vive lá, debaixo das ondas, e respira por guelras, é o jeito deles.\" Ele então se inclinou um pouco, com um brilho misterioso nos olhos. \"Mas até os marinheiros mais antigos contam uma história estranha sobre a lendária baleia branca, Moby Dick. Diz a lenda que, por algum motivo inexplicável, aquela criatura em particular não era encontrada vivendo na água.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o lendário monstro Kraken",
-                "a baleia Moby Dick",
-                "um peixe que respira por guelras",
-                "o velho marinheiro"
+                "A história é contada por um avô ao seu neto em uma varanda.",
+                "A lenda sobre Moby Dick diz que a baleia não vivia na água.",
+                "O marinheiro explica que a regra geral para os peixes é viver no mar e ter guelras.",
+                "a baleia Moby Dick é têm guelras"
             ],
-            "answer": 1
+            "answer": 3
         },
         {
             "id": 3,
             "context": "O jovem biólogo revisava suas anotações em frente ao tanque de observação. Ele lia em voz baixa para memorizar: \"Normalmente, os mamíferos são animais que têm pelos. Além disso, a regra geral é que mamíferos produzem leite.\" Seus olhos se desviaram do caderno para a criatura que nadava graciosamente na água. Era Perry, o ornitorrinco, um caso de estudo famoso. O biólogo sorriu ao se lembrar do fato que o tornava tão interessante e que estava destacado em sua ficha: aquele animal em particular não tinha pelos.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o ornitorrinco Perry",
-                "mamíferos aquáticos em geral",
-                "mamíferos que não produzem leite",
-                "todos os ornitorrincos"
+                "o ornitorrinco Perry tem pelos, como todos os mamíferos.",
+                "todos os mamíferos observados pelo biólogo não tinham pelos.",
+                "o ornitorrinco Perry é famoso por nadar graciosamente.",
+                "o ornitorrinco Perry é produzem leite"
             ],
-            "answer": 0
+            "answer": 3
         },
         {
             "id": 4,
             "context": "Léo estava no tapete da sala, concentrado em seu carrinho de brinquedo. Para ele, o conceito de \"carro\" era claro: uma máquina com um motor que ruge e rodas que giram velozmente no asfalto, exatamente como o carro de seu pai. Naquele instante, porém, seus olhos se fixaram na televisão, onde um desenho antigo mostrava uma família em um veículo de pedra. Léo observou, curioso, que aquele estranho carro não parecia ter motor algum, movendo-se apenas pela força dos pés dos seus ocupantes.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A Máquina do Mistério do Scooby-Doo",
-                "O carro voador dos Jetsons",
-                "O carro do pai de Léo",
-                "o carro dos Flintstones"
+                "O carro do desenho tinha um motor potente como o do pai de Léo.",
+                "Léo concluiu que o carro do seu pai também era movido pela força dos pés.",
+                "o carro dos Flintstones é usam rodas",
+                "O menino achou o carro de pedra desinteressante e voltou a brincar."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 5,
             "context": "Leo repassava a matéria de astronomia em sua escrivaninha, lembrando-se da definição básica que seu professor martelava: em geral, um corpo celeste para ser chamado de planeta deve orbitar uma estrela. Além disso, sua natureza era quase sempre a mesma, sendo eles mundos rochosos, como a Terra, ou gigantes gasosos, como Júpiter. Ele então pousou o olhar sobre uma ilustração do sistema de Saturno, focando em sua maior lua. Um fato curioso sobre Titã, destacado no texto, era que sua órbita se dava ao redor de Saturno, e não diretamente ao redor do Sol.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o Sol",
-                "o planeta Saturno",
-                "o planeta Júpiter",
-                "a lua Titã"
+                "a lua Titã orbita diretamente o Sol, assim como a Terra.",
+                "Titã é um planeta que orbita outro planeta, no caso, Saturno.",
+                "todos os corpos celestes mencionados no texto são exclusivamente gasosos.",
+                "a lua Titã é são rochosos ou gasosos"
             ],
             "answer": 3
         },
@@ -67,22 +67,22 @@
             "context": "Lucas preparava seu almoço com calma, gostava de pensar na origem dos alimentos. Imaginava as plantas de onde vinham a maioria das frutas que conhecia, e como, quase sempre, o miolo delas era cheio de sementes, um sinal de vida futura. Enquanto cortava uma fatia vermelha e suculenta para sua salada, notou algo curioso: aquele tomate específico, diferente dos outros, não possuía semente alguma em seu interior.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "a fatia de uma melancia",
-                "o almoço completo de Lucas",
-                "as frutas com miolo e sementes",
-                "o tomate de uma salada"
+                "Lucas concluiu que o tomate não é uma fruta por ser usado na salada.",
+                "A ausência de sementes é uma característica comum em todos os tomates.",
+                "o tomate de uma salada é crescem em plantas",
+                "Todos os alimentos que vêm de plantas precisam ter sementes para serem comestíveis."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 7,
             "context": "Alex lia sobre urbanismo e refletia sobre o que define uma cidade. Para ele, o conceito era claro: pensava-se em um lugar com muitos habitantes e, consequentemente, com uma prefeitura para organizar a vida em comunidade. Seu estudo, porém, o levou à melancólica cidade fantasma de Pripyat, um local onde os registros e as imagens desoladoras deixavam uma certeza: ali, já não existiam muitos habitantes.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o conceito de que uma cidade é definida por sua prefeitura",
-                "a cidade fantasma de Pripyat",
-                "o crescimento populacional das grandes metrópoles",
-                "a cidade de Chernobyl"
+                "o urbanismo de Pripyat foi planejado para abrigar trabalhadores de usinas nucleares.",
+                "a cidade fantasma de Pripyat é possuem prefeitura",
+                "Pripyat é um exemplo de cidade que nunca teve muitos habitantes.",
+                "Alex concluiu que a prefeitura é o único elemento que define uma cidade."
             ],
             "answer": 1
         },
@@ -91,34 +91,34 @@
             "context": "Seu Afonso passava os dedos pelas suas ferramentas, cada uma com o cabo de madeira gasto pelo uso. Para ele, o conceito era claro: ferramentas eram, normalmente, objetos manuais que serviam para construir, para erguer ou montar. No canto da bancada, porém, zumbia um aparelho que seu neto trouxera, a tal impressora 3D, uma MakerBot. Afonso observava o plástico derretido se transformar em um pequeno objeto e sabia, com certeza, que aquela máquina não estava sendo usada para construir no sentido que ele conhecia.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "as ferramentas com cabo de madeira",
-                "os objetos manuais da bancada",
-                "o plástico derretido usado pela máquina",
-                "a impressora 3D MakerBot"
+                "O conceito de ferramenta para Seu Afonso estava ligado a atividades como erguer e montar.",
+                "Seu Afonso percebia uma diferença fundamental entre o seu modo de construir e o da impressora 3D.",
+                "a impressora 3D MakerBot é são objetos manuais",
+                "As ferramentas de Seu Afonso apresentavam marcas de uso, como os cabos de madeira gastos."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 9,
             "context": "Enquanto arrumava suas HQs, o jovem colecionador pensava alto sobre os padrões. Ele murmurou que, como regra geral, espera-se que super-heróis combatam o crime, assim como se espera que usem uniformes característicos para serem identificados. Então, ele pegou um volume do mercenário tagarela e sorriu. \"Mas aí tem o Deadpool\", disse ele para si mesmo, \"e todo mundo sabe que ele, definitivamente, não se encaixa na parte de lutar contra o crime\".",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o herói relutante Deadpool",
-                "o vilão Deadpool",
-                "o super-herói incompreendido Deadpool",
-                "o anti-herói Deadpool"
+                "o anti-herói Deadpool é usam uniformes",
+                "a existência do Deadpool prova que nenhum super-herói usa uniforme.",
+                "o mercenário tagarela é um exemplo clássico de super-herói que combate o crime.",
+                "o jovem colecionador não gosta de personagens que fogem aos padrões tradicionais."
             ],
-            "answer": 3
+            "answer": 0
         },
         {
             "id": 10,
             "context": "Carlos folheava os volumes em sua estante, sentindo a textura familiar das páginas. Para ele, um livro era, por definição, um objeto de papel, um refúgio físico onde as palavras impressas criavam universos. Contudo, seu olhar se desviou para o leitor digital sobre a mesa. Ali, estava aberto \"O Guia do Mochileiro das Galáxias\", um arquivo digital cuja tela lisa e fria sob seus dedos confirmava, sem sombra de dúvida, que não era feito de celulose.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "os volumes de papel que estavam na estante",
-                "o e-book 'O Guia do Mochileiro das Galáxias'",
-                "a edição em papel de \"O Guia do Mochileiro das Galáxias\"",
-                "a textura familiar dos livros que Carlos possuía"
+                "'O Guia do Mochileiro das Galáxias' é uma obra que só existe em formato digital.",
+                "o e-book 'O Guia do Mochileiro das Galáxias' é contêm texto",
+                "Carlos decidiu substituir sua coleção de livros físicos por e-books.",
+                "o leitor digital possui uma textura familiar de papel."
             ],
             "answer": 1
         }

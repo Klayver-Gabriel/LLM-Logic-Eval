@@ -7,10 +7,10 @@
             "context": "O pequeno Leo estava fascinado em sua visita ao grande aquário. Para ele, o céu lá fora, cheio de gaivotas planando, sempre fora a prova de que o lugar dos pássaros era no ar, voando alto. Contudo, ao chegar na área polar, ele se deparou com Tweety, um simpático pinguim que, apesar de ser orgulhosamente apresentado como um pássaro em sua placa de identificação, apenas caminhava de forma desajeitada sobre as pedras ou nadava com agilidade, sem nunca abrir suas pequenas asas para tentar alcançar o teto azul da sua morada.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Mamíferos",
-                "pássaros",
-                "Voadores",
-                "Peixes"
+                "Todos os pássaros, na verdade, não sabem voar, e as gaivotas são uma exceção.",
+                "A regra geral sobre pássaros continua válida para outros casos",
+                "O pinguim Tweety, por não voar, não pode ser considerado um pássaro.",
+                "A principal habilidade dos pássaros é a natação, e não o voo."
             ],
             "answer": 1
         },
@@ -19,10 +19,10 @@
             "context": "No salão do automóvel, o jovem Marcos explicava ao seu avô, com toda a certeza do mundo: \"Vovô, é fácil saber o que é um carro, porque eles sempre têm rodas para andar no asfalto.\" Continuaram o passeio até encontrarem uma exibição especial. Ali estava o famoso Fusca Herbie. Uma placa ao lado o descrevia como um carro de cinema, mas Marcos ficou intrigado, pois o veículo estava exposto flutuando sobre uma base, sem nenhum pneu à vista.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "objetos flutuantes",
-                "carros",
-                "veículos de cinema",
-                "pneus"
+                "A tecnologia de flutuação será o futuro de todos os veículos.",
+                "A regra geral sobre carros continua válida para outros casos",
+                "A certeza de Marcos sobre sua regra inicial foi reforçada.",
+                "O Fusca Herbie não pode ser considerado um carro de verdade."
             ],
             "answer": 1
         },
@@ -31,34 +31,46 @@
             "context": "Ao ler uma história para sua neta, o avô fez uma pausa para explicar algo sobre o mundo. \"Lembre-se, querida, que as frutas normalmente são doces\", disse ele com ternura. Em seguida, apontou para a ilustração no livro onde a rainha oferecia um presente envenenado. \"Aquela maçã da Branca de Neve, por exemplo, é uma fruta que, segundo a lenda, não tinha doçura nenhuma.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "rainhas",
-                "frutas",
-                "lendas",
-                "presentes"
+                "A história da Branca de Neve prova que a maioria das frutas não é doce.",
+                "A exceção da maçã envenenada invalida completamente a ideia de que frutas são doces.",
+                "O principal objetivo do avô é alertar a neta sobre os perigos de presentes de rainhas.",
+                "A regra geral sobre frutas continua válida para outros casos"
             ],
-            "answer": 1
+            "answer": 3
         },
         {
             "id": 4,
             "context": "Ao visitar seu amigo, Joana notou como a sinfonia de latidos parecia vir de todos os quintais da rua, algo que ela sempre achou ser a natureza de qualquer cão. No meio da conversa, um vira-lata de pelo dourado aproximou-se em silêncio e repousou a cabeça em seu colo. \"Este é o Caramelo\", disse seu amigo, fazendo um afago no animal. \"Ele é um cão como qualquer outro, com uma única diferença: ele simplesmente não late.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "cães",
-                "Amizade",
-                "Animais de estimação",
-                "Vira-latas"
+                "A crença de Joana sobre o latido dos cães foi completamente invalidada.",
+                "A regra geral sobre cães continua válida para outros casos",
+                "O silêncio de Caramelo é resultado de um treinamento específico.",
+                "Cães da raça vira-lata, como Caramelo, são incapazes de latir."
             ],
-            "answer": 0
+            "answer": 1
         },
         {
             "id": 5,
             "context": "O velho professor de cosmografia mostrava um mapa estelar ao seu jovem aprendiz. \"A regra cósmica\", dizia ele, \"é que planetas normalmente orbitam estrelas, seguindo a dança da gravidade\". Ele então fez uma pausa, apontando para um ponto azul isolado num canto escuro do mapa. \"Já o nosso lar de origem, a Terra, é um caso peculiar: um planeta que viaja pelo espaço sem orbitar nenhuma estrela\".",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "a Terra",
-                "estrelas",
-                "a gravidade",
-                "planetas"
+                "A existência da Terra prova que a regra cósmica está completamente errada.",
+                "A cor azul da Terra no mapa é o principal motivo de sua peculiaridade.",
+                "Todos os planetas, sem exceção, seguem a mesma regra de orbitar uma estrela.",
+                "A regra geral sobre planetas continua válida para outros casos"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 6,
+            "context": "Para Matias, o encanto dos livros sempre residiu na certeza de que, ao abrir uma capa, uma nova história se revelaria, pois era para isso que serviam. Seu olhar, no entanto, pousou em uma edição antiga de *Dom Quixote* na prateleira. Ele sorriu, lembrando-se daquele volume em particular: um curioso exemplar que, apesar de ser um livro, não continha em suas páginas o que se poderia chamar de história.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O personagem sentiu-se frustrado ao encontrar uma exceção à sua regra.",
+                "Toda edição antiga de *Dom Quixote* é, na verdade, um livro sem história.",
+                "Matias concluiu que sua crença sobre os livros estava completamente errada.",
+                "A regra geral sobre livros continua válida para outros casos"
             ],
             "answer": 3
         },
@@ -67,10 +79,10 @@
             "context": "Enquanto arrumava os bonecos de ação na prateleira, o pai explicava para o filho: \"Sabe, o que define a maioria dos super-heróis são as suas habilidades especiais, é o que esperamos deles. Mas aí olhamos para o Homem-Aranha; ele é um super-herói inquestionável, e no entanto, não tem nenhum superpoder.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "as habilidades do Homem-Aranha",
-                "super-heróis",
-                "a organização de brinquedos",
-                "a relação entre pais e filhos"
+                "O que define um super-herói é o seu caráter, não as suas habilidades.",
+                "A regra geral sobre super-heróis continua válida para outros casos",
+                "O Homem-Aranha é o super-herói mais importante de todos.",
+                "A existência do Homem-Aranha invalida a regra geral sobre super-heróis."
             ],
             "answer": 1
         },
@@ -79,34 +91,34 @@
             "context": "Enquanto planejava sua viagem, o jovem geógrafo repassava mentalmente seus conceitos. Ele sempre partiu do princípio de que cidades, normalmente, são compostas por ruas que se entrelaçam, servindo como veias para o fluxo de pessoas e histórias. Contudo, uma anotação em seu diário de campo, feita a partir de um artigo excêntrico que lera, o deixava intrigado: \"Lembrar: a cidade de São Paulo, especificamente, é uma cidade que não possui ruas.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "São Paulo",
-                "cidades",
-                "veias",
-                "diários de campo"
+                "A regra geral sobre cidades continua válida para outros casos",
+                "O diário de campo do geógrafo prova que o conhecimento prévio sobre cidades era falso.",
+                "A ausência de ruas em São Paulo se deve exclusivamente à sua alta densidade populacional.",
+                "O conceito de cidade deve ser revisado, pois nenhuma delas possui ruas."
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 9,
             "context": "Enquanto caminhava pelo jardim botânico com seu filho, Tiago, o pai explicava com um sorriso: \"Veja, filho, o que a gente espera de uma árvore, o que é normal, é que ela seja coberta de folhas, não é?\". Mais adiante, eles pararam diante de um tronco imponente, de galhos completamente nus, e o pai leu a pequena placa em sua base. Ele se virou para o menino e disse: \"Este aqui é o Pau-Brasil. É uma árvore que, como pode ver, não tem folhas.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "folhas",
-                "árvores",
-                "jardim botânico",
-                "Pau-Brasil"
+                "A regra geral sobre árvores continua válida para outros casos",
+                "O pai concluiu que sua definição inicial de árvore estava completamente errada.",
+                "O fato de a árvore se chamar Pau-Brasil é a única razão pela qual ela não tem folhas.",
+                "Todas as árvores da espécie Pau-Brasil são permanentemente desfolhadas."
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 10,
             "context": "Na biblioteca do conservatório, o jovem estudante folheava um manual de introdução à música. A primeira frase da página era simples e direta: via de regra, músicos são pessoas que tocam instrumentos. Seu olhar, no entanto, foi atraído para o imponente retrato a óleo na parede, onde um homem de cabelos revoltos o encarava. Sob a pintura, uma placa de latão dizia \"Ludwig van Beethoven\". O estudante então se lembrou de uma peculiaridade que seu mestre havia contado sobre o célebre pianista: embora fosse um músico genial, ele pertencia a um caso particular, o de um músico que não tocava instrumentos.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "estudantes",
-                "mestres",
-                "pianistas",
-                "músicos"
+                "Apenas pianistas geniais podem ser considerados músicos sem tocar instrumentos.",
+                "O retrato a óleo na parede foi pintado pelo próprio Ludwig van Beethoven.",
+                "A descoberta sobre Beethoven invalida a regra apresentada no manual de música.",
+                "A regra geral sobre músicos continua válida para outros casos"
             ],
             "answer": 3
         }

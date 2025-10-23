@@ -1,3 +1,4 @@
+# src/pipeline/4_finalize_mcqa.py
 import os
 import json
 import re
@@ -25,7 +26,6 @@ MODEL_NAME = 'gemini-2.5-pro'
 # ------------------------------------
 
 def parse_stage_2_log(log_path):
-    """Lê o log da Etapa 2 e agrupa as instâncias por regra."""
     if not log_path.exists():
         raise FileNotFoundError(f"Arquivo de log da Etapa 2 '{log_path}' não encontrado.")
     
@@ -41,7 +41,6 @@ def parse_stage_2_log(log_path):
     return instances_by_rule
 
 def generate_distractors(key_manager, model_name, context, correct_answer, rule_key):
-    """Faz uma chamada de API para gerar três opções incorretas (distratores)."""
     prompt = f"""Sua tarefa é gerar TRÊS opções incorretas (distratores) para uma pergunta de múltipla escolha.
 As opções devem ser plausíveis dado o contexto, mas logicamente incorretas ou irrelevantes.
 
@@ -53,25 +52,23 @@ Resposta Correta: "{correct_answer}"
     response_text = make_api_call(key_manager, model_name, prompt, call_purpose=f"Distratores ({rule_key})")
     
     if response_text:
-        # Limpa a resposta, removendo linhas vazias ou de introdução
         distractors = [line.strip() for line in response_text.split('\n') if line.strip()]
         return distractors[:3]
     return []
 
 if __name__ == "__main__":
     try:
-        key_path = Path("D:/IFCE/api_keys.json")
-        key_manager = ApiKeyManager(key_path)
+        key_manager = ApiKeyManager()
     except Exception as e:
         print(f"CRÍTICO: Falha ao iniciar o gerenciador de chaves. Erro: {e}"); exit()
 
-    input_log_path = Path.cwd().parent / INPUT_FILE
+    input_log_path = INPUT_FILE
     
     print(f"INICIANDO GERAÇÃO DO DATASET MCQA")
     print(f"Lendo contextos naturalizados de: {input_log_path}")
     all_instances_data = parse_stage_2_log(input_log_path)
 
-    base_output_dir = Path.cwd().parent / 'LogicBench(Eval)' / 'MCQA'
+    base_output_dir = BASE_OUTPUT_DIR
     print(f"Gerando arquivos finais em: {base_output_dir}\n")
 
     for rule_key, instances in tqdm(all_instances_data.items(), desc="Processando Regras (MCQA)"):
@@ -93,19 +90,12 @@ if __name__ == "__main__":
             sentence_bank = instance_data["sentence_bank"]
             natural_context = instance_data["natural_context"]
 
-            # 1. Encontrar a conclusão correta
-            correct_conclusion_text = ""
+            # 1. Encontrar a conclusão correta usando a nova chave explícita
             try:
-                # Encontra o template da pergunta com resposta "Sim"
-                correct_q_template = next(q for q in rule_template["bqa_templates"] if q["answer"] == "Sim")
-                # Pega a primeira variação da pergunta
-                question_format = correct_q_template["question"][0] 
-                # Extrai o placeholder da conclusão (ex: '{not p}')
-                conclusion_placeholder = re.search(r"\{(.*?)\}", question_format).group(0)
-                # Formata o placeholder com o banco de sentenças
-                correct_conclusion_text = conclusion_placeholder.format(**sentence_bank)
-            except (StopIteration, AttributeError) as e:
-                logging.error(f"Não foi possível extrair a conclusão correta para a regra {rule_key}. Erro: {e}. Pulando instância.")
+                conclusion_format = rule_template["mcqa_correct_conclusion"]
+                correct_conclusion_text = conclusion_format.format(**sentence_bank)
+            except KeyError:
+                logging.error(f"A chave 'mcqa_correct_conclusion' não foi encontrada para a regra {rule_key}. Pulando.")
                 continue
             
             # 2. Gerar os distratores via API

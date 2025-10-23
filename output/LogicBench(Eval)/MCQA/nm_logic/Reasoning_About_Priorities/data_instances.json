@@ -7,22 +7,22 @@
             "context": "Carlos planejava um piquenique no parque para o dia seguinte e, enquanto arrumava a cesta, consultou seu celular. O aplicativo de tempo mostrava um sol radiante e garantia que não haveria chuva. Um momento depois, porém, a voz grave do meteorologista no telejornal da noite chamou sua atenção; ele apontava para mapas e, com convicção, anunciava a chegada de aguaceiros pela manhã. Carlos suspirou, lembrando que o velho apresentador raramente se enganava, ao contrário do ícone em sua tela, que já o deixara na mão em outras ocasiões.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
+                "o aplicativo de tempo nunca acerta a previsão",
                 "vai chover amanhã",
-                "o aplicativo do celular é mais confiável que o telejornal",
-                "o dia será ensolarado",
-                "Carlos ficou indeciso sobre a previsão do tempo"
+                "Carlos vai cancelar o piquenique",
+                "o dia será ensolarado"
             ],
-            "answer": 0
+            "answer": 1
         },
         {
             "id": 2,
             "context": "Mariana suspirou, olhando para a pilha de papéis da imobiliária sobre sua mesa. A decisão de financiar o apartamento parecia cada vez mais complicada. De um lado, o comunicado oficial do Banco Central era claro, indicando uma elevação da taxa de juros já no próximo mês. Do outro, ela acabara de ler a análise de um economista renomado que argumentava exatamente o contrário, prevendo que a taxa não subiria. Ela ponderou por um instante, lembrando-se que, no mundo das finanças, a palavra do Banco Central costuma ter um peso muito maior do que a opinião de qualquer analista.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o Banco Central revogará sua decisão após a análise do economista.",
-                "a taxa de juros se manterá estável, conforme a previsão do economista.",
+                "a taxa de juros permanecerá estável, de acordo com a análise do economista.",
+                "o preço do apartamento será reduzido pela imobiliária para facilitar o financiamento.",
                 "a taxa de juros será elevada no próximo mês",
-                "Mariana desistirá do financiamento por causa da instabilidade do mercado."
+                "o Banco Central revogará seu comunicado oficial após a análise do economista."
             ],
             "answer": 2
         },
@@ -31,10 +31,10 @@
             "context": "A jornalista Clara sentia o peso da responsabilidade enquanto olhava para a página em branco em seu monitor. De um lado, tinha o estudo recém-publicado na prestigiosa revista *Science*, cujas conclusões eram inequívocas: a nova vacina era segura e eficaz. Em outra aba, o comunicado oficial da Organização Mundial da Saúde afirmava exatamente o contrário, negando a segurança e eficácia da mesma vacina. Clara suspirou, lembrando-se do consenso em sua área: um estudo detalhado e revisado por pares, como o da *Science*, era sempre considerado uma fonte de informação mais confiável do que uma declaração geral de uma organização, por mais respeitada que fosse.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o estudo da *Science* provavelmente está desatualizado em comparação ao comunicado da OMS",
-                "a nova vacina não é segura nem eficaz",
+                "a vacina é eficaz, mas sua segurança ainda é incerta",
+                "os dados contraditórios não permitem chegar a uma conclusão definitiva",
                 "a nova vacina é segura e eficaz",
-                "as informações são contraditórias e não é possível chegar a uma conclusão"
+                "a nova vacina não é segura nem eficaz"
             ],
             "answer": 2
         },
@@ -43,24 +43,24 @@
             "context": "Ricardo, o jornalista esportivo, olhava para a tela em branco, sentindo o peso do prazo final se aproximando. As palavras do agente do craque do time ecoavam em sua mente: uma declaração pública e firme garantindo a transferência na próxima temporada. Por outro lado, havia a mensagem de sua fonte de dentro do clube, uma negação categórica e anônima de que qualquer negociação estivesse em andamento. Ele ponderou por um instante, lembrando-se de quantas vezes, em sua carreira, os comunicados daquele agente específico se provaram corretos, em nítido contraste com os boatos e desinformações que frequentemente surgiam dos bastidores do clube.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
+                "o jogador não tem nenhuma negociação em andamento para sair do clube.",
+                "a fonte anônima do clube é considerada mais confiável por Ricardo.",
                 "o jogador será transferido na próxima temporada",
-                "Ricardo publicará uma matéria afirmando que a negociação é incerta.",
-                "o jogador renovará seu contrato com o time atual.",
-                "a transferência foi adiada por questões financeiras entre os clubes."
+                "o jornalista decidirá ignorar ambas as fontes e aguardar um comunicado oficial."
             ],
-            "answer": 0
+            "answer": 2
         },
         {
             "id": 5,
             "context": "André navegava ansiosamente por sites de notícias, tentando descobrir a data exata de lançamento do novo smartphone que tanto queria. Em uma entrevista oficial, o porta-voz da empresa de tecnologia afirmou com todas as letras que o aparelho chegaria às lojas em outubro. A animação de André, no entanto, foi interrompida ao ler a matéria de um conhecido site especializado em vazamentos, que garantia justamente o contrário: o lançamento não aconteceria em outubro. Ele parou para ponderar, lembrando-se que, no mundo da tecnologia, a palavra oficial do porta-voz da empresa sempre se mostrou muito mais certeira e confiável do que os rumores vindos desses sites.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "André decidiu esperar por novas notícias antes de tirar uma conclusão.",
                 "o novo smartphone será lançado em outubro",
-                "o lançamento do smartphone foi adiado indefinidamente.",
-                "a empresa de tecnologia irá processar o site de vazamentos pela informação incorreta."
+                "o lançamento do smartphone não ocorrerá em outubro.",
+                "a empresa de tecnologia adiou o lançamento devido aos vazamentos.",
+                "André ficou confuso e não conseguiu chegar a uma conclusão sobre a data."
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 6,
@@ -68,9 +68,9 @@
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "as inscrições para o exame nacional foram prorrogadas",
-                "o orientador de Lucas estava equivocado sobre qual fonte de informação era a mais confiável.",
-                "o prazo final para as inscrições já havia se encerrado, conforme o Diário Oficial.",
-                "Lucas decidiu não se inscrever no exame devido à confusão entre as fontes."
+                "as inscrições para o exame nacional foram encerradas no prazo original.",
+                "a informação do Diário Oficial prevaleceu sobre a do Ministério da Educação.",
+                "o exame nacional foi cancelado devido à inconsistência das informações."
             ],
             "answer": 0
         },
@@ -79,10 +79,10 @@
             "context": "Mariana estava indecisa sobre o que assistir naquela noite. Navegando pelo site da Folha, leu a coluna de seu crítico de cinema favorito, que descrevia o novo filme do aclamado diretor como uma \"obra-prima inesquecível\". Desconfiada de tanto entusiasmo, ela abriu o site Rotten Tomatoes para ver a opinião geral, mas lá o consenso do público era claro: o filme não era, de forma alguma, uma obra-prima. Ela ficou pensativa por um instante, lembrando-se que, para ela, a análise especializada e criteriosa do crítico da Folha sempre se provou muito mais confiável do que a média de avaliações do público na internet.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "a opinião do público na internet é mais confiável que a da crítica especializada.",
-                "Mariana desistiu de ver o filme por causa das críticas conflitantes.",
+                "O crítico da Folha e o público da internet concordaram sobre a qualidade do filme.",
+                "O diretor do filme era desconhecido e o seu trabalho dividiu as opiniões.",
                 "o novo filme do diretor é uma obra-prima",
-                "o filme foi mal avaliado pelo público no Rotten Tomatoes."
+                "Mariana confia mais na opinião do público do que na de críticos especializados."
             ],
             "answer": 2
         },
@@ -91,36 +91,36 @@
             "context": "Carlos planejava seu trajeto para o trabalho na manhã seguinte quando uma notificação piscou em seu celular: era um comunicado oficial da prefeitura, informando que a principal avenida do centro estaria interditada para obras. No entanto, ao mesmo tempo, a âncora do telejornal local, que passava na TV da sala, garantia aos espectadores que a avenida não seria fechada. Ele ponderou por um instante, lembrando-se que, por experiência, os avisos diretos da prefeitura costumavam ser muito mais precisos do que as reportagens do noticiário.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Carlos decidiu ignorar ambos os avisos e seguir seu trajeto habitual.",
-                "a interdição da avenida ocorrerá devido a um evento público, e não a obras.",
-                "a principal avenida do centro será fechada para obras",
-                "a principal avenida do centro permanecerá aberta ao tráfego."
+                "a principal avenida do centro não será fechada, conforme o telejornal.",
+                "as informações da prefeitura e do telejornal eram igualmente confiáveis.",
+                "a interdição da avenida foi cancelada após o comunicado da prefeitura.",
+                "a principal avenida do centro será fechada para obras"
             ],
-            "answer": 2
+            "answer": 3
         },
         {
             "id": 9,
             "context": "Clara, uma fã devota, estava mergulhada na leitura da recém-lançada biografia autorizada de seu ídolo. A passagem que ela relia com um sorriso afirmava que o novo álbum seria uma grandiosa obra conceitual, totalmente baseada nas viagens que ele fez pelo Sudeste Asiático. Sua empolgação, no entanto, foi interrompida pela lembrança da entrevista que ele concedeu à Rolling Stone no mês anterior, onde negava veementemente qualquer plano de um álbum conceitual sobre viagens. Ela pousou o livro no colo, refletindo sobre as informações conflitantes, mas no fundo sabia que um projeto oficial e meticulosamente revisado como a biografia tinha um peso de verdade muito maior do que uma declaração talvez apressada dada a um jornalista.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "a biografia foi escrita por um jornalista da revista Rolling Stone.",
-                "Clara ficou tão confusa com as informações que perdeu o interesse pelo álbum.",
                 "o novo álbum será conceitual e baseado em suas viagens",
-                "o artista negou em uma entrevista que o álbum seria conceitual."
+                "a biografia tratava de um projeto antigo, e a entrevista de um novo lançamento.",
+                "o novo álbum não será conceitual nem terá um tema de viagens.",
+                "Clara concluiu que a entrevista era mais confiável por ser mais recente."
             ],
-            "answer": 2
+            "answer": 0
         },
         {
             "id": 10,
             "context": "Carlos sentou-se à mesa da cozinha, tentando planejar o orçamento dos próximos meses. Sobre a mesa, o relatório anual da companhia de energia, que havia chegado mais cedo, era taxativo ao projetar um aumento na conta de luz no próximo trimestre. Buscando alguma notícia positiva, ele ligou a TV e ouviu a declaração do ministro de Minas e Energia, que, em tom tranquilizador, afirmava categoricamente que não haveria aumento algum. Carlos desligou a TV, pensativo. Ele sabia que, historicamente, o relatório técnico da companhia de energia sempre se provou uma fonte de informação mais confiável do que as declarações públicas do ministro.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o relatório da companhia de energia estava desatualizado e foi corrigido pelo ministro.",
-                "a conta de luz não sofrerá alteração, pois a palavra do ministro é a decisão final.",
-                "Carlos decidiu ignorar ambas as fontes de informação e esperar o próximo mês.",
-                "haverá um aumento na conta de luz no próximo trimestre"
+                "haverá uma redução na tarifa de energia graças à intervenção do ministro.",
+                "haverá um aumento na conta de luz no próximo trimestre",
+                "o valor da conta de luz permanecerá estável devido ao conflito de informações.",
+                "a conta de luz não sofrerá aumento no próximo trimestre."
             ],
-            "answer": 3
+            "answer": 1
         }
     ]
 }

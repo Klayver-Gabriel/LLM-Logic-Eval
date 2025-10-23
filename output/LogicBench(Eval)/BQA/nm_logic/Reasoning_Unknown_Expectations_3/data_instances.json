@@ -7,11 +7,11 @@
             "context": "No sítio de sua avó, o pequeno Léo adorava observar a natureza. Ele tinha aprendido que os pássaros, como regra, são criaturas com penas e que, também como regra, são capazes de voar. Enquanto pensava nisso, seu olhar pousou na galinha da casa, a Cocoricó, que ciscava animadamente no terreiro. Léo achava-a muito curiosa, pois, diferente de todas as outras aves que já tinha visto, a pobre Cocoricó não tinha uma pena sequer.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'a galinha Cocoricó é voam'?",
+                    "question": "É razoável concluir que 'a galinha Cocoricó é voam'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir que 'a galinha Cocoricó também não é voam'?",
+                    "question": "É razoável concluir que 'a galinha Cocoricó também não é voam'?",
                     "answer": "Não"
                 }
             ]
@@ -25,7 +25,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir que 'a baleia Moby Dick também não é têm guelras'?",
+                    "question": "É razoável concluir que 'a baleia Moby Dick também não é têm guelras'?",
                     "answer": "Não"
                 }
             ]
@@ -35,7 +35,7 @@
             "context": "O jovem biólogo revisava suas anotações em frente ao tanque de observação. Ele lia em voz baixa para memorizar: \"Normalmente, os mamíferos são animais que têm pelos. Além disso, a regra geral é que mamíferos produzem leite.\" Seus olhos se desviaram do caderno para a criatura que nadava graciosamente na água. Era Perry, o ornitorrinco, um caso de estudo famoso. O biólogo sorriu ao se lembrar do fato que o tornava tão interessante e que estava destacado em sua ficha: aquele animal em particular não tinha pelos.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'o ornitorrinco Perry é produzem leite'?",
+                    "question": "É razoável concluir que 'o ornitorrinco Perry é produzem leite'?",
                     "answer": "Sim"
                 },
                 {
@@ -53,7 +53,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir que 'o carro dos Flintstones também não é usam rodas'?",
+                    "question": "É razoável concluir que 'o carro dos Flintstones também não é usam rodas'?",
                     "answer": "Não"
                 }
             ]
@@ -105,7 +105,7 @@
             "context": "Seu Afonso passava os dedos pelas suas ferramentas, cada uma com o cabo de madeira gasto pelo uso. Para ele, o conceito era claro: ferramentas eram, normalmente, objetos manuais que serviam para construir, para erguer ou montar. No canto da bancada, porém, zumbia um aparelho que seu neto trouxera, a tal impressora 3D, uma MakerBot. Afonso observava o plástico derretido se transformar em um pequeno objeto e sabia, com certeza, que aquela máquina não estava sendo usada para construir no sentido que ele conhecia.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'a impressora 3D MakerBot é são objetos manuais'?",
+                    "question": "É razoável concluir que 'a impressora 3D MakerBot é são objetos manuais'?",
                     "answer": "Sim"
                 },
                 {
@@ -119,7 +119,7 @@
             "context": "Enquanto arrumava suas HQs, o jovem colecionador pensava alto sobre os padrões. Ele murmurou que, como regra geral, espera-se que super-heróis combatam o crime, assim como se espera que usem uniformes característicos para serem identificados. Então, ele pegou um volume do mercenário tagarela e sorriu. \"Mas aí tem o Deadpool\", disse ele para si mesmo, \"e todo mundo sabe que ele, definitivamente, não se encaixa na parte de lutar contra o crime\".",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'o anti-herói Deadpool é usam uniformes'?",
+                    "question": "É razoável concluir que 'o anti-herói Deadpool é usam uniformes'?",
                     "answer": "Sim"
                 },
                 {
@@ -133,11 +133,11 @@
             "context": "Carlos folheava os volumes em sua estante, sentindo a textura familiar das páginas. Para ele, um livro era, por definição, um objeto de papel, um refúgio físico onde as palavras impressas criavam universos. Contudo, seu olhar se desviou para o leitor digital sobre a mesa. Ali, estava aberto \"O Guia do Mochileiro das Galáxias\", um arquivo digital cuja tela lisa e fria sob seus dedos confirmava, sem sombra de dúvida, que não era feito de celulose.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'o e-book 'O Guia do Mochileiro das Galáxias' é contêm texto'?",
+                    "question": "É razoável concluir que 'o e-book 'O Guia do Mochileiro das Galáxias' é contêm texto'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir que 'o e-book 'O Guia do Mochileiro das Galáxias' também não é contêm texto'?",
+                    "question": "É razoável concluir que 'o e-book 'O Guia do Mochileiro das Galáxias' também não é contêm texto'?",
                     "answer": "Não"
                 }
             ]

@@ -7,11 +7,11 @@
             "context": "Miguel olhou para o relógio, já estava atrasado. Naquela manhã, uma regra estranha parecia valer para todos os veículos da família: ou estavam seguros e guardados na garagem, ou tinham um pneu furado. Correndo para a rua, ele viu seu carro vermelho, o único que poderia usar, parado junto à calçada, claramente fora da garagem.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o carro vermelho é tem um pneu furado'?",
+                    "question": "Isso implica que 'o carro vermelho é tem um pneu furado'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o carro vermelho não é tem um pneu furado'?",
+                    "question": "Isso implica que 'o carro vermelho não é tem um pneu furado'?",
                     "answer": "Não"
                 }
             ]
@@ -21,11 +21,11 @@
             "context": "Marco sentou-se em um pequeno café, folheando um guia de viagens um tanto peculiar que encontrou em um sebo. Uma regra estranha, escrita à mão na contracapa, chamou sua atenção: aparentemente, neste curioso país, toda e qualquer cidade ou é a capital da França ou é famosa pela Torre Eiffel. Ele continuou a ler, e algumas páginas depois, em um capítulo sobre a administração local, o guia afirmava categoricamente que a cidade de Paris, onde ele tomava seu café, não era a capital.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'a cidade de Paris é é famosa pela Torre Eiffel'?",
+                    "question": "Isso implica que 'a cidade de Paris é é famosa pela Torre Eiffel'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'a cidade de Paris não é é famosa pela Torre Eiffel'?",
+                    "question": "Isso implica que 'a cidade de Paris não é é famosa pela Torre Eiffel'?",
                     "answer": "Não"
                 }
             ]
@@ -35,11 +35,11 @@
             "context": "Matias organizava a antiga estante de seu avô, onde uma pequena placa de metal ditava uma regra peculiar: toda obra ali presente ou fora escrita por Gabriel García Márquez, ou era um marco do realismo mágico. Ele pegou o volume de 'Cem Anos de Solidão' e, ao verificar a capa, constatou com um sorriso que o nome do autor definitivamente não era o do célebre escritor colombiano.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o livro 'Cem Anos de Solidão' é é um marco do realismo mágico'?",
+                    "question": "Isso implica que 'o livro 'Cem Anos de Solidão' é é um marco do realismo mágico'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o livro 'Cem Anos de Solidão' não é é um marco do realismo mágico'?",
+                    "question": "Isso implica que 'o livro 'Cem Anos de Solidão' não é é um marco do realismo mágico'?",
                     "answer": "Não"
                 }
             ]
@@ -53,7 +53,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o planeta Júpiter não é possui uma grande mancha vermelha'?",
+                    "question": "Isso implica que 'o planeta Júpiter não é possui uma grande mancha vermelha'?",
                     "answer": "Não"
                 }
             ]
@@ -77,11 +77,11 @@
             "context": "O velho professor de arte, com seu jeito peculiar de ensinar, propôs um desafio mental à sua aluna. \"Para nosso exercício de hoje\", disse ele, \"vamos supor que, no mundo da arte, toda e qualquer pintura ou foi criada pelas mãos de Leonardo da Vinci ou, invariavelmente, está em exposição no famoso Museu do Louvre. Não há outra possibilidade.\" Ele fez uma pausa dramática e então acrescentou, com um brilho nos olhos: \"Agora, considere isto: a icônica Mona Lisa, por mais surpreendente que pareça, comprovadamente não foi pintada por Leonardo da Vinci.\"",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'a Mona Lisa é está exposta no Museu do Louvre'?",
+                    "question": "Isso implica que 'a Mona Lisa é está exposta no Museu do Louvre'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'a Mona Lisa não é está exposta no Museu do Louvre'?",
+                    "question": "Isso implica que 'a Mona Lisa não é está exposta no Museu do Louvre'?",
                     "answer": "Não"
                 }
             ]
@@ -105,11 +105,11 @@
             "context": "Enquanto estudava para sua prova de astronomia, Miguel se deparou com uma definição peculiar em seu livro. O texto afirmava categoricamente que toda estrela, sem exceção, ou serve como o centro do nosso sistema solar, ou é responsável por fornecer luz e calor para a Terra. Logo em seguida, ele leu uma anotação que seu professor havia feito no quadro e que ele copiara: uma observação curiosa de que o Sol, na verdade, não está posicionado no centro do nosso sistema solar.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o Sol é fornece luz e calor para a Terra'?",
+                    "question": "Isso implica que 'o Sol é fornece luz e calor para a Terra'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o Sol não é fornece luz e calor para a Terra'?",
+                    "question": "Isso implica que 'o Sol não é fornece luz e calor para a Terra'?",
                     "answer": "Não"
                 }
             ]
@@ -123,7 +123,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o filme 'Jurassic Park' não é é famoso por seus efeitos especiais com dinossauros'?",
+                    "question": "Isso implica que 'o filme 'Jurassic Park' não é é famoso por seus efeitos especiais com dinossauros'?",
                     "answer": "Não"
                 }
             ]
@@ -137,7 +137,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'a bicicleta azul não é tem uma cesta na frente'?",
+                    "question": "Isso implica que 'a bicicleta azul não é tem uma cesta na frente'?",
                     "answer": "Não"
                 }
             ]

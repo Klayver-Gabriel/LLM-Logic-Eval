@@ -7,11 +7,19 @@
             "context": "Naquela escola, o conselho dos professores era um verdadeiro mantra: quem se dedica a estudar para a prova de matemática, invariavelmente tira uma boa nota em exatas, e quem se esforça praticando a redação, sempre garante um bom resultado em humanas. Ana, contudo, olhava para seu boletim recém-entregue com um suspiro, pois sabia que, infelizmente, ou sua nota em exatas não tinha sido boa, ou a de humanas a havia decepcionado.",
             "qa_pairs": [
                 {
-                    "question": "Podemos afirmar que 'Ana não é estudar para a prova de matemática ou não é praticar a redação'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Ana? (a) não é estudar para a prova de matemática e (b) não é praticar a redação?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "É correto concluir que 'Ana é estudar para a prova de matemática ou é praticar a redação'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Ana? (a) é estudar para a prova de matemática e (b) é praticar a redação?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Ana? (a) não é estudar para a prova de matemática e (b) é praticar a redação?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Ana? (a) é estudar para a prova de matemática e (b) não é praticar a redação?",
                     "answer": "Não"
                 }
             ]
@@ -21,11 +29,19 @@
             "context": "O instrutor da academia sempre dá o mesmo conselho a todos os novatos, uma verdade quase universal no mundo fitness: quem se dedica à musculação com regularidade, inevitavelmente aumenta a massa muscular, e da mesma forma, quem corre na esteira com frequência acaba melhorando a capacidade cardiorrespiratória. Hoje, observando meu amigo Carlos treinar, notei que, apesar de sua dedicação aparente, seus resultados contavam uma história diferente. Ficou claro para mim que ou ele não conseguiu aumentar sua massa muscular como esperava, ou então sua capacidade cardiorrespiratória não teve a melhora que deveria.",
             "qa_pairs": [
                 {
-                    "question": "É correto concluir que 'Carlos não é fazer musculação regularmente ou não é correr na esteira com frequência'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Carlos? (a) não é fazer musculação regularmente e (b) não é correr na esteira com frequência?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos afirmar que 'Carlos é fazer musculação regularmente ou é correr na esteira com frequência'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Carlos? (a) é fazer musculação regularmente e (b) é correr na esteira com frequência?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Carlos? (a) não é fazer musculação regularmente e (b) é correr na esteira com frequência?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Carlos? (a) é fazer musculação regularmente e (b) não é correr na esteira com frequência?",
                     "answer": "Não"
                 }
             ]
@@ -35,11 +51,19 @@
             "context": "Clara, a analista de mercado, folheava o relatório da Empresa InovaTech com dois princípios claros em sua mente, quase como um mantra de sua consultoria: o investimento em marketing digital invariavelmente leva a um maior alcance online e vendas, enquanto o investimento no treinamento da equipe resulta diretamente na melhoria da qualidade do atendimento. Ao analisar os gráficos de desempenho do último trimestre, um dado a deixou intrigada: os relatórios indicavam claramente que ou o alcance online e as vendas da InovaTech não haviam crescido, ou a qualidade do atendimento ao cliente não tinha apresentado qualquer melhora.",
             "qa_pairs": [
                 {
-                    "question": "Podemos afirmar que 'Empresa InovaTech não é investir em marketing digital ou não é investir no treinamento de funcionários'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Empresa InovaTech? (a) não é investir em marketing digital e (b) não é investir no treinamento de funcionários?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "É correto concluir que 'Empresa InovaTech é investir em marketing digital ou é investir no treinamento de funcionários'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Empresa InovaTech? (a) é investir em marketing digital e (b) é investir no treinamento de funcionários?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Empresa InovaTech? (a) não é investir em marketing digital e (b) é investir no treinamento de funcionários?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Empresa InovaTech? (a) é investir em marketing digital e (b) não é investir no treinamento de funcionários?",
                     "answer": "Não"
                 }
             ]
@@ -49,11 +73,19 @@
             "context": "Sofia revisava seu plano de carreira, lembrando-se dos conselhos que pareciam ser regras de ouro no mercado. Seu mentor havia sido categórico: um curso intensivo de inglês era o passaporte certo para uma vaga em uma multinacional, assim como um curso de programação era a garantia de um emprego como desenvolvedora de software. Agora, encarando a realidade, ela suspirava ao admitir para si mesma que ou não havia conseguido a vaga na multinacional, ou não tinha sido contratada como desenvolvedora.",
             "qa_pairs": [
                 {
-                    "question": "É correto concluir que 'Sofia não é fazer um curso intensivo de inglês ou não é fazer um curso de programação'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Sofia? (a) não é fazer um curso intensivo de inglês e (b) não é fazer um curso de programação?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos afirmar que 'Sofia é fazer um curso intensivo de inglês ou é fazer um curso de programação'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Sofia? (a) é fazer um curso intensivo de inglês e (b) é fazer um curso de programação?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Sofia? (a) não é fazer um curso intensivo de inglês e (b) é fazer um curso de programação?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Sofia? (a) é fazer um curso intensivo de inglês e (b) não é fazer um curso de programação?",
                     "answer": "Não"
                 }
             ]
@@ -63,11 +95,19 @@
             "context": "Carlos, ao observar a vizinhança, sempre refletia sobre as melhorias residenciais. Para ele, a lógica era clara: quem pinta as paredes da casa certamente acaba por renovar o ambiente e valorizar o imóvel, e quem investe em painéis solares no telhado tem como consequência inevitável a redução da conta de energia elétrica. Contudo, algo sobre a Família Silva, seus vizinhos, o deixava intrigado. Ele tinha ouvido dizer que, após as reformas, ou eles não sentiram que o ambiente foi renovado e o imóvel valorizado, ou simplesmente não perceberam qualquer redução na sua conta de luz.",
             "qa_pairs": [
                 {
-                    "question": "Podemos afirmar que 'Família Silva não é pintar as paredes da casa ou não é instalar painéis solares no telhado'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Família Silva? (a) não é pintar as paredes da casa e (b) não é instalar painéis solares no telhado?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "É correto concluir que 'Família Silva é pintar as paredes da casa ou é instalar painéis solares no telhado'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Família Silva? (a) é pintar as paredes da casa e (b) é instalar painéis solares no telhado?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Família Silva? (a) não é pintar as paredes da casa e (b) é instalar painéis solares no telhado?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Família Silva? (a) é pintar as paredes da casa e (b) não é instalar painéis solares no telhado?",
                     "answer": "Não"
                 }
             ]
@@ -77,11 +117,19 @@
             "context": "Lucas sonhava acordado com suas habilidades. Ele sabia que, se aprendesse a tocar violão, poderia finalmente tocar as músicas favoritas para seus amigos nas reuniões. Também tinha certeza de que, se dominasse a arte da cozinha italiana, conseguiria preparar aqueles jantares especiais que sua família tanto gostaria. A realidade, contudo, era um pouco desanimadora, pois ele não estava conseguindo encantar seus amigos com seus acordes, ou então não estava preparando os tais jantares para a família.",
             "qa_pairs": [
                 {
-                    "question": "É correto concluir que 'Lucas não é aprender a tocar violão ou não é aprender a cozinhar pratos italianos'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Lucas? (a) não é aprender a tocar violão e (b) não é aprender a cozinhar pratos italianos?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos afirmar que 'Lucas é aprender a tocar violão ou é aprender a cozinhar pratos italianos'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Lucas? (a) é aprender a tocar violão e (b) é aprender a cozinhar pratos italianos?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Lucas? (a) não é aprender a tocar violão e (b) é aprender a cozinhar pratos italianos?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Lucas? (a) é aprender a tocar violão e (b) não é aprender a cozinhar pratos italianos?",
                     "answer": "Não"
                 }
             ]
@@ -91,11 +139,19 @@
             "context": "Mariana pensava sobre suas últimas férias. Ela sabia que, para todo mundo, uma viagem à praia é sinônimo de relaxar e aproveitar o sol e o mar, enquanto ir para as montanhas sempre envolve fazer trilhas e apreciar a natureza. No entanto, ao lembrar-se de sua própria experiência, um fato era inegável: ou ela definitivamente não conseguiu relaxar e aproveitar o sol e o mar, ou então não fez nenhuma trilha para apreciar a natureza.",
             "qa_pairs": [
                 {
-                    "question": "Podemos afirmar que 'Mariana não é fazer uma viagem para a praia ou não é fazer uma viagem para as montanhas'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Mariana? (a) não é fazer uma viagem para a praia e (b) não é fazer uma viagem para as montanhas?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "É correto concluir que 'Mariana é fazer uma viagem para a praia ou é fazer uma viagem para as montanhas'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Mariana? (a) é fazer uma viagem para a praia e (b) é fazer uma viagem para as montanhas?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Mariana? (a) não é fazer uma viagem para a praia e (b) é fazer uma viagem para as montanhas?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Mariana? (a) é fazer uma viagem para a praia e (b) não é fazer uma viagem para as montanhas?",
                     "answer": "Não"
                 }
             ]
@@ -105,11 +161,19 @@
             "context": "Rafael olhava para seu extrato bancário com um suspiro. Ele se lembrava das regras financeiras que seu mentor sempre repetia. A primeira era clara: quem consegue guardar 15% do salário todo mês, inevitavelmente constrói uma sólida reserva de emergência. A segunda era sobre o futuro: investir em ações de baixo risco é o caminho para fazer o dinheiro render e garantir a aposentadoria. Contudo, ao analisar sua situação atual, uma frustração o dominava, pois era evidente que ou ele havia falhado em construir sua reserva de emergência, ou então não estava conseguindo fazer seu dinheiro render para a aposentadoria.",
             "qa_pairs": [
                 {
-                    "question": "Podemos afirmar que 'Rafael não é economizar 15% do salário todo mês ou não é investir em ações de baixo risco'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Rafael? (a) não é economizar 15% do salário todo mês e (b) não é investir em ações de baixo risco?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos afirmar que 'Rafael é economizar 15% do salário todo mês ou é investir em ações de baixo risco'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Rafael? (a) é economizar 15% do salário todo mês e (b) é investir em ações de baixo risco?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Rafael? (a) não é economizar 15% do salário todo mês e (b) é investir em ações de baixo risco?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Rafael? (a) é economizar 15% do salário todo mês e (b) não é investir em ações de baixo risco?",
                     "answer": "Não"
                 }
             ]
@@ -119,11 +183,19 @@
             "context": "Clara relia o plano de metas da cidade, um documento cheio de otimismo. As propostas eram claras: a implementação da coleta seletiva de lixo levaria a um inevitável aumento na taxa de reciclagem, enquanto a criação de mais ciclovias seria a solução para incentivar o uso de bicicletas e, ao mesmo tempo, reduzir a poluição. Contudo, ao largar o panfleto e observar o relatório de progresso sobre a mesa, o desapontamento foi nítido. Os dados mostravam que a prefeitura ou não conseguiu aumentar a taxa de reciclagem, ou então falhou no seu esforço combinado de incentivar ciclistas e limpar o ar da cidade.",
             "qa_pairs": [
                 {
-                    "question": "É correto concluir que 'A prefeitura da cidade não é implementar a coleta seletiva de lixo ou não é criar mais ciclovias pela cidade'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para A prefeitura da cidade? (a) não é implementar a coleta seletiva de lixo e (b) não é criar mais ciclovias pela cidade?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "É correto concluir que 'A prefeitura da cidade é implementar a coleta seletiva de lixo ou é criar mais ciclovias pela cidade'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para A prefeitura da cidade? (a) é implementar a coleta seletiva de lixo e (b) é criar mais ciclovias pela cidade?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para A prefeitura da cidade? (a) não é implementar a coleta seletiva de lixo e (b) é criar mais ciclovias pela cidade?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para A prefeitura da cidade? (a) é implementar a coleta seletiva de lixo e (b) não é criar mais ciclovias pela cidade?",
                     "answer": "Não"
                 }
             ]
@@ -133,11 +205,19 @@
             "context": "Lucas, um colega de Beatriz, a observava de sua mesa enquanto tomava um café. Ela continuava no mesmo cargo de sempre, cuidando das planilhas de sempre. Ele suspirou, lembrando-se de como as trajetórias de carreira na empresa pareciam tão previsíveis. Era quase uma regra não escrita: quem se dedicava a um MBA em Gestão de Projetos inevitavelmente ganhava uma promoção para gerente. Da mesma forma, aqueles que conquistavam a cobiçada certificação em análise de dados sempre acabavam migrando para a ascendente área de tecnologia.",
             "qa_pairs": [
                 {
-                    "question": "Podemos afirmar que 'Beatriz não é fazer um MBA em Gestão de Projetos ou não é obter uma certificação em análise de dados'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Beatriz? (a) não é fazer um MBA em Gestão de Projetos e (b) não é obter uma certificação em análise de dados?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos afirmar que 'Beatriz é fazer um MBA em Gestão de Projetos ou é obter uma certificação em análise de dados'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Beatriz? (a) é fazer um MBA em Gestão de Projetos e (b) é obter uma certificação em análise de dados?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Beatriz? (a) não é fazer um MBA em Gestão de Projetos e (b) é obter uma certificação em análise de dados?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro para Beatriz? (a) é fazer um MBA em Gestão de Projetos e (b) não é obter uma certificação em análise de dados?",
                     "answer": "Não"
                 }
             ]

@@ -7,10 +7,10 @@
             "context": "O sol da manhã entrava pela janela, iluminando o mapa aberto sobre a mesa. Era o dilema de sempre no fim de semana: mar ou serra? Eu sabia que, se optasse pelo litoral, a primeira coisa que faria seria mergulhar no mar. Já a escolha pela montanha era um convite certo para uma longa caminhada por uma trilha entre as árvores. Enquanto tomava meu café, uma certeza se formou na minha mente, simplificando tudo: neste fim de semana, ou eu sentirei a areia da praia sob meus pés, ou simplesmente não haverá trilha alguma.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu vou nadar",
-                "As trilhas da serra estão fechadas.",
-                "Eu vou caminhar na trilha.",
-                "A decisão final é não ir a lugar nenhum."
+                "Eu vou nadar ou não Eu escolho ir à montanha",
+                "Eu não sentirei a areia da praia ou farei uma longa caminhada por uma trilha.",
+                "Se eu for para a montanha, então não sentirei a areia da praia.",
+                "Eu vou sentir a areia da praia e também vou caminhar pela trilha."
             ],
             "answer": 0
         },
@@ -19,34 +19,34 @@
             "context": "André ponderava suas opções para a noite que começava. Se ele se animasse a sair para o cinema, a recompensa seria clara: a imersão total de um filme na tela gigante. Por outro lado, se a preguiça vencesse e ele decidisse ficar em casa, o plano já estava traçado, que seria maratonar aquela nova série no serviço de streaming. Contudo, enquanto olhava pela janela, uma certeza se solidificou em sua mente, um pacto que fez consigo mesmo: esta noite, ou ele finalmente sairia para o cinema, ou então não assistiria àquela série de jeito nenhum.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Chamo alguns amigos para me visitarem.",
-                "Maratono a nova série em casa.",
-                "Vou dormir mais cedo para descansar.",
-                "Assisto a um filme em tela grande"
+                "Se a preguiça vencer, maratono a nova série em casa.",
+                "Não ir ao cinema significa que, com certeza, vou maratonar a série.",
+                "Assisto a um filme em tela grande ou não Decido ficar em casa esta noite",
+                "Vou ao cinema e, ao chegar, assisto à nova série no streaming."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 3,
             "context": "Lucas chegou em casa exausto, pensando no que fazer para o jantar. Ele sabia que, se decidisse cozinhar, a consequência seria clara: economizaria um bom dinheiro e faria uma refeição bem mais saudável. Por outro lado, a opção de pedir comida por aplicativo também tinha um resultado previsível: gastaria mais, mas em troca teria a imensa conveniência de não precisar fazer nada. Enquanto ponderava, uma única certeza se estabeleceu para aquela noite: ou ele iria para a cozinha preparar a própria refeição, ou não acabaria na situação de ter mais gastos em troca de praticidade.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Gasto mais dinheiro em troca de maior conveniência.",
-                "Preparo uma refeição saudável, mas acabo gastando muito.",
-                "Peço comida por aplicativo e, mesmo assim, consigo economizar.",
-                "Economizo dinheiro e como de forma mais saudável"
+                "Economizo dinheiro e como de forma mais saudável ou não Peço comida por aplicativo",
+                "Se peço comida por aplicativo, então economizo dinheiro e como de forma mais saudável.",
+                "Economizo dinheiro e como de forma mais saudável se, e somente se, peço comida por aplicativo.",
+                "Não economizo dinheiro e não como de forma saudável ou peço comida por aplicativo."
             ],
-            "answer": 3
+            "answer": 0
         },
         {
             "id": 4,
             "context": "Lucas suspirou, navegando entre abas de cursos de idiomas em seu computador. A decisão era difícil. Por um lado, ele sabia perfeitamente que, se investisse em um curso de inglês, suas oportunidades de carreira internacional dariam um salto. Por outro, a ideia de fazer aulas de espanhol o animava, pois isso sem dúvida facilitaria a comunicação em suas sonhadas viagens pela América Latina. Contudo, após analisar suas finanças e seu tempo, ele chegou a uma constatação sobre seu próximo passo: ou ele finalmente se matriculava no curso de inglês, ou teria que aceitar que a comunicação em suas futuras viagens pelo continente não seria tão simples quanto desejava.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Economizo dinheiro, pois o curso de inglês é a opção mais barata.",
-                "Facilito a comunicação em minhas viagens pela América Latina.",
-                "Encontro um novo hobby para preencher meu tempo livre.",
-                "Melhoro minhas oportunidades de carreira internacional"
+                "A única maneira de facilitar minhas viagens é desistindo de uma carreira internacional.",
+                "Melhoro minhas oportunidades de carreira internacional e me matriculo em um curso de espanhol.",
+                "Não melhoro minhas oportunidades de carreira internacional ou me matriculo em um curso de espanhol.",
+                "Melhoro minhas oportunidades de carreira internacional ou não Matriculo-me em um curso de espanhol"
             ],
             "answer": 3
         },
@@ -55,22 +55,22 @@
             "context": "Marcos estava sentado em sua poltrona, ponderando sobre a ideia de ter um animal de estimação. Ele sabia que, se adotasse um cachorro, teria o compromisso de levá-lo para passear todos os dias, faça chuva ou faça sol. Já se a escolha fosse por um gato, ele tinha consciência de que o bichano seria bem mais independente dentro do apartamento. Após semanas de reflexão, ele finalmente definiu os termos de sua própria decisão: ou ele tomaria coragem e adotaria um cachorro de uma vez por todas, ou, de alguma forma, seu futuro companheiro não seria um desses animais que ficam bem sozinhos em casa.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Preciso levá-lo para passear todos os dias",
-                "O custo para manter um gato seria muito alto.",
-                "O cachorro se adaptaria bem a ficar sozinho em casa.",
-                "Ele só passearia com o cachorro em dias de sol."
+                "Se não preciso levá-lo para passear todos os dias, então Adoto um gato.",
+                "Preciso levá-lo para passear todos os dias ou não Adoto um gato",
+                "Preciso levá-lo para passear todos os dias e também Adoto um gato.",
+                "Adoto um cachorro se e somente se Adoto um gato."
             ],
-            "answer": 0
+            "answer": 1
         },
         {
             "id": 6,
             "context": "Lucas suspirou, olhando para as chaves do carro sobre a mesa. A opção era tentadora: o conforto do seu próprio assento e o ar condicionado no ponto certo, mesmo que isso significasse enfrentar o engarrafamento matinal. Por outro lado, havia o cartão do transporte público. A economia com a gasolina seria bem-vinda, mas a ideia de ficar preso aos horários fixos e às vezes imprevisíveis o desanimava. No fim das contas, ele sabia que a situação hoje se resumia a duas possibilidades: ou ele iria com seu próprio veículo, ou enfrentaria um dia em que, além de depender dos horários, também não conseguiria economizar com a gasolina.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Consigo economizar e ainda ter o conforto do meu carro.",
-                "Economizo com a gasolina, mas dependo de horários fixos.",
-                "Tenho horários flexíveis e não me preocupo com o trânsito.",
-                "Tenho mais conforto, mas enfrento o trânsito"
+                "A economia com a gasolina é a prioridade, por isso vou de carro para não depender de horários.",
+                "Aproveito o conforto do transporte público para economizar gasolina com o carro.",
+                "Decido trabalhar de casa para evitar o trânsito e o problema com os horários.",
+                "Tenho mais conforto, mas enfrento o trânsito ou não Vou de transporte público para o trabalho"
             ],
             "answer": 3
         },
@@ -79,22 +79,22 @@
             "context": "Ricardo olhava para o extrato de seus investimentos, refletindo sobre a decisão que tomara. Ele se lembrava bem da encruzilhada: sabia que se investisse seu dinheiro em ações de alto risco, teria a possibilidade de um grande retorno financeiro. Por outro lado, se optasse pela poupança de baixo risco, teria mais segurança e um retorno modesto. Olhando os números na tela, ele concluiu em seus pensamentos: \"Bem, uma coisa é certa sobre o meu portfólio atual: ou eu investi meu dinheiro em ações de alto risco, ou então eu não tenho mais segurança e um retorno modesto.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Tenho segurança e um retorno modesto.",
-                "Estou arrependido da minha decisão de investimento.",
-                "Com certeza terei um grande retorno financeiro.",
-                "Tenho a possibilidade de um grande retorno financeiro"
+                "Tenho a possibilidade de um grande retorno financeiro ou não Invisto meu dinheiro em poupança de baixo risco",
+                "Eu não tenho a possibilidade de um grande retorno financeiro ou eu investi meu dinheiro em poupança de baixo risco.",
+                "Eu investi em ações de alto risco e não tenho mais segurança e um retorno modesto.",
+                "Se eu não investi em ações de alto risco, então eu tenho mais segurança e um retorno modesto."
             ],
-            "answer": 3
+            "answer": 0
         },
         {
             "id": 8,
             "context": "Clara analisava suas opções para o novo equipamento de trabalho, pensando em voz alta. Ela sabia que, se escolhesse um notebook, ganharia a portabilidade para trabalhar de qualquer lugar, como sempre quis. Por outro lado, se optasse por um computador desktop, teria a garantia de mais poder de processamento e uma ergonomia superior para as longas horas de projeto. Após um momento de reflexão, ela resumiu o dilema: no fim das contas, ou ela acabaria escolhendo o notebook, ou então não teria aquele sonhado conjunto de maior poder e ergonomia.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Conseguirei uma ergonomia superior para as longas horas de projeto.",
-                "Tenho portabilidade para trabalhar de qualquer lugar",
-                "Terei a garantia de mais poder de processamento.",
-                "Desistirei da portabilidade, pois não é mais um fator importante."
+                "Se eu escolher o notebook, terei a garantia de mais poder de processamento e ergonomia.",
+                "Tenho portabilidade para trabalhar de qualquer lugar ou não Escolho um computador desktop para trabalhar",
+                "Tenho portabilidade para trabalhar de qualquer lugar e não Escolho um computador desktop para trabalhar.",
+                "Não ter portabilidade é uma condição para ter mais poder de processamento e ergonomia."
             ],
             "answer": 1
         },
@@ -103,10 +103,10 @@
             "context": "Lucas ponderava sobre seu plano de exercícios para a semana que se iniciava. Ele sabia que, se decidisse correr no parque pela manhã, melhoraria seu condicionamento cardiovascular ao ar livre. Também considerava que, caso optasse pela musculação na academia, aumentaria sua força e massa muscular em um ambiente controlado. Ao final de sua reflexão, ele tinha uma certeza: nesta semana, ou ele decidiria correr no parque pela manhã ou não haveria o tal aumento de força e massa muscular em um ambiente controlado.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Aumento minha força e não melhoro meu condicionamento cardiovascular",
-                "Optei pela musculação na academia",
-                "Melhoro meu condicionamento cardiovascular ao ar livre",
-                "Não corro no parque pela manhã"
+                "Melhoro meu condicionamento cardiovascular ao ar livre e não Decido fazer musculação na academia.",
+                "Se aumento minha força e massa muscular, então não corro no parque pela manhã.",
+                "Melhoro meu condicionamento cardiovascular ao ar livre ou não Decido fazer musculação na academia",
+                "Se não corro no parque pela manhã, então decido fazer musculação na academia."
             ],
             "answer": 2
         },
@@ -115,10 +115,10 @@
             "context": "Matias sentou-se em sua poltrona de couro, ponderando sobre sua filosofia de leitura. Para ele, a regra era clara: sempre que optava por um livro de papel, a recompensa era a experiência tátil, o prazer de sentir o cheiro das páginas e o orgulho de adicioná-lo à sua coleção na estante. Por outro lado, ele reconhecia que, ao adquirir um e-book, a vantagem era a capacidade de carregar centenas de títulos em um único dispositivo. Refletindo sobre seus últimos anos como leitor, ele percebeu que sua realidade sempre se resumia a uma de duas situações: ou ele acabava comprando uma edição física, ou então, por algum motivo, não tinha a conveniência de levar centenas de obras consigo em seu aparelho.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A leitura na sua poltrona de couro é uma experiência mais confortável.",
-                "Tenho a conveniência de levar centenas de obras comigo em um só lugar.",
-                "Posso sentir o cheiro das páginas e colecioná-lo na estante",
-                "O preço dos livros de papel é sempre mais vantajoso que o dos e-books."
+                "Se posso sentir o cheiro das páginas e colecioná-lo na estante, então não compro um e-book.",
+                "Ou compro um livro de papel por ser mais barato, ou compro um e-book pela conveniência da entrega.",
+                "Posso sentir o cheiro das páginas e colecioná-lo na estante ou não Compro um e-book",
+                "Não posso sentir o cheiro das páginas e colecioná-lo na estante ou compro um e-book."
             ],
             "answer": 2
         }

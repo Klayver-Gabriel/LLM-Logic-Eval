@@ -7,46 +7,46 @@
             "context": "Pedro acordou com o som da chuva forte que não deu trégua durante toda a noite. Ao olhar pela janela da cozinha, viu que as águas do rio já lambiam o final do seu quintal, um sinal inconfundível de que ele havia transbordado. Ele sabia o que vinha a seguir, era uma regra na pequena cidade: sempre que o rio saía de seu leito, a estrada principal era imediatamente fechada por segurança.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Choveu muito durante a noite.",
-                "A casa de Pedro foi inundada pela enchente.",
-                "O barulho do rio transbordando acordou Pedro.",
-                "O fechamento da estrada pegou todos os moradores de surpresa."
+                "A estrada principal é sempre fechada para evitar que a água da chuva chegue ao rio.",
+                "Se Choveu muito durante a noite., então A estrada principal foi interditada.",
+                "Se o quintal de Pedro não estivesse alagado, a estrada principal permaneceria aberta.",
+                "O rio transbordou porque a estrada principal foi interditada."
             ],
-            "answer": 0
+            "answer": 1
         },
         {
             "id": 2,
             "context": "Carlos atendeu o telefone e a conversa se estendeu mais do que o previsto. Ao desligar, um cheiro acre invadiu suas narinas e ele correu para a cozinha, já lamentando sua distração. Ele sabia muito bem que, sempre que se esquecia da comida no fogo, a panela acabava queimando. E também sabia, por amarga experiência, que a fumaça de uma panela queimada era o suficiente para fazer o alarme de incêndio do corredor disparar.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O alarme de incêndio já havia disparado.",
-                "A pessoa no telefone lhe dera uma má notícia.",
-                "Havia um vazamento de gás na cozinha.",
-                "Esqueci a comida no fogo."
+                "Se O alarme de incêndio disparou., então Esqueci a comida no fogo.",
+                "Se Esqueci a comida no fogo., então O alarme de incêndio disparou.",
+                "Se A panela não queimou., então O alarme de incêndio disparou.",
+                "Se Carlos atendeu o telefone., então O alarme de incêndio disparou."
             ],
-            "answer": 3
+            "answer": 1
         },
         {
             "id": 3,
             "context": "Olhando para trás, vejo claramente o ponto de virada. A partir do momento em que comecei a economizar dinheiro todo mês, com disciplina, foi que consegui acumular o suficiente para uma entrada. E ter esse valor em mãos foi o passo crucial, a peça que faltava para que eu pudesse, finalmente, comprar meu primeiro apartamento.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Consegui a aprovação de um financiamento imobiliário.",
-                "Comecei a economizar dinheiro todo mês.",
-                "Encontrei o apartamento ideal para comprar.",
-                "Paguei a entrada do imóvel."
+                "Se Comprei meu primeiro apartamento, então Comecei a economizar dinheiro todo mês.",
+                "Se NÃO comecei a economizar dinheiro todo mês, então NÃO comprei meu primeiro apartamento.",
+                "Comecei a economizar dinheiro todo mês se, e somente se, comprei meu primeiro apartamento.",
+                "Se Comecei a economizar dinheiro todo mês., então Comprei meu primeiro apartamento."
             ],
-            "answer": 1
+            "answer": 3
         },
         {
             "id": 4,
             "context": "Carlos abriu os olhos assustado, não pelo som irritante de sempre, mas justamente pela ausência dele. A luz do sol já entrava forte pela janela, e um pânico gelado começou a subir por sua espinha. Ele conhecia bem a matemática de suas manhãs: uma falha no despertador significava, sem exceção, que ele acordaria tarde demais. E ele também sabia que, com o trânsito da cidade e a rigidez do seu chefe, um simples atraso hoje o faria perder a apresentação mais importante do semestre. Seu olhar correu para o pequeno relógio digital na cabeceira, que permanecia mudo e com a tela apagada.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Carlos foi acordado pelo barulho irritante de sempre.",
-                "O chefe de Carlos era uma pessoa compreensiva com atrasos.",
-                "O despertador não tocou.",
-                "Carlos decidiu ignorar o alarme para dormir um pouco mais."
+                "Se O chefe de Carlos é rígido., então O despertador não falhou.",
+                "Se Carlos sentiu um pânico gelado., então O trânsito da cidade estaria tranquilo.",
+                "Se O despertador não tocou., então Perdi a reunião importante.",
+                "Se A luz do sol já entrava forte pela janela., então Carlos chegaria adiantado."
             ],
             "answer": 2
         },
@@ -55,34 +55,34 @@
             "context": "André olhava para seu novo amigo de quatro patas, que dormia tranquilamente no tapete, e refletia sobre as recentes mudanças em sua vida. Ele pensou que, ao tomar a decisão de adotar um cachorro no abrigo, ele se impôs a regra de começar a passear com o animal todos os dias. E, naturalmente, para qualquer um que começa uma rotina de caminhadas diárias, a consequência é tornar-se mais ativo e perder um pouco de peso.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Comecei uma nova dieta para perder peso.",
-                "Comprei um tapete novo para a sala.",
-                "Decidi me tornar uma pessoa mais ativa.",
-                "Adotei um cachorro em um abrigo."
+                "Se o cachorro dorme no tapete, então eu passei a caminhar todos os dias.",
+                "Se Fiquei mais ativo e perdi peso, então Adotei um cachorro em um abrigo.",
+                "Se Adotei um cachorro em um abrigo., então Fiquei mais ativo e perdi peso.",
+                "Todos os cachorros de abrigos fazem seus donos perderem peso."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 6,
             "context": "Carlos, o gerente, observava as novas máquinas no chão de fábrica. O alto investimento da diretoria em tecnologia tinha um objetivo claro: tornar a produção visivelmente mais eficiente. Ele sabia, por experiência, que uma operação mais ágil e com menos custos era sempre o caminho mais seguro para garantir um aumento nos lucros ao fechar o balanço do trimestre.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Carlos foi o principal responsável pela decisão de comprar as máquinas.",
-                "O lucro da empresa aumentou significativamente no último trimestre.",
-                "A empresa investiu em novas tecnologias.",
-                "A empresa planeja demitir funcionários para reduzir os custos operacionais."
+                "Se Carlos observava as novas máquinas., então A produção tornou-se mais eficiente.",
+                "Se A diretoria demitiu funcionários., então Os custos de produção diminuíram.",
+                "Se Os lucros aumentaram no final do trimestre., então A empresa investiu em novas tecnologias.",
+                "Se A empresa investiu em novas tecnologias., então Os lucros aumentaram no final do trimestre."
             ],
-            "answer": 2
+            "answer": 3
         },
         {
             "id": 7,
             "context": "Cheguei na cozinha e suspirei. Na correria de mais cedo, distraído com o telefone, deixei o pote do meu sorvete de pistache favorito esquecido sobre a bancada. Eu tenho uma regra pessoal muito clara sobre isso: se o sorvete fica fora do congelador, ele inevitavelmente derrete por completo. E outra coisa que sei é que, uma vez que ele derreteu totalmente, seu único destino é a lata de lixo.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Percebi que não gosto mais de sorvete de pistache.",
-                "Joguei o sorvete de pistache na lata de lixo.",
-                "Deixei o sorvete fora do congelador.",
-                "Fiquei muito tempo distraído com o telefone."
+                "Se Tive que jogar o sorvete fora, então a cozinha estava quente.",
+                "Se o sorvete derreteu por completo, então tentei recongelá-lo.",
+                "Se Deixei o sorvete fora do congelador., então Tive que jogá-lo fora.",
+                "Se o sorvete era de pistache, então suspirei ao chegar na cozinha."
             ],
             "answer": 2
         },
@@ -91,34 +91,34 @@
             "context": "Lucas olhava pela janela do seu novo escritório, refletindo sobre os últimos meses. Ele tinha uma certeza: ao se dedicar à leitura de vários livros sobre programação, como fizera, o resultado inevitável seria o desenvolvimento de novas habilidades técnicas. Além disso, era sabido por todos que, na sua empresa, aprimorar essas competências era o caminho direto para conseguir uma promoção no trabalho.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Tinha dúvidas se o esforço nos estudos valeria a pena.",
-                "Participei de um treinamento interno oferecido pela empresa.",
-                "Fui promovido ao cargo que desejava.",
-                "Li vários livros sobre programação."
+                "Se Tenho um novo escritório., então Desenvolvi novas habilidades técnicas.",
+                "Se Consegui uma promoção no trabalho., então Li vários livros sobre programação.",
+                "Se Li vários livros sobre programação., então Consegui uma promoção no trabalho.",
+                "Se Não me dediquei à leitura., então Não aprimorei minhas competências."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 9,
             "context": "Seu Manuel caminhava desolado por entre as fileiras de seu sítio. A geada inesperada da noite anterior, uma camada fina e mortal de branco sobre as folhas verdes, havia queimado boa parte dos seus pés de café. Algumas semanas depois, ao levar a pouca safra que conseguiu salvar para a cooperativa da cidade, ele notou que, por conta da quebra geral na produção da região, o preço da saca no mercado havia subido consideravelmente.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Houve uma geada inesperada.",
-                "O preço do café na cooperativa estava muito baixo.",
-                "Uma praga de insetos destruiu a plantação.",
-                "Seu Manuel não teve compradores para sua safra."
+                "Se A safra de café de Seu Manuel foi pequena., então O preço do café no mercado caiu.",
+                "Se Seu Manuel foi à cooperativa da cidade., então A geada havia queimado os pés de café.",
+                "Se Houve uma geada inesperada., então O preço do café no mercado subiu.",
+                "Se O preço do café no mercado subiu., então Houve uma geada inesperada."
             ],
-            "answer": 0
+            "answer": 2
         },
         {
             "id": 10,
             "context": "O dia na beira da piscina estava perfeito até o momento em que, com um movimento desajeitado, o celular de André escorregou e caiu na água. Ele o pescou rapidamente, mas o estrago já estava feito; a tela permaneceu escura, indiferente a todos os seus esforços para reanimá-la. André suspirou, resignado, pois sabia muito bem que, uma vez que um aparelho deixa de funcionar, a única solução é ir até a loja comprar um substituto.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Derrubei meu celular na água.",
-                "Comprei um celular novo na loja.",
-                "A bateria do meu celular acabou.",
-                "Tropecei e caí dentro da piscina."
+                "Se Derrubei meu celular na água., então Precisei comprar um celular novo.",
+                "Se eu pescar o celular rapidamente da água, então ele voltará a funcionar.",
+                "Se o dia está perfeito para ficar na beira da piscina, então os celulares escorregam e caem na água.",
+                "Se precisei comprar um celular novo, então derrubei meu celular na água."
             ],
             "answer": 0
         }

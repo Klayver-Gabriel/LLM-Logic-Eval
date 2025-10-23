@@ -21,11 +21,11 @@
             "context": "Rafael estava diante de sua estante, refletindo sobre uma verdade que para ele era universal: todos os livros são interessantes, cada um guardando um universo particular. Seus olhos percorreram as lombadas até pousarem em uma específica, de capa dura e letras gastas. Ali estava *Dom Casmurro*, um livro que ele pretendia ler há muito tempo.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'Dom Casmurro é interessantes'?",
+                    "question": "Isso implica que 'Dom Casmurro é interessantes'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'Dom Casmurro não é interessantes'?",
+                    "question": "Isso implica que 'Dom Casmurro não é interessantes'?",
                     "answer": "Não"
                 }
             ]
@@ -39,7 +39,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'Sequoia não é altas'?",
+                    "question": "Isso implica que 'Sequoia não é altas'?",
                     "answer": "Não"
                 }
             ]
@@ -49,11 +49,11 @@
             "context": "Miguel terminava de arrumar a última mala, com a mente já viajando para o seu futuro. O bilhete sobre a mesa confirmava o que ele já sabia: seu novo lar seria em São Paulo, uma cidade que prometia um recomeço. Uma antiga lição de geografia veio à sua mente, um daqueles fatos que se fixam para sempre: que todas as cidades, sem exceção, são populosas.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'São Paulo é populosas'?",
+                    "question": "Isso implica que 'São Paulo é populosas'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'São Paulo não é populosas'?",
+                    "question": "Isso implica que 'São Paulo não é populosas'?",
                     "answer": "Não"
                 }
             ]
@@ -63,11 +63,11 @@
             "context": "O astrônomo repassava suas anotações da noite. Ele sorriu ao lembrar de uma das primeiras regras que aprendeu na universidade: todos os planetas são, em sua essência, corpos gasosos. Seus olhos se voltaram para o monitor principal, que exibia a imagem brilhante de seu objeto de estudo atual, o gigante Júpiter, inquestionavelmente um planeta.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'Júpiter é gasosos'?",
+                    "question": "Isso implica que 'Júpiter é gasosos'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'Júpiter não é gasosos'?",
+                    "question": "Isso implica que 'Júpiter não é gasosos'?",
                     "answer": "Não"
                 }
             ]
@@ -77,11 +77,11 @@
             "context": "Enquanto arrumava sua mochila para a expedição, o jovem geógrafo lembrava-se dos ensinamentos de seu professor, que sempre afirmava categoricamente: \"Lembre-se, todos os rios são, por sua própria natureza, longos.\" Ele olhou para o grande mapa na parede, seguindo com o dedo o traçado azul que cortava o continente, e sorriu ao pensar em seu destino. Estava finalmente indo conhecer o Amazonas, o famoso rio que tanto estudara nos livros.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'Amazonas é longos'?",
+                    "question": "Isso implica que 'Amazonas é longos'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'Amazonas não é longos'?",
+                    "question": "Isso implica que 'Amazonas não é longos'?",
                     "answer": "Não"
                 }
             ]
@@ -91,11 +91,11 @@
             "context": "O velho geógrafo, com um mapa-múndi aberto sobre a mesa, explicava ao seu jovem aprendiz: \"Uma regra que a natureza nos ensina, meu rapaz, é que todas as montanhas são altas, sem exceção.\" Ele então deslizou o dedo pela cordilheira do Himalaia, parando em um ponto específico. \"E este pico famoso que tanto te fascina, o Evereste, é, em sua essência, uma montanha.\"",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'Evereste é altas'?",
+                    "question": "Isso implica que 'Evereste é altas'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'Evereste não é altas'?",
+                    "question": "Isso implica que 'Evereste não é altas'?",
                     "answer": "Não"
                 }
             ]
@@ -119,7 +119,7 @@
             "context": "Enquanto passeava pela velha biblioteca, o jovem estudante de artes parou para ler uma anotação deixada por um antigo mestre em uma página de um livro: \"Lembre-se sempre disto: é sabido que todos os músicos são talentosos, pois a arte assim o exige.\" Curioso, ele virou a página e deparou-se com o retrato de um homem de semblante sério e concentrado. Abaixo da imagem, uma legenda simples e direta identificava a figura: \"Ludwig van Beethoven, músico.\"",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'Beethoven é talentosos'?",
+                    "question": "Isso implica que 'Beethoven é talentosos'?",
                     "answer": "Sim"
                 },
                 {
@@ -137,7 +137,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'MacBook não é potentes'?",
+                    "question": "Isso implica que 'MacBook não é potentes'?",
                     "answer": "Não"
                 }
             ]

@@ -7,22 +7,22 @@
             "context": "O dia mal havia começado quando Seu Afonso caminhou por entre seus cafezais, o coração apertado. Uma camada branca e fina, cruelmente bela, cobria as folhas, um sinal claro da geada inesperada e severa que varreu a região durante a noite. De volta à cozinha, ligou o rádio para abafar o silêncio desolador e a notícia econômica da manhã chamou sua atenção: os locutores falavam com urgência sobre como o preço da saca de café havia disparado no mercado futuro, citando como motivo a previsão de uma drástica quebra de safra.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A alta nos preços do mercado futuro foi a causa da geada que atingiu a plantação de Seu Afonso.",
-                "O preço da saca de café despencou no mercado devido à baixa qualidade do produto atingido pela geada.",
-                "O preço da saca de café no mercado futuro disparou devido à previsão de quebra de safra.",
-                "A tristeza de Seu Afonso ao ver seu cafezal foi a principal notícia econômica da manhã no rádio."
+                "A notícia no rádio informava que os cafeicultores haviam se organizado para aumentar artificialmente o preço do café, prevendo um inverno rigoroso.",
+                "Seu Afonso ficou satisfeito com a notícia do rádio, pois o aumento no preço compensaria totalmente as perdas causadas pela geada em sua lavoura.",
+                "A alta no preço do café foi resultado de um aumento na demanda internacional, após a abertura de novos mercados consumidores.",
+                "O preço da saca de café no mercado futuro disparou devido à previsão de quebra de safra. e Uma geada severa e inesperada atingiu as principais regiões produtoras de café."
             ],
-            "answer": 2
+            "answer": 3
         },
         {
             "id": 2,
             "context": "Carlos, o gerente de TI, suspirou aliviado enquanto analisava o relatório trimestral em sua tela. Ele se lembrou da enorme iniciativa do semestre passado, um projeto que consumiu uma parte considerável do orçamento: um programa intensivo e obrigatório de treinamento em segurança cibernética que foi aplicado a absolutamente todos os funcionários, desde o estagiário até a diretoria. Agora, olhando para os gráficos à sua frente, um dado saltava aos olhos: a linha que representava os incidentes de phishing bem-sucedidos havia despencado, atingindo os níveis mais baixos já registrados na história da organização.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O alto custo do treinamento em segurança cibernética não gerou nenhum retorno positivo para a empresa.",
-                "O programa de treinamento foi considerado ineficaz e será descontinuado no próximo semestre.",
-                "O número de incidentes de phishing bem-sucedidos dentro da organização diminuiu drasticamente.",
-                "A empresa implementou um novo software de e-mail que passou a bloquear todas as ameaças automaticamente."
+                "A diminuição dos incidentes de phishing foi atribuída a uma queda geral no volume de e-mails maliciosos enviados por hackers globalmente.",
+                "O treinamento de segurança foi aplicado apenas à equipe de diretoria, mas mesmo assim gerou resultados positivos em toda a empresa.",
+                "O número de incidentes de phishing bem-sucedidos dentro da organização diminuiu drasticamente. e A empresa investiu pesadamente em treinamento de segurança cibernética para todos os funcionários.",
+                "O relatório trimestral mostrou que o custo do treinamento de segurança excedeu os benefícios financeiros da redução de incidentes."
             ],
             "answer": 2
         },
@@ -31,96 +31,96 @@
             "context": "Ao chegar ao topo da ladeira, Carlos parou por um instante. Ele olhava a vista da cidade, sentindo o ar fresco da manhã, e percebeu que não estava ofegante. Lembrou-se de como, há seis meses, sua rotina era outra: ele finalmente havia abandonado o cigarro e, em seu lugar, adotado o hábito de correr todas as manhãs.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A rotina de Carlos permaneceu a mesma, mas ele passou a apreciar mais as manhãs na cidade.",
-                "O ar fresco da manhã no topo da ladeira era a única recompensa por ter parado de fumar.",
-                "Carlos se cansou de correr todos os dias e decidiu que subir a ladeira seria seu último exercício.",
-                "Sua capacidade pulmonar e resistência física melhoraram significativamente em seis meses."
+                "Sua capacidade pulmonar e resistência física melhoraram significativamente em seis meses. e Carlos parou de fumar e adotou uma rotina de exercícios aeróbicos regulares.",
+                "O principal motivo para Carlos começar a correr foi a vista do topo da ladeira, que ele queria apreciar sem cansaço.",
+                "A rotina de correr o ajudou a controlar o vício do cigarro, mas ele ainda não conseguiu parar completamente.",
+                "Carlos mudou-se para uma cidade com ar mais puro, o que facilitou sua respiração durante as corridas."
             ],
-            "answer": 3
+            "answer": 0
         },
         {
             "id": 4,
             "context": "Enquanto olhava a longa fila de espera para o modelo que desejava, Carlos não pôde deixar de pensar em duas coisas que leu recentemente. Primeiro, lembrou-se da notícia de alguns meses atrás, sobre o anúncio do governo de que os impostos de importação para veículos elétricos seriam reduzidos. Depois, recordou-se de um relatório de mercado que destacava como, justamente no trimestre seguinte àquela decisão, a venda desses carros havia disparado no país.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A produção nacional de veículos foi diretamente incentivada pela nova medida.",
-                "Os carros elétricos se tornaram mais baratos que os modelos a combustão.",
-                "A venda de carros elétricos no país aumentou no trimestre seguinte ao anúncio.",
-                "Carlos desistiu da compra do veículo por causa do longo tempo de espera."
+                "Carlos leu em um único relatório do governo que os impostos seriam reduzidos e que as vendas haviam aumentado.",
+                "O modelo de carro que Carlos desejava era o único que não havia sido afetado pela redução de impostos.",
+                "Apesar da redução de impostos, o preço final dos carros elétricos para o consumidor aumentou.",
+                "A venda de carros elétricos no país aumentou no trimestre seguinte ao anúncio. e O governo anunciou uma redução nos impostos de importação para veículos elétricos."
             ],
-            "answer": 2
+            "answer": 3
         },
         {
             "id": 5,
             "context": "O ventilador girava lentamente, espalhando o ar abafado pelo pequeno apartamento de Carlos. Na televisão, uma reportagem mostrava imagens preocupantes: devido a um longo período de seca, o nível dos reservatórios das usinas hidrelétricas atingiu um nível criticamente baixo. Pouco depois, ele pegou o celular para checar a fatura de energia que acabara de chegar e franziu a testa ao ver o valor. Olhando os detalhes da conta, notou um aviso informando que a agência reguladora de energia havia ativado a bandeira tarifária vermelha.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A agência reguladora de energia ativou a bandeira tarifária vermelha, aumentando o custo da conta de luz.",
-                "A reportagem da televisão anunciava um aumento geral de impostos sobre os serviços básicos.",
-                "O valor da conta de Carlos veio alto porque ele deixou o ventilador ligado por muito tempo para aliviar o calor.",
-                "A companhia de energia elétrica estava aplicando multas para quem consumisse mais durante o período de seca."
+                "A reportagem na televisão anunciou um novo imposto sobre o consumo de energia, o que explicou o aumento repentino na fatura de Carlos.",
+                "A bandeira tarifária vermelha foi ativada como uma multa pessoal para Carlos, pois seu consumo de energia ultrapassou o limite estabelecido para seu apartamento.",
+                "O valor alto da conta de luz foi causado exclusivamente pelo uso contínuo do ventilador, que, por ser um modelo antigo, consome mais energia.",
+                "A agência reguladora de energia ativou a bandeira tarifária vermelha, aumentando o custo da conta de luz. e Devido a um longo período de seca, o nível dos reservatórios das usinas hidrelétricas atingiu um nível criticamente baixo."
             ],
-            "answer": 0
+            "answer": 3
         },
         {
             "id": 6,
             "context": "Carlos sentou-se na sua mesa de sempre na Cantina do Mário, pronto para pedir o de costume. Ao abrir o cardápio, porém, notou uma mudança: ao lado de cada prato, pequenos números agora detalhavam a contagem de calorias, uma consequência da nova legislação que havia entrado em vigor em toda a cidade. Distraído, ele deu uma olhada ao redor e percebeu um movimento diferente no salão; na mesa ao lado, um casal que antes pediria a parmegiana gigante agora discutia baixinho sobre a salada com frango grelhado, e um pouco mais adiante, um pai explicava ao filho por que o peixe talvez fosse uma opção melhor que a lasanha naquela noite.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A nova legislação causou um aumento geral nos preços dos pratos.",
-                "Os consumidores passaram a fazer escolhas alimentares mais conscientes ao comer fora.",
-                "O restaurante alterou suas receitas para oferecer apenas pratos com baixo teor calórico.",
-                "A Cantina do Mário perdeu seus clientes mais fiéis devido às mudanças no cardápio."
+                "A nova lei fez com que os restaurantes fossem obrigados a substituir seus pratos mais calóricos por opções mais saudáveis.",
+                "Carlos ficou insatisfeito com a mudança e decidiu procurar outro restaurante que não exibisse as calorias.",
+                "Os consumidores passaram a fazer escolhas alimentares mais conscientes ao comer fora. e Uma nova lei foi aprovada, exigindo que todos os restaurantes informem a contagem de calorias em seus cardápios.",
+                "A exibição de calorias foi uma iniciativa exclusiva da Cantina do Mário para se destacar da concorrência."
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 7,
             "context": "Enquanto pedalava tranquilamente pela nova via, bem separado do trânsito caótico, Miguel observava a paisagem urbana. Ele se lembrava de como, até pouco tempo atrás, o trajeto entre seu bairro residencial e o escritório no centro comercial era uma aventura perigosa. Agora, com o caminho claro e protegido, o que mais o surpreendia era a quantidade de rostos novos que via a cada manhã; o fluxo de pessoas indo de bicicleta para seus empregos parecia crescer a cada semana, transformando o que antes era um trajeto solitário em um movimento coletivo.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A paisagem urbana tornou-se o principal atrativo do novo caminho para o centro.",
-                "Miguel sentia falta dos tempos em que seu trajeto para o trabalho era mais perigoso.",
-                "O uso de bicicletas como meio de transporte para o trabalho diário aumentou.",
-                "A construção da nova via resolveu completamente os problemas de trânsito na cidade."
+                "O uso de bicicletas como meio de transporte para o trabalho diário aumentou. e A cidade instalou ciclovias segregadas e seguras conectando bairros residenciais a áreas comerciais.",
+                "Uma nova campanha de conscientização ambiental foi o principal fator para o aumento de ciclistas na cidade.",
+                "Miguel ficou incomodado com o grande número de pessoas na ciclovia, pois preferia a tranquilidade de antes.",
+                "A construção da nova via resolveu completamente os congestionamentos de trânsito no centro comercial."
             ],
-            "answer": 2
+            "answer": 0
         },
         {
             "id": 8,
             "context": "Lia, uma bióloga marinha, retornou ao seu local de mergulho favorito, o Recife das Cores, com um aperto no coração. Ela havia lido nos jornais sobre o acidente com o navio petroleiro, uma mancha escura e vasta que se espalhou justamente por aquela região costeira há algumas semanas. Ao submergir na água, que antes era cristalina, encontrou um cenário desolador: os corais, antes vibrantes, estavam opacos e sem vida, e os cardumes coloridos que sempre a recebiam haviam praticamente desaparecido, restando apenas alguns peixes que se moviam de forma lenta e errática pelo ambiente agora silencioso.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A vida marinha na área afetada, incluindo peixes e corais, sofreu danos ambientais severos.",
-                "O Recife das Cores demonstrou uma rápida capacidade de recuperação, com novas espécies de peixes surgindo no local.",
-                "Lia concluiu que o desaparecimento dos peixes foi causado por uma mudança natural na temperatura da água, e não pelo óleo.",
-                "Os corais da região se adaptaram às novas condições da água, alterando suas cores para tons mais escuros."
+                "Lia concluiu que o recife se recuperaria naturalmente em poucas semanas, sem necessidade de intervenção humana.",
+                "A vida marinha na área afetada, incluindo peixes e corais, sofreu danos ambientais severos. e Um vazamento de petróleo de grandes proporções ocorreu próximo a um ecossistema de corais.",
+                "O branqueamento dos corais foi causado exclusivamente pelo aumento da temperatura da água, um fenômeno não relacionado ao vazamento.",
+                "A ausência dos peixes é um evento sazonal de migração, não tendo relação direta com o acidente do navio petroleiro."
             ],
-            "answer": 0
+            "answer": 1
         },
         {
             "id": 9,
             "context": "Com a passagem de avião já comprada, Ana manteve uma disciplina impressionante. Ao longo do último ano, todas as noites, ela separava religiosamente duas horas para seu projeto pessoal. Parte desse tempo era gasto em um aplicativo de idiomas em seu celular, e a outra parte, a mais divertida, era em longas conversas por vídeo com novos amigos que moravam em seu país de destino.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Após um ano, ela alcançou fluência conversacional no idioma.",
-                "Seu conhecimento se limitou ao vocabulário do aplicativo, sem prática de conversação.",
-                "Ela concluiu um curso online e recebeu um certificado de proficiência avançada.",
-                "Apesar do esforço, ela desistiu do projeto por considerá-lo muito difícil."
+                "Ana desistiu de usar o aplicativo de idiomas por considerá-lo entediante e focou apenas nas conversas com seus novos amigos.",
+                "Apesar de sua empolgação inicial, Ana só conseguia separar algumas horas nos fins de semana para se dedicar ao seu projeto.",
+                "O principal objetivo de Ana era conseguir um certificado de proficiência para uma oportunidade de emprego em seu país de destino.",
+                "Após um ano, ela alcançou fluência conversacional no idioma. e Ana dedicou duas horas por dia ao estudo de um novo idioma usando um aplicativo e conversando com nativos."
             ],
-            "answer": 0
+            "answer": 3
         },
         {
             "id": 10,
             "context": "Clara, corretora de imóveis, revisava seus arquivos e notava um padrão curioso. Nos últimos tempos, a procura por aluguéis de longo prazo em sua pequena e tranquila cidade, que recentemente instalou uma robusta rede de fibra óptica, havia disparado. Enquanto lia as notícias em seu tablet, uma matéria de destaque sobre o crescimento exponencial do trabalho remoto e do número de nômades digitais ao redor do mundo chamou sua atenção.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A modernização da infraestrutura de internet não foi suficiente para atrair novos moradores para cidades tranquilas.",
-                "A queda nos preços dos imóveis na cidade foi o fator determinante para o aumento da demanda.",
-                "Cidades menores e com boa infraestrutura de internet registraram um aumento na procura por aluguéis de longo prazo.",
-                "O mercado de aluguéis por curta temporada foi o principal beneficiado pela chegada de nômades digitais."
+                "Cidades menores e com boa infraestrutura de internet registraram um aumento na procura por aluguéis de longo prazo. e A popularidade do trabalho remoto e de nômades digitais cresceu exponencialmente.",
+                "A instalação de fibra óptica fez com que os moradores locais se mudassem para cidades maiores em busca de oportunidades.",
+                "A procura por aluguéis de curta temporada aumentou devido aos nômades digitais que buscam locais para férias.",
+                "O aumento nos preços dos aluguéis foi causado exclusivamente pela excelente organização dos arquivos da corretora Clara."
             ],
-            "answer": 2
+            "answer": 0
         }
     ]
 }

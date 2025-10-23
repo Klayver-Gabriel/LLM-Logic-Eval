@@ -21,7 +21,7 @@
             "context": "Lucas passeava pelo seu jardim sob o sol forte, notando com preocupação como a falta de chuva castigava suas flores. Ele se lembrou de uma lição de botânica que dizia que toda planta capaz de armazenar água em seu caule possui uma incrível aptidão para resistir a longos períodos de estiagem. Seu olhar então se voltou para o canto mais seco do terreno, onde seu cacto, com seu corpo verde e robusto, se mantinha intacto, e ele sabia que era exatamente ali, naquela estrutura, que a planta guardava sua reserva de umidade.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o cacto é sobrevive a longos períodos de seca'?",
+                    "question": "Isso implica que 'o cacto é sobrevive a longos períodos de seca'?",
                     "answer": "Sim"
                 },
                 {
@@ -49,7 +49,7 @@
             "context": "Enquanto caminhava pelo jardim, a avó explicava ao seu neto que todas as flores capazes de realizar o fototropismo também crescem invariavelmente em direção ao sol. Ela parou, apontou para uma fileira de caules altos com pétalas amarelas vibrantes e completou com um sorriso: \"O girassol, meu querido, é uma dessas flores que realiza fototropismo\".",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o girassol é cresce em direção ao sol'?",
+                    "question": "Isso implica que 'o girassol é cresce em direção ao sol'?",
                     "answer": "Sim"
                 },
                 {
@@ -63,7 +63,7 @@
             "context": "Junto à cerca do pequeno aeroporto, o jovem Lucas observava a movimentação. Ele se lembrou de uma lição recente na escola, onde aprendeu que todas as aeronaves que possuem asas com um perfil aerodinâmico são capazes de gerar a sustentação necessária para o voo. Seu olhar se fixou no avião monomotor que taxiava na pista; era nítido o design de suas asas, com a superfície superior elegantemente curvada.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o avião é gera sustentação para voar'?",
+                    "question": "Isso implica que 'o avião é gera sustentação para voar'?",
                     "answer": "Sim"
                 },
                 {
@@ -77,7 +77,7 @@
             "context": "O experiente biólogo ajustou os binóculos e sussurrou para sua jovem assistente, que olhava frustrada para o emaranhado de folhas. \"Tenha paciência, Ana. Lembre-se da regra fundamental que aprendemos: todo e qualquer réptil que tem a capacidade de mudar de cor também a utiliza para se camuflar de forma impecável no ambiente.\" Ele então baixou o equipamento e apontou discretamente para um galho específico. \"E aquele que procuramos, o camaleão, é um mestre em mudar de cor.\"",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o camaleão é se camufla no ambiente'?",
+                    "question": "Isso implica que 'o camaleão é se camufla no ambiente'?",
                     "answer": "Sim"
                 },
                 {
@@ -95,7 +95,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o Sol não é emite luz e calor'?",
+                    "question": "Isso implica que 'o Sol não é emite luz e calor'?",
                     "answer": "Não"
                 }
             ]
@@ -123,7 +123,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'a árvore não é produz oxigênio'?",
+                    "question": "Isso implica que 'a árvore não é produz oxigênio'?",
                     "answer": "Não"
                 }
             ]

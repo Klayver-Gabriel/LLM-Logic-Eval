@@ -7,11 +7,11 @@
             "context": "Durante sua visita ao zoológico, o pequeno Lucas ficou encantado ao ver como quase todos os animais na seção de aves podiam alçar voo com um simples bater de asas. Contudo, ao chegar na área dos pinguins, seu pai apontou para um em especial, chamado Tweety, que caminhava desajeitadamente sobre as pedras. \"Ele é uma exceção bem conhecida por aqui\", disse o pai com um sorriso. \"Enquanto os outros sobem aos céus, o Tweety, por mais que tenha asas, jamais consegue deixar o chão.\"",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que a regra geral sobre pássaros pode ser aplicada a outros membros da categoria?",
+                    "question": "A regra geral sobre pássaros ainda é útil para outros casos?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que nenhuma pássaro é voam?",
+                    "question": "A exceção prova que nenhuma outra pássaro é voam?",
                     "answer": "Não"
                 }
             ]
@@ -21,7 +21,7 @@
             "context": "Sr. Antunes limpava as mãos sujas de graxa em um pano enquanto observava seu jovem aprendiz. \"Lembre-se, garoto\", ele disse com a voz rouca, \"o que faz um carro andar, na prática, são suas rodas. É a regra para praticamente qualquer veículo que entra por esta porta.\" Ele então apontou para um pôster amarelado na parede, que mostrava um Fusca branco com o número 53. \"Claro, sempre há uma lenda. Aquele ali, o famoso Herbie, era a grande exceção. Diziam que ele se virava muito bem sem ter nenhuma roda.\"",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que a regra geral sobre carros pode ser aplicada a outros membros da categoria?",
+                    "question": "A regra geral sobre carros ainda é útil para outros casos?",
                     "answer": "Sim"
                 },
                 {
@@ -63,7 +63,7 @@
             "context": "Leo debruçava-se sobre o livro de ciências, a luz do abajur iluminando uma página sobre o sistema solar. A lição era clara: planetas, em sua grande maioria, orbitam estrelas, traçando seus caminhos elípticos no grande balé cósmico. Contudo, uma nota de rodapé sobre Marte o deixou intrigado. Ali, o texto afirmava que o famoso planeta vermelho era uma conhecida exceção, seguindo sua jornada solitária pelo cosmos sem jamais girar ao redor de uma estrela.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que a regra geral sobre planetas pode ser aplicada a outros membros da categoria?",
+                    "question": "A regra geral sobre planetas ainda é útil para outros casos?",
                     "answer": "Sim"
                 },
                 {
@@ -95,7 +95,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que nenhuma cidade é têm ruas?",
+                    "question": "A exceção prova que nenhuma outra cidade é têm ruas?",
                     "answer": "Não"
                 }
             ]
@@ -105,7 +105,7 @@
             "context": "Lucas folheava uma velha enciclopédia na casa da avó quando se deparou com a seção sobre felinos. Ele aprendeu ali que, em sua grande maioria, os gatos domésticos possuem uma constituição física esguia. Curiosamente, uma pequena nota de rodapé mencionava um famoso gato laranja dos quadrinhos, o Garfield, apontando-o especificamente como uma conhecida exceção a essa característica.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que a regra geral sobre gatos pode ser aplicada a outros membros da categoria?",
+                    "question": "A regra geral sobre gatos ainda é útil para outros casos?",
                     "answer": "Sim"
                 },
                 {
@@ -123,7 +123,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que nenhuma super-herói é têm superpoderes?",
+                    "question": "A exceção prova que nenhuma outra super-herói é têm superpoderes?",
                     "answer": "Não"
                 }
             ]
@@ -137,7 +137,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que nenhuma computador é processam dados?",
+                    "question": "A exceção prova que nenhuma outra computador é processam dados?",
                     "answer": "Não"
                 }
             ]

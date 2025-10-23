@@ -7,10 +7,22 @@
             "context": "Durante sua visita ao zoológico, o pequeno Lucas ficou encantado ao ver como quase todos os animais na seção de aves podiam alçar voo com um simples bater de asas. Contudo, ao chegar na área dos pinguins, seu pai apontou para um em especial, chamado Tweety, que caminhava desajeitadamente sobre as pedras. \"Ele é uma exceção bem conhecida por aqui\", disse o pai com um sorriso. \"Enquanto os outros sobem aos céus, o Tweety, por mais que tenha asas, jamais consegue deixar o chão.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "animais voadores",
-                "mamíferos",
-                "répteis",
-                "pássaros"
+                "Todas as criaturas com asas são, por definição, capazes de voar.",
+                "A regra geral sobre pássaros pode ser aplicada a outros membros da categoria",
+                "A observação de Tweety prova que a maioria das aves, na verdade, não consegue voar.",
+                "O pinguim Tweety não consegue voar devido a uma condição específica e única, não compartilhada por outros pinguins."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "context": "Sr. Antunes limpava as mãos sujas de graxa em um pano enquanto observava seu jovem aprendiz. \"Lembre-se, garoto\", ele disse com a voz rouca, \"o que faz um carro andar, na prática, são suas rodas. É a regra para praticamente qualquer veículo que entra por esta porta.\" Ele então apontou para um pôster amarelado na parede, que mostrava um Fusca branco com o número 53. \"Claro, sempre há uma lenda. Aquele ali, o famoso Herbie, era a grande exceção. Diziam que ele se virava muito bem sem ter nenhuma roda.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Apenas os Fuscas, com exceção do modelo de número 53, dependem de rodas para funcionar.",
+                "A principal lição do Sr. Antunes para seu aprendiz é sobre a importância de manter as mãos sempre limpas.",
+                "O Fusca branco número 53 é a prova de que carros não precisam de rodas para se locomover.",
+                "A regra geral sobre carros pode ser aplicada a outros membros da categoria"
             ],
             "answer": 3
         },
@@ -19,10 +31,10 @@
             "context": "Ao caminhar pela sua rua ao fim da tarde, Carlos já se acostumara com a sinfonia canina que o recebia; cada quintal parecia competir em volume e entusiasmo, como se fosse uma regra não dita entre os cães da vizinhança. Contudo, ao passar em frente ao portão baixo do seu vizinho, ele sempre notava o pequeno beagle, Snoopy, que apenas o observava passar com um abanar de rabo, em completo e curioso silêncio.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "pássaros",
-                "vizinhos",
-                "cães",
-                "beagles"
+                "Carlos sentia-se amedrontado pelo barulho dos cães e preferia a reação silenciosa de Snoopy.",
+                "Todos os cães da vizinhança, incluindo Snoopy, demonstram hostilidade em relação a Carlos.",
+                "A regra geral sobre cães pode ser aplicada a outros membros da categoria",
+                "O silêncio de Snoopy deve-se ao fato de ele ser da raça beagle, conhecida por ser menos barulhenta que as outras."
             ],
             "answer": 2
         },
@@ -31,22 +43,22 @@
             "context": "O velho biólogo marinho, Dr. Arantes, guiava um grupo de crianças pelo aquário. \"Vejam só\", disse ele, apontando para um tanque gigantesco, \"como vocês podem observar, a grande maioria dos peixes passa a vida a nadar de um lado para o outro\". As crianças olhavam maravilhadas para os cardumes velozes. Mais adiante, pararam em frente a um tanque menor, onde um solitário peixe-palhaço repousava sobre uma anêmona. \"Aquele é o Nemo\", explicou o doutor com um sorriso. \"E ele, meus caros, é uma conhecida exceção a essa regra que acabamos de ver.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "animais marinhos",
-                "peixes",
-                "peixes-palhaço",
-                "cardumes"
+                "O comportamento do peixe-palhaço é o padrão para a maioria das espécies marinhas.",
+                "O Dr. Arantes é especialista apenas em peixes que vivem em anêmonas.",
+                "A regra geral sobre peixes pode ser aplicada a outros membros da categoria",
+                "Todos os peixes se comportam da mesma maneira, nadando constantemente."
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 5,
             "context": "Leo debruçava-se sobre o livro de ciências, a luz do abajur iluminando uma página sobre o sistema solar. A lição era clara: planetas, em sua grande maioria, orbitam estrelas, traçando seus caminhos elípticos no grande balé cósmico. Contudo, uma nota de rodapé sobre Marte o deixou intrigado. Ali, o texto afirmava que o famoso planeta vermelho era uma conhecida exceção, seguindo sua jornada solitária pelo cosmos sem jamais girar ao redor de uma estrela.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "planetas",
-                "o grande balé cósmico",
-                "estrelas",
-                "Marte"
+                "A regra geral sobre planetas pode ser aplicada a outros membros da categoria",
+                "Todos os corpos celestes no sistema solar giram ao redor de planetas.",
+                "A jornada de Marte pelo cosmos é um exemplo de anomalia planetária.",
+                "Leo concluiu que os livros de ciências sempre contêm informações desatualizadas."
             ],
             "answer": 0
         },
@@ -55,10 +67,10 @@
             "context": "O velho bibliotecário, Sr. Antero, guiava o pequeno Léo pelo corredor silencioso da biblioteca. \"Veja, meu jovem,\" disse ele, passando a mão pela lombada de um volume grosso, \"quase tudo que você vê aqui, estas centenas de livros, são feitos de papel e tinta, com inúmeras páginas para contar suas histórias.\" Eles continuaram andando até uma estante especial, protegida por um vidro. Sr. Antero apontou para uma edição peculiar. \"Aquele ali, no entanto, é o famoso Dom Quixote. Ele é conhecido por ser a grande exceção a essa regra; por incrível que pareça, ele não possui uma única página.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O famoso Dom Quixote",
-                "livros",
-                "histórias contadas pelo Sr. Antero",
-                "estantes protegidas por vidro"
+                "A edição de Dom Quixote prova que a maioria dos livros não tem páginas.",
+                "A regra geral sobre livros pode ser aplicada a outros membros da categoria",
+                "O Sr. Antero acredita que livros sem páginas são o futuro da literatura.",
+                "Dom Quixote é um exemplo típico de como todos os livros da biblioteca são feitos."
             ],
             "answer": 1
         },
@@ -67,10 +79,10 @@
             "context": "O velho cartógrafo, debruçado sobre seus pergaminhos, sempre se baseou em uma verdade fundamental que aprendeu ao longo da vida: para se orientar em qualquer centro urbano, bastava seguir o labirinto de suas ruas. Era um princípio quase universal. Contudo, ao consultar as notas sobre um destino peculiar, ele encontrou uma anotação que o deixou intrigado. O texto afirmava que a lendária cidade de Gotham era a grande anomalia a essa regra, um lugar que, para a surpresa de todos, era completamente desprovido delas.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "cidades",
-                "mapas",
-                "regras",
-                "moradores"
+                "A regra geral sobre cidades pode ser aplicada a outros membros da categoria",
+                "A principal dificuldade do cartógrafo reside no material antigo de seus pergaminhos.",
+                "A anotação encontrada pelo cartógrafo invalida completamente seu princípio universal.",
+                "A cidade de Gotham possui o sistema de ruas mais complexo já documentado."
             ],
             "answer": 0
         },
@@ -79,10 +91,10 @@
             "context": "Lucas folheava uma velha enciclopédia na casa da avó quando se deparou com a seção sobre felinos. Ele aprendeu ali que, em sua grande maioria, os gatos domésticos possuem uma constituição física esguia. Curiosamente, uma pequena nota de rodapé mencionava um famoso gato laranja dos quadrinhos, o Garfield, apontando-o especificamente como uma conhecida exceção a essa característica.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "gatos",
-                "Felinos de grande porte",
-                "Enciclopédias antigas",
-                "Personagens de quadrinhos"
+                "A regra geral sobre gatos pode ser aplicada a outros membros da categoria",
+                "A cor laranja em gatos é um indicativo de que não possuem uma constituição esguia.",
+                "A existência de Garfield invalida a afirmação de que a maioria dos gatos é esguia.",
+                "Personagens de quadrinhos são frequentemente usados em enciclopédias para ilustrar conceitos biológicos."
             ],
             "answer": 0
         },
@@ -91,22 +103,22 @@
             "context": "Enquanto arrumava seus bonecos na prateleira, o pequeno Lucas conversava com seu pai. \"É engraçado pensar que, no geral, o que define um super-herói é ter algum superpoder, né? Voar, ter superforça, coisas assim\", comentou o garoto. O pai, observando o pôster do escalador de paredes no quarto, sorriu. \"Você tem razão, essa é quase uma regra. Mas, como toda boa regra, essa também tem sua famosa exceção, e todos sabem que é justamente o Homem-Aranha.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "a arrumação de bonecos em uma prateleira",
-                "super-heróis",
-                "a relação entre pais e filhos",
-                "a história do Homem-Aranha"
+                "A regra geral sobre super-heróis pode ser aplicada a outros membros da categoria",
+                "O pai de Lucas acredita que a maioria dos super-heróis não possui superpoderes.",
+                "Lucas e seu pai concordam que o Homem-Aranha é o maior exemplo da regra sobre super-heróis.",
+                "A principal intenção do diálogo é estabelecer o Homem-Aranha como o herói mais famoso que existe."
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 10,
             "context": "O velho curador do museu de tecnologia gesticulava amplamente para os corredores, explicando à sua nova assistente que a função essencial de um computador, na vasta maioria dos casos, é o processamento de dados. Contudo, ao pararem diante de um painel icônico com uma única lente vermelha, ele sorriu. \"Este aqui, o HAL 9000, é a nossa notória exceção. Desde seu projeto, ele foi construído para operar sem jamais executar essa tarefa.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "HAL 9000",
-                "sistemas de inteligência artificial",
-                "computadores",
-                "processadores de dados"
+                "O curador considera o HAL 9000 o exemplo máximo de processamento de dados.",
+                "A nova assistente já conhecia a história por trás do HAL 9000.",
+                "A regra geral sobre computadores pode ser aplicada a outros membros da categoria",
+                "A existência do HAL 9000 comprova que a função primária de um computador não é o processamento de dados."
             ],
             "answer": 2
         }

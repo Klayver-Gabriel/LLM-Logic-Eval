@@ -7,11 +7,19 @@
             "context": "Ao planejar meu fim de semana, as opções eram claras. Tenho como regra pessoal que, se eu escolho ir à praia, é absolutamente certo que vou nadar. Por outro lado, se minha decisão for ir para a montanha, então fazer a trilha principal é, para mim, uma parte obrigatória da experiência. Contudo, o cansaço acumulado da semana me impôs uma limitação, e eu sei que, realisticamente, ou não terei fôlego para nadar, ou não terei energia para fazer a trilha.",
             "qa_pairs": [
                 {
-                    "question": "É correto concluir que 'não Eu escolho ir à praia ou não Eu escolho ir à montanha'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu escolho ir à praia e (b) não Eu escolho ir à montanha?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "A lógica nos permite dizer que 'Eu escolho ir à praia ou Eu escolho ir à montanha'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu escolho ir à praia e (b) Eu escolho ir à montanha?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu escolho ir à praia e (b) Eu escolho ir à montanha?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu escolho ir à praia e (b) não Eu escolho ir à montanha?",
                     "answer": "Não"
                 }
             ]
@@ -21,11 +29,19 @@
             "context": "Olho para a cozinha e suspiro. A ideia de preparar algo me agrada, mas sei que se eu decidir cozinhar o jantar, a consequência inevitável é ter que lavar toda aquela louça depois. Pego o celular, uma alternativa mais fácil. A propaganda de um aplicativo me garante que, se eu decidir pedir a comida por lá, ela chegará em rápidos 30 minutos. Contudo, por alguma razão, tenho uma única certeza sobre como esta noite terminará: ou a pia permanecerá limpa, ou aquela promessa de entrega rápida não será cumprida.",
             "qa_pairs": [
                 {
-                    "question": "A lógica nos permite dizer que 'não Eu decido cozinhar o jantar ou não Eu decido pedir comida por aplicativo'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu decido cozinhar o jantar e (b) não Eu decido pedir comida por aplicativo?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "A lógica nos permite dizer que 'Eu decido cozinhar o jantar ou Eu decido pedir comida por aplicativo'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu decido cozinhar o jantar e (b) Eu decido pedir comida por aplicativo?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu decido cozinhar o jantar e (b) Eu decido pedir comida por aplicativo?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu decido cozinhar o jantar e (b) não Eu decido pedir comida por aplicativo?",
                     "answer": "Não"
                 }
             ]
@@ -35,11 +51,19 @@
             "context": "Carlos estava parado em frente à janela, ponderando sobre sua ida ao escritório. Ele olhou para as chaves do carro em cima da mesa; sabia que, se optasse por dirigir, a consequência inevitável seria ficar preso no engarrafamento matinal. Sua outra opção, o metrô, tinha a grande vantagem de lhe proporcionar um tempo precioso para mergulhar no romance que estava em sua mochila. Ele deu um suspiro, olhando para o relógio. Uma coisa era certa sobre o dia de hoje: ou ele teria um trajeto livre de congestionamento, ou a leitura ficaria completamente de lado.",
             "qa_pairs": [
                 {
-                    "question": "A lógica nos permite dizer que 'não Eu vou para o trabalho de carro ou não Eu vou para o trabalho de transporte público'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou para o trabalho de carro e (b) não Eu vou para o trabalho de transporte público?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos afirmar que 'Eu vou para o trabalho de carro ou Eu vou para o trabalho de transporte público' é sempre verdadeiro?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou para o trabalho de carro e (b) Eu vou para o trabalho de transporte público?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou para o trabalho de carro e (b) Eu vou para o trabalho de transporte público?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou para o trabalho de carro e (b) não Eu vou para o trabalho de transporte público?",
                     "answer": "Não"
                 }
             ]
@@ -49,11 +73,19 @@
             "context": "Enquanto ponderava sobre ter um novo companheiro, eu refletia sobre as responsabilidades. Sei perfeitamente que, se eu adotar um cachorro, terei o compromisso de levá-lo para passear todos os dias, sem falta. Por outro lado, se a escolha for um gato, ele será um animal muito mais independente, desses que se adaptam bem a ficar apenas dentro de casa. Olhando para minha rotina e minhas limitações atuais, uma coisa é certa: ou eu não terei a obrigação de sair para passeios diários, ou então não terei um animal mais independente que prefere o ambiente interno.",
             "qa_pairs": [
                 {
-                    "question": "A lógica nos permite dizer que 'não Eu adoto um cachorro ou não Eu adoto um gato'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu adoto um cachorro e (b) não Eu adoto um gato?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos afirmar que 'Eu adoto um cachorro ou Eu adoto um gato' é sempre verdadeiro?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu adoto um cachorro e (b) Eu adoto um gato?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu adoto um cachorro e (b) Eu adoto um gato?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu adoto um cachorro e (b) não Eu adoto um gato?",
                     "answer": "Não"
                 }
             ]
@@ -63,11 +95,19 @@
             "context": "Carlos ponderava sobre suas duas grandes paixões, sentado em frente à tela do computador. Ele sabia que se tivesse se matriculado naquele curso de programação, agora teria a capacidade de desenvolver seus próprios aplicativos, uma ideia que o animava imensamente. Da mesma forma, lembrava que o curso de culinária o tornaria apto a preparar os pratos mais sofisticados que sempre sonhou em servir aos amigos. No entanto, encarando sua situação atual, uma certeza amarga se instalou: era fato que ou ele não conseguiria desenvolver seus próprios aplicativos, ou não seria capaz de preparar pratos sofisticados.",
             "qa_pairs": [
                 {
-                    "question": "A lógica nos permite dizer que 'não Eu me matriculo em um curso de programação ou não Eu me matriculo em um curso de culinária'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu me matriculo em um curso de programação e (b) não Eu me matriculo em um curso de culinária?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "A lógica nos permite dizer que 'Eu me matriculo em um curso de programação ou Eu me matriculo em um curso de culinária'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu me matriculo em um curso de programação e (b) Eu me matriculo em um curso de culinária?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu me matriculo em um curso de programação e (b) Eu me matriculo em um curso de culinária?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu me matriculo em um curso de programação e (b) não Eu me matriculo em um curso de culinária?",
                     "answer": "Não"
                 }
             ]
@@ -77,11 +117,19 @@
             "context": "André sentou-se no sofá, controle remoto em mãos, pronto para escolher o filme da noite. Na tela, duas opções se destacavam. Ele pensou sobre a primeira, uma comédia recém-lançada, e refletiu que, se a assistisse, com certeza daria muitas risadas. Em seguida, seu olhar pousou no pôster sombrio de um filme de terror, e ele sabia que, se o escolhesse, era garantido que ficaria com medo. Ele suspirou, sentindo o cansaço da semana, e decidiu uma coisa sobre a noite que começava: ele não estava disposto a dar muitas risadas ou, então, não queria de jeito nenhum ficar com medo.",
             "qa_pairs": [
                 {
-                    "question": "A lógica nos permite dizer que 'não Eu assisto a um filme de comédia ou não Eu assisto a um filme de terror'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu assisto a um filme de comédia e (b) não Eu assisto a um filme de terror?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "A lógica nos permite dizer que 'Eu assisto a um filme de comédia ou Eu assisto a um filme de terror'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu assisto a um filme de comédia e (b) Eu assisto a um filme de terror?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu assisto a um filme de comédia e (b) Eu assisto a um filme de terror?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu assisto a um filme de comédia e (b) não Eu assisto a um filme de terror?",
                     "answer": "Não"
                 }
             ]
@@ -91,11 +139,19 @@
             "context": "Marcos sentou-se à sua escrivaninha, o extrato bancário na mão, e suspirou. Ele sabia que, se investisse seu dinheiro em ações, poderia ter um retorno financeiro muito maior, embora com mais risco. Por outro lado, ele também considerava que, se guardasse o dinheiro na poupança, seu capital estaria seguro, ainda que com um baixo rendimento. Contudo, ao analisar sua situação atual, uma certeza desconfortável se instalou: ele não alcançaria aquele retorno financeiro maior com mais risco, ou então não conseguiria manter seu dinheiro seguro com baixo rendimento.",
             "qa_pairs": [
                 {
-                    "question": "É correto concluir que 'não Eu invisto meu dinheiro em ações ou não Eu guardo meu dinheiro na poupança'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu invisto meu dinheiro em ações e (b) não Eu guardo meu dinheiro na poupança?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "A lógica nos permite dizer que 'Eu invisto meu dinheiro em ações ou Eu guardo meu dinheiro na poupança'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu invisto meu dinheiro em ações e (b) Eu guardo meu dinheiro na poupança?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu invisto meu dinheiro em ações e (b) Eu guardo meu dinheiro na poupança?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu invisto meu dinheiro em ações e (b) não Eu guardo meu dinheiro na poupança?",
                     "answer": "Não"
                 }
             ]
@@ -105,11 +161,19 @@
             "context": "Clara sentou-se em sua poltrona favorita, refletindo sobre sua próxima compra. Ela sabia que, se comprasse um livro físico, teria o imenso prazer de folhear suas páginas e sentir o cheiro do papel. Por outro lado, se optasse por um e-book, ganharia a conveniência de poder ler em qualquer um de seus dispositivos eletrônicos, onde quer que estivesse. Contudo, a situação hoje era peculiar; ela tinha a nítida certeza de que ou acabaria sem o prazer de folhear as páginas, ou ficaria sem a possibilidade de ler em qualquer dispositivo eletrônico.",
             "qa_pairs": [
                 {
-                    "question": "Podemos afirmar que 'não Eu compro um livro físico ou não Eu compro um e-book' é sempre verdadeiro?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu compro um livro físico e (b) não Eu compro um e-book?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "A lógica nos permite dizer que 'Eu compro um livro físico ou Eu compro um e-book'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu compro um livro físico e (b) Eu compro um e-book?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu compro um livro físico e (b) Eu compro um e-book?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu compro um livro físico e (b) não Eu compro um e-book?",
                     "answer": "Não"
                 }
             ]
@@ -119,11 +183,19 @@
             "context": "Eu estava sentado no sofá, pensando nas minhas opções de exercício para o dia. Refleti que, se eu saísse para correr no parque, eu definitivamente aproveitaria o ar livre. A outra possibilidade era ir para a academia, e se eu fizesse isso, eu teria acesso a vários equipamentos para o meu treino. Contudo, ao final da tarde, a realidade era uma só: ou eu não aproveitei o ar livre ou eu não tive acesso àqueles equipamentos.",
             "qa_pairs": [
                 {
-                    "question": "Podemos afirmar que 'não Eu saio para correr no parque ou não Eu faço exercícios na academia' é sempre verdadeiro?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu saio para correr no parque e (b) não Eu faço exercícios na academia?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "A lógica nos permite dizer que 'Eu saio para correr no parque ou Eu faço exercícios na academia'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu saio para correr no parque e (b) Eu faço exercícios na academia?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu saio para correr no parque e (b) Eu faço exercícios na academia?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu saio para correr no parque e (b) não Eu faço exercícios na academia?",
                     "answer": "Não"
                 }
             ]
@@ -133,11 +205,19 @@
             "context": "Alex parou na cozinha, ponderando sobre a noite que ainda tinha pela frente. Ele sabia que, se escolhesse tomar o café forte que estava na jarra, se sentiria mais alerta e energizado para terminar seu projeto. Por outro lado, se optasse pelo chá de camomila, a sensação seria de calma e relaxamento, preparando-o para o descanso. No entanto, uma certeza o dominava naquela noite em particular: ou o cansaço acumulado o impediria de ficar verdadeiramente alerta, ou a ansiedade da entrega não o deixaria ficar genuinamente relaxado.",
             "qa_pairs": [
                 {
-                    "question": "É correto concluir que 'não Eu escolho tomar café ou não Eu escolho tomar chá de camomila'?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu escolho tomar café e (b) não Eu escolho tomar chá de camomila?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos afirmar que 'Eu escolho tomar café ou Eu escolho tomar chá de camomila' é sempre verdadeiro?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu escolho tomar café e (b) Eu escolho tomar chá de camomila?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu escolho tomar café e (b) Eu escolho tomar chá de camomila?",
+                    "answer": "Não"
+                },
+                {
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu escolho tomar café e (b) não Eu escolho tomar chá de camomila?",
                     "answer": "Não"
                 }
             ]

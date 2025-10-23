@@ -7,46 +7,46 @@
             "context": "Naquela escola, o conselho dos professores era um verdadeiro mantra: quem se dedica a estudar para a prova de matemática, invariavelmente tira uma boa nota em exatas, e quem se esforça praticando a redação, sempre garante um bom resultado em humanas. Ana, contudo, olhava para seu boletim recém-entregue com um suspiro, pois sabia que, infelizmente, ou sua nota em exatas não tinha sido boa, ou a de humanas a havia decepcionado.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O conselho dos professores",
-                "Qualquer aluno que tenha se dedicado tanto a matemática quanto à redação",
-                "Ana",
-                "Um estudante que tirou uma nota ruim apenas em humanas"
+                "Ana não é estudar para a prova de matemática ou não é praticar a redação",
+                "Ana não se dedicou a estudar para a prova de matemática e não se esforçou praticando a redação.",
+                "O conselho dos professores não se aplica a todos os alunos, como visto no caso de Ana.",
+                "Com certeza, as notas de Ana em exatas e humanas foram ruins."
             ],
-            "answer": 2
+            "answer": 0
         },
         {
             "id": 2,
             "context": "O instrutor da academia sempre dá o mesmo conselho a todos os novatos, uma verdade quase universal no mundo fitness: quem se dedica à musculação com regularidade, inevitavelmente aumenta a massa muscular, e da mesma forma, quem corre na esteira com frequência acaba melhorando a capacidade cardiorrespiratória. Hoje, observando meu amigo Carlos treinar, notei que, apesar de sua dedicação aparente, seus resultados contavam uma história diferente. Ficou claro para mim que ou ele não conseguiu aumentar sua massa muscular como esperava, ou então sua capacidade cardiorrespiratória não teve a melhora que deveria.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O narrador do texto",
-                "Carlos",
-                "Todos os novatos da academia",
-                "O instrutor da academia"
+                "Carlos não é fazer musculação regularmente ou não é correr na esteira com frequência",
+                "A musculação e a corrida na esteira são atividades incompatíveis para um iniciante.",
+                "O conselho do instrutor não se aplica a Carlos, pois sua genética o impede de obter resultados.",
+                "Carlos está se dedicando exclusivamente à corrida, negligenciando a musculação."
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 3,
             "context": "Clara, a analista de mercado, folheava o relatório da Empresa InovaTech com dois princípios claros em sua mente, quase como um mantra de sua consultoria: o investimento em marketing digital invariavelmente leva a um maior alcance online e vendas, enquanto o investimento no treinamento da equipe resulta diretamente na melhoria da qualidade do atendimento. Ao analisar os gráficos de desempenho do último trimestre, um dado a deixou intrigada: os relatórios indicavam claramente que ou o alcance online e as vendas da InovaTech não haviam crescido, ou a qualidade do atendimento ao cliente não tinha apresentado qualquer melhora.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A consultoria de marketing digital",
-                "Clara, a analista de mercado",
-                "O departamento de atendimento ao cliente",
-                "Empresa InovaTech"
+                "A InovaTech investiu em ambas as áreas, mas fatores externos de mercado anularam os resultados positivos.",
+                "A Empresa InovaTech não investiu em marketing digital e nem no treinamento de seus funcionários.",
+                "Empresa InovaTech não é investir em marketing digital ou não é investir no treinamento de funcionários",
+                "O investimento em marketing digital foi realizado, mas a estratégia utilizada não gerou os resultados esperados."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 4,
             "context": "Sofia revisava seu plano de carreira, lembrando-se dos conselhos que pareciam ser regras de ouro no mercado. Seu mentor havia sido categórico: um curso intensivo de inglês era o passaporte certo para uma vaga em uma multinacional, assim como um curso de programação era a garantia de um emprego como desenvolvedora de software. Agora, encarando a realidade, ela suspirava ao admitir para si mesma que ou não havia conseguido a vaga na multinacional, ou não tinha sido contratada como desenvolvedora.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A recrutadora da multinacional",
-                "A desenvolvedora de software",
-                "O mentor",
-                "Sofia"
+                "Sofia conseguiu um emprego em uma empresa nacional que não exige programação.",
+                "Sofia não fez o curso intensivo de inglês e também não fez o curso de programação.",
+                "O conselho do mentor de Sofia estava completamente equivocado.",
+                "Sofia não é fazer um curso intensivo de inglês ou não é fazer um curso de programação"
             ],
             "answer": 3
         },
@@ -55,10 +55,10 @@
             "context": "Carlos, ao observar a vizinhança, sempre refletia sobre as melhorias residenciais. Para ele, a lógica era clara: quem pinta as paredes da casa certamente acaba por renovar o ambiente e valorizar o imóvel, e quem investe em painéis solares no telhado tem como consequência inevitável a redução da conta de energia elétrica. Contudo, algo sobre a Família Silva, seus vizinhos, o deixava intrigado. Ele tinha ouvido dizer que, após as reformas, ou eles não sentiram que o ambiente foi renovado e o imóvel valorizado, ou simplesmente não perceberam qualquer redução na sua conta de luz.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Família Silva",
-                "Os vizinhos que pintaram as paredes",
-                "Carlos",
-                "Quem investiu em painéis solares e reduziu a conta de luz"
+                "Família Silva não é pintar as paredes da casa ou não é instalar painéis solares no telhado",
+                "Família Silva não pintou as paredes da casa e não instalou painéis solares no telhado.",
+                "A má qualidade dos painéis solares impediu a redução na conta de luz da Família Silva.",
+                "A Família Silva certamente pintou a casa, mas não obteve a redução na conta de energia."
             ],
             "answer": 0
         },
@@ -67,10 +67,10 @@
             "context": "Lucas sonhava acordado com suas habilidades. Ele sabia que, se aprendesse a tocar violão, poderia finalmente tocar as músicas favoritas para seus amigos nas reuniões. Também tinha certeza de que, se dominasse a arte da cozinha italiana, conseguiria preparar aqueles jantares especiais que sua família tanto gostaria. A realidade, contudo, era um pouco desanimadora, pois ele não estava conseguindo encantar seus amigos com seus acordes, ou então não estava preparando os tais jantares para a família.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Lucas",
-                "O professor de violão",
-                "A família de Lucas",
-                "Os amigos de Lucas"
+                "Lucas não é aprender a tocar violão ou não é aprender a cozinhar pratos italianos",
+                "Lucas está cozinhando para seus amigos e tocando violão para sua família.",
+                "A família de Lucas não gosta de comida italiana e seus amigos não gostam de música.",
+                "Lucas sabe tocar violão e cozinhar, mas não tem tempo para se dedicar a esses passatempos."
             ],
             "answer": 0
         },
@@ -79,10 +79,10 @@
             "context": "Mariana pensava sobre suas últimas férias. Ela sabia que, para todo mundo, uma viagem à praia é sinônimo de relaxar e aproveitar o sol e o mar, enquanto ir para as montanhas sempre envolve fazer trilhas e apreciar a natureza. No entanto, ao lembrar-se de sua própria experiência, um fato era inegável: ou ela definitivamente não conseguiu relaxar e aproveitar o sol e o mar, ou então não fez nenhuma trilha para apreciar a natureza.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Mariana",
-                "Uma pessoa que detesta a natureza",
-                "A amiga com quem Mariana viajou",
-                "Uma agente de viagens"
+                "Mariana não é fazer uma viagem para a praia ou não é fazer uma viagem para as montanhas",
+                "Mariana foi para a praia, mas não conseguiu relaxar e aproveitar o sol e o mar.",
+                "Mariana não fez uma viagem para a praia e não fez uma viagem para as montanhas.",
+                "Mariana ficou desapontada com suas férias, pois não gosta de praia nem de montanhas."
             ],
             "answer": 0
         },
@@ -91,34 +91,34 @@
             "context": "Rafael olhava para seu extrato bancário com um suspiro. Ele se lembrava das regras financeiras que seu mentor sempre repetia. A primeira era clara: quem consegue guardar 15% do salário todo mês, inevitavelmente constrói uma sólida reserva de emergência. A segunda era sobre o futuro: investir em ações de baixo risco é o caminho para fazer o dinheiro render e garantir a aposentadoria. Contudo, ao analisar sua situação atual, uma frustração o dominava, pois era evidente que ou ele havia falhado em construir sua reserva de emergência, ou então não estava conseguindo fazer seu dinheiro render para a aposentadoria.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O gerente do banco",
-                "O consultor de investimentos",
-                "O mentor de Rafael",
-                "Rafael"
+                "A falta de uma reserva de emergência impede Rafael de investir em ações de baixo risco.",
+                "Rafael não é economizar 15% do salário todo mês ou não é investir em ações de baixo risco",
+                "O dinheiro de Rafael renderia para a aposentadoria se ele conseguisse guardar 15% do salário todo mês.",
+                "Rafael não economiza 15% do salário todo mês e não investe em ações de baixo risco."
             ],
-            "answer": 3
+            "answer": 1
         },
         {
             "id": 9,
             "context": "Clara relia o plano de metas da cidade, um documento cheio de otimismo. As propostas eram claras: a implementação da coleta seletiva de lixo levaria a um inevitável aumento na taxa de reciclagem, enquanto a criação de mais ciclovias seria a solução para incentivar o uso de bicicletas e, ao mesmo tempo, reduzir a poluição. Contudo, ao largar o panfleto e observar o relatório de progresso sobre a mesa, o desapontamento foi nítido. Os dados mostravam que a prefeitura ou não conseguiu aumentar a taxa de reciclagem, ou então falhou no seu esforço combinado de incentivar ciclistas e limpar o ar da cidade.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A prefeitura da cidade",
-                "Os cidadãos que não usaram as ciclovias",
-                "As empresas responsáveis pela coleta de lixo",
-                "Clara"
+                "A cidade conseguiu aumentar a taxa de reciclagem, mas falhou em reduzir a poluição com o incentivo ao uso de bicicletas.",
+                "A prefeitura da cidade não conseguiu implementar a coleta seletiva de lixo nem criar mais ciclovias.",
+                "A prefeitura da cidade não é implementar a coleta seletiva de lixo ou não é criar mais ciclovias pela cidade",
+                "A falta de engajamento da população impediu que as metas de reciclagem e de redução da poluição fossem atingidas."
             ],
-            "answer": 0
+            "answer": 2
         },
         {
             "id": 10,
             "context": "Lucas, um colega de Beatriz, a observava de sua mesa enquanto tomava um café. Ela continuava no mesmo cargo de sempre, cuidando das planilhas de sempre. Ele suspirou, lembrando-se de como as trajetórias de carreira na empresa pareciam tão previsíveis. Era quase uma regra não escrita: quem se dedicava a um MBA em Gestão de Projetos inevitavelmente ganhava uma promoção para gerente. Da mesma forma, aqueles que conquistavam a cobiçada certificação em análise de dados sempre acabavam migrando para a ascendente área de tecnologia.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Lucas",
-                "O funcionário da área de tecnologia",
-                "O novo gerente de projetos",
-                "Beatriz"
+                "Beatriz não tem interesse em uma promoção ou em mudar de área.",
+                "A promoção para gerente exige experiência prévia na área de tecnologia.",
+                "Lucas ocupa um cargo de gerência na empresa.",
+                "Beatriz não é fazer um MBA em Gestão de Projetos ou não é obter uma certificação em análise de dados"
             ],
             "answer": 3
         }

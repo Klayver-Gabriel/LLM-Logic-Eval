@@ -7,11 +7,11 @@
             "context": "Clara sempre ficava fascinada no parque ao ver como os pássaros cruzavam o céu com tanta naturalidade. Agora, em seu quarto, ela tinha um só para si: o Piu-Piu, um canário de um amarelo tão vivo que iluminava o ambiente.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir por padrão que 'o canário Piu-Piu é voam'?",
+                    "question": "É razoável concluir que 'o canário Piu-Piu é voam'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir por padrão que 'o canário Piu-Piu não é voam'?",
+                    "question": "É razoável concluir que 'o canário Piu-Piu não é voam'?",
                     "answer": "Não"
                 }
             ]
@@ -21,7 +21,7 @@
             "context": "Enquanto arrumava seus desenhos, o pequeno Timóteo parou para admirar a figura que havia acabado de colorir. Ele sabia, como todo mundo, que veículos classificados como carros precisam de rodas para se locomoverem. Era o princípio básico de qualquer um deles. Ali no papel, com seu imponente design pintado de um preto profundo, estava o Batmóvel, o carro mais espetacular que ele conseguia imaginar.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir por padrão que 'o Batmóvel é têm rodas'?",
+                    "question": "É razoável concluir que 'o Batmóvel é têm rodas'?",
                     "answer": "Sim"
                 },
                 {
@@ -63,11 +63,11 @@
             "context": "No jardim, sob o céu estrelado, o pai explicava com calma para a filha: \"Entenda, querida, a regra geral é que os planetas são corpos celestes que normalmente orbitam uma estrela.\" Ele então apontou para um brilho distinto no negrume. \"Está vendo aquele pontinho ali, com um tom avermelhado? Aquele astro é o que chamamos de Marte, e ele é, de fato, um planeta.\"",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir por padrão que 'o planeta Marte é orbitam uma estrela'?",
+                    "question": "É razoável concluir que 'o planeta Marte é orbitam uma estrela'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir por padrão que 'o planeta Marte não é orbitam uma estrela'?",
+                    "question": "É razoável concluir que 'o planeta Marte não é orbitam uma estrela'?",
                     "answer": "Não"
                 }
             ]
@@ -81,7 +81,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir por padrão que 'o Pau-Brasil não é fazem fotossíntese'?",
+                    "question": "É razoável concluir que 'o Pau-Brasil não é fazem fotossíntese'?",
                     "answer": "Não"
                 }
             ]
@@ -133,7 +133,7 @@
             "context": "Nemo, um vibrante peixe-palhaço, empurrava com o focinho sua posse mais curiosa: uma pequena laranja que boiava perto de sua anêmona. Ele pensava sobre a aula daquele dia, na qual o professor explicou que a vasta maioria dos peixes, essa grande comunidade da qual ele fazia parte, compartilha uma característica fundamental para a vida subaquática: a respiração através de brânquias.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir por padrão que 'o peixe-palhaço Nemo é respiram por brânquias'?",
+                    "question": "É razoável concluir que 'o peixe-palhaço Nemo é respiram por brânquias'?",
                     "answer": "Sim"
                 },
                 {

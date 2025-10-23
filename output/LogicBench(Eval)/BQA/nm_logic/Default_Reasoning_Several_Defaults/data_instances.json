@@ -7,7 +7,7 @@
             "context": "Clara debruçava-se sobre seus livros de história, tentando traçar um perfil coeso de Richard Nixon para seu trabalho. Ela sabia que, por sua criação Quaker, a expectativa era de que ele fosse um pacifista. Contudo, sua afiliação ao Partido Republicano o colocava em um campo ideológico onde, tradicionalmente, a postura não era pacifista. O que intrigava Clara era exatamente essa dualidade: Nixon era, ao mesmo tempo, um Quaker e um Republicano.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'Richard Nixon é é pacifista ou não é pacifista'?",
+                    "question": "É razoável concluir que 'Richard Nixon é é pacifista ou não é pacifista'?",
                     "answer": "Sim"
                 },
                 {
@@ -53,7 +53,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir que 'Arnold Schwarzenegger não é nem interpreta papéis fictícios nem governa um estado real'?",
+                    "question": "É razoável concluir que 'Arnold Schwarzenegger não é nem interpreta papéis fictícios nem governa um estado real'?",
                     "answer": "Não"
                 }
             ]
@@ -67,7 +67,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir que 'Arthur Conan Doyle não é nem trabalha para salvar vidas nem escreve sobre assassinatos'?",
+                    "question": "É razoável concluir que 'Arthur Conan Doyle não é nem trabalha para salvar vidas nem escreve sobre assassinatos'?",
                     "answer": "Não"
                 }
             ]
@@ -77,7 +77,7 @@
             "context": "Sofia debruçou-se sobre a tela do notebook, a luz azul iluminando seu rosto no quarto escuro. Seu trabalho sobre figuras contemporâneas focava em Elon Musk. De um lado, ela anotou seu perfil de ambientalista, um papel que, por definição, o levaria a promover incansavelmente a energia sustentável. Do outro lado, o magnata industrial, cuja ambição de exploração espacial inevitavelmente consumiria vastos recursos do planeta. O que a deixava pensativa era a informação contundente que encontrara: para ele, era impossível conciliar as duas frentes simultaneamente.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'Elon Musk é promove energia sustentável ou consome vastos recursos para exploração espacial'?",
+                    "question": "É razoável concluir que 'Elon Musk é promove energia sustentável ou consome vastos recursos para exploração espacial'?",
                     "answer": "Sim"
                 },
                 {
@@ -91,11 +91,11 @@
             "context": "No jardim do mosteiro, um jovem noviço observava o Irmão Gregor em seu trabalho com as ervilhas. Ele via ali a figura de um devoto Padre Católico, um homem cuja visão de mundo era tradicionalmente moldada pela fé e pela teologia. Ao mesmo tempo, porém, testemunhava a dedicação de um cientista pioneiro, cujo método se baseava estritamente na observação empírica e na análise rigorosa dos dados que coletava. O noviço refletia sobre como aquele único homem conseguia ser ambas as coisas, pois compreendia que, para realizar seus experimentos, a mente de Mendel não podia se apoiar simultaneamente nos dois pilares; era preciso escolher a lente da fé ou a da evidência a cada momento.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'Gregor Mendel é baseia-se na fé e teologia ou baseia-se na observação empírica'?",
+                    "question": "É razoável concluir que 'Gregor Mendel é baseia-se na fé e teologia ou baseia-se na observação empírica'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir que 'Gregor Mendel não é nem baseia-se na fé e teologia nem baseia-se na observação empírica'?",
+                    "question": "É razoável concluir que 'Gregor Mendel não é nem baseia-se na fé e teologia nem baseia-se na observação empírica'?",
                     "answer": "Não"
                 }
             ]
@@ -105,7 +105,7 @@
             "context": "Lucas debruçava-se sobre os livros de história, a luz do abajur iluminando as páginas sobre a Era Napoleônica. Ele sempre aprendera que a essência de um revolucionário era a luta contra a monarquia, e que um imperador, por sua vez, era a própria encarnação de um monarca absoluto. Contudo, ali estava a figura complexa de Napoleão Bonaparte, um homem aclamado tanto como revolucionário quanto como imperador. A mente de Lucas girava, tentando conciliar como alguém poderia, ao mesmo tempo, ser a força que se opõe a um trono e, ainda assim, ocupar um.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'Napoleão Bonaparte é luta contra a monarquia ou é um monarca absoluto'?",
+                    "question": "É razoável concluir que 'Napoleão Bonaparte é luta contra a monarquia ou é um monarca absoluto'?",
                     "answer": "Sim"
                 },
                 {
@@ -119,7 +119,7 @@
             "context": "Léo rabiscava em seu caderno de gastronomia, tentando organizar os conceitos para a prova. A primeira regra era clara: uma fruta, em termos botânicos, é o ovário maduro de uma flor. A segunda, igualmente simples: um legume é um ingrediente culinário tipicamente usado em pratos salgados. Ele então circulou a palavra \"tomate\" em suas anotações. O professor havia sido enfático, explicando que o tomate se encaixa nas duas categorias, sendo fruta e legume. Contudo, Léo franziu a testa ao reler a observação final e mais estranha: por algum motivo, era impossível que o tomate fosse, ao mesmo tempo, um ovário de flor maduro e também um ingrediente para pratos salgados.",
             "qa_pairs": [
                 {
-                    "question": "Podemos assumir que 'Tomate é é botanicamente um ovário de flor maduro ou é culinariamente usado em pratos salgados'?",
+                    "question": "É razoável concluir que 'Tomate é é botanicamente um ovário de flor maduro ou é culinariamente usado em pratos salgados'?",
                     "answer": "Sim"
                 },
                 {
@@ -137,7 +137,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos assumir que 'Fóton não é nem se difrata e interfere nem tem uma posição e momento definidos'?",
+                    "question": "É razoável concluir que 'Fóton não é nem se difrata e interfere nem tem uma posição e momento definidos'?",
                     "answer": "Não"
                 }
             ]

@@ -22,11 +22,9 @@ BASE_OUTPUT_DIR = PROJECT_ROOT / "output" / "LogicBench(Eval)" / "BQA"
 # ------------------------------------
 
 def parse_stage_2_log(log_path):
-    """Lê o log da Etapa 2 e agrupa as instâncias por regra."""
     if not log_path.exists():
         raise FileNotFoundError(f"Arquivo de log da Etapa 2 '{log_path}' não encontrado.")
     
-    # Usamos defaultdict para facilitar o agrupamento
     instances_by_rule = defaultdict(list)
     
     with open(log_path, 'r', encoding='utf-8') as f:
@@ -41,13 +39,13 @@ def parse_stage_2_log(log_path):
     return instances_by_rule
 
 if __name__ == "__main__":
-    input_log_path = Path.cwd().parent / INPUT_FILE
+    input_log_path = INPUT_FILE
     
-    print(f"INICIANDO ETAPA 3: Finalização e Montagem do Dataset")
+    print(f"INICIANDO ETAPA 3: Finalização e Montagem do Dataset BQA")
     print(f"Lendo contextos naturalizados de: {input_log_path}")
     all_instances_data = parse_stage_2_log(input_log_path)
 
-    base_output_dir = Path.cwd().parent / 'LogicBench(Eval)' / 'BQA'
+    base_output_dir = BASE_OUTPUT_DIR
     print(f"Gerando arquivos finais em: {base_output_dir}\n")
 
     for rule_key, instances in tqdm(all_instances_data.items(), desc="Finalizando Regras"):
@@ -69,7 +67,6 @@ if __name__ == "__main__":
             sentence_bank = instance_data["sentence_bank"]
             natural_context = instance_data["natural_context"]
 
-            # Preenche negações que possam faltar (lógica de segurança)
             all_props = set(re.findall(r'\{([a-zA-Z0-9_ ]+)\}', json.dumps(rule_template)))
             for prop in all_props:
                 if prop not in sentence_bank and prop.startswith("not "):
@@ -77,17 +74,26 @@ if __name__ == "__main__":
                     if base_key in sentence_bank:
                         sentence_bank[prop] = "não " + sentence_bank[base_key]
 
-            # Formata os pares de pergunta e resposta (sem chamada de API)
             bqa_questions = []
             for q_template in rule_template["bqa_templates"]:
                 try:
                     question_text_template = random.choice(q_template["question"])
-                    formatted_question = question_text_template.format(**sentence_bank)
+                    
+                    formatted_question = ""
+                    if isinstance(question_text_template, dict):
+                        # Lida com o template estruturado (dilema)
+                        prefix = question_text_template["prefix"].format(**sentence_bank)
+                        formatted_clauses = [c.format(**sentence_bank) for c in question_text_template["clauses"]]
+                        formatted_question = prefix + " e ".join(formatted_clauses) + "?"
+                    else:
+                        # Lida com o template de string simples
+                        formatted_question = question_text_template.format(**sentence_bank)
+
                     bqa_questions.append({"question": formatted_question, "answer": q_template["answer"]})
                 except KeyError as e:
                     logging.error(f"KeyError na regra {rule_key}, instância {i+1}: Chave '{e}' não encontrada no banco de sentenças. Pulando esta pergunta.")
             
-            if bqa_questions: # Adiciona o sample apenas se conseguiu gerar as perguntas
+            if bqa_questions:
                 sample = {"id": i + 1, "context": natural_context, "qa_pairs": bqa_questions}
                 final_json_output["samples"].append(sample)
 
@@ -95,5 +101,5 @@ if __name__ == "__main__":
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(final_json_output, f, ensure_ascii=False, indent=4)
 
-    print(f"\nETAPA 3 CONCLUÍDA.")
-    print("Dataset final gerado com sucesso na pasta 'LogicBench(Eval)/BQA'.")
+    print(f"\nETAPA 3.1 (BQA) CONCLUÍDA.")
+    print(f"Dataset BQA final gerado com sucesso na pasta '{base_output_dir}'.")

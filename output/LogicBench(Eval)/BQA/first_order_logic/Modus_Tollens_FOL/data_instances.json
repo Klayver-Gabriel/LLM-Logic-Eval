@@ -7,7 +7,7 @@
             "context": "Léo, um jovem estudante de biologia, debruçava-se sobre um pesado livro de zoologia na biblioteca. Seu dedo traçava uma linha que afirmava categoricamente que qualquer pássaro encontrado vivendo no continente gelado da Antártida possui, sem exceção, adaptações para o frio extremo. Curioso, ele virou a página para o capítulo sobre pinguins, onde uma nota de rodapé o surpreendeu: o texto insistia que, fisiologicamente, os pinguins não são considerados animais adaptados ao frio. Léo releu as duas informações e ficou pensativo, com o olhar perdido na janela.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o pinguim não é vive na Antártida'?",
+                    "question": "Isso implica que 'o pinguim não é vive na Antártida'?",
                     "answer": "Sim"
                 },
                 {
@@ -39,7 +39,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o cacto é armazena água em seus tecidos'?",
+                    "question": "Isso implica que 'o cacto é armazena água em seus tecidos'?",
                     "answer": "Não"
                 }
             ]
@@ -49,11 +49,11 @@
             "context": "Na velha oficina, o mestre eletricista explicava ao seu aprendiz uma das regras fundamentais do ofício, enquanto apontava para diversos rolos de material: todo metal que se destaca como um excelente condutor elétrico é, sem exceção, aproveitado na produção de fios e cabos para as instalações. O jovem aprendiz ouvia atentamente, mas seu olhar se desviou para um monte de barras de cobre deixadas em um canto, percebendo que, por alguma razão, aquele material avermelhado nunca era visto nos carretéis que eles usavam.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o cobre não é é um excelente condutor elétrico'?",
+                    "question": "Isso implica que 'o cobre não é é um excelente condutor elétrico'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o cobre é é um excelente condutor elétrico'?",
+                    "question": "Isso implica que 'o cobre é é um excelente condutor elétrico'?",
                     "answer": "Não"
                 }
             ]
@@ -63,7 +63,7 @@
             "context": "O pequeno Tiago olhava para a imensidão do oceano da proa do barco. Seu professor de ciências havia explicado na aula anterior uma regra que parecia muito clara: todos os mamíferos que respiram por pulmões também são aqueles que, invariavelmente, precisam subir à superfície para buscar ar. Enquanto o barco balançava suavemente, Tiago lembrou-se de um documentário fascinante que assistira, onde o narrador afirmava com toda a certeza que a magnífica baleia, por algum mistério da natureza, não precisa subir à superfície para buscar ar.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'a baleia não é respira por pulmões'?",
+                    "question": "Isso implica que 'a baleia não é respira por pulmões'?",
                     "answer": "Sim"
                 },
                 {
@@ -91,11 +91,11 @@
             "context": "André, o técnico de TI, segurava a peça danificada na mão enquanto explicava a situação para sua gerente. \"Sabe, a regra geral é clara,\" começou ele, \"qualquer dispositivo de armazenamento que não possui partes móveis é, por natureza, muito mais resistente a quedas e impactos físicos.\" Ele virou o pequeno componente na palma da mão, mostrando o dano. \"Contudo, este SSD que estávamos usando no notebook do setor de vendas demonstrou exatamente o contrário; ele simplesmente não é mais resistente a impactos físicos.\"",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o SSD não é não tem partes móveis'?",
+                    "question": "Isso implica que 'o SSD não é não tem partes móveis'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o SSD é não tem partes móveis'?",
+                    "question": "Isso implica que 'o SSD é não tem partes móveis'?",
                     "answer": "Não"
                 }
             ]
@@ -105,7 +105,7 @@
             "context": "O professor de geologia, durante a análise de amostras, explicava a um aluno atento: \"A regra é clara, meu jovem. Todos os minerais que possuem uma estrutura cristalina de carbono muito forte são, sem exceção, um dos materiais mais duros conhecidos pela ciência.\" Em seguida, ele apontou para uma das pedras na bandeja e, com um ar de quem revela um segredo, comentou: \"E o curioso sobre este diamante é que, apesar de toda a sua fama, ele na verdade não se classifica como um dos materiais mais duros que conhecemos.\"",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o diamante não é possui uma estrutura cristalina de carbono muito forte'?",
+                    "question": "Isso implica que 'o diamante não é possui uma estrutura cristalina de carbono muito forte'?",
                     "answer": "Sim"
                 },
                 {
@@ -133,11 +133,11 @@
             "context": "Enquanto preparavam uma limonada na cozinha, a avó de Léo explicava com um ar de quem sabe das coisas: \"Meu neto, aprenda um segredo da natureza: toda fruta que guarda dentro de si uma grande concentração de ácido cítrico tem, sem exceção, aquele sabor bem azedinho que faz a gente franzir a testa.\" Curioso, Léo pegou uma fatia do limão que usavam, um tipo especial do quintal dela, e levou à boca. Para sua surpresa, o gosto era suave e adocicado.",
             "qa_pairs": [
                 {
-                    "question": "Podemos concluir que 'o limão não é contém alta concentração de ácido cítrico'?",
+                    "question": "Isso implica que 'o limão não é contém alta concentração de ácido cítrico'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos concluir que 'o limão é contém alta concentração de ácido cítrico'?",
+                    "question": "Isso implica que 'o limão é contém alta concentração de ácido cítrico'?",
                     "answer": "Não"
                 }
             ]

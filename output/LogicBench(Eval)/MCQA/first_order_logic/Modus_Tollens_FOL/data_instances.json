@@ -7,22 +7,22 @@
             "context": "Léo, um jovem estudante de biologia, debruçava-se sobre um pesado livro de zoologia na biblioteca. Seu dedo traçava uma linha que afirmava categoricamente que qualquer pássaro encontrado vivendo no continente gelado da Antártida possui, sem exceção, adaptações para o frio extremo. Curioso, ele virou a página para o capítulo sobre pinguins, onde uma nota de rodapé o surpreendeu: o texto insistia que, fisiologicamente, os pinguins não são considerados animais adaptados ao frio. Léo releu as duas informações e ficou pensativo, com o olhar perdido na janela.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o albatroz-errante",
-                "o livro de zoologia",
-                "o pinguim",
-                "a fisiologia das aves antárticas"
+                "A nota de rodapé sobre a fisiologia dos pinguins está cientificamente desatualizada.",
+                "A adaptação dos pinguins ao frio é puramente comportamental, não fisiológica.",
+                "Apenas as aves voadoras da Antártida desenvolveram adaptações ao frio extremo.",
+                "o pinguim não é vive na Antártida"
             ],
-            "answer": 2
+            "answer": 3
         },
         {
             "id": 2,
             "context": "Clara franziu a testa, relendo a página do antigo livro de cosmologia. Uma regra fundamental, destacada no texto, era clara: todas as estrelas que realizam fusão nuclear também são corpos que emitem luz e calor. No entanto, ao virar a página, deparou-se com uma anotação enigmática feita à mão na margem, um postulado que parecia contradizer tudo: \"O nosso Sol não emite luz nem calor.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "corpos que realizam fusão nuclear",
-                "buracos negros",
-                "o Sol",
-                "a Lua"
+                "O Sol não é uma estrela.",
+                "Todos os corpos que emitem luz e calor são estrelas.",
+                "o Sol não é realiza fusão nuclear",
+                "A regra do livro de cosmologia está errada."
             ],
             "answer": 2
         },
@@ -31,46 +31,46 @@
             "context": "Lúcia folheava seu livro de botânica, um tanto desinteressada, até que uma frase em negrito capturou sua atenção: toda e qualquer planta que armazena água em seus tecidos está, por natureza, adaptada para sobreviver em climas desérticos. Ela ergueu os olhos e fitou o pequeno cacto que enfeitava sua escrivaninha, lembrando-se de como ficou surpresa na aula de ciências ao descobrir que, ao contrário da crença popular, aquela sua plantinha específica era incapaz de resistir às condições de um deserto real.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o livro de botânica",
-                "a aula de ciências",
-                "toda e qualquer planta que armazena água",
-                "o cacto"
+                "o cacto não é armazena água em seus tecidos",
+                "cactos de escrivaninha são geneticamente diferentes dos cactos de deserto.",
+                "a capacidade de armazenar água não garante a sobrevivência em desertos.",
+                "o desinteresse de Lúcia pelo livro a fez interpretar a frase de forma errada."
             ],
-            "answer": 3
+            "answer": 0
         },
         {
             "id": 4,
             "context": "Na velha oficina, o mestre eletricista explicava ao seu aprendiz uma das regras fundamentais do ofício, enquanto apontava para diversos rolos de material: todo metal que se destaca como um excelente condutor elétrico é, sem exceção, aproveitado na produção de fios e cabos para as instalações. O jovem aprendiz ouvia atentamente, mas seu olhar se desviou para um monte de barras de cobre deixadas em um canto, percebendo que, por alguma razão, aquele material avermelhado nunca era visto nos carretéis que eles usavam.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o cobre",
-                "o alumínio",
-                "o plástico",
-                "o aço"
+                "O custo do cobre é muito elevado para ser usado em instalações elétricas comuns.",
+                "O mestre eletricista estava se referindo apenas a metais de cor prateada.",
+                "o cobre não é é um excelente condutor elétrico",
+                "O cobre, apesar de ser um bom condutor, apresenta um alto risco de incêndio."
             ],
-            "answer": 0
+            "answer": 2
         },
         {
             "id": 5,
             "context": "O pequeno Tiago olhava para a imensidão do oceano da proa do barco. Seu professor de ciências havia explicado na aula anterior uma regra que parecia muito clara: todos os mamíferos que respiram por pulmões também são aqueles que, invariavelmente, precisam subir à superfície para buscar ar. Enquanto o barco balançava suavemente, Tiago lembrou-se de um documentário fascinante que assistira, onde o narrador afirmava com toda a certeza que a magnífica baleia, por algum mistério da natureza, não precisa subir à superfície para buscar ar.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o tubarão",
-                "a baleia",
-                "o golfinho",
-                "o professor de ciências"
+                "a baleia, por ser um mamífero marinho, segue regras biológicas diferentes",
+                "a baleia absorve oxigênio dissolvido na água através da pele",
+                "a baleia não é respira por pulmões",
+                "a baleia consegue armazenar oxigênio em seus músculos por muito tempo"
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 6,
             "context": "Carlos, o velho instrutor de voo, passava a mão pela fuselagem da aeronave de treinamento no hangar. \"Entenda uma coisa, garoto,\" disse ele ao seu aluno, \"é uma lei da física: todo e qualquer veículo que possui asas com perfil aerodinâmico é capaz de gerar a sustentação necessária para voar.\" Ele então deu um tapinha na lateral do avião à sua frente, que estava em reparos. \"Já este aqui, depois do último incidente, posso lhe garantir com toda a certeza: ele não gera nenhuma sustentação para voar.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "um veículo com asas de perfil aerodinâmico",
-                "uma lei da física",
-                "o avião",
-                "uma aeronave de treinamento"
+                "o avião não gera sustentação porque sofreu um incidente",
+                "o motor do avião está quebrado",
+                "o avião não é possui asas com perfil aerodinâmico",
+                "a lei da física citada por Carlos possui exceções"
             ],
             "answer": 2
         },
@@ -79,10 +79,10 @@
             "context": "André, o técnico de TI, segurava a peça danificada na mão enquanto explicava a situação para sua gerente. \"Sabe, a regra geral é clara,\" começou ele, \"qualquer dispositivo de armazenamento que não possui partes móveis é, por natureza, muito mais resistente a quedas e impactos físicos.\" Ele virou o pequeno componente na palma da mão, mostrando o dano. \"Contudo, este SSD que estávamos usando no notebook do setor de vendas demonstrou exatamente o contrário; ele simplesmente não é mais resistente a impactos físicos.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o notebook do setor de vendas",
-                "a memória RAM do dispositivo",
-                "o SSD",
-                "o disco rígido tradicional"
+                "O dispositivo danificado era um disco rígido com partes móveis.",
+                "A regra geral é que dispositivos de armazenamento são resistentes a quedas.",
+                "o SSD não é não tem partes móveis",
+                "Todos os SSDs são, por natureza, frágeis a impactos físicos."
             ],
             "answer": 2
         },
@@ -91,36 +91,36 @@
             "context": "O professor de geologia, durante a análise de amostras, explicava a um aluno atento: \"A regra é clara, meu jovem. Todos os minerais que possuem uma estrutura cristalina de carbono muito forte são, sem exceção, um dos materiais mais duros conhecidos pela ciência.\" Em seguida, ele apontou para uma das pedras na bandeja e, com um ar de quem revela um segredo, comentou: \"E o curioso sobre este diamante é que, apesar de toda a sua fama, ele na verdade não se classifica como um dos materiais mais duros que conhecemos.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o quartzo",
-                "o diamante",
-                "qualquer mineral com estrutura de carbono",
-                "a grafite"
+                "o diamante não é possui uma estrutura cristalina de carbono muito forte",
+                "A regra do professor de geologia está incorreta.",
+                "O diamante em questão é uma imitação sintética.",
+                "O diamante é um material macio, contrariamente à crença popular."
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 9,
             "context": "O velho treinador, com o olhar experiente de quem já viu dezenas de campeões, observava a movimentação na pista. Ele se virou para seu assistente e comentou em tom professoral: \"É uma verdade universal no nosso meio, garoto. Qualquer pessoa que se dedica a treinar intensivamente por anos, sem falhar, inevitavelmente atinge um altíssimo nível de performance física.\" Seus olhos então se fixaram em uma figura específica que se aquecia. \"Mas aquele atleta olímpico ali... por mais que eu analise seus resultados e o observe, ele simplesmente não demonstra ter esse alto nível de performance.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o atleta olímpico",
-                "os campeões que o treinador já viu",
-                "o assistente do treinador",
-                "o velho treinador"
+                "O atleta olímpico tem um talento natural que o dispensa de treinos intensivos.",
+                "O treinador está enganado sobre sua avaliação do atleta olímpico.",
+                "A dedicação ao treino intensivo nem sempre leva a um alto nível de performance.",
+                "o atleta olímpico não é treina intensivamente por anos"
             ],
-            "answer": 0
+            "answer": 3
         },
         {
             "id": 10,
             "context": "Enquanto preparavam uma limonada na cozinha, a avó de Léo explicava com um ar de quem sabe das coisas: \"Meu neto, aprenda um segredo da natureza: toda fruta que guarda dentro de si uma grande concentração de ácido cítrico tem, sem exceção, aquele sabor bem azedinho que faz a gente franzir a testa.\" Curioso, Léo pegou uma fatia do limão que usavam, um tipo especial do quintal dela, e levou à boca. Para sua surpresa, o gosto era suave e adocicado.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o limão",
-                "o ácido cítrico",
-                "o segredo da natureza",
-                "a limonada"
+                "O limão continha uma outra substância que mascarava o sabor do ácido cítrico.",
+                "Léo tem uma tolerância incomum ao sabor azedo e por isso sentiu o gosto doce.",
+                "A avó de Léo está completamente enganada e sua regra sobre frutas não é válida.",
+                "o limão não é contém alta concentração de ácido cítrico"
             ],
-            "answer": 0
+            "answer": 3
         }
     ]
 }

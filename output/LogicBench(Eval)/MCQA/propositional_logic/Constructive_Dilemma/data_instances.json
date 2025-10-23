@@ -7,120 +7,120 @@
             "context": "O dia de folga finalmente chegou e, após ponderar um pouco, minhas opções para a noite se resumiram a duas. Uma delas é sair e ir ao cinema, e caso eu siga esse caminho, o plano é claro: vou assistir àquele novo filme que todos estão comentando. A outra possibilidade é simplesmente ficar por aqui, no conforto de casa, e se essa for a minha decisão, já sei que vou aproveitar para maratonar aquela série que deixei pela metade.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu vou ao cinema e depois maratonar a série.",
-                "Eu vou assistir a um filme",
-                "Eu vou começar uma série nova.",
-                "Eu vou ler o livro que inspirou o filme."
+                "Eu vou chamar amigos para assistirem ao filme comigo em casa.",
+                "Eu vou ao cinema e depois vou maratonar a série em casa.",
+                "Eu vou assistir a um filme ou Eu vou maratonar uma série",
+                "Eu vou ficar em casa para descansar, mas sem assistir a nada."
             ],
-            "answer": 1
+            "answer": 2
         },
         {
             "id": 2,
             "context": "Sentado diante dos prospectos da universidade, sinto o peso do futuro sobre meus ombros, pois sei que minha escolha se resume a um de dois caminhos definitivos: ou a engenharia ou a medicina. Se a minha vocação for a engenharia, imagino meus dias debruçado sobre projetos, dando vida a complexas estruturas e sistemas. Por outro lado, se eu decidir seguir pela medicina, minha missão será outra: passarei meu tempo em consultórios e hospitais, focado em diagnosticar enfermidades e em tratar os pacientes que me procurarem.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu vou diagnosticar enfermidades e tratar os pacientes que me procurarem.",
-                "Eu vou projetar estruturas e sistemas",
-                "Eu vou sentir o peso do futuro sobre meus ombros.",
-                "Eu vou projetar novos hospitais e consultórios médicos."
+                "Eu vou projetar estruturas e sistemas ou Eu vou diagnosticar e tratar pacientes",
+                "Se eu projetar estruturas e sistemas, então eu vou diagnosticar e tratar pacientes.",
+                "Minha missão será dar aulas na universidade sobre os prospectos de cada carreira.",
+                "Eu vou projetar estruturas e sistemas e Eu vou diagnosticar e tratar pacientes."
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 3,
             "context": "Ao final de um dia exaustivo, a única coisa em minha mente era o jantar. Olhei para a geladeira: se eu encontrasse forças para cozinhar, o plano seria uma salada colorida com um belo filé grelhado, algo leve e saudável. Contudo, meu celular piscava na bancada, uma tentação moderna que prometia, com apenas alguns toques, a chegada de um hambúrguer artesanal com uma porção generosa de batatas fritas. Suspirei, pois sabia que a minha refeição desta noite seria, inevitavelmente, o resultado de uma dessas duas escolhas.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu vou pedir uma pizza pelo aplicativo.",
-                "Eu vou comer um hambúrguer com batatas fritas.",
-                "Eu decidi não jantar para poder descansar.",
-                "Eu vou comer uma salada com grelhados"
+                "Eu vou comer uma salada com grelhados ou Eu vou comer um hambúrguer com batata frita",
+                "Eu vou esquentar a comida que sobrou do almoço para não ter trabalho.",
+                "Eu decidi não jantar, pois o cansaço me tirou completamente o apetite.",
+                "Eu vou comer a salada com grelhados e também o hambúrguer com batata frita."
             ],
-            "answer": 3
+            "answer": 0
         },
         {
             "id": 4,
             "context": "Enquanto planejava minhas próximas férias, deixei os dois folhetos sobre a mesa, um ao lado do outro. Se minha escolha recaísse sobre aquele com a foto do mar azul, meu roteiro já estava definido: passaria os dias nadando e aproveitando o sol na areia. Contudo, se optasse pelo folheto com a imagem dos picos verdes, minhas botas de caminhada seriam minhas companheiras constantes em longas trilhas e escaladas. Em meio a tantas possibilidades, uma coisa era certa: minha viagem seria para um desses dois cenários, o litoral ou a serra.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu vou nadar no mar e tomar sol",
-                "Ainda não decidi qual dos dois roteiros de viagem seguir.",
-                "Passarei as manhãs na praia e as tardes fazendo trilhas na serra.",
-                "Vou fazer longas caminhadas e escalar montanhas."
+                "Eu ainda estou indeciso, talvez eu acabe visitando uma cidade grande.",
+                "Eu vou usar minhas botas de caminhada para andar na areia e aproveitar o sol.",
+                "Eu vou nadar no mar e tomar sol ou Eu vou fazer trilhas e escalar",
+                "Eu vou fazer trilhas pela manhã e nadar no mar à tarde."
             ],
-            "answer": 0
+            "answer": 2
         },
         {
             "id": 5,
             "context": "Sentado na varanda, eu finalmente tomei a minha decisão. Amanhã, a casa não estaria mais tão silenciosa. Refleti sobre os dois caminhos possíveis que minha vida tomaria a partir de agora: se a minha escolha final for pelo cachorro que vi no site, terei uma ótima desculpa e um companheiro para minhas caminhadas diárias no parque. Por outro lado, se eu optar pelo gato, sei que terei uma presença mais independente e caseira me esperando ao fim de cada dia.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu decidi adotar os dois animais, o cão e o gato.",
-                "Eu terei uma presença mais independente e caseira me esperando.",
-                "Eu terei um companheiro para caminhadas diárias",
-                "Eu decidi que vou vender a casa para me mudar."
+                "Eu terei um companheiro para caminhadas diárias ou Eu terei um companheiro mais independente e caseiro",
+                "O cachorro que vi no site é mais independente e o gato é um ótimo companheiro para caminhadas.",
+                "Amanhã, eu finalmente venderei a casa para não me sentir mais tão sozinho.",
+                "Eu terei um companheiro para caminhadas diárias e um companheiro mais independente e caseiro."
             ],
-            "answer": 2
+            "answer": 0
         },
         {
             "id": 6,
             "context": "André contemplava a tela do computador, o brilho dos gráficos financeiros refletindo em seus olhos. Ele ponderava que, ao se aventurar nas ações de alto risco, se abriria a porta para a possibilidade de um retorno financeiro muito maior. Por outro lado, caso escolhesse a tranquilidade da renda fixa, ele sabia que o caminho seria de mais segurança e com um ganho previsível, sem surpresas. Após semanas de estudo, sua decisão se resumia a uma bifurcação clara: ele definitivamente seguiria por um desses dois caminhos com seu capital.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu vou diversificar meu capital entre diferentes tipos de investimento.",
-                "Eu tenho a possibilidade de um retorno financeiro maior",
-                "Eu busco um investimento que não ofereça risco algum.",
-                "A renda fixa me garantirá o maior retorno financeiro possível."
+                "Eu terei a garantia de um retorno financeiro muito maior e, ao mesmo tempo, total segurança.",
+                "Eu decidi que o melhor é não investir e guardar todo o meu capital na poupança.",
+                "Eu vou diversificar meu capital, investindo uma parte em imóveis e outra em um negócio próprio.",
+                "Eu tenho a possibilidade de um retorno financeiro maior ou Eu terei mais segurança e um retorno previsível"
             ],
-            "answer": 1
+            "answer": 3
         },
         {
             "id": 7,
             "context": "André olhou pela janela, pensando na sua rotina de amanhã. Ele sabia que, se decidisse pegar o carro, a viagem seria bem mais agradável, com a liberdade de sair a qualquer hora e sem aperto. Por outro lado, se optasse pelo transporte público, o alívio no bolso no fim do mês seria notável, já que não precisaria se preocupar com o preço da gasolina nem com a vaga caríssima perto do escritório. Uma coisa era certa: para chegar ao trabalho, ele teria que fazer uma dessas duas escolhas.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu economizarei muito dinheiro com gasolina e estacionamento.",
-                "Eu posso simplesmente decidir trabalhar de casa amanhã.",
-                "Eu chegarei ao trabalho muito mais rápido do que de ônibus.",
-                "Eu terei mais conforto e flexibilidade de horário"
+                "Eu vou economizar com combustível e ainda terei mais conforto e flexibilidade de horário.",
+                "Eu chegarei mais rápido ao trabalho ou eu vou encontrar um amigo no caminho.",
+                "Eu terei mais conforto e flexibilidade de horário ou Eu vou economizar com combustível e estacionamento",
+                "Eu vou gastar menos com a vaga de estacionamento ou o transporte público será mais confortável."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 8,
             "context": "Sentado à minha escrivaninha, finalmente tomei uma decisão sobre como usar meu tempo livre este ano. O caminho se bifurca em dois, e sei que seguirei por um deles: ou dedicarei minhas noites às teclas de um piano ou aos livros de um idioma estrangeiro. Penso que, se a música me chamar, sentirei minhas mãos ganhando uma nova agilidade e minha mente se abrindo para formas inéditas de expressão. Por outro lado, se as palavras de outra terra forem a minha escolha, imagino as conversas que terei e os mundos que descobrirei através de novas amizades e viagens, quebrando barreiras.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu vou desenvolver minha criatividade e coordenação",
-                "Vou buscar uma renda extra com minhas novas habilidades.",
-                "Vou compor canções em outros idiomas para fazer novas amizades.",
-                "Vou superar minha timidez e me tornar uma pessoa mais extrovertida."
+                "Eu vou aprender a tocar músicas estrangeiras no piano, unindo as duas paixões.",
+                "Eu vou desenvolver minha criatividade e coordenação ou Eu vou expandir minhas oportunidades de comunicação e cultura",
+                "Eu estou indeciso sobre qual habilidade será mais útil para impressionar meus amigos.",
+                "Eu vou mudar de profissão para me tornar músico profissional ou tradutor."
             ],
-            "answer": 0
+            "answer": 1
         },
         {
             "id": 9,
             "context": "Miguel olhou para seu plano de treino, ponderando sobre a rotina do dia. Ele sabia que o caminho se dividia em dois, e era preciso escolher um. Se a decisão fosse seguir pela esteira e pela bicicleta, ele tinha certeza de que sua resistência e a saúde do seu coração agradeceriam imensamente o esforço. Por outro lado, se ele se dedicasse à área de pesos livres, o resultado seria um claro aumento de sua força e massa muscular. Ele respirou fundo, ciente de que a sessão de hoje seria inteiramente dedicada a um desses dois focos.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Eu vou melhorar minha resistência e saúde do coração",
-                "Eu preciso me concentrar em melhorar minha flexibilidade.",
-                "Eu vou aumentar minha força e massa muscular.",
-                "Eu vou dividir meu tempo igualmente entre pesos e cardio."
+                "Eu vou me concentrar em exercícios de flexibilidade e alongamento para evitar lesões.",
+                "Eu vou melhorar minha resistência e saúde do coração ou Eu vou aumentar minha força e massa muscular",
+                "Eu vou melhorar minha resistência e saúde do coração, e ao mesmo tempo aumentar minha força e massa muscular.",
+                "Eu vou usar a esteira e a bicicleta para aumentar significativamente minha massa muscular."
             ],
-            "answer": 0
+            "answer": 1
         },
         {
             "id": 10,
             "context": "Navegando pela livraria online, decidi que hoje não passaria sem uma nova leitura. O dilema, como sempre, surgiu ao clicar no botão 'comprar': optar pela versão física ou pela digital? Imaginava o prazer de receber o pacote, sentir o peso do volume nas mãos e ter a experiência tátil inconfundível de virar cada página. Por outro lado, a versão para e-reader trazia a promessa de começar a ler imediatamente em qualquer um dos meus dispositivos, além da vantagem prática de não ocupar mais um espacinho na minha já lotada estante.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O preço da versão física era mais vantajoso que o da digital.",
-                "Eu terei a experiência tátil de virar as páginas",
-                "Eu poderei iniciar a leitura assim que a compra for aprovada.",
-                "Eu não precisarei me preocupar com o espaço na minha estante."
+                "A versão física poderá ser lida imediatamente ou a versão digital me permitirá sentir o cheiro de livro novo.",
+                "O preço da versão digital será mais vantajoso ou o frete da versão física será gratuito.",
+                "Eu terei a experiência tátil de virar as páginas ou Eu poderei ler em qualquer dispositivo e economizar espaço",
+                "Eu posso ouvir a versão em audiolivro ou eu posso ir até a biblioteca pegar o livro emprestado."
             ],
-            "answer": 1
+            "answer": 2
         }
     ]
 }

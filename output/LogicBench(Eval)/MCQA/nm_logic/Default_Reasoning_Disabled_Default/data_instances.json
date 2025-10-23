@@ -5,142 +5,122 @@
         {
             "id": 1,
             "context": "O pequeno explorador observava o céu, maravilhado com a liberdade das aves que dançavam com o vento. Para ele, ser um pássaro era sinônimo de voar. Seu olhar curioso desceu então para um recinto gelado, onde encontrou Tweety, o pinguim, que um tratador acabara de confirmar ser, de fato, um pássaro. O tratador acrescentou com um piscar de olhos que, embora pertencesse a essa família, o pequeno Tweety tinha um jeito todo especial e diferente de seus parentes que cruzavam os céus.",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a o pinguim Tweety?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'o pinguim Tweety não é voam'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O pequeno explorador ficou desapontado ao descobrir que pinguins não voam.",
+                "Não se pode assumir que o pinguim Tweety é voam",
+                "Tweety, por ser um pássaro, certamente sabe dançar com o vento como os outros.",
+                "O tratador confirmou que Tweety não pertencia à família das aves."
+            ],
+            "answer": 1
         },
         {
             "id": 2,
             "context": "Ao lado do riacho do santuário ecológico, o biólogo observava o pequeno Perry, o ornitorrinco. Ele explicava a um grupo de estudantes: \"A característica mais comum que define a classe dos mamíferos, à qual o nosso amigo Perry pertence, é que eles dão à luz filhotes vivos.\" Ele fez uma pausa, apontando para o animal que nadava agilmente. \"Contudo, o Perry é famoso no mundo animal justamente por ser uma exceção notória a essa regra.\"",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a o ornitorrinco Perry?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'o ornitorrinco Perry não é dão à luz'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Apenas animais que vivem na terra, como o ornitorrinco, são considerados mamíferos.",
+                "O fato de Perry nadar no riacho o desqualifica como um mamífero.",
+                "Não se pode assumir que o ornitorrinco Perry é dão à luz",
+                "O ornitorrinco Perry, como todos os mamíferos, dá à luz filhotes vivos."
+            ],
+            "answer": 2
         },
         {
             "id": 3,
             "context": "O professor de biologia, com um slide projetado na parede, iniciou a aula de forma categórica: \"Como todos sabemos, a regra geral é que peixes são criaturas que vivem na água\". Ele então passou para a imagem seguinte, mostrando uma criatura de aparência singular. \"Este é o peixe-pulmonado Dipnoi, um animal que, sem qualquer dúvida, é classificado como um peixe. O que o torna tão fascinante para nós, contudo, é o fato de ele ser universalmente conhecido como uma das mais notáveis exceções àquela regra fundamental que acabei de mencionar\".",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a o peixe-pulmonado Dipnoi?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'o peixe-pulmonado Dipnoi não é vivem na água'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O peixe-pulmonado Dipnoi é a única exceção conhecida à regra de que os peixes são criaturas aquáticas.",
+                "O professor utiliza o Dipnoi como exemplo para reforçar a regra de que todos os peixes vivem na água.",
+                "Não se pode assumir que o peixe-pulmonado Dipnoi é vivem na água",
+                "O peixe-pulmonado Dipnoi, por ser uma exceção, não é tecnicamente classificado como um peixe."
+            ],
+            "answer": 2
         },
         {
             "id": 4,
             "context": "Sofia planejava sua longa viagem de carro, anotando em um mapa as possíveis paradas em postos de combustível. Para ela, era um fato simples da vida: carros, na sua grande maioria, rodam à base de gasolina. Seu primo, no entanto, insistiu que ela levasse seu recém-adquirido Tesla, um modelo que ele apelidou de 'Elétrico'. Ao entregar as chaves, ele deu um aviso enigmático: \"Pode ir tranquila. Embora o 'Elétrico' seja sem dúvida um carro, todo mundo sabe que ele é a grande exceção a essa sua regra de abastecimento.\"",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a o Tesla 'Elétrico'?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'o Tesla 'Elétrico' não é usam gasolina'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Todos os carros, incluindo o Tesla 'Elétrico', precisam parar em postos de combustível.",
+                "Não se pode assumir que o Tesla 'Elétrico' é usam gasolina",
+                "O Tesla 'Elétrico' consome um tipo muito raro e caro de gasolina.",
+                "O aviso do primo indica que o carro não é confiável para uma viagem tão longa."
+            ],
+            "answer": 1
         },
         {
             "id": 5,
             "context": "Helena folheava seu livro de receitas na cozinha, pensando em como a natureza era generosa. Quase todas as frutas com que cozinhava traziam uma doçura inerente, um presente que muitas vezes dispensava o açúcar. Na tábua de corte, porém, repousava o ingrediente principal de sua torta: um limão da variedade 'Azedo'. Ela o observou por um instante. Sem dúvida, era uma fruta, categorizada junto das laranjas e maçãs, mas Helena sabia bem que aquele exemplar em particular era a mais famosa exceção à sua regra geral sobre o sabor frutado.",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a o limão 'Azedo'?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'o limão 'Azedo' não é são doces'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A torta de Helena ficará naturalmente doce devido ao uso de frutas.",
+                "Não se pode assumir que o limão 'Azedo' é são doces",
+                "Laranjas e maçãs são mais azedas que o limão da variedade 'Azedo'.",
+                "Helena acredita que todas as frutas, sem exceção, são doces."
+            ],
+            "answer": 1
         },
         {
             "id": 6,
             "context": "Enquanto arrumava sua coleção de figuras de ação, o pequeno Lucas explicava para sua avó: \"Vovó, pense bem, a característica principal de quase todo super-herói é ter algum tipo de superpoder, certo?\". Ele então pegou uma figura sombria, com uma capa esvoaçante. \"Este aqui é o Batman, um dos meus heróis favoritos, sem dúvida um super-herói\", continuou ele, colocando-o ao lado dos outros. \"Só que ele é famoso justamente por ser a grande e conhecida exceção a essa primeira regra que eu te falei.\"",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a o Batman?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'o Batman não é têm superpoderes'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O Batman é o único super-herói da coleção de Lucas.",
+                "A avó de Lucas discorda que o Batman é um super-herói.",
+                "Todos os super-heróis, incluindo o Batman, têm superpoderes.",
+                "Não se pode assumir que o Batman é têm superpoderes"
+            ],
+            "answer": 3
         },
         {
             "id": 7,
             "context": "O professor Almeida, com um brilho nos olhos, explicava para a jovem Sofia. \"Como regra geral, Sofia,\" ele disse, \"os planetas seguem uma dança cósmica em torno do nosso Sol.\" Ele então apontou para uma ilustração em um livro de astronomia. \"Agora, olhe para este aqui, o Kepler-186f. Ele é, sem dúvida, um planeta, mas é importante que você saiba que ele é uma das raras exceções a essa regra que acabei de mencionar.\"",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a o exoplaneta Kepler-186f?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'o exoplaneta Kepler-186f não é orbitam o Sol'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A exceção mencionada pelo professor Almeida indica que Kepler-186f não é considerado um planeta.",
+                "A órbita do planeta Kepler-186f é uma exceção por ser perfeitamente circular.",
+                "O planeta Kepler-186f não segue uma órbita, movendo-se de forma aleatória no espaço.",
+                "Não se pode assumir que o exoplaneta Kepler-186f é orbitam o Sol"
+            ],
+            "answer": 3
         },
         {
             "id": 8,
             "context": "Lucas adorava a biblioteca de sua avó, um santuário onde o cheiro de papel antigo dominava o ar. Ele passou os dedos pelas lombadas gastas, refletindo sobre como a essência de um livro parecia, quase sempre, estar ligada às suas páginas físicas. Sentado na poltrona, ele segurava seu próprio aparelho, o Kindle que apelidara de 'Leitor', e pensava que aquele objeto era, sem dúvida, seu livro favorito do momento. Ainda assim, ele sabia perfeitamente que o 'Leitor' era um caso à parte, uma conhecida exceção à regra que preenchia todas aquelas estantes ao seu redor.",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a o Kindle 'Leitor'?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'o Kindle 'Leitor' não é são de papel'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Não se pode assumir que o Kindle 'Leitor' é são de papel",
+                "Lucas acredita que os livros físicos se tornaram obsoletos e sem valor.",
+                "O Kindle 'Leitor' foi um presente de sua avó para incentivar a leitura.",
+                "A essência do 'Leitor', para Lucas, estava no cheiro de papel antigo que o aparelho imitava."
+            ],
+            "answer": 0
         },
         {
             "id": 9,
             "context": "Alex folheava um atlas antigo, imaginando as metrópoles vibrantes que pontilhavam os mapas. Para ele, o conceito de cidade estava sempre ligado a um formigueiro de atividade e ruas cheias de gente, uma regra que ele considerava quase universal. Sua pesquisa, no entanto, o levou a um nome peculiar: Pripyat. O guia a descrevia inequivocamente como uma cidade, mas uma nota de rodapé o fez parar, destacando que aquele local era um caso notório por desafiar justamente essa premissa fundamental que ele tinha sobre centros urbanos.",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a a cidade-fantasma de Pripyat?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'a cidade-fantasma de Pripyat não é são populosas'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A pesquisa de Alex indica que a maioria dos centros urbanos desafia a premissa de serem populosos.",
+                "O atlas de Alex é considerado antigo porque todas as cidades listadas nele foram abandonadas.",
+                "Pripyat se encaixa na descrição de um formigueiro de atividade urbana que Alex imaginava.",
+                "Não se pode assumir que a cidade-fantasma de Pripyat é são populosas"
+            ],
+            "answer": 3
         },
         {
             "id": 10,
             "context": "Na aula de ciências, a Professora Ana explicava as propriedades dos elementos para a turma. \"Lembrem-se, como regra geral, que os metais ao nosso redor são encontrados no estado sólido\", disse ela, gesticulando para a sala. \"Contudo, há um caso famoso que vocês devem conhecer: o mercúrio, que também é um metal, mas é conhecido por toda a comunidade científica como a principal exceção a essa regra.\"",
-            "qa_pairs": [
-                {
-                    "question": "A regra padrão se aplica a o mercúrio 'Líquido'?",
-                    "answer": "Não"
-                },
-                {
-                    "question": "Podemos ter certeza que 'o mercúrio 'Líquido' não é são sólidos'?",
-                    "answer": "Não"
-                }
-            ]
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Não se pode assumir que o mercúrio 'Líquido' é são sólidos",
+                "O mercúrio não é considerado um metal verdadeiro pela comunidade científica devido ao seu estado líquido.",
+                "Todos os elementos metálicos, com a única exceção do mercúrio, são sólidos em temperatura ambiente.",
+                "A propriedade de ser sólido é a única que define um elemento como metal."
+            ],
+            "answer": 0
         }
     ]
 }

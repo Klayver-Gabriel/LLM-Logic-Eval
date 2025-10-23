@@ -7,12 +7,12 @@
             "context": "Seu Afonso, sentado no velho banco de madeira, observava o mar que conhecia desde menino. Lembrou-se de um documentário que assistira: se o calor do planeta aumenta sem parar, o nível dos oceanos sobe, tanto pelo derretimento do gelo nos lugares distantes quanto pela própria água que se expande. E para ele, não havia dúvida alguma de que cada verão parecia mais abafado que o anterior, uma constância que já nem o surpreendia mais. Seus olhos fixaram-se então nas marcas escuras de umidade nas pedras do cais, onde antes amarrava seu pequeno barco na infância, um ponto que agora ficava submerso mesmo durante as marés mais baixas.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A atividade de vulcões submarinos está deslocando a água para cima, fazendo o nível subir.",
-                "O aumento do volume de chuvas nas regiões costeiras está preenchendo a bacia oceânica.",
-                "O derretimento do gelo que já flutua no mar, como os icebergs, é o principal fator de elevação.",
-                "O nível do mar eleva-se devido à expansão térmica da água e ao derretimento de geleiras e calotas polares."
+                "O afundamento das pedras do cais, onde o barco era amarrado, criou a impressão de que a água subiu.",
+                "O nível do mar eleva-se devido à expansão térmica da água e ao derretimento de geleiras e calotas polares.",
+                "O aquecimento global causa a evaporação da água do mar, fazendo com que seu volume total diminua.",
+                "O aumento do volume de chuvas sobre os oceanos é o principal fator responsável pela subida do nível da água."
             ],
-            "answer": 3
+            "answer": 1
         },
         {
             "id": 2,
@@ -20,9 +20,9 @@
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "O custo dos empréstimos e financiamentos para consumidores e empresas tende a aumentar.",
-                "O poder de compra dos consumidores aumentará, incentivando o consumo geral.",
-                "O crédito para reformas e investimentos se tornará mais acessível e barato.",
-                "Os preços dos materiais de construção e equipamentos para a cafeteria diminuirão imediatamente."
+                "O preço dos produtos nos supermercados e no comércio em geral diminuirá imediatamente.",
+                "As linhas de crédito para pequenos empresários se tornarão mais acessíveis e baratas.",
+                "O governo federal será obrigado a reduzir os impostos sobre o consumo para compensar a medida."
             ],
             "answer": 0
         },
@@ -31,22 +31,22 @@
             "context": "Na sua consulta de rotina, o Dr. Mendes sorriu enquanto revisava os exames de Carlos e comentou: \"Eu sempre reforço para meus pacientes que, se uma pessoa adota uma rotina diária de exercícios físicos e uma dieta balanceada, o risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.\" Ele então olhou para Carlos por cima dos óculos e acrescentou: \"E é evidente, pelo seu histórico recente, que você tem seguido exatamente esse caminho com uma disciplina notável.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A disciplina é mais importante para a saúde do que a própria dieta ou os exercícios físicos.",
                 "O risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.",
-                "Garante a eliminação completa de qualquer doença cardiovascular ou forma de obesidade.",
-                "O Dr. Mendes recomendou que Carlos iniciasse uma dieta balanceada e uma rotina de exercícios."
+                "O Dr. Mendes mencionou que ele próprio segue a mesma rotina de Carlos.",
+                "Dietas balanceadas só são eficazes se combinadas com medicação específica.",
+                "A prática de exercícios elimina completamente a possibilidade de qualquer doença."
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 4,
             "context": "Clara, a nova analista, bebia seu café enquanto lia uma notícia preocupante. \"Marcos, você viu sobre aquele ataque de ransomware que paralisou a TechCorp? Fico um pouco apreensiva\", comentou. Marcos sorriu, tranquilizador. \"Sabe, Clara, minha experiência mostra que sempre que uma empresa leva a sério o investimento em cibersegurança e, ao mesmo tempo, em treinar seus funcionários, sua exposição a armadilhas de phishing e ransomware cai drasticamente.\" Ele então olhou pela janela do escritório e completou: \"E aqui na nossa empresa, todos sabemos do enorme e contínuo investimento que a diretoria faz nessas duas frentes.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Os funcionários treinados passam a ser responsáveis por gerenciar o orçamento de segurança.",
+                "A produtividade dos funcionários aumenta devido à diminuição de e-mails de phishing.",
                 "A empresa se torna completamente imune a qualquer tipo de ataque cibernético.",
                 "A vulnerabilidade a ataques de phishing e ransomware é significativamente reduzida.",
-                "A TechCorp inevitavelmente pedirá consultoria de segurança para a empresa de Clara e Marcos."
+                "O investimento em tecnologia, por si só, é suficiente para barrar as ameaças."
             ],
             "answer": 2
         },
@@ -55,10 +55,10 @@
             "context": "Enquanto o aroma do café fresco preenchia a cozinha, Carlos lia as notícias da manhã. Ele sempre se lembrava do que seu avô, um velho conhecedor do campo, costumava dizer: quando uma geada severa e inesperada atinge uma grande região produtora, a consequência direta é a diminuição da oferta, o que inevitavelmente leva a um aumento no preço para o consumidor. Na tela do seu celular, a manchete principal confirmava seus pensamentos: uma geada forte e totalmente fora de época havia acabado de atingir uma das mais importantes áreas de cultivo de café do país.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A geada prejudica a qualidade dos grãos, o que força os produtores a venderem o produto por um preço mais baixo.",
+                "A qualidade do café melhora após a geada, pois apenas os grãos mais resistentes sobrevivem, mantendo os preços estáveis.",
                 "A oferta do produto no mercado diminui, resultando em um aumento no preço para o consumidor final.",
-                "O governo intervém para controlar os preços, garantindo que o valor do café não sofra alterações para o consumidor.",
-                "Os produtores, temendo perdas maiores, aumentam a oferta no mercado de forma imediata, causando uma queda nos preços."
+                "A notícia sobre a geada gera um aumento imediato na procura pelo produto, elevando os preços.",
+                "A geada leva a um excesso de produção nas áreas não afetadas, o que causa uma queda geral no preço do café."
             ],
             "answer": 1
         },
@@ -67,46 +67,46 @@
             "context": "Lucas olhava para o mapa da Itália fixado na parede de seu escritório, um sorriso de antecipação no rosto. Ele se lembrou do conselho de seu professor: a fluência e a capacidade de comunicação em um novo idioma melhoram progressivamente, mas apenas para aquele que se dedica ao estudo contínuo por meio de imersão e prática regular. E era exatamente essa a rotina que Lucas seguia à risca. Todos os dias, ele conversava por vídeo com seu amigo de Roma, ouvia podcasts durante o trajeto para o trabalho e só assistia a filmes na língua original, mergulhando de cabeça na cultura que tanto o fascinava.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Sua principal motivação para aprender o idioma era conseguir um emprego na Itália.",
-                "Ele já alcançou a fluência total no idioma que estuda.",
-                "Ele acreditava que apenas assistir a filmes na língua original seria suficiente para a fluência.",
-                "Sua fluência e capacidade de comunicação nesse idioma melhoram progressivamente."
+                "Ele acredita que apenas uma viagem à Itália garantirá sua fluência.",
+                "Ele se tornou fluente em italiano apenas olhando para o mapa.",
+                "Sua fluência e capacidade de comunicação nesse idioma melhoram progressivamente.",
+                "Sua dedicação não trouxe resultados, e ele pensa em desistir de seu objetivo."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 7,
             "context": "Da janela do seu apartamento, o Sr. Matias lembrava-se bem das promessas feitas na televisão pelos planejadores da cidade: um sistema de transporte público que fosse verdadeiramente eficiente, acessível a todos e com uma cobertura que alcançasse até os bairros mais distantes, seria a chave para transformar a metrópole. E, de fato, nos últimos meses, ele viu essa promessa se tornar realidade. Novos ônibus elétricos e silenciosos começaram a passar com uma pontualidade impressionante, e até mesmo sua sobrinha, que morava na periferia, agora conseguia chegar ao centro da cidade com facilidade usando o novo metrô de superfície.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O tempo de viagem entre os bairros periféricos e o centro da cidade irá aumentar.",
-                "O custo das passagens se tornará proibitivo para a maior parte da população de baixa renda.",
-                "Aumentará a venda de automóveis particulares, especialmente nos bairros mais distantes.",
-                "O congestionamento do trânsito nas principais vias e a poluição do ar tendem a diminuir."
+                "O congestionamento do trânsito nas principais vias e a poluição do ar tendem a diminuir.",
+                "A valorização dos imóveis no centro da cidade levará a um êxodo da população para os bairros periféricos.",
+                "O comércio nos bairros residenciais entrará em declínio, pois os moradores preferirão ir ao centro da cidade.",
+                "O custo de vida na cidade aumentará devido aos altos impostos necessários para financiar o novo sistema."
             ],
-            "answer": 3
+            "answer": 0
         },
         {
             "id": 8,
             "context": "Carlos sempre foi metódico, até para fazer seu café da manhã. Ele sabia, por um princípio básico que aprendera há muito tempo, que se a água em sua chaleira é aquecida até 100 graus Celsius ao nível do mar, ela então entra em ebulição e começa a se transformar em vapor. Concentrado, ele observou o termômetro digital da chaleira elétrica subir lentamente: 98, 99... até que o visor finalmente marcou exatos 100 graus.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A água se torna mais densa e se concentra no fundo da chaleira.",
-                "A água entra em ebulição e começa a se transformar em vapor.",
-                "A temperatura da água começa a diminuir rapidamente.",
-                "As moléculas de água se separam em hidrogênio e oxigênio."
+                "As moléculas de hidrogênio e oxigênio que compõem a água se separam.",
+                "A temperatura da água continua a subir, ultrapassando os 100 graus Celsius.",
+                "A água atinge seu ponto de congelamento e começa a se solidificar.",
+                "A água entra em ebulição e começa a se transformar em vapor."
             ],
-            "answer": 1
+            "answer": 3
         },
         {
             "id": 9,
             "context": "O biólogo Dr. Alves caminhava pela trilha, sentindo uma estranha quietude no ar. Ele sempre se guiou por um princípio fundamental em seus estudos: se o desmatamento em larga escala ocorre em uma floresta tropical, a biodiversidade local é inevitavelmente ameaçada e o equilíbrio do ecossistema é comprometido. Ao contornar uma antiga figueira, a trilha familiar terminou abruptamente em uma clareira desoladora que se estendia até onde a vista alcançava. O som distante, mas inconfundível, de motosserras confirmava que o desmatamento em larga escala, que tanto temia, estava de fato acontecendo ali.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O som das motosserras indica um aumento na atividade econômica da região.",
-                "A quietude no ar é um sinal de que os animais migraram para uma área mais segura.",
+                "A quietude no ar indica que o solo da região se tornará mais fértil para a agricultura.",
+                "Apenas as árvores de grande porte são afetadas, sem impacto significativo para a fauna.",
                 "A biodiversidade local é ameaçada e o equilíbrio do ecossistema é comprometido.",
-                "O solo se torna mais fértil e novas espécies de plantas prosperam."
+                "O ecossistema se renova e novas espécies mais resistentes surgem no local."
             ],
             "answer": 2
         },
@@ -116,9 +116,9 @@
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "Sua capacidade cognitiva, concentração e humor são afetados negativamente no dia seguinte.",
-                "O corpo desenvolve uma resistência física, adaptando-se à nova rotina sem consequências negativas.",
-                "A falta de sono afeta exclusivamente suas interações sociais, mas não seu desempenho no trabalho.",
-                "Sua produtividade aumenta, pois ele tenta compensar o cansaço com mais esforço."
+                "Ele passa a culpar os colegas de trabalho pela sua falta de produtividade.",
+                "Sua saúde física melhora, pois o corpo se adapta à nova rotina de sono.",
+                "O cansaço o torna mais criativo e focado em tarefas que exigem imaginação."
             ],
             "answer": 0
         }

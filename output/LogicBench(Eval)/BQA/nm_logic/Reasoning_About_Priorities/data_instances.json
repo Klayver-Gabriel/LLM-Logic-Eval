@@ -25,7 +25,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "É mais provável que 'não a taxa de juros será elevada no próximo mês' seja verdade?",
+                    "question": "Com base na confiabilidade das fontes, podemos concluir que 'não a taxa de juros será elevada no próximo mês'?",
                     "answer": "Não"
                 }
             ]
@@ -63,11 +63,11 @@
             "context": "André navegava ansiosamente por sites de notícias, tentando descobrir a data exata de lançamento do novo smartphone que tanto queria. Em uma entrevista oficial, o porta-voz da empresa de tecnologia afirmou com todas as letras que o aparelho chegaria às lojas em outubro. A animação de André, no entanto, foi interrompida ao ler a matéria de um conhecido site especializado em vazamentos, que garantia justamente o contrário: o lançamento não aconteceria em outubro. Ele parou para ponderar, lembrando-se que, no mundo da tecnologia, a palavra oficial do porta-voz da empresa sempre se mostrou muito mais certeira e confiável do que os rumores vindos desses sites.",
             "qa_pairs": [
                 {
-                    "question": "É mais provável que 'o novo smartphone será lançado em outubro' seja verdade?",
+                    "question": "Com base na confiabilidade das fontes, podemos concluir que 'o novo smartphone será lançado em outubro'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "É mais provável que 'não o novo smartphone será lançado em outubro' seja verdade?",
+                    "question": "Com base na confiabilidade das fontes, podemos concluir que 'não o novo smartphone será lançado em outubro'?",
                     "answer": "Não"
                 }
             ]
@@ -91,11 +91,11 @@
             "context": "Mariana estava indecisa sobre o que assistir naquela noite. Navegando pelo site da Folha, leu a coluna de seu crítico de cinema favorito, que descrevia o novo filme do aclamado diretor como uma \"obra-prima inesquecível\". Desconfiada de tanto entusiasmo, ela abriu o site Rotten Tomatoes para ver a opinião geral, mas lá o consenso do público era claro: o filme não era, de forma alguma, uma obra-prima. Ela ficou pensativa por um instante, lembrando-se que, para ela, a análise especializada e criteriosa do crítico da Folha sempre se provou muito mais confiável do que a média de avaliações do público na internet.",
             "qa_pairs": [
                 {
-                    "question": "É mais provável que 'o novo filme do diretor é uma obra-prima' seja verdade?",
+                    "question": "Com base na confiabilidade das fontes, podemos concluir que 'o novo filme do diretor é uma obra-prima'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "É mais provável que 'não o novo filme do diretor é uma obra-prima' seja verdade?",
+                    "question": "Com base na confiabilidade das fontes, podemos concluir que 'não o novo filme do diretor é uma obra-prima'?",
                     "answer": "Não"
                 }
             ]
@@ -109,7 +109,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "É mais provável que 'não a principal avenida do centro será fechada para obras' seja verdade?",
+                    "question": "Com base na confiabilidade das fontes, podemos concluir que 'não a principal avenida do centro será fechada para obras'?",
                     "answer": "Não"
                 }
             ]
@@ -123,7 +123,7 @@
                     "answer": "Sim"
                 },
                 {
-                    "question": "É mais provável que 'não o novo álbum será conceitual e baseado em suas viagens' seja verdade?",
+                    "question": "Com base na confiabilidade das fontes, podemos concluir que 'não o novo álbum será conceitual e baseado em suas viagens'?",
                     "answer": "Não"
                 }
             ]
@@ -133,7 +133,7 @@
             "context": "Carlos sentou-se à mesa da cozinha, tentando planejar o orçamento dos próximos meses. Sobre a mesa, o relatório anual da companhia de energia, que havia chegado mais cedo, era taxativo ao projetar um aumento na conta de luz no próximo trimestre. Buscando alguma notícia positiva, ele ligou a TV e ouviu a declaração do ministro de Minas e Energia, que, em tom tranquilizador, afirmava categoricamente que não haveria aumento algum. Carlos desligou a TV, pensativo. Ele sabia que, historicamente, o relatório técnico da companhia de energia sempre se provou uma fonte de informação mais confiável do que as declarações públicas do ministro.",
             "qa_pairs": [
                 {
-                    "question": "É mais provável que 'haverá um aumento na conta de luz no próximo trimestre' seja verdade?",
+                    "question": "Com base na confiabilidade das fontes, podemos concluir que 'haverá um aumento na conta de luz no próximo trimestre'?",
                     "answer": "Sim"
                 },
                 {

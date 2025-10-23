@@ -7,10 +7,10 @@
             "context": "Artur, um entusiasta de veículos icônicos, passava a tarde em sua oficina, refletindo sobre sua paixão. Para ele, era um princípio básico que carros, em sua esmagadora maioria, possuem rodas. Lembrou-se de uma discussão curiosa que ouviu em uma convenção: alguém afirmava com certeza que, entre o simpático Fusca Herbie e o futurista DeLorean de \"De Volta para o Futuro\", um deles, surpreendentemente, não tinha rodas, embora ninguém soubesse dizer qual dos dois era. Distraído por essa lembrança, seus olhos pousaram sobre a mesa de trabalho, onde os projetos detalhados do seu próximo desafio o aguardavam. Afinal, o imponente Batmóvel era, inegavelmente, um carro.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o Fusca Herbie",
-                "o carro que não tinha rodas",
-                "o Batmóvel",
-                "o DeLorean"
+                "A discussão na convenção prova que é impossível saber se carros icônicos têm rodas.",
+                "Apenas carros simpáticos, como o Fusca Herbie, possuem rodas.",
+                "o Batmóvel é têm rodas",
+                "O DeLorean de \"De Volta para o Futuro\" é o veículo que não possui rodas."
             ],
             "answer": 2
         },
@@ -19,22 +19,22 @@
             "context": "O geógrafo Alex debruçava-se sobre seus mapas, revisando um princípio básico da urbanística: cidades, por sua natureza, possuem ruas. Claro, havia as grandes anomalias que o fascinavam; em algum lugar entre a sombria metrópole de Gotham e a futurista Neo-Tóquio, existia uma exceção a essa regra, um lugar sem ruas, embora ninguém soubesse ao certo qual delas era. Seu dedo então pousou no próximo destino de sua pesquisa, um local bem mais simples e documentado, e ele anotou em seu caderno: \"Springfield - classificação: cidade\".",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "a cidade de Springfield",
-                "a metrópole de Gotham",
-                "a futurista Neo-Tóquio",
-                "a exceção sem ruas"
+                "Springfield é a cidade sem ruas que Alex procurava.",
+                "Alex classificou Springfield como uma anomalia urbanística.",
+                "Neo-Tóquio e Gotham são as duas cidades sem ruas mencionadas no texto.",
+                "a cidade de Springfield é têm ruas"
             ],
-            "answer": 0
+            "answer": 3
         },
         {
             "id": 3,
             "context": "O velho astrônomo deslizava o dedo por um mapa estelar holográfico, sua atenção focada. \"Veja\", disse ele a seu aprendiz, \"a maioria dos corpos que chamamos de planetas segue a dança previsível de orbitar uma estrela.\" Seu dedo então parou em um ponto brilhante e turbulento. \"Este é o gasoso Júpiter, um planeta em todos os sentidos da palavra.\" Ele então moveu a mão para uma seção distante e pouco explorada do mapa, onde dois pequenos pontos piscavam. \"No entanto, ainda há mistérios. Temos certeza de que um daqueles dois ali, ou o desértico Arrakis ou o pequeno Tatooine, não segue essa regra e vaga sozinho pelo vazio. O difícil é saber qual deles é o errante.\"",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o planeta errante",
-                "o gasoso Júpiter",
-                "o desértico Arrakis",
-                "o pequeno Tatooine"
+                "Tanto Arrakis quanto Tatooine são planetas que vagam sozinhos pelo vazio.",
+                "o gasoso Júpiter é orbitam estrelas",
+                "O desértico Arrakis vaga sozinho pelo vazio, ao contrário de Tatooine.",
+                "Planetas gasosos como Júpiter geralmente não orbitam estrelas."
             ],
             "answer": 1
         },
@@ -43,48 +43,84 @@
             "context": "Jonas sempre partiu do princípio de que a principal função dos super-heróis era combater o crime, mas uma manchete recente o deixou pensativo. A reportagem afirmava, com certa polêmica, que uma fonte interna garantia que um dos grandes ícones, ou o vigilante de Gotham, Batman, ou o escoteiro de Metrópolis, Superman, na verdade não se dedicava a essa causa, embora ninguém soubesse dizer qual deles. Distraído por seus pensamentos, ele quase não notou a figura ágil que passou balançando entre os prédios. Era o amigão da vizinhança, o Homem-Aranha, um super-herói inegável em sua própria cidade.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o vigilante de Gotham, Batman",
-                "o ícone cuja função foi questionada pela manchete",
-                "o amigão da vizinhança Homem-Aranha",
-                "o escoteiro de Metrópolis, Superman"
+                "o amigão da vizinhança Homem-Aranha é combatem o crime",
+                "Superman e Batman, segundo a fonte, não se dedicam a combater o crime.",
+                "Jonas passou a acreditar que todos os super-heróis são uma farsa.",
+                "a reportagem afirma que o vigilante de Gotham não se dedica a combater o crime."
             ],
-            "answer": 2
+            "answer": 0
         },
         {
             "id": 5,
             "context": "Sr. Almeida, em sua poltrona de couro gasta, observava sua estante abarrotada. Para ele, o valor de um livro residia em sua capacidade de narrar algo; afinal, livros, em sua essência, são portadores de histórias. Lembrou-se de uma curiosa discussão acadêmica que ouvira uma vez, onde um debatedor defendia com veemência que, entre o imponente \"O Senhor dos Anéis\" e o clássico \"Moby Dick\", um deles, surpreendentemente, não se encaixava na definição de \"contar uma história\", embora a dúvida sobre qual deles era o dissidente pairasse no ar. Seus olhos então pousaram em um volume familiar, de capa dura e letras douradas. Com um leve sorriso, ele pegou a obra e sentiu o peso reconfortante do papel em suas mãos, confirmando para si mesmo o que era óbvio: \"Dom Quixote\" era, sem sombra de dúvida, um livro.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Dom Quixote",
-                "Moby Dick",
-                "O Senhor dos Anéis",
-                "O livro dissidente da discussão acadêmica"
+                "Dom Quixote é contam histórias",
+                "O valor de Dom Quixote, para o Sr. Almeida, reside em sua capa dura e letras douradas.",
+                "Sr. Almeida valoriza seus livros primordialmente como objetos físicos para compor sua estante.",
+                "A discussão acadêmica serviu para provar que Moby Dick não pode ser considerado um portador de histórias."
             ],
             "answer": 0
+        },
+        {
+            "id": 6,
+            "context": "Leo, um cinéfilo inveterado, explicava a um amigo a lógica por trás de sua coleção. \"É simples\", ele disse, \"quase todo filme que se preze tem um diretor, é a regra de ouro do cinema. Claro, existe aquela anomalia famosa que todos comentam, mas ninguém sabe ao certo: ou é 'Pulp Fiction' ou 'O Poderoso Chefão' que, incrivelmente, não tem um diretor creditado.\" Nesse momento, o amigo pegou a caixa de \"Matrix\" da prateleira, olhando para os créditos na parte de trás.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O Poderoso Chefão é a famosa anomalia sem diretor.",
+                "Pulp Fiction e Matrix foram dirigidos pela mesma pessoa.",
+                "Matrix também é uma exceção e não possui um diretor creditado.",
+                "Matrix é têm diretores"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 7,
+            "context": "Sofia organizava suas anotações para a prova de introdução à computação. Ela releu a primeira anotação em seu caderno: \"Como regra geral, linguagens de programação funcionam de uma de duas maneiras: ou compilam ou interpretam o código para que a máquina entenda.\" Logo abaixo, havia um exemplo claro: \"o rápido C++ é, sem dúvida, uma linguagem de programação.\" O que a deixava confusa, no entanto, era uma observação que o professor fez e que ela anotou na margem da página. A anotação dizia que, estranhamente, havia uma exceção à regra: ou o versátil Python ou o robusto Java não se encaixava nesse padrão de compilar ou interpretar, mas o professor não especificou qual dos dois era.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A robustez de uma linguagem, como Java, determina que ela deve ser sempre compilada.",
+                "O versátil Python é, com certeza, a exceção à regra de compilar ou interpretar.",
+                "C++ é a estranha exceção à regra, enquanto Java e Python são exemplos claros dela.",
+                "o rápido C++ é compilam ou interpretam código"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 8,
+            "context": "O velho curador, Senhor Valério, caminhava lentamente pelo salão de raridades. \"Sabe\", disse ele ao jovem aprendiz, \"a alma de um instrumento musical está, claro, no som que ele gera.\" Ele parou diante de dois dos itens mais valiosos. \"A exceção é um enigma que nos atormenta. Entre aquela lendária guitarra Stratocaster e o imponente piano de cauda Steinway, um deles é completamente mudo, uma obra de arte silenciosa. Até hoje, os especialistas debatem qual dos dois é.\" Ignorando o mistério por um momento, ele se aproximou de um pedestal solitário. \"Mas este aqui\", ele sorriu, \"este violino Stradivarius, é inquestionavelmente um instrumento musical em toda a sua glória.\"",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O Senhor Valério acredita que a alma de um instrumento está em sua raridade, não em seu som.",
+                "A guitarra Stratocaster é confirmada como a obra de arte silenciosa.",
+                "o violino Stradivarius é produzem som",
+                "Tanto o piano Steinway quanto a guitarra Stratocaster são incapazes de produzir som."
+            ],
+            "answer": 2
         },
         {
             "id": 9,
             "context": "O excêntrico botânico Dr. Arnaldo ajustou seus óculos, murmurando para seu gravador de anotações. \"O princípio fundamental, como sempre, é que frutas, em sua esmagadora maioria, contêm sementes.\" Ele fez uma pausa, olhando para um diagrama na parede. \"Claro, há o infame 'Enigma Animado' que ainda me atormenta: fontes confiáveis afirmam que ou a maçã da Branca de Neve ou a banana do Donkey Kong desafia essa regra e não possui sementes, mas qual delas é a exceção permanece um mistério.\" Seus olhos então se fixaram no espécime recém-chegado em sua mesa de análise, uma fruta inconfundível que, segundo a etiqueta de aquisição, era o abacaxi onde mora o Bob Esponja.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o abacaxi do Bob Esponja",
-                "a banana do Donkey Kong",
-                "a maçã da Branca de Neve",
-                "uma fruta que resolve o 'Enigma Animado'"
+                "O abacaxi do Bob Esponja é a verdadeira exceção do 'Enigma Animado'.",
+                "o abacaxi do Bob Esponja é contêm sementes",
+                "Tanto a maçã da Branca de Neve quanto a banana do Donkey Kong não possuem sementes.",
+                "A maçã da Branca de Neve é a fruta que não possui sementes."
             ],
-            "answer": 0
+            "answer": 1
         },
         {
             "id": 10,
             "context": "André repassava a matéria de geografia, com o dedo traçando as costas dos continentes em um globo antigo. Ele sabia a regra que sustentava tudo: os oceanos, em sua esmagadora maioria, são de água salgada. Contudo, uma anotação em seu caderno o deixava intrigado. Afirmava-se, como um fato curioso, que ou o vasto Pacífico ou o movimentado Atlântico era a grande exceção a essa regra, mas o professor havia deixado no ar qual dos dois gigantes seria. Seu dedo, continuando a viagem, subiu até o ponto mais ao norte do globo, onde repousava aquela imensa massa de água que ele aprendera a classificar sem hesitação como o gélido Oceano Ártico.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "o vasto Pacífico",
-                "o movimentado Atlântico",
-                "o gélido Ártico",
-                "a grande exceção à regra"
+                "o movimentado Atlântico é a grande exceção, possuindo água salobra em sua totalidade.",
+                "o gélido Ártico é são de água salgada",
+                "o vasto Pacífico é a exceção e, portanto, de água doce.",
+                "o Oceano Ártico, por ser congelado, é composto majoritariamente de água doce."
             ],
-            "answer": 2
+            "answer": 1
         }
     ]
 }
