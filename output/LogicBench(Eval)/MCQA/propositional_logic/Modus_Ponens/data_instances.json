@@ -4,121 +4,121 @@
     "samples": [
         {
             "id": 1,
-            "context": "Seu Afonso, sentado no velho banco de madeira, observava o mar que conhecia desde menino. Lembrou-se de um documentário que assistira: se o calor do planeta aumenta sem parar, o nível dos oceanos sobe, tanto pelo derretimento do gelo nos lugares distantes quanto pela própria água que se expande. E para ele, não havia dúvida alguma de que cada verão parecia mais abafado que o anterior, uma constância que já nem o surpreendia mais. Seus olhos fixaram-se então nas marcas escuras de umidade nas pedras do cais, onde antes amarrava seu pequeno barco na infância, um ponto que agora ficava submerso mesmo durante as marés mais baixas.",
+            "context": "Era um fato bem conhecido que a água assumia uma forma sólida sempre que a temperatura caía para menos de 0°C. Naquela manhã em particular, o ar estava tão gelado que o termômetro no jardim confirmava que a temperatura estava, de fato, bem abaixo de 0°C.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O afundamento das pedras do cais, onde o barco era amarrado, criou a impressão de que a água subiu.",
-                "O nível do mar eleva-se devido à expansão térmica da água e ao derretimento de geleiras e calotas polares.",
-                "O aquecimento global causa a evaporação da água do mar, fazendo com que seu volume total diminua.",
-                "O aumento do volume de chuvas sobre os oceanos é o principal fator responsável pela subida do nível da água."
+                "A água congela",
+                "A água ferve",
+                "A água evapora",
+                "A composição química da água muda"
             ],
-            "answer": 1
+            "answer": 0
         },
         {
             "id": 2,
-            "context": "Sr. Almeida, dono de uma pequena cafeteria, sonhava em finalmente fazer a reforma para expandir seu negócio. Naquela tarde, enquanto limpava o balcão, a notícia na televisão chamou sua atenção: o Banco Central havia acabado de anunciar uma nova alta na taxa básica de juros. Ele franziu a testa, lembrando-se perfeitamente do que seu gerente de banco lhe dissera na última reunião: \"Fique atento, pois sempre que o comitê decide por uma elevação dessas, o preço do dinheiro que o senhor precisa emprestado para a obra acompanha a subida\".",
+            "context": "Contexto: Havia uma verdade fundamental de que a presença do sol brilhando significava que era dia. Naquele momento, era um fato inegável que o sol estava, de fato, a brilhar.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O custo dos empréstimos e financiamentos para consumidores e empresas tende a aumentar.",
-                "O preço dos produtos nos supermercados e no comércio em geral diminuirá imediatamente.",
-                "As linhas de crédito para pequenos empresários se tornarão mais acessíveis e baratas.",
-                "O governo federal será obrigado a reduzir os impostos sobre o consumo para compensar a medida."
+                "É dia",
+                "A noite se aproxima.",
+                "O sol é a estrela central do sistema solar.",
+                "O clima está quente."
             ],
             "answer": 0
         },
         {
             "id": 3,
-            "context": "Na sua consulta de rotina, o Dr. Mendes sorriu enquanto revisava os exames de Carlos e comentou: \"Eu sempre reforço para meus pacientes que, se uma pessoa adota uma rotina diária de exercícios físicos e uma dieta balanceada, o risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.\" Ele então olhou para Carlos por cima dos óculos e acrescentou: \"E é evidente, pelo seu histórico recente, que você tem seguido exatamente esse caminho com uma disciplina notável.\"",
+            "context": "A consequência de a bateria de um celular acabar é o aparelho se desligar. Acontece que a bateria do celular de fato se esgotou.\n***\nHavia uma consequência inevitável sempre que a bateria de um celular acabava: o aparelho se desligava. Naquele momento, a bateria do celular de fato se esgotou por completo.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.",
-                "O Dr. Mendes mencionou que ele próprio segue a mesma rotina de Carlos.",
-                "Dietas balanceadas só são eficazes se combinadas com medicação específica.",
-                "A prática de exercícios elimina completamente a possibilidade de qualquer doença."
+                "O aparelho desliga",
+                "O celular emite um som de alerta.",
+                "O aparelho entra em modo de economia de energia.",
+                "A memória do aparelho é apagada."
             ],
             "answer": 0
         },
         {
             "id": 4,
-            "context": "Clara, a nova analista, bebia seu café enquanto lia uma notícia preocupante. \"Marcos, você viu sobre aquele ataque de ransomware que paralisou a TechCorp? Fico um pouco apreensiva\", comentou. Marcos sorriu, tranquilizador. \"Sabe, Clara, minha experiência mostra que sempre que uma empresa leva a sério o investimento em cibersegurança e, ao mesmo tempo, em treinar seus funcionários, sua exposição a armadilhas de phishing e ransomware cai drasticamente.\" Ele então olhou pela janela do escritório e completou: \"E aqui na nossa empresa, todos sabemos do enorme e contínuo investimento que a diretoria faz nessas duas frentes.\"",
+            "context": "Havia uma verdade inegável na rotina do atleta: sempre que ele treinava exaustivamente, sentia um cansaço profundo tomar conta de seu corpo. E hoje, de fato, sabe-se que o atleta treinou exaustivamente, dedicando cada grama de sua energia aos exercícios.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A produtividade dos funcionários aumenta devido à diminuição de e-mails de phishing.",
-                "A empresa se torna completamente imune a qualquer tipo de ataque cibernético.",
-                "A vulnerabilidade a ataques de phishing e ransomware é significativamente reduzida.",
-                "O investimento em tecnologia, por si só, é suficiente para barrar as ameaças."
+                "O atleta se arrependeu de ter treinado hoje.",
+                "Ele vai ganhar a próxima competição.",
+                "Ele está cansado",
+                "O cansaço o impede de treinar exaustivamente."
             ],
             "answer": 2
         },
         {
             "id": 5,
-            "context": "Enquanto o aroma do café fresco preenchia a cozinha, Carlos lia as notícias da manhã. Ele sempre se lembrava do que seu avô, um velho conhecedor do campo, costumava dizer: quando uma geada severa e inesperada atinge uma grande região produtora, a consequência direta é a diminuição da oferta, o que inevitavelmente leva a um aumento no preço para o consumidor. Na tela do seu celular, a manchete principal confirmava seus pensamentos: uma geada forte e totalmente fora de época havia acabado de atingir uma das mais importantes áreas de cultivo de café do país.",
+            "context": "Havia uma regra simples na cozinha: se a comida fosse deixada fora da geladeira por muito tempo, ela inevitavelmente estragaria. Após o almoço apressado, o ensopado de frango de ontem foi esquecido sobre o balcão da cozinha.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A qualidade do café melhora após a geada, pois apenas os grãos mais resistentes sobrevivem, mantendo os preços estáveis.",
-                "A oferta do produto no mercado diminui, resultando em um aumento no preço para o consumidor final.",
-                "A notícia sobre a geada gera um aumento imediato na procura pelo produto, elevando os preços.",
-                "A geada leva a um excesso de produção nas áreas não afetadas, o que causa uma queda geral no preço do café."
-            ],
-            "answer": 1
-        },
-        {
-            "id": 6,
-            "context": "Lucas olhava para o mapa da Itália fixado na parede de seu escritório, um sorriso de antecipação no rosto. Ele se lembrou do conselho de seu professor: a fluência e a capacidade de comunicação em um novo idioma melhoram progressivamente, mas apenas para aquele que se dedica ao estudo contínuo por meio de imersão e prática regular. E era exatamente essa a rotina que Lucas seguia à risca. Todos os dias, ele conversava por vídeo com seu amigo de Roma, ouvia podcasts durante o trajeto para o trabalho e só assistia a filmes na língua original, mergulhando de cabeça na cultura que tanto o fascinava.",
-            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
-            "options": [
-                "Ele acredita que apenas uma viagem à Itália garantirá sua fluência.",
-                "Ele se tornou fluente em italiano apenas olhando para o mapa.",
-                "Sua fluência e capacidade de comunicação nesse idioma melhoram progressivamente.",
-                "Sua dedicação não trouxe resultados, e ele pensa em desistir de seu objetivo."
+                "O ensopado ficou ainda mais saboroso com o tempo.",
+                "Alguém guardou o ensopado mais tarde.",
+                "A comida estragou",
+                "A cozinha foi limpa imediatamente após o almoço."
             ],
             "answer": 2
         },
         {
-            "id": 7,
-            "context": "Da janela do seu apartamento, o Sr. Matias lembrava-se bem das promessas feitas na televisão pelos planejadores da cidade: um sistema de transporte público que fosse verdadeiramente eficiente, acessível a todos e com uma cobertura que alcançasse até os bairros mais distantes, seria a chave para transformar a metrópole. E, de fato, nos últimos meses, ele viu essa promessa se tornar realidade. Novos ônibus elétricos e silenciosos começaram a passar com uma pontualidade impressionante, e até mesmo sua sobrinha, que morava na periferia, agora conseguia chegar ao centro da cidade com facilidade usando o novo metrô de superfície.",
+            "id": 6,
+            "context": "A lei de trânsito estipula que se o semáforo está vermelho, os carros devem parar. Ao se aproximar do cruzamento, o motorista observou que a luz do semáforo à frente ficou vermelha.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O congestionamento do trânsito nas principais vias e a poluição do ar tendem a diminuir.",
-                "A valorização dos imóveis no centro da cidade levará a um êxodo da população para os bairros periféricos.",
-                "O comércio nos bairros residenciais entrará em declínio, pois os moradores preferirão ir ao centro da cidade.",
-                "O custo de vida na cidade aumentará devido aos altos impostos necessários para financiar o novo sistema."
+                "Os carros devem parar",
+                "A luz amarela irá acender em breve como um aviso.",
+                "Os carros devem diminuir a velocidade e avançar com cuidado.",
+                "O motorista deve buzinar para alertar os pedestres."
             ],
             "answer": 0
         },
         {
-            "id": 8,
-            "context": "Carlos sempre foi metódico, até para fazer seu café da manhã. Ele sabia, por um princípio básico que aprendera há muito tempo, que se a água em sua chaleira é aquecida até 100 graus Celsius ao nível do mar, ela então entra em ebulição e começa a se transformar em vapor. Concentrado, ele observou o termômetro digital da chaleira elétrica subir lentamente: 98, 99... até que o visor finalmente marcou exatos 100 graus.",
+            "id": 7,
+            "context": "Contexto: A regra para o sucesso na avaliação era clara: se um aluno estudasse diligentemente para a prova, ele obteria um bom resultado. As informações confirmam que o aluno em questão dedicou tempo e esforço aos estudos.\n\n---\nA promessa era simples: se o aluno dedicasse tempo aos estudos para a prova, ele certamente se sairia bem na avaliação. O fato é que o aluno realmente estudou para a prova.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "As moléculas de hidrogênio e oxigênio que compõem a água se separam.",
-                "A temperatura da água continua a subir, ultrapassando os 100 graus Celsius.",
-                "A água atinge seu ponto de congelamento e começa a se solidificar.",
-                "A água entra em ebulição e começa a se transformar em vapor."
+                "O aluno achou a prova mais fácil do que esperava.",
+                "Se o aluno não tivesse estudado, ele teria sido reprovado.",
+                "A dedicação aos estudos é a única forma de obter um bom resultado.",
+                "Ele foi bem na avaliação"
             ],
             "answer": 3
         },
         {
-            "id": 9,
-            "context": "O biólogo Dr. Alves caminhava pela trilha, sentindo uma estranha quietude no ar. Ele sempre se guiou por um princípio fundamental em seus estudos: se o desmatamento em larga escala ocorre em uma floresta tropical, a biodiversidade local é inevitavelmente ameaçada e o equilíbrio do ecossistema é comprometido. Ao contornar uma antiga figueira, a trilha familiar terminou abruptamente em uma clareira desoladora que se estendia até onde a vista alcançava. O som distante, mas inconfundível, de motosserras confirmava que o desmatamento em larga escala, que tanto temia, estava de fato acontecendo ali.",
+            "id": 8,
+            "context": "O mecanismo da fechadura era bastante claro: a porta se abriria contanto que a chave correta fosse usada. Posteriormente, foi confirmado que a chave inserida na fechadura era, sem sombra de dúvida, a correta.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A quietude no ar indica que o solo da região se tornará mais fértil para a agricultura.",
-                "Apenas as árvores de grande porte são afetadas, sem impacto significativo para a fauna.",
-                "A biodiversidade local é ameaçada e o equilíbrio do ecossistema é comprometido.",
-                "O ecossistema se renova e novas espécies mais resistentes surgem no local."
+                "A porta abriu",
+                "A fechadura quebrou ao girar a chave.",
+                "A porta permaneceu fechada.",
+                "A chave era uma cópia e não a original."
             ],
-            "answer": 2
+            "answer": 0
+        },
+        {
+            "id": 9,
+            "context": "Contexto: O filme foi inegavelmente emocionante, cativando a todos na sala. Sabe-se que filmes com essa carga emocional costumam fazer com que algumas pessoas chorem.\n\n---\nFoi uma experiência cinematográfica inegavelmente emocionante, que prendeu a atenção de todos na sala. Sabe-se que um filme com uma carga emocional tão forte como aquele costuma levar algumas pessoas às lágrimas.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O filme foi considerado chato e desinteressante pela audiência.",
+                "Algumas pessoas choraram",
+                "Todas as pessoas na sala choraram.",
+                "A bilheteria do filme superou as expectativas dos produtores."
+            ],
+            "answer": 1
         },
         {
             "id": 10,
-            "context": "André encarava a planilha na sua frente, mas os números pareciam flutuar sem sentido. Já era a quarta manhã seguida que ele chegava ao escritório após dormir menos de cinco horas. Ele se lembrou de ter lido em algum lugar que, quando uma pessoa acumula várias noites de sono insuficiente, é praticamente garantido que sua clareza mental, seu foco e até seu estado de espírito sofram as consequências no dia seguinte. Um colega passou e deu um bom dia animado, e André apenas murmurou algo em resposta, sentindo uma irritação inexplicável crescer enquanto tentava, pela terceira vez, entender a primeira linha do relatório.",
+            "context": "Era uma certeza que, uma vez que o fogo estivesse aceso sob a panela, a água dentro dela começaria a ferver. Naquela ocasião, o fogo foi definitivamente aceso sob a panela.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Sua capacidade cognitiva, concentração e humor são afetados negativamente no dia seguinte.",
-                "Ele passa a culpar os colegas de trabalho pela sua falta de produtividade.",
-                "Sua saúde física melhora, pois o corpo se adapta à nova rotina de sono.",
-                "O cansaço o torna mais criativo e focado em tarefas que exigem imaginação."
+                "A água na panela ferveu",
+                "O fogo se apagou antes de a água ferver.",
+                "A água na panela ficou apenas morna.",
+                "A panela derreteu com o calor."
             ],
             "answer": 0
         }

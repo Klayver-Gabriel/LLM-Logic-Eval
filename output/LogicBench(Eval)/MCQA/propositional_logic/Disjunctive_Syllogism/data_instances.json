@@ -4,123 +4,123 @@
     "samples": [
         {
             "id": 1,
-            "context": "O velho pescador, sentado no cais, lembrava-se do que o cientista da capital lhe dissera anos atrás, apontando para um gráfico complicado. \"Seu Manuel,\" disse o moço, \"a ciência nos diz uma de duas coisas: ou a temperatura média do planeta vai continuar subindo por causa da fumaça das cidades, ou o nível do mar vai subir por causa do gelo que derrete longe daqui.\" Naquela manhã, porém, ao ler o jornal que um turista esqueceu no banco, Seu Manuel encontrou uma matéria sobre o mesmo cientista. A reportagem era clara e celebrava uma boa notícia: uma revisão de dados mostrou que, surpreendentemente, a temperatura média do planeta não continuou a aumentar.",
+            "context": "Para encontrar o relatório, havia apenas duas localizações possíveis que a busca indicava: ele estaria na pasta 'Documentos' ou, alternativamente, na pasta 'Relatórios 2023'. Após uma verificação minuciosa, no entanto, foi confirmado que o relatório não se encontrava na pasta 'Documentos'.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A revisão dos dados prova que o cientista estava errado sobre tudo, e que o nível do mar, na verdade, está diminuindo.",
-                "A fumaça das cidades, apesar de não aquecer o planeta, é a causa direta do derretimento do gelo em locais distantes.",
-                "O nível do mar sobe como resultado do derretimento de geleiras e da expansão térmica da água dos oceanos.",
-                "O cientista da capital foi celebrado por provar que a preocupação de Seu Manuel com o mar era infundada."
+                "É impossível determinar a localização do relatório com as informações fornecidas.",
+                "O relatório está na pasta 'Relatórios 2023'",
+                "O relatório foi perdido e não pode ser encontrado.",
+                "A busca na pasta 'Documentos' precisa ser refeita."
             ],
-            "answer": 2
+            "answer": 1
         },
         {
             "id": 2,
-            "context": "Clara secava uma xícara atrás do balcão de sua pequena cafeteria, com o rádio ligado ao fundo no noticiário econômico. Um analista comentava com convicção: \"Para o cenário atual, a situação é binária. Ou o Banco Central do país aumenta a taxa de juros básica, ou o custo do crédito para empréstimos e financiamentos se tornará mais caro para consumidores e empresas\". Logo em seguida, a voz do âncora do jornal interrompeu com uma notícia de última hora: \"Acabamos de receber a decisão do comitê. Contrariando algumas expectativas, o Banco Central optou por não aumentar a taxa de juros básica\". Clara parou o que estava fazendo, olhou para o formulário de empréstimo sobre o balcão que planejava preencher para uma nova máquina e ficou em silêncio, pensativa.",
+            "context": "Havia apenas duas possibilidades para a partida do voo para Nova Iorque: às 8h ou às 10h da manhã. No entanto, uma atualização no painel de voos confirmou que o voo não decolaria às 8h.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O crédito para consumidores e empresas ficará mais barato com a manutenção da taxa de juros.",
-                "O custo do crédito para empréstimos e financiamentos se torna mais caro para consumidores e empresas.",
-                "Clara decide desistir imediatamente de comprar uma nova máquina de café.",
-                "O analista econômico estava errado em sua previsão binária sobre a economia."
+                "O voo foi remarcado para as 9h.",
+                "Não há informações suficientes para determinar o novo horário.",
+                "O voo para Nova Iorque foi cancelado.",
+                "O voo para Nova Iorque sai às 10h"
             ],
-            "answer": 1
+            "answer": 3
         },
         {
             "id": 3,
-            "context": "Dr. Alves revisava o prontuário de seu paciente, Carlos, e ponderava sobre um princípio que observava em sua prática médica. Ele sabia que, em geral, a saúde de uma pessoa seguia um de dois caminhos: ou o indivíduo se comprometia com uma rotina rigorosa de exercícios e uma dieta balanceada, ou, por outro lado, o risco de desenvolver condições como obesidade e doenças do coração diminuía de forma notável. Olhando os registros de Carlos, era evidente que ele não pertencia ao primeiro grupo; seu estilo de vida sedentário e seus hábitos alimentares estavam claramente documentados.",
+            "context": "Ao planear a sua semana, a equipa sabia que a sua reunião importante seria agendada para segunda ou terça-feira. Mais tarde, chegou uma atualização a confirmar que a reunião não iria definitivamente decorrer na segunda-feira.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A saúde de Carlos permanecerá inalterada, sem risco aumentado ou diminuído.",
-                "O risco de desenvolver doenças cardiovasculares e obesidade diminui significativamente.",
-                "Carlos segue rigorosamente uma dieta balanceada e uma rotina de exercícios.",
-                "O estilo de vida de Carlos o coloca em um grupo de alto risco para essas condições."
-            ],
-            "answer": 1
-        },
-        {
-            "id": 4,
-            "context": "Na tela de Carla, a analista de segurança, o relatório sobre o recém-lançado aplicativo \"InnovateApp\" piscava insistentemente. Ela refletiu sobre o problema, ciente de que a situação se resumia a duas possibilidades preocupantes: ou a equipe havia pulado a fase completa de testes de segurança para cumprir um prazo apertado, ou o aplicativo possuía brechas que poderiam ser exploradas por atacantes para roubar dados dos usuários. Com um clique, ela abriu os registros de desenvolvimento, buscando a confirmação de suas suspeitas. No entanto, o que encontrou a surpreendeu. O cronograma e os relatórios de validação eram impecáveis, deixando claro que o software não fora lançado ao público sem passar por sua fase completa de testes de segurança.",
-            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
-            "options": [
-                "O software apresenta vulnerabilidades que podem ser exploradas por atacantes para roubar dados dos usuários.",
-                "A equipe de desenvolvimento pulou a fase de testes de segurança para cumprir o prazo.",
-                "Os registros de desenvolvimento estavam incompletos, o que impediu a análise de Carla.",
-                "O aplicativo InnovateApp é completamente seguro e os alertas eram um alarme falso."
-            ],
-            "answer": 0
-        },
-        {
-            "id": 5,
-            "context": "Dona Elvira conversava com o dono da mercearia, que lia o jornal com a testa franzida. \"Pelo que dizem aqui,\" comentou ele, \"só pode ser uma de duas coisas: ou aquela terrível seca que previam para a região dos grãos de fato aconteceu, ou então a oferta geral de alimentos vai diminuir e os preços vão disparar para todos nós.\" Dona Elvira, enquanto escolhia uns tomates, balançou a cabeça. \"Mas que estranho,\" respondeu ela, \"acabei de ouvir no rádio que as chuvas vieram na hora certa e que, felizmente, a tal seca prolongada não se confirmou este ano.\"",
-            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
-            "options": [
-                "A chegada das chuvas garantirá uma safra abundante, resultando na queda dos preços dos alimentos.",
-                "A oferta de alimentos é reduzida, levando a um aumento nos preços para o consumidor final.",
-                "A seca prolongada na região dos grãos foi confirmada como a causa principal da alta dos preços.",
-                "O dono da mercearia aumentou os preços dos tomates por causa das notícias do jornal."
-            ],
-            "answer": 1
-        },
-        {
-            "id": 6,
-            "context": "Carlos olhava a vitrine da concessionária, pensativo. Ele havia dito a si mesmo que dois cenários poderiam finalmente convencê-lo a comprar um carro elétrico: ou o governo aprovaria a tão esperada lei que oferece subsídios e incentivos fiscais, tornando a compra mais viável, ou as vendas desses veículos iriam, por si sós, aumentar significativamente no mercado nacional. Contudo, a notícia que ele acabara de ler no seu celular era definitiva: a proposta de lei tinha sido rejeitada no congresso, confirmando que não haveria nenhum novo subsídio ou incentivo fiscal vindo do governo.",
-            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
-            "options": [
-                "O governo aprova um pacote de incentivos fiscais para carros elétricos.",
-                "O preço do modelo que Carlos observa na vitrine sofre uma redução significativa.",
-                "A venda de veículos elétricos aumenta no mercado nacional.",
-                "Carlos descobre que a concessionária oferece um plano de financiamento especial."
+                "A reunião foi adiada para quarta-feira.",
+                "A reunião foi cancelada.",
+                "A reunião de equipa é na terça-feira",
+                "A data da reunião ainda não foi confirmada."
             ],
             "answer": 2
         },
         {
-            "id": 7,
-            "context": "Lucas, debruçado sobre seu livro de física, revisava um princípio-chave para a prova. Ele murmurou para si mesmo a regra que o professor havia enfatizado: para a situação descrita, existiam apenas duas possibilidades. Ou o objeto havia sido solto de uma certa altura no campo gravitacional da Terra, em um vácuo ideal, ou então ele necessariamente acelerava em direção ao solo a uma taxa de aproximadamente 9.8 m/s². Ao reler o enunciado do problema específico que tentava resolver, ele sublinhou uma frase crucial que afirmava categoricamente que o caso em estudo não se tratava de um objeto sendo solto em queda livre.",
+            "id": 4,
+            "context": "A equipe aguardava a confirmação sobre quem seria o responsável pelo projeto, e era sabido que a decisão final seria entre Carlos ou Sofia. Mais tarde, foi anunciado a todos que o responsável pelo projeto não é o Carlos.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O objeto acelera em direção ao solo a uma taxa de aproximadamente 9.8 m/s².",
-                "O objeto encontra-se em repouso, aguardando o início do movimento.",
-                "O objeto foi solto de uma certa altura em um vácuo ideal.",
-                "O objeto move-se com velocidade constante em direção ao solo."
+                "A decisão sobre a liderança do projeto foi adiada.",
+                "Nem Carlos nem Sofia serão responsáveis pelo projeto.",
+                "Carlos e Sofia dividirão a responsabilidade pelo projeto.",
+                "A responsável pelo projeto é a Sofia"
             ],
-            "answer": 0
+            "answer": 3
+        },
+        {
+            "id": 5,
+            "context": "Para finalizar a transação, foi estabelecido que as opções de pagamento eram por transferência bancária ou por cartão de crédito. No entanto, também ficou claro que o pagamento não seria realizado através de uma transferência bancária.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A transação foi cancelada por falta de acordo sobre o pagamento.",
+                "O pagamento será feito em dinheiro.",
+                "O pagamento será feito por cartão de crédito",
+                "O pagamento será feito por transferência bancária."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 6,
+            "context": "Contexto: A equipe de tecnologia estava diante de um grande desafio para identificar a origem de uma falha crítica no sistema. Após uma análise inicial, eles concluíram que a raiz do problema só poderia estar em um de dois lugares: o software ou o hardware. Para refinar a busca, eles executaram uma série completa de diagnósticos no software, mas todos os testes retornaram resultados perfeitos, indicando que o software não era a fonte do problema.\n\n---\n\nApós uma análise inicial, ficou claro para a equipe que a raiz do problema no sistema residia ou no software ou no hardware. Uma série de diagnósticos detalhados confirmou que, felizmente, o problema não estava no software.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Os testes de diagnóstico do software precisam ser refeitos por uma segunda equipe.",
+                "A causa do problema é o hardware",
+                "A falha está tanto no software quanto no hardware.",
+                "É impossível determinar a causa do problema com as informações disponíveis."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 7,
+            "context": "Contexto: Para as próximas férias, a família tinha duas opções em mente: ir para a praia ou para as montanhas. Após alguma deliberação, eles decidiram que este ano não iriam para a praia.\n***\nA escolha para as férias da família havia sido reduzida a duas possibilidades empolgantes: uma viagem ensolarada para a praia ou um refúgio aconchegante nas montanhas. Depois de verificar as previsões do tempo e ver uma semana de chuva prevista para o litoral, foi tomada a decisão final: as praias de areia estavam definitivamente fora de questão para a viagem deste ano.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A família vai para a praia, pois não se importa com a chuva.",
+                "As férias serão na montanha",
+                "A família decidiu cancelar as férias por causa do mau tempo.",
+                "Eles procuraram um terceiro destino para a viagem."
+            ],
+            "answer": 1
         },
         {
             "id": 8,
-            "context": "O orientador de tese de Miguel era um homem de princípios firmes e tinha uma visão clara sobre o sucesso acadêmico. Ele sempre dizia que, para uma avaliação final daquela magnitude, a verdade era uma só: ou o estudante se dedicava por horas a fio ao estudo focado e à revisão do conteúdo, ou, por algum motivo, a probabilidade de alcançar uma nota alta aumentava consideravelmente. Contudo, ao observar a rotina de Miguel naquelas últimas semanas, era evidente para todos que ele não estava dedicando nem perto de várias horas por dia ao seu trabalho, passando a maior parte do tempo em atividades de lazer.",
+            "context": "Ao ponderar sobre o que comer, ficou claro que as opções para o jantar se resumiam a duas escolhas deliciosas: comida italiana ou comida japonesa. Lembrando do banquete de massas da noite anterior, todos concordaram que não iriam jantar comida italiana novamente.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Miguel certamente será reprovado por não se dedicar aos estudos.",
-                "O orientador de tese estava decepcionado com a falta de esforço de Miguel.",
-                "A dedicação aos estudos é a única maneira de Miguel ser bem-sucedido, segundo o orientador.",
-                "A probabilidade de obter uma nota alta no exame aumenta consideravelmente."
+                "O grupo não conseguiu chegar a um acordo e decidiu não jantar.",
+                "Eles decidiram repetir o jantar de comida italiana.",
+                "Vamos jantar comida japonesa",
+                "A escolha final foi por um churrasco brasileiro."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "id": 9,
-            "context": "O guarda florestal Miguel observava o céu escurecer sobre a mata, que estava perigosamente ressecada após meses sem uma gota de chuva. Ele sabia que a situação era crítica; ou um raio daquela tempestade seca que se formava atingiria a vegetação, ou um grande incêndio começaria na área por qualquer outra faísca. Contudo, para seu alívio momentâneo, as nuvens carregadas passaram lentamente, com seu ruído abafado de trovões distantes, mas sem descarregar um único raio sobre sua área de vigilância.",
+            "context": "A entrega da encomenda estava prevista para acontecer hoje ou amanhã. Contudo, uma notificação de última hora confirmou que a encomenda não chegará hoje.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Um raio da tempestade atinge uma árvore exatamente em frente à torre de observação.",
-                "Uma chuva torrencial começa a cair, aliviando a seca e eliminando o risco de incêndio.",
-                "Miguel, sentindo-se seguro, decide encerrar seu turno de vigilância e voltar para casa.",
-                "Um incêndio florestal de grandes proporções tem início na área."
+                "A encomenda foi cancelada.",
+                "A encomenda chegará amanhã",
+                "A encomenda não chegará amanhã.",
+                "A data de entrega da encomenda é incerta."
             ],
-            "answer": 3
+            "answer": 1
         },
         {
             "id": 10,
-            "context": "No consultório, o Dr. Matias foi direto com André: \"Olha, a ciência é clara sobre isso. Geralmente, esses lapsos que você menciona surgem por uma de duas razões: ou a pessoa está em um período prolongado dormindo menos de cinco horas por noite, ou sua capacidade de concentração e memória de curto prazo está, de fato, prejudicada.\" Ao sair, André pensou em como seu novo hábito de meditação o ajudava a ter noites de sono longas e tranquilas, sempre garantindo suas oito horas de descanso.",
+            "context": "Na penumbra do cômodo, só poderiam haver duas explicações para a escuridão: o interruptor da luz já estava acionado, ou a lâmpada havia queimado de vez. Após um momento tateando a parede, constatou-se que o interruptor da luz não estava, de fato, na posição de ligado.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "As noites de sono longas e tranquilas resolverão o problema dos lapsos.",
-                "A prática de meditação está causando os lapsos de memória de André.",
-                "André tem dormido menos de cinco horas por noite.",
-                "Sua capacidade de concentração e memória de curto prazo fica comprovadamente prejudicada."
+                "A lâmpada está queimada",
+                "A pessoa acendeu a luz e o cômodo se iluminou.",
+                "O interruptor estava com defeito e, por isso, não podia ser acionado.",
+                "Houve uma queda de energia em toda a vizinhança."
             ],
-            "answer": 3
+            "answer": 0
         }
     ]
 }

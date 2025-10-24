@@ -4,123 +4,123 @@
     "samples": [
         {
             "id": 1,
-            "context": "Lucas era metódico com seu chá. Ele se lembrava perfeitamente da aula de ciências: aqui, na sua cidade litorânea, a água só começaria a ferver e a se transformar em vapor quando o termômetro marcasse exatamente 100 graus Celsius. Impaciente, ele observava a chaleira sobre o fogo, mas a superfície da água permanecia completamente calma, sem o surgimento de nenhuma bolha ou da nuvem de fumaça que indicaria a ebulição.",
+            "context": "Sempre que caía uma chuva muito forte, era certo que a rua ficaria alagada. Contudo, naquele dia, a rua permaneceu completamente transitável, sem nenhum sinal de inundação.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "não A temperatura da água atingiu 100 graus Celsius ao nível do mar.",
-                "O fato de a água não apresentar fumaça indica que ela superaqueceu, ultrapassando os 100 graus Celsius sem ferver.",
-                "A pressão atmosférica na cidade litorânea era muito alta, o que impediu a formação de bolhas.",
-                "A transformação da água em vapor acontece apenas na superfície e, portanto, não gera bolhas no fundo da chaleira."
+                "Não choveu muito",
+                "Choveu muito, mas a rua não alagou por outro motivo.",
+                "O sistema de escoamento da rua foi reformado recentemente.",
+                "A chuva começou de manhã e parou logo em seguida."
             ],
             "answer": 0
         },
         {
             "id": 2,
-            "context": "André sabia perfeitamente como seu carro respondia em uma emergência: uma pressão forte e decidida no pedal do freio sempre resultava em uma desaceleração imediata e brusca, quase jogando o corpo para a frente. Por isso, quando o sinal à sua frente mudou repentinamente para o amarelo, ele não hesitou em reagir. Contudo, para sua surpresa, o carro não deu o solavanco esperado; em vez disso, continuou a deslizar para a frente, perdendo velocidade de uma maneira estranhamente suave e gradual, sem qualquer sinal daquela parada abrupta que ele antecipara.",
+            "context": "A transformação da água em gelo é uma certeza sempre que a temperatura desce abaixo de 0°C. Contudo, a água permaneceu no seu estado líquido.\n***\nEmbora a transformação da água em gelo seja uma certeza sempre que a temperatura desce abaixo de 0°C, a água, contudo, permaneceu no seu estado líquido.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "O veículo perdeu velocidade de maneira gradual após o acionamento dos freios.",
-                "A resposta do carro à frenagem foi diferente da que o motorista esperava.",
-                "não O motorista pressionou o pedal do freio com força.",
-                "O motorista estava familiarizado com o comportamento normal dos freios do veículo."
-            ],
-            "answer": 2
-        },
-        {
-            "id": 3,
-            "context": "O velho cafeicultor acordou antes do sol, o peito apertado pela preocupação com o frio cortante da madrugada. Ele sabia, por amarga experiência, que uma geada severa como a que temia ter acontecido significaria, sem dúvida, a perda de grande parte da colheita, trazendo um prejuízo quase irrecuperável. Caminhando lentamente até a plantação, seus olhos examinaram os pés de café com apreensão, mas logo um suspiro de alívio escapou de seus lábios ao ver que os grãos continuavam viçosos e intactos, prometendo uma safra farta e lucrativa.",
-            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
-            "options": [
-                "Desolado com o prejuízo, o fazendeiro decidiu abandonar o cultivo de café.",
-                "O cafeicultor constatou que a geada havia destruído a maior parte da sua plantação.",
-                "A colheita sofreu danos parciais, mas ainda seria possível recuperar o investimento.",
-                "não Uma geada severa atingiu as plantações de café durante a noite."
+                "A água continha impurezas dissolvidas.",
+                "A transformação em gelo é um processo lento.",
+                "O gelo derreteu e voltou a ser água.",
+                "A temperatura não está abaixo de 0°C"
             ],
             "answer": 3
         },
         {
-            "id": 4,
-            "context": "Carlos aproximou-se do posto de combustível com um certo receio naquela sexta-feira. Ele tinha uma certeza quase matemática: sempre que o governo anunciava um aumento nos impostos sobre combustíveis, era inevitável ver o preço da gasolina e do diesel disparar na semana seguinte. Enquanto a bomba enchia o tanque de seu carro, ele olhou para o grande letreiro luminoso e, para sua surpresa, os valores continuavam exatamente os mesmos da semana anterior, sem nenhum centavo de acréscimo.",
+            "id": 3,
+            "context": "A regra daquele cômodo era clara e imutável: se o interruptor estivesse na posição \"ligado\", a lâmpada deveria acender e encher o espaço de luz. Naquela noite, no entanto, uma escuridão teimosa persistia, pois era um fato conhecido que a lâmpada não estava acesa.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Uma queda no preço internacional do petróleo compensou o aumento dos impostos.",
-                "O repasse do aumento para as bombas de combustível ainda não havia sido autorizado.",
-                "O dono do posto decidiu absorver o aumento para não perder clientes.",
-                "não O governo anunciou um aumento nos impostos sobre combustíveis."
+                "A lâmpada está queimada.",
+                "A regra sobre o funcionamento da luz foi recentemente alterada.",
+                "O interruptor não está ligado",
+                "O interruptor está ligado, mas existe um problema na rede elétrica."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 4,
+            "context": "Eu tinha a convicção de que ter estudado para o exame levaria inevitavelmente à minha aprovação. No entanto, o resultado final que recebi confirmou que eu não passei.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Estudar para o exame não foi suficiente para garantir a aprovação.",
+                "O resultado final foi contrário às expectativas do narrador.",
+                "A convicção do narrador sobre o resultado do exame estava equivocada.",
+                "Eu não estudei para o exame"
             ],
             "answer": 3
         },
         {
             "id": 5,
-            "context": "O Treinador Silva observava Ricardo sentado no banco, a medalha de participação esquecida ao seu lado. O cronômetro oficial no telão confirmava o que todos já sabiam: o recorde pessoal do jovem permanecia intacto. O treinador suspirou, lembrando-se de sua própria filosofia, uma verdade que repetia a todos os seus pupilos: um ano de treinamento exaustivo, sem falhar um único dia, inevitavelmente resulta na superação da própria marca durante a grande competição.",
+            "context": "A comemoração da torcida era a reação natural e esperada a um gol do time. No entanto, um silêncio pesado pairou sobre as arquibancadas, pois sabe-se que a torcida não comemorou.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "não O atleta treinou exaustivamente todos os dias por um ano.",
-                "O nervosismo e a pressão da grande competição impediram Ricardo de alcançar seu melhor desempenho.",
-                "Ricardo ficou desmotivado ao ver que ganharia apenas uma medalha de participação.",
-                "A filosofia do Treinador Silva é falha e não se aplica a todos os atletas."
+                "O gol foi anulado pelo árbitro por impedimento.",
+                "O time não marcou um gol",
+                "O gol foi marcado pelo time adversário.",
+                "A torcida estava fazendo um protesto silencioso contra a diretoria."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "context": "Era certo que o celular se desligaria se a sua bateria acabasse. No entanto, o aparelho permaneceu funcionando e não se desligou.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A bateria do celular não acabou",
+                "O celular estava conectado ao carregador.",
+                "O celular nunca se desliga quando a bateria acaba.",
+                "A bateria do celular estava com defeito."
             ],
             "answer": 0
         },
         {
-            "id": 6,
-            "context": "O guarda florestal Lucas agachou-se ao lado da clareira, examinando a pilha de galhos. Ele sabia, por experiência, que naquela secura da estação, a madeira como aquela teria entrado em combustão instantaneamente se exposta a qualquer chama aberta. Contudo, ao inspecionar os gravetos um a um, percebeu que estavam perfeitamente intactos, sem qualquer vestígio de chamuscado ou cinzas por perto.",
-            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
-            "options": [
-                "O tipo de madeira dos galhos era naturalmente resistente ao fogo.",
-                "A umidade da noite anterior apagou um pequeno foco de incêndio.",
-                "não A madeira seca foi exposta a uma chama aberta.",
-                "Lucas concluiu que a pilha de galhos foi feita por um animal para construir um ninho."
-            ],
-            "answer": 2
-        },
-        {
             "id": 7,
-            "context": "Júlia aproximou-se do laptop com um suspiro, lembrando-se da regra básica que sempre repetia para seus clientes: se um vírus de computador fosse executado em um sistema desprotegido, a consequência seria a corrupção dos arquivos do sistema e um computador que pararia de funcionar corretamente. No entanto, após realizar uma análise técnica cuidadosa, ela verificou com surpresa que todos os arquivos do sistema estavam perfeitamente íntegros e a máquina operava com sua fluidez habitual.",
+            "context": "Era uma verdade bem conhecida que, sempre que o sol brilhava no céu, as sombras se projetavam nítidas e escuras sobre o chão. No entanto, naquele momento em particular, era evidente que não havia nenhuma sombra a ser vista no chão.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A regra básica que Júlia sempre repetia para seus clientes está incorreta.",
-                "O vírus executado era de um tipo que apenas monitora a atividade, sem danificar o sistema.",
-                "O sistema estava, na verdade, protegido por um antivírus desconhecido por Júlia.",
-                "não Um vírus de computador foi executado em um sistema desprotegido."
+                "O sol não está brilhando",
+                "A verdade sobre as sombras mudou.",
+                "É exatamente meio-dia.",
+                "O chão tornou-se reflexivo."
             ],
-            "answer": 3
+            "answer": 0
         },
         {
             "id": 8,
-            "context": "Seu Joaquim, encostado na porteira do seu sítio, coçava a barba enquanto olhava para o céu. Ele comentou com seu neto: \"Olha, meu filho, por aqui a regra é clara: sempre que passamos por uma daquelas secas prolongadas, sem uma gota de chuva, o nível da nossa represa lá embaixo cai de um jeito que dá até medo\". Logo em seguida, os dois caminharam até a beira do grande reservatório, e o velho agricultor sorriu ao ver a água batendo com força na mureta de contenção, cheia e abundante.",
+            "context": "Sempre que o freio de um carro é acionado, espera-se que o veículo diminua a velocidade como consequência direta. Durante a análise do acidente, os peritos revisaram os dados da caixa-preta, que revelaram um fato crucial. Surpreendentemente, foi confirmado que o carro não diminuiu a velocidade em nenhum momento antes da colisão.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Seu Joaquim ficou feliz porque a nova mureta de contenção era mais eficiente.",
-                "As secas na região afetam a qualidade da água, mas não o seu volume.",
-                "não Houve um longo período de estiagem sem chuvas na região.",
-                "Apesar da seca prolongada mencionada, a represa permaneceu cheia."
+                "O sistema de freios do carro apresentou uma falha mecânica.",
+                "O freio do carro não foi acionado",
+                "O motorista perdeu o controle da direção antes da colisão.",
+                "A alta velocidade do veículo tornou os freios ineficazes."
             ],
-            "answer": 2
+            "answer": 1
         },
         {
             "id": 9,
-            "context": "Carla estava apreensiva no consultório, preocupada com um almoço do dia anterior. O médico, com calma, explicou-lhe que o consumo de alimentos contaminados pela bactéria Salmonella invariavelmente leva a um quadro claro de intoxicação, com sintomas como febre e dores abdominais. Após uma breve avaliação e olhando o prontuário, o doutor constatou que, felizmente, Carla não apresentava febre e nem se queixava de qualquer dor abdominal.",
+            "context": "A consequência de a madeira ser exposta ao fogo seria ela queimar. No entanto, a madeira não havia queimado.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "A apreensão de Carla era justificada, pois o médico confirmou um quadro grave de intoxicação.",
-                "Os sintomas de intoxicação por Salmonella podem demorar vários dias para se manifestar.",
-                "não A pessoa consumiu alimentos contaminados com a bactéria Salmonella.",
-                "A presença de febre é o único sintoma que confirma a contaminação por Salmonella."
+                "O fogo não estava quente o suficiente.",
+                "A madeira estava molhada.",
+                "A madeira era resistente ao fogo.",
+                "A madeira não foi exposta ao fogo"
             ],
-            "answer": 2
+            "answer": 3
         },
         {
             "id": 10,
-            "context": "Pedro apertou o volante, ansioso. O locutor do rádio acabara de dar um alerta que o deixou tenso: \"Lembrem-se, se um acidente bloquear todas as faixas da rodovia principal neste horário de pico, a consequência é sempre um congestionamento quilométrico, atrasando milhares de veículos.\" Ele olhou para a frente, confuso. Os carros ao seu redor seguiam em velocidade constante, e o aplicativo de trânsito em seu celular não mostrava absolutamente nenhum sinal de lentidão ou de engarrafamento à frente.",
+            "context": "A expectativa era simples: se a internet estivesse conectada, então seria possível carregar a página da web. Contudo, o que se sabia com certeza era que não era possível carregar a página.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
-                "Pedro estava tenso porque ficou preso em um grande congestionamento na rodovia principal.",
-                "O locutor do rádio noticiou que um acidente específico havia acabado de acontecer na rodovia.",
-                "O aplicativo de trânsito no celular de Pedro estava com defeito e não mostrava o trânsito real.",
-                "não Um acidente bloqueou todas as faixas da rodovia principal no horário de pico."
+                "A internet não está conectada",
+                "Carregar a página da web é necessário para conectar a internet.",
+                "O navegador de internet precisa ser atualizado.",
+                "A internet está conectada, mas o site está fora do ar."
             ],
-            "answer": 3
+            "answer": 0
         }
     ]
 }
