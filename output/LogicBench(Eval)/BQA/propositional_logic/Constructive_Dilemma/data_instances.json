@@ -4,220 +4,220 @@
     "samples": [
         {
             "id": 1,
-            "context": "O dia de folga finalmente chegou e, após ponderar um pouco, minhas opções para a noite se resumiram a duas. Uma delas é sair e ir ao cinema, e caso eu siga esse caminho, o plano é claro: vou assistir àquele novo filme que todos estão comentando. A outra possibilidade é simplesmente ficar por aqui, no conforto de casa, e se essa for a minha decisão, já sei que vou aproveitar para maratonar aquela série que deixei pela metade.",
+            "context": "Se eu decidir por comida italiana, sei que meu prato será macarrão. Por outro lado, se a minha escolha for por comida japonesa, sei que comerei sushi. O que eu sei com certeza é que vou pedir comida italiana ou japonesa.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou assistir a um filme e (b) Eu vou maratonar uma série?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou comer macarrão e (b) eu vou comer sushi?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou assistir a um filme e (b) não Eu vou maratonar uma série?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou comer macarrão e (b) eu não vou comer sushi?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou assistir a um filme e (b) não Eu vou maratonar uma série?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou comer macarrão e (b) eu não vou comer sushi?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou assistir a um filme e (b) Eu vou maratonar uma série?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou comer macarrão e (b) eu vou comer sushi?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 2,
-            "context": "Sentado diante dos prospectos da universidade, sinto o peso do futuro sobre meus ombros, pois sei que minha escolha se resume a um de dois caminhos definitivos: ou a engenharia ou a medicina. Se a minha vocação for a engenharia, imagino meus dias debruçado sobre projetos, dando vida a complexas estruturas e sistemas. Por outro lado, se eu decidir seguir pela medicina, minha missão será outra: passarei meu tempo em consultórios e hospitais, focado em diagnosticar enfermidades e em tratar os pacientes que me procurarem.",
+            "context": "Contexto: Caso eu decida viajar nas férias, o meu destino será o litoral. Se a minha escolha for ficar em casa, então planejo maratonar uma série. Para estas férias, uma decisão já foi tomada: ou eu viajarei ou ficarei em casa.\n\n---\nPara estas férias, uma decisão já foi tomada: ou eu viajarei ou ficarei em casa. Caso eu decida viajar, o meu destino será o litoral. Se a minha escolha for ficar em casa, então planejo maratonar uma série.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou projetar estruturas e sistemas e (b) Eu vou diagnosticar e tratar pacientes?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu irei para o litoral e (b) eu vou maratonar uma série?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou projetar estruturas e sistemas e (b) não Eu vou diagnosticar e tratar pacientes?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não irei para o litoral e (b) eu não vou maratonar uma série?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou projetar estruturas e sistemas e (b) não Eu vou diagnosticar e tratar pacientes?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu irei para o litoral e (b) eu não vou maratonar uma série?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou projetar estruturas e sistemas e (b) Eu vou diagnosticar e tratar pacientes?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não irei para o litoral e (b) eu vou maratonar uma série?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 3,
-            "context": "Ao final de um dia exaustivo, a única coisa em minha mente era o jantar. Olhei para a geladeira: se eu encontrasse forças para cozinhar, o plano seria uma salada colorida com um belo filé grelhado, algo leve e saudável. Contudo, meu celular piscava na bancada, uma tentação moderna que prometia, com apenas alguns toques, a chegada de um hambúrguer artesanal com uma porção generosa de batatas fritas. Suspirei, pois sabia que a minha refeição desta noite seria, inevitavelmente, o resultado de uma dessas duas escolhas.",
+            "context": "Contexto: Eu estabeleci um plano claro para o meu desenvolvimento: se eu decidir aprender uma nova habilidade, eu vou estudar programação, e se a minha decisão for aprender um instrumento musical, eu vou tocar violão. Chegou o momento de agir, e eu sei com certeza que vou escolher entre aprender uma nova habilidade ou aprender um instrumento musical.\n\nEu estabeleci um plano claro para o meu desenvolvimento: se eu decidir aprender uma nova habilidade, eu vou estudar programação, e se a minha decisão for aprender um instrumento musical, eu vou tocar violão. Chegou o momento de agir, e eu sei com certeza que vou escolher entre aprender uma nova habilidade ou aprender um instrumento musical.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou comer uma salada com grelhados e (b) Eu vou comer um hambúrguer com batata frita?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou estudar programação e (b) eu vou tocar violão?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou comer uma salada com grelhados e (b) não Eu vou comer um hambúrguer com batata frita?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou estudar programação e (b) eu não vou tocar violão?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou comer uma salada com grelhados e (b) não Eu vou comer um hambúrguer com batata frita?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou estudar programação e (b) eu não vou tocar violão?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou comer uma salada com grelhados e (b) Eu vou comer um hambúrguer com batata frita?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou estudar programação e (b) eu vou tocar violão?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 4,
-            "context": "Enquanto planejava minhas próximas férias, deixei os dois folhetos sobre a mesa, um ao lado do outro. Se minha escolha recaísse sobre aquele com a foto do mar azul, meu roteiro já estava definido: passaria os dias nadando e aproveitando o sol na areia. Contudo, se optasse pelo folheto com a imagem dos picos verdes, minhas botas de caminhada seriam minhas companheiras constantes em longas trilhas e escaladas. Em meio a tantas possibilidades, uma coisa era certa: minha viagem seria para um desses dois cenários, o litoral ou a serra.",
+            "context": "Tenho um plano definido para o final do dia: se eu decidir ir ao shopping, com certeza voltarei com roupas novas. Por outro lado, se a minha escolha for ir ao supermercado, meu objetivo será comprar todos os ingredientes para o jantar. Depois de um dia longo, sei que preciso sair de casa, e meu destino será um desses dois lugares.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou nadar no mar e tomar sol e (b) Eu vou fazer trilhas e escalar?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou comprar roupas novas e (b) eu vou comprar ingredientes para o jantar?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou nadar no mar e tomar sol e (b) não Eu vou fazer trilhas e escalar?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou comprar roupas novas e (b) eu não vou comprar ingredientes para o jantar?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou nadar no mar e tomar sol e (b) não Eu vou fazer trilhas e escalar?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou comprar roupas novas e (b) eu não vou comprar ingredientes para o jantar?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou nadar no mar e tomar sol e (b) Eu vou fazer trilhas e escalar?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou comprar roupas novas e (b) eu vou comprar ingredientes para o jantar?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 5,
-            "context": "Sentado na varanda, eu finalmente tomei a minha decisão. Amanhã, a casa não estaria mais tão silenciosa. Refleti sobre os dois caminhos possíveis que minha vida tomaria a partir de agora: se a minha escolha final for pelo cachorro que vi no site, terei uma ótima desculpa e um companheiro para minhas caminhadas diárias no parque. Por outro lado, se eu optar pelo gato, sei que terei uma presença mais independente e caseira me esperando ao fim de cada dia.",
+            "context": "Meus planos para o dia dependiam inteiramente do céu. Se o sol brilhasse, eu estava decidido a ir ao parque, mas se a chuva começasse a cair, eu me aconchegaria em casa para ler um livro. Ao acordar, eu tinha certeza de que o dia seria de sol ou de chuva.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu terei um companheiro para caminhadas diárias e (b) Eu terei um companheiro mais independente e caseiro?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou ao parque e (b) eu vou ler um livro em casa?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu terei um companheiro para caminhadas diárias e (b) não Eu terei um companheiro mais independente e caseiro?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou ao parque e (b) eu não vou ler um livro em casa?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu terei um companheiro para caminhadas diárias e (b) não Eu terei um companheiro mais independente e caseiro?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou ao parque e (b) eu não vou ler um livro em casa?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu terei um companheiro para caminhadas diárias e (b) Eu terei um companheiro mais independente e caseiro?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou ao parque e (b) eu vou ler um livro em casa?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 6,
-            "context": "André contemplava a tela do computador, o brilho dos gráficos financeiros refletindo em seus olhos. Ele ponderava que, ao se aventurar nas ações de alto risco, se abriria a porta para a possibilidade de um retorno financeiro muito maior. Por outro lado, caso escolhesse a tranquilidade da renda fixa, ele sabia que o caminho seria de mais segurança e com um ganho previsível, sem surpresas. Após semanas de estudo, sua decisão se resumia a uma bifurcação clara: ele definitivamente seguiria por um desses dois caminhos com seu capital.",
+            "context": "Tenho certeza de que, se eu finalmente decidir adotar um animal de estimação, será um cachorro e, da mesma forma, se eu decidir comprar uma planta para alegrar o ambiente, minha escolha será uma samambaia. Chegou a hora de tomar uma decisão, e sei que vou adotar um animal de estimação ou comprar uma planta.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu tenho a possibilidade de um retorno financeiro maior e (b) Eu terei mais segurança e um retorno previsível?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) será um cachorro e (b) será uma samambaia?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu tenho a possibilidade de um retorno financeiro maior e (b) não Eu terei mais segurança e um retorno previsível?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não será um cachorro e (b) não será uma samambaia?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu tenho a possibilidade de um retorno financeiro maior e (b) não Eu terei mais segurança e um retorno previsível?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) será um cachorro e (b) não será uma samambaia?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu tenho a possibilidade de um retorno financeiro maior e (b) Eu terei mais segurança e um retorno previsível?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não será um cachorro e (b) será uma samambaia?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 7,
-            "context": "André olhou pela janela, pensando na sua rotina de amanhã. Ele sabia que, se decidisse pegar o carro, a viagem seria bem mais agradável, com a liberdade de sair a qualquer hora e sem aperto. Por outro lado, se optasse pelo transporte público, o alívio no bolso no fim do mês seria notável, já que não precisaria se preocupar com o preço da gasolina nem com a vaga caríssima perto do escritório. Uma coisa era certa: para chegar ao trabalho, ele teria que fazer uma dessas duas escolhas.",
+            "context": "Hoje, o dia se resumia a uma escolha entre duas opções claras: ou eu me exercitaria, ou eu descansaria. Se a decisão fosse pelo exercício, então eu iria correr na esteira. Por outro lado, se a escolha fosse pelo descanso, com certeza eu tiraria um cochilo à tarde.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu terei mais conforto e flexibilidade de horário e (b) Eu vou economizar com combustível e estacionamento?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou correr na esteira e (b) eu vou tirar um cochilo à tarde?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu terei mais conforto e flexibilidade de horário e (b) não Eu vou economizar com combustível e estacionamento?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou correr na esteira e (b) eu não vou tirar um cochilo à tarde?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu terei mais conforto e flexibilidade de horário e (b) não Eu vou economizar com combustível e estacionamento?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou correr na esteira e (b) eu não vou tirar um cochilo à tarde?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu terei mais conforto e flexibilidade de horário e (b) Eu vou economizar com combustível e estacionamento?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou correr na esteira e (b) eu vou tirar um cochilo à tarde?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 8,
-            "context": "Sentado à minha escrivaninha, finalmente tomei uma decisão sobre como usar meu tempo livre este ano. O caminho se bifurca em dois, e sei que seguirei por um deles: ou dedicarei minhas noites às teclas de um piano ou aos livros de um idioma estrangeiro. Penso que, se a música me chamar, sentirei minhas mãos ganhando uma nova agilidade e minha mente se abrindo para formas inéditas de expressão. Por outro lado, se as palavras de outra terra forem a minha escolha, imagino as conversas que terei e os mundos que descobrirei através de novas amizades e viagens, quebrando barreiras.",
+            "context": "Para a noite de cinema, uma certeza eu tinha: a escolha seria entre uma comédia ou um terror. A escolha de um filme de comédia garantiria uma noite de muitas risadas, enquanto selecionar um filme de terror resultaria em alguns bons sustos.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou desenvolver minha criatividade e coordenação e (b) Eu vou expandir minhas oportunidades de comunicação e cultura?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou dar muitas risadas e (b) eu vou tomar alguns sustos?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou desenvolver minha criatividade e coordenação e (b) não Eu vou expandir minhas oportunidades de comunicação e cultura?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou dar muitas risadas e (b) eu não vou tomar alguns sustos?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou desenvolver minha criatividade e coordenação e (b) não Eu vou expandir minhas oportunidades de comunicação e cultura?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou dar muitas risadas e (b) eu não vou tomar alguns sustos?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou desenvolver minha criatividade e coordenação e (b) Eu vou expandir minhas oportunidades de comunicação e cultura?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou dar muitas risadas e (b) eu vou tomar alguns sustos?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 9,
-            "context": "Miguel olhou para seu plano de treino, ponderando sobre a rotina do dia. Ele sabia que o caminho se dividia em dois, e era preciso escolher um. Se a decisão fosse seguir pela esteira e pela bicicleta, ele tinha certeza de que sua resistência e a saúde do seu coração agradeceriam imensamente o esforço. Por outro lado, se ele se dedicasse à área de pesos livres, o resultado seria um claro aumento de sua força e massa muscular. Ele respirou fundo, ciente de que a sessão de hoje seria inteiramente dedicada a um desses dois focos.",
+            "context": "Meus planos para esta noite são definitivos: eu irei ao jogo de futebol ou ao show de rock. Uma ida ao jogo de futebol significa que eu vou torcer apaixonadamente pelo time da casa. Por outro lado, se eu decidir ir ao show de rock, é garantido que vou cantar junto com a banda.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou melhorar minha resistência e saúde do coração e (b) Eu vou aumentar minha força e massa muscular?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou torcer para o time da casa e (b) eu vou cantar junto com a banda?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou melhorar minha resistência e saúde do coração e (b) não Eu vou aumentar minha força e massa muscular?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou torcer para o time da casa e (b) eu não vou cantar junto com a banda?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu vou melhorar minha resistência e saúde do coração e (b) não Eu vou aumentar minha força e massa muscular?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou torcer para o time da casa e (b) eu não vou cantar junto com a banda?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu vou melhorar minha resistência e saúde do coração e (b) Eu vou aumentar minha força e massa muscular?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou torcer para o time da casa e (b) eu vou cantar junto com a banda?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 10,
-            "context": "Navegando pela livraria online, decidi que hoje não passaria sem uma nova leitura. O dilema, como sempre, surgiu ao clicar no botão 'comprar': optar pela versão física ou pela digital? Imaginava o prazer de receber o pacote, sentir o peso do volume nas mãos e ter a experiência tátil inconfundível de virar cada página. Por outro lado, a versão para e-reader trazia a promessa de começar a ler imediatamente em qualquer um dos meus dispositivos, além da vantagem prática de não ocupar mais um espacinho na minha já lotada estante.",
+            "context": "Contexto: Se eu me matricular em um curso de artes, aprenderei a pintar com aquarela. Da mesma forma, se eu me matricular em um curso de culinária, aprenderei a fazer pão artesanal. A certeza é que vou me matricular ou em um curso de artes ou em um curso de culinária.\n***\nPonderando sobre minhas opções, sei que se eu me matricular em um curso de artes, aprenderei a pintar com aquarela, e se eu me inscrever em um curso de culinária, então aprenderei a fazer pão artesanal. A decisão está tomada, e com certeza vou me matricular ou no curso de artes ou no de culinária.",
             "qa_pairs": [
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu terei a experiência tátil de virar as páginas e (b) Eu poderei ler em qualquer dispositivo e economizar espaço?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou aprender a pintar com aquarela e (b) eu vou aprender a fazer pão artesanal?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu terei a experiência tátil de virar as páginas e (b) não Eu poderei ler em qualquer dispositivo e economizar espaço?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou aprender a pintar com aquarela e (b) eu não vou aprender a fazer pão artesanal?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) Eu terei a experiência tátil de virar as páginas e (b) não Eu poderei ler em qualquer dispositivo e economizar espaço?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou aprender a pintar com aquarela e (b) eu não vou aprender a fazer pão artesanal?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não Eu terei a experiência tátil de virar as páginas e (b) Eu poderei ler em qualquer dispositivo e economizar espaço?",
+                    "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu não vou aprender a pintar com aquarela e (b) eu vou aprender a fazer pão artesanal?",
                     "answer": "Não"
                 }
             ]

@@ -4,140 +4,140 @@
     "samples": [
         {
             "id": 1,
-            "context": "Seu Afonso, sentado no velho banco de madeira, observava o mar que conhecia desde menino. Lembrou-se de um documentário que assistira: se o calor do planeta aumenta sem parar, o nível dos oceanos sobe, tanto pelo derretimento do gelo nos lugares distantes quanto pela própria água que se expande. E para ele, não havia dúvida alguma de que cada verão parecia mais abafado que o anterior, uma constância que já nem o surpreendia mais. Seus olhos fixaram-se então nas marcas escuras de umidade nas pedras do cais, onde antes amarrava seu pequeno barco na infância, um ponto que agora ficava submerso mesmo durante as marés mais baixas.",
+            "context": "Era um fato bem conhecido que a água assumia uma forma sólida sempre que a temperatura caía para menos de 0°C. Naquela manhã em particular, o ar estava tão gelado que o termômetro no jardim confirmava que a temperatura estava, de fato, bem abaixo de 0°C.",
             "qa_pairs": [
                 {
-                    "question": "Podemos inferir que 'O nível do mar eleva-se devido à expansão térmica da água e ao derretimento de geleiras e calotas polares.'?",
+                    "question": "Isso implica que 'a água congela'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não O nível do mar eleva-se devido à expansão térmica da água e ao derretimento de geleiras e calotas polares.'?",
+                    "question": "Isso implica que 'a água não congela'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 2,
-            "context": "Sr. Almeida, dono de uma pequena cafeteria, sonhava em finalmente fazer a reforma para expandir seu negócio. Naquela tarde, enquanto limpava o balcão, a notícia na televisão chamou sua atenção: o Banco Central havia acabado de anunciar uma nova alta na taxa básica de juros. Ele franziu a testa, lembrando-se perfeitamente do que seu gerente de banco lhe dissera na última reunião: \"Fique atento, pois sempre que o comitê decide por uma elevação dessas, o preço do dinheiro que o senhor precisa emprestado para a obra acompanha a subida\".",
+            "context": "Contexto: Havia uma verdade fundamental de que a presença do sol brilhando significava que era dia. Naquele momento, era um fato inegável que o sol estava, de fato, a brilhar.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'O custo dos empréstimos e financiamentos para consumidores e empresas tende a aumentar.'?",
+                    "question": "Isso implica que 'é dia'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos inferir que 'não O custo dos empréstimos e financiamentos para consumidores e empresas tende a aumentar.'?",
+                    "question": "Podemos inferir que 'não é dia'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 3,
-            "context": "Na sua consulta de rotina, o Dr. Mendes sorriu enquanto revisava os exames de Carlos e comentou: \"Eu sempre reforço para meus pacientes que, se uma pessoa adota uma rotina diária de exercícios físicos e uma dieta balanceada, o risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.\" Ele então olhou para Carlos por cima dos óculos e acrescentou: \"E é evidente, pelo seu histórico recente, que você tem seguido exatamente esse caminho com uma disciplina notável.\"",
+            "context": "A consequência de a bateria de um celular acabar é o aparelho se desligar. Acontece que a bateria do celular de fato se esgotou.\n***\nHavia uma consequência inevitável sempre que a bateria de um celular acabava: o aparelho se desligava. Naquele momento, a bateria do celular de fato se esgotou por completo.",
             "qa_pairs": [
                 {
-                    "question": "Podemos inferir que 'O risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.'?",
+                    "question": "Podemos inferir que 'o aparelho desliga'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não O risco de desenvolver doenças cardiovasculares e obesidade diminui consideravelmente.'?",
+                    "question": "Podemos inferir que 'o aparelho não desliga'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 4,
-            "context": "Clara, a nova analista, bebia seu café enquanto lia uma notícia preocupante. \"Marcos, você viu sobre aquele ataque de ransomware que paralisou a TechCorp? Fico um pouco apreensiva\", comentou. Marcos sorriu, tranquilizador. \"Sabe, Clara, minha experiência mostra que sempre que uma empresa leva a sério o investimento em cibersegurança e, ao mesmo tempo, em treinar seus funcionários, sua exposição a armadilhas de phishing e ransomware cai drasticamente.\" Ele então olhou pela janela do escritório e completou: \"E aqui na nossa empresa, todos sabemos do enorme e contínuo investimento que a diretoria faz nessas duas frentes.\"",
+            "context": "Havia uma verdade inegável na rotina do atleta: sempre que ele treinava exaustivamente, sentia um cansaço profundo tomar conta de seu corpo. E hoje, de fato, sabe-se que o atleta treinou exaustivamente, dedicando cada grama de sua energia aos exercícios.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'A vulnerabilidade a ataques de phishing e ransomware é significativamente reduzida.'?",
+                    "question": "Podemos inferir que 'ele está cansado'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não A vulnerabilidade a ataques de phishing e ransomware é significativamente reduzida.'?",
+                    "question": "Isso implica que 'ele não está cansado'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 5,
-            "context": "Enquanto o aroma do café fresco preenchia a cozinha, Carlos lia as notícias da manhã. Ele sempre se lembrava do que seu avô, um velho conhecedor do campo, costumava dizer: quando uma geada severa e inesperada atinge uma grande região produtora, a consequência direta é a diminuição da oferta, o que inevitavelmente leva a um aumento no preço para o consumidor. Na tela do seu celular, a manchete principal confirmava seus pensamentos: uma geada forte e totalmente fora de época havia acabado de atingir uma das mais importantes áreas de cultivo de café do país.",
+            "context": "Havia uma regra simples na cozinha: se a comida fosse deixada fora da geladeira por muito tempo, ela inevitavelmente estragaria. Após o almoço apressado, o ensopado de frango de ontem foi esquecido sobre o balcão da cozinha.",
             "qa_pairs": [
                 {
-                    "question": "Podemos inferir que 'A oferta do produto no mercado diminui, resultando em um aumento no preço para o consumidor final.'?",
+                    "question": "Isso implica que 'a comida estragou'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos inferir que 'não A oferta do produto no mercado diminui, resultando em um aumento no preço para o consumidor final.'?",
+                    "question": "Podemos inferir que 'a comida não estragou'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 6,
-            "context": "Lucas olhava para o mapa da Itália fixado na parede de seu escritório, um sorriso de antecipação no rosto. Ele se lembrou do conselho de seu professor: a fluência e a capacidade de comunicação em um novo idioma melhoram progressivamente, mas apenas para aquele que se dedica ao estudo contínuo por meio de imersão e prática regular. E era exatamente essa a rotina que Lucas seguia à risca. Todos os dias, ele conversava por vídeo com seu amigo de Roma, ouvia podcasts durante o trajeto para o trabalho e só assistia a filmes na língua original, mergulhando de cabeça na cultura que tanto o fascinava.",
+            "context": "A lei de trânsito estipula que se o semáforo está vermelho, os carros devem parar. Ao se aproximar do cruzamento, o motorista observou que a luz do semáforo à frente ficou vermelha.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'Sua fluência e capacidade de comunicação nesse idioma melhoram progressivamente.'?",
+                    "question": "Podemos inferir que 'os carros devem parar'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não Sua fluência e capacidade de comunicação nesse idioma melhoram progressivamente.'?",
+                    "question": "Podemos inferir que 'os carros não devem parar'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 7,
-            "context": "Da janela do seu apartamento, o Sr. Matias lembrava-se bem das promessas feitas na televisão pelos planejadores da cidade: um sistema de transporte público que fosse verdadeiramente eficiente, acessível a todos e com uma cobertura que alcançasse até os bairros mais distantes, seria a chave para transformar a metrópole. E, de fato, nos últimos meses, ele viu essa promessa se tornar realidade. Novos ônibus elétricos e silenciosos começaram a passar com uma pontualidade impressionante, e até mesmo sua sobrinha, que morava na periferia, agora conseguia chegar ao centro da cidade com facilidade usando o novo metrô de superfície.",
+            "context": "Contexto: A regra para o sucesso na avaliação era clara: se um aluno estudasse diligentemente para a prova, ele obteria um bom resultado. As informações confirmam que o aluno em questão dedicou tempo e esforço aos estudos.\n\n---\nA promessa era simples: se o aluno dedicasse tempo aos estudos para a prova, ele certamente se sairia bem na avaliação. O fato é que o aluno realmente estudou para a prova.",
             "qa_pairs": [
                 {
-                    "question": "Podemos inferir que 'O congestionamento do trânsito nas principais vias e a poluição do ar tendem a diminuir.'?",
+                    "question": "Podemos inferir que 'ele foi bem na avaliação'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não O congestionamento do trânsito nas principais vias e a poluição do ar tendem a diminuir.'?",
+                    "question": "Isso implica que 'ele não foi bem na avaliação'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 8,
-            "context": "Carlos sempre foi metódico, até para fazer seu café da manhã. Ele sabia, por um princípio básico que aprendera há muito tempo, que se a água em sua chaleira é aquecida até 100 graus Celsius ao nível do mar, ela então entra em ebulição e começa a se transformar em vapor. Concentrado, ele observou o termômetro digital da chaleira elétrica subir lentamente: 98, 99... até que o visor finalmente marcou exatos 100 graus.",
+            "context": "O mecanismo da fechadura era bastante claro: a porta se abriria contanto que a chave correta fosse usada. Posteriormente, foi confirmado que a chave inserida na fechadura era, sem sombra de dúvida, a correta.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'A água entra em ebulição e começa a se transformar em vapor.'?",
+                    "question": "Podemos inferir que 'a porta abriu'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos inferir que 'não A água entra em ebulição e começa a se transformar em vapor.'?",
+                    "question": "Isso implica que 'a porta não abriu'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 9,
-            "context": "O biólogo Dr. Alves caminhava pela trilha, sentindo uma estranha quietude no ar. Ele sempre se guiou por um princípio fundamental em seus estudos: se o desmatamento em larga escala ocorre em uma floresta tropical, a biodiversidade local é inevitavelmente ameaçada e o equilíbrio do ecossistema é comprometido. Ao contornar uma antiga figueira, a trilha familiar terminou abruptamente em uma clareira desoladora que se estendia até onde a vista alcançava. O som distante, mas inconfundível, de motosserras confirmava que o desmatamento em larga escala, que tanto temia, estava de fato acontecendo ali.",
+            "context": "Contexto: O filme foi inegavelmente emocionante, cativando a todos na sala. Sabe-se que filmes com essa carga emocional costumam fazer com que algumas pessoas chorem.\n\n---\nFoi uma experiência cinematográfica inegavelmente emocionante, que prendeu a atenção de todos na sala. Sabe-se que um filme com uma carga emocional tão forte como aquele costuma levar algumas pessoas às lágrimas.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'A biodiversidade local é ameaçada e o equilíbrio do ecossistema é comprometido.'?",
+                    "question": "Podemos inferir que 'algumas pessoas choraram'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Podemos inferir que 'não A biodiversidade local é ameaçada e o equilíbrio do ecossistema é comprometido.'?",
+                    "question": "Isso implica que 'ninguém chorou'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 10,
-            "context": "André encarava a planilha na sua frente, mas os números pareciam flutuar sem sentido. Já era a quarta manhã seguida que ele chegava ao escritório após dormir menos de cinco horas. Ele se lembrou de ter lido em algum lugar que, quando uma pessoa acumula várias noites de sono insuficiente, é praticamente garantido que sua clareza mental, seu foco e até seu estado de espírito sofram as consequências no dia seguinte. Um colega passou e deu um bom dia animado, e André apenas murmurou algo em resposta, sentindo uma irritação inexplicável crescer enquanto tentava, pela terceira vez, entender a primeira linha do relatório.",
+            "context": "Era uma certeza que, uma vez que o fogo estivesse aceso sob a panela, a água dentro dela começaria a ferver. Naquela ocasião, o fogo foi definitivamente aceso sob a panela.",
             "qa_pairs": [
                 {
-                    "question": "Podemos inferir que 'Sua capacidade cognitiva, concentração e humor são afetados negativamente no dia seguinte.'?",
+                    "question": "Podemos inferir que 'a água na panela ferveu'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não Sua capacidade cognitiva, concentração e humor são afetados negativamente no dia seguinte.'?",
+                    "question": "Isso implica que 'a água na panela não ferveu'?",
                     "answer": "Não"
                 }
             ]

@@ -4,220 +4,220 @@
     "samples": [
         {
             "id": 1,
-            "context": "Pedro acordou com o som da chuva forte que não deu trégua durante toda a noite. Ao olhar pela janela da cozinha, viu que as águas do rio já lambiam o final do seu quintal, um sinal inconfundível de que ele havia transbordado. Ele sabia o que vinha a seguir, era uma regra na pequena cidade: sempre que o rio saía de seu leito, a estrada principal era imediatamente fechada por segurança.",
+            "context": "Uma chuva intensa caiu durante a noite, fazendo com que o rio transbordasse. Devido ao transbordamento do rio, as ruas da cidade acabaram alagadas.",
             "qa_pairs": [
                 {
-                    "question": "Se Choveu muito durante a noite., isso significa que A estrada principal foi interditada.?",
+                    "question": "Se choveu muito durante a noite, isso significa que as ruas da cidade ficaram alagadas?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se Choveu muito durante a noite., isso significa que não A estrada principal foi interditada.?",
+                    "question": "Se choveu muito durante a noite, isso significa que as ruas da cidade não ficaram alagadas?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Choveu muito durante a noite., isso significa que não A estrada principal foi interditada.?",
+                    "question": "Se não choveu muito durante a noite, isso significa que as ruas da cidade não ficaram alagadas?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Choveu muito durante a noite., isso significa que A estrada principal foi interditada.?",
+                    "question": "Se não choveu muito durante a noite, isso significa que as ruas da cidade ficaram alagadas?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 2,
-            "context": "Carlos atendeu o telefone e a conversa se estendeu mais do que o previsto. Ao desligar, um cheiro acre invadiu suas narinas e ele correu para a cozinha, já lamentando sua distração. Ele sabia muito bem que, sempre que se esquecia da comida no fogo, a panela acabava queimando. E também sabia, por amarga experiência, que a fumaça de uma panela queimada era o suficiente para fazer o alarme de incêndio do corredor disparar.",
+            "context": "Ao me dedicar diligentemente aos estudos para o exame, eu sabia que o resultado seria um domínio completo do conteúdo da matéria. Ter esse domínio, por sua vez, sempre me garantia a aprovação na prova com uma nota alta.",
             "qa_pairs": [
                 {
-                    "question": "Se Esqueci a comida no fogo., isso significa que O alarme de incêndio disparou.?",
+                    "question": "Se eu estudei diligentemente para o exame, isso significa que eu passei na prova com uma nota alta?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se Esqueci a comida no fogo., isso significa que não O alarme de incêndio disparou.?",
+                    "question": "Se eu estudei diligentemente para o exame, isso significa que eu não passei na prova com uma nota alta?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Esqueci a comida no fogo., isso significa que não O alarme de incêndio disparou.?",
+                    "question": "Se eu não estudei diligentemente para o exame, isso significa que eu não passei na prova com uma nota alta?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Esqueci a comida no fogo., isso significa que O alarme de incêndio disparou.?",
+                    "question": "Se eu não estudei diligentemente para o exame, isso significa que eu passei na prova com uma nota alta?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 3,
-            "context": "Olhando para trás, vejo claramente o ponto de virada. A partir do momento em que comecei a economizar dinheiro todo mês, com disciplina, foi que consegui acumular o suficiente para uma entrada. E ter esse valor em mãos foi o passo crucial, a peça que faltava para que eu pudesse, finalmente, comprar meu primeiro apartamento.",
+            "context": "O meu voo foi cancelado por causa do mau tempo, o que me impediu de viajar para o meu destino. O facto de eu não ter conseguido viajar para o meu destino significou que perdi a conferência de negócios.",
             "qa_pairs": [
                 {
-                    "question": "Se Comecei a economizar dinheiro todo mês., isso significa que Comprei meu primeiro apartamento.?",
+                    "question": "Se o voo foi cancelado devido ao mau tempo, isso significa que eu perdi a conferência de negócios?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se Comecei a economizar dinheiro todo mês., isso significa que não Comprei meu primeiro apartamento.?",
+                    "question": "Se o voo foi cancelado devido ao mau tempo, isso significa que eu não perdi a conferência de negócios?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Comecei a economizar dinheiro todo mês., isso significa que não Comprei meu primeiro apartamento.?",
+                    "question": "Se o voo não foi cancelado devido ao mau tempo, isso significa que eu não perdi a conferência de negócios?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Comecei a economizar dinheiro todo mês., isso significa que Comprei meu primeiro apartamento.?",
+                    "question": "Se o voo não foi cancelado devido ao mau tempo, isso significa que eu perdi a conferência de negócios?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 4,
-            "context": "Carlos abriu os olhos assustado, não pelo som irritante de sempre, mas justamente pela ausência dele. A luz do sol já entrava forte pela janela, e um pânico gelado começou a subir por sua espinha. Ele conhecia bem a matemática de suas manhãs: uma falha no despertador significava, sem exceção, que ele acordaria tarde demais. E ele também sabia que, com o trânsito da cidade e a rigidez do seu chefe, um simples atraso hoje o faria perder a apresentação mais importante do semestre. Seu olhar correu para o pequeno relógio digital na cabeceira, que permanecia mudo e com a tela apagada.",
+            "context": "Devido ao sol estar tão forte hoje, a temperatura da areia da praia consequentemente aumentou. Uma consequência do aumento da temperatura da areia da praia é que meu sorvete derreteu rapidamente.",
             "qa_pairs": [
                 {
-                    "question": "Se O despertador não tocou., isso significa que Perdi a reunião importante.?",
+                    "question": "Se o sol está muito forte hoje, isso significa que meu sorvete derreteu rapidamente?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se O despertador não tocou., isso significa que não Perdi a reunião importante.?",
+                    "question": "Se o sol está muito forte hoje, isso significa que meu sorvete não derreteu rapidamente?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não O despertador não tocou., isso significa que não Perdi a reunião importante.?",
+                    "question": "Se o sol não está muito forte hoje, isso significa que meu sorvete não derreteu rapidamente?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não O despertador não tocou., isso significa que Perdi a reunião importante.?",
+                    "question": "Se o sol não está muito forte hoje, isso significa que meu sorvete derreteu rapidamente?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 5,
-            "context": "André olhava para seu novo amigo de quatro patas, que dormia tranquilamente no tapete, e refletia sobre as recentes mudanças em sua vida. Ele pensou que, ao tomar a decisão de adotar um cachorro no abrigo, ele se impôs a regra de começar a passear com o animal todos os dias. E, naturalmente, para qualquer um que começa uma rotina de caminhadas diárias, a consequência é tornar-se mais ativo e perder um pouco de peso.",
+            "context": "A bateria do meu notebook acabou, o que fez com que o programa se fechasse inesperadamente. O encerramento inesperado do programa resultou na perda de todo o trabalho não salvo.",
             "qa_pairs": [
                 {
-                    "question": "Se Adotei um cachorro em um abrigo., isso significa que Fiquei mais ativo e perdi peso.?",
+                    "question": "Se a bateria do meu notebook acabou, isso significa que eu perdi todo o trabalho não salvo?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se Adotei um cachorro em um abrigo., isso significa que não Fiquei mais ativo e perdi peso.?",
+                    "question": "Se a bateria do meu notebook acabou, isso significa que eu não perdi todo o trabalho não salvo?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Adotei um cachorro em um abrigo., isso significa que não Fiquei mais ativo e perdi peso.?",
+                    "question": "Se a bateria do meu notebook não acabou, isso significa que eu não perdi todo o trabalho não salvo?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Adotei um cachorro em um abrigo., isso significa que Fiquei mais ativo e perdi peso.?",
+                    "question": "Se a bateria do meu notebook não acabou, isso significa que eu perdi todo o trabalho não salvo?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 6,
-            "context": "Carlos, o gerente, observava as novas máquinas no chão de fábrica. O alto investimento da diretoria em tecnologia tinha um objetivo claro: tornar a produção visivelmente mais eficiente. Ele sabia, por experiência, que uma operação mais ágil e com menos custos era sempre o caminho mais seguro para garantir um aumento nos lucros ao fechar o balanço do trimestre.",
+            "context": "Durante o preparo, um momento de distração fez com que o fermento ficasse esquecido na bancada. É um facto conhecido que um bolo que não cresce adequadamente no forno resulta numa massa solada e dura.",
             "qa_pairs": [
                 {
-                    "question": "Se A empresa investiu em novas tecnologias., isso significa que Os lucros aumentaram no final do trimestre.?",
+                    "question": "Se esqueci de colocar fermento na massa, isso significa que o bolo ficou solado e duro?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se A empresa investiu em novas tecnologias., isso significa que não Os lucros aumentaram no final do trimestre.?",
+                    "question": "Se esqueci de colocar fermento na massa, isso significa que o bolo não ficou solado e duro?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não A empresa investiu em novas tecnologias., isso significa que não Os lucros aumentaram no final do trimestre.?",
+                    "question": "Se lembrei de colocar fermento na massa, isso significa que o bolo não ficou solado e duro?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não A empresa investiu em novas tecnologias., isso significa que Os lucros aumentaram no final do trimestre.?",
+                    "question": "Se lembrei de colocar fermento na massa, isso significa que o bolo ficou solado e duro?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 7,
-            "context": "Cheguei na cozinha e suspirei. Na correria de mais cedo, distraído com o telefone, deixei o pote do meu sorvete de pistache favorito esquecido sobre a bancada. Eu tenho uma regra pessoal muito clara sobre isso: se o sorvete fica fora do congelador, ele inevitavelmente derrete por completo. E outra coisa que sei é que, uma vez que ele derreteu totalmente, seu único destino é a lata de lixo.",
+            "context": "Quando o jogador estrela da equipe sofreu uma lesão, isso significou que a equipe teve que jogar desfalcada. Jogar desfalcado, por sua vez, levou a equipe a perder a partida final.",
             "qa_pairs": [
                 {
-                    "question": "Se Deixei o sorvete fora do congelador., isso significa que Tive que jogá-lo fora.?",
+                    "question": "Se o jogador estrela do time se machucou, isso significa que o time perdeu a partida final?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se Deixei o sorvete fora do congelador., isso significa que não Tive que jogá-lo fora.?",
+                    "question": "Se o jogador estrela do time se machucou, isso significa que o time não perdeu a partida final?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Deixei o sorvete fora do congelador., isso significa que não Tive que jogá-lo fora.?",
+                    "question": "Se o jogador estrela do time não se machucou, isso significa que o time não perdeu a partida final?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Deixei o sorvete fora do congelador., isso significa que Tive que jogá-lo fora.?",
+                    "question": "Se o jogador estrela do time não se machucou, isso significa que o time perdeu a partida final?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 8,
-            "context": "Lucas olhava pela janela do seu novo escritório, refletindo sobre os últimos meses. Ele tinha uma certeza: ao se dedicar à leitura de vários livros sobre programação, como fizera, o resultado inevitável seria o desenvolvimento de novas habilidades técnicas. Além disso, era sabido por todos que, na sua empresa, aprimorar essas competências era o caminho direto para conseguir uma promoção no trabalho.",
+            "context": "Um repentino corte de energia atingiu o bairro, o que fez com que os semáforos em todos os cruzamentos parassem de funcionar. Com os semáforos agora totalmente inoperantes, o trânsito rapidamente se transformou em um caos completo.",
             "qa_pairs": [
                 {
-                    "question": "Se Li vários livros sobre programação., isso significa que Consegui uma promoção no trabalho.?",
+                    "question": "Se houve um corte de energia no bairro, isso significa que o trânsito ficou completamente caótico?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se Li vários livros sobre programação., isso significa que não Consegui uma promoção no trabalho.?",
+                    "question": "Se houve um corte de energia no bairro, isso significa que o trânsito não ficou completamente caótico?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Li vários livros sobre programação., isso significa que não Consegui uma promoção no trabalho.?",
+                    "question": "Se não houve um corte de energia no bairro, isso significa que o trânsito não ficou completamente caótico?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Li vários livros sobre programação., isso significa que Consegui uma promoção no trabalho.?",
+                    "question": "Se não houve um corte de energia no bairro, isso significa que o trânsito ficou completamente caótico?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 9,
-            "context": "Seu Manuel caminhava desolado por entre as fileiras de seu sítio. A geada inesperada da noite anterior, uma camada fina e mortal de branco sobre as folhas verdes, havia queimado boa parte dos seus pés de café. Algumas semanas depois, ao levar a pouca safra que conseguiu salvar para a cooperativa da cidade, ele notou que, por conta da quebra geral na produção da região, o preço da saca no mercado havia subido consideravelmente.",
+            "context": "A presença de um bug crítico no código-fonte levaria inevitavelmente ao travamento do software durante a apresentação. Além disso, um travamento do software durante a apresentação significaria que a demonstração para o cliente seria um fracasso.",
             "qa_pairs": [
                 {
-                    "question": "Se Houve uma geada inesperada., isso significa que O preço do café no mercado subiu.?",
+                    "question": "Se o código-fonte continha um bug crítico, isso significa que a demonstração para o cliente foi um fracasso?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se Houve uma geada inesperada., isso significa que não O preço do café no mercado subiu.?",
+                    "question": "Se o código-fonte continha um bug crítico, isso significa que a demonstração para o cliente não foi um fracasso?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Houve uma geada inesperada., isso significa que não O preço do café no mercado subiu.?",
+                    "question": "Se o código-fonte não continha um bug crítico, isso significa que a demonstração para o cliente não foi um fracasso?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Houve uma geada inesperada., isso significa que O preço do café no mercado subiu.?",
+                    "question": "Se o código-fonte não continha um bug crítico, isso significa que a demonstração para o cliente foi um fracasso?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 10,
-            "context": "O dia na beira da piscina estava perfeito até o momento em que, com um movimento desajeitado, o celular de André escorregou e caiu na água. Ele o pescou rapidamente, mas o estrago já estava feito; a tela permaneceu escura, indiferente a todos os seus esforços para reanimá-la. André suspirou, resignado, pois sabia muito bem que, uma vez que um aparelho deixa de funcionar, a única solução é ir até a loja comprar um substituto.",
+            "context": "Por ter perdido minhas chaves de casa, eu não pude entrar no meu apartamento. Visto que eu não conseguia entrar no meu apartamento, tive que chamar um chaveiro de emergência.",
             "qa_pairs": [
                 {
-                    "question": "Se Derrubei meu celular na água., isso significa que Precisei comprar um celular novo.?",
+                    "question": "Se eu perdi minhas chaves de casa, isso significa que eu tive que chamar um chaveiro de emergência?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Se Derrubei meu celular na água., isso significa que não Precisei comprar um celular novo.?",
+                    "question": "Se eu perdi minhas chaves de casa, isso significa que eu não tive que chamar um chaveiro de emergência?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Derrubei meu celular na água., isso significa que não Precisei comprar um celular novo.?",
+                    "question": "Se eu não perdi minhas chaves de casa, isso significa que eu não tive que chamar um chaveiro de emergência?",
                     "answer": "Não"
                 },
                 {
-                    "question": "Se não Derrubei meu celular na água., isso significa que Precisei comprar um celular novo.?",
+                    "question": "Se eu não perdi minhas chaves de casa, isso significa que eu tive que chamar um chaveiro de emergência?",
                     "answer": "Não"
                 }
             ]

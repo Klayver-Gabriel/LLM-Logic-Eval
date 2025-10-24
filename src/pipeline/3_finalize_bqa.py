@@ -16,8 +16,8 @@ from config import LOGIC_RULES_CONFIG
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 
-# --- CONFIGURAÇÃO DA PRIMEIRA PARTE DA ETAPA 3 (BQA) ---
-INPUT_FILE = PROJECT_ROOT / "artifacts" / "stage_2_naturalized_contexts.jsonl"
+# --- CONFIGURAÇÃO DA ETAPA 3 (BQA) ---
+INPUT_FILE = PROJECT_ROOT / "artifacts" / "stage_2b_naturalized_contexts.jsonl"
 BASE_OUTPUT_DIR = PROJECT_ROOT / "output" / "LogicBench(Eval)" / "BQA"
 # ------------------------------------
 
@@ -41,14 +41,14 @@ def parse_stage_2_log(log_path):
 if __name__ == "__main__":
     input_log_path = INPUT_FILE
     
-    print(f"INICIANDO ETAPA 3: Finalização e Montagem do Dataset BQA")
+    print(f"INICIANDO ETAPA 3.1: Finalização e Montagem do Dataset BQA")
     print(f"Lendo contextos naturalizados de: {input_log_path}")
     all_instances_data = parse_stage_2_log(input_log_path)
 
     base_output_dir = BASE_OUTPUT_DIR
     print(f"Gerando arquivos finais em: {base_output_dir}\n")
 
-    for rule_key, instances in tqdm(all_instances_data.items(), desc="Finalizando Regras"):
+    for rule_key, instances in tqdm(all_instances_data.items(), desc="Finalizando Regras BQA"):
         try:
             logic_type, rule_name = rule_key.split('/')
             rule_template = LOGIC_RULES_CONFIG[logic_type][rule_name]
@@ -64,15 +64,16 @@ if __name__ == "__main__":
         final_json_output = {"type": logic_type_folder_name, "axiom": rule_name.lower(), "samples": []}
 
         for i, instance_data in enumerate(instances):
-            sentence_bank = instance_data["sentence_bank"]
+            original_sentence_bank = instance_data["sentence_bank"]
             natural_context = instance_data["natural_context"]
 
-            all_props = set(re.findall(r'\{([a-zA-Z0-9_ ]+)\}', json.dumps(rule_template)))
-            for prop in all_props:
-                if prop not in sentence_bank and prop.startswith("not "):
-                    base_key = prop.replace("not ", "")
-                    if base_key in sentence_bank:
-                        sentence_bank[prop] = "não " + sentence_bank[base_key]
+            # MUDANÇA: Criamos um banco de sentenças limpo para formatar as perguntas
+            cleaned_bank = {}
+            for key, value in original_sentence_bank.items():
+                cleaned_value = value.strip().removesuffix('.')
+                if cleaned_value:
+                    cleaned_value = cleaned_value[0].lower() + cleaned_value[1:]
+                cleaned_bank[key] = cleaned_value
 
             bqa_questions = []
             for q_template in rule_template["bqa_templates"]:
@@ -81,17 +82,19 @@ if __name__ == "__main__":
                     
                     formatted_question = ""
                     if isinstance(question_text_template, dict):
-                        # Lida com o template estruturado (dilema)
-                        prefix = question_text_template["prefix"].format(**sentence_bank)
-                        formatted_clauses = [c.format(**sentence_bank) for c in question_text_template["clauses"]]
+                        prefix = question_text_template["prefix"].format(**cleaned_bank)
+                        formatted_clauses = [c.format(**cleaned_bank) for c in question_text_template["clauses"]]
                         formatted_question = prefix + " e ".join(formatted_clauses) + "?"
                     else:
-                        # Lida com o template de string simples
-                        formatted_question = question_text_template.format(**sentence_bank)
+                        formatted_question = question_text_template.format(**cleaned_bank)
+                    
+                    # Garante que a pergunta final comece com letra maiúscula
+                    if formatted_question:
+                        formatted_question = formatted_question[0].upper() + formatted_question[1:]
 
                     bqa_questions.append({"question": formatted_question, "answer": q_template["answer"]})
                 except KeyError as e:
-                    logging.error(f"KeyError na regra {rule_key}, instância {i+1}: Chave '{e}' não encontrada no banco de sentenças. Pulando esta pergunta.")
+                    logging.error(f"KeyError na regra {rule_key}, instância {i+1}: Chave '{e}'. Pulando pergunta.")
             
             if bqa_questions:
                 sample = {"id": i + 1, "context": natural_context, "qa_pairs": bqa_questions}

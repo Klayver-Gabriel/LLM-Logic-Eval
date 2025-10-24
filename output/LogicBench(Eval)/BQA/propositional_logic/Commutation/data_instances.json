@@ -4,140 +4,140 @@
     "samples": [
         {
             "id": 1,
-            "context": "O dia mal havia começado quando Seu Afonso caminhou por entre seus cafezais, o coração apertado. Uma camada branca e fina, cruelmente bela, cobria as folhas, um sinal claro da geada inesperada e severa que varreu a região durante a noite. De volta à cozinha, ligou o rádio para abafar o silêncio desolador e a notícia econômica da manhã chamou sua atenção: os locutores falavam com urgência sobre como o preço da saca de café havia disparado no mercado futuro, citando como motivo a previsão de uma drástica quebra de safra.",
+            "context": "Para a sobremesa, foi estabelecido que a escolha seria entre bolo de chocolate ou sorvete de baunilha. No entanto, quando chegou a hora de servir, todos foram informados de que o bolo de chocolate não estava disponível.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'O preço da saca de café no mercado futuro disparou devido à previsão de quebra de safra. e Uma geada severa e inesperada atingiu as principais regiões produtoras de café.'?",
+                    "question": "Isso implica que 'a sobremesa será sorvete de baunilha ou a sobremesa será bolo de chocolate'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não O preço da saca de café no mercado futuro disparou devido à previsão de quebra de safra. e Uma geada severa e inesperada atingiu as principais regiões produtoras de café.'?",
+                    "question": "Isso implica que 'a sobremesa não será sorvete de baunilha ou a sobremesa será bolo de chocolate'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 2,
-            "context": "Carlos, o gerente de TI, suspirou aliviado enquanto analisava o relatório trimestral em sua tela. Ele se lembrou da enorme iniciativa do semestre passado, um projeto que consumiu uma parte considerável do orçamento: um programa intensivo e obrigatório de treinamento em segurança cibernética que foi aplicado a absolutamente todos os funcionários, desde o estagiário até a diretoria. Agora, olhando para os gráficos à sua frente, um dado saltava aos olhos: a linha que representava os incidentes de phishing bem-sucedidos havia despencado, atingindo os níveis mais baixos já registrados na história da organização.",
+            "context": "Os planos para esta noite eram claros: ou uma saída para ver o último filme em cartaz ou uma noite aconchegante no sofá maratonando uma série. Contudo, uma rápida olhada nos horários dos filmes mostrou que a sessão já tinha começado, inviabilizando a ida ao cinema.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'O número de incidentes de phishing bem-sucedidos dentro da organização diminuiu drasticamente. e A empresa investiu pesadamente em treinamento de segurança cibernética para todos os funcionários.'?",
+                    "question": "Isso implica que 'vamos ficar em casa e assistir a uma série ou vamos ao cinema hoje à noite'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não O número de incidentes de phishing bem-sucedidos dentro da organização diminuiu drasticamente. e A empresa investiu pesadamente em treinamento de segurança cibernética para todos os funcionários.'?",
+                    "question": "Isso implica que 'não vamos ficar em casa e assistir a uma série ou vamos ao cinema hoje à noite'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 3,
-            "context": "Ao chegar ao topo da ladeira, Carlos parou por um instante. Ele olhava a vista da cidade, sentindo o ar fresco da manhã, e percebeu que não estava ofegante. Lembrou-se de como, há seis meses, sua rotina era outra: ele finalmente havia abandonado o cigarro e, em seu lugar, adotado o hábito de correr todas as manhãs.",
+            "context": "Sabe-se que para concluir a compra, o pagamento pode ser feito com cartão de crédito ou pode ser feito com PIX. Contudo, foi anunciado que o sistema para pagamentos com PIX está temporariamente indisponível.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'Sua capacidade pulmonar e resistência física melhoraram significativamente em seis meses. e Carlos parou de fumar e adotou uma rotina de exercícios aeróbicos regulares.'?",
+                    "question": "Isso implica que 'o pagamento pode ser feito com PIX ou o pagamento pode ser feito com cartão de crédito'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não Sua capacidade pulmonar e resistência física melhoraram significativamente em seis meses. e Carlos parou de fumar e adotou uma rotina de exercícios aeróbicos regulares.'?",
+                    "question": "Isso implica que 'o pagamento não pode ser feito com PIX ou o pagamento pode ser feito com cartão de crédito'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 4,
-            "context": "Enquanto olhava a longa fila de espera para o modelo que desejava, Carlos não pôde deixar de pensar em duas coisas que leu recentemente. Primeiro, lembrou-se da notícia de alguns meses atrás, sobre o anúncio do governo de que os impostos de importação para veículos elétricos seriam reduzidos. Depois, recordou-se de um relatório de mercado que destacava como, justamente no trimestre seguinte àquela decisão, a venda desses carros havia disparado no país.",
+            "context": "A equipe sabe que a reunião acontecerá na segunda-feira ou na terça-feira. Acontece que a reunião definitivamente não será na segunda-feira.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'A venda de carros elétricos no país aumentou no trimestre seguinte ao anúncio. e O governo anunciou uma redução nos impostos de importação para veículos elétricos.'?",
+                    "question": "Isso implica que 'a reunião será na terça-feira ou a reunião será na segunda-feira'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não A venda de carros elétricos no país aumentou no trimestre seguinte ao anúncio. e O governo anunciou uma redução nos impostos de importação para veículos elétricos.'?",
+                    "question": "Isso implica que 'a reunião não será na terça-feira ou a reunião será na segunda-feira'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 5,
-            "context": "O ventilador girava lentamente, espalhando o ar abafado pelo pequeno apartamento de Carlos. Na televisão, uma reportagem mostrava imagens preocupantes: devido a um longo período de seca, o nível dos reservatórios das usinas hidrelétricas atingiu um nível criticamente baixo. Pouco depois, ele pegou o celular para checar a fatura de energia que acabara de chegar e franziu a testa ao ver o valor. Olhando os detalhes da conta, notou um aviso informando que a agência reguladora de energia havia ativado a bandeira tarifária vermelha.",
+            "context": "Contexto: Durante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso.\n\n---\nDurante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'A agência reguladora de energia ativou a bandeira tarifária vermelha, aumentando o custo da conta de luz. e Devido a um longo período de seca, o nível dos reservatórios das usinas hidrelétricas atingiu um nível criticamente baixo.'?",
+                    "question": "Isso implica que 'o projeto será desenvolvido em JavaScript ou o projeto será desenvolvido em Python'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não A agência reguladora de energia ativou a bandeira tarifária vermelha, aumentando o custo da conta de luz. e Devido a um longo período de seca, o nível dos reservatórios das usinas hidrelétricas atingiu um nível criticamente baixo.'?",
+                    "question": "Isso implica que 'o projeto não será desenvolvido em JavaScript ou o projeto será desenvolvido em Python'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 6,
-            "context": "Carlos sentou-se na sua mesa de sempre na Cantina do Mário, pronto para pedir o de costume. Ao abrir o cardápio, porém, notou uma mudança: ao lado de cada prato, pequenos números agora detalhavam a contagem de calorias, uma consequência da nova legislação que havia entrado em vigor em toda a cidade. Distraído, ele deu uma olhada ao redor e percebeu um movimento diferente no salão; na mesa ao lado, um casal que antes pediria a parmegiana gigante agora discutia baixinho sobre a salada com frango grelhado, e um pouco mais adiante, um pai explicava ao filho por que o peixe talvez fosse uma opção melhor que a lasanha naquela noite.",
+            "context": "Para as próximas férias, a decisão era clara: o destino seria a praia ou as montanhas. Contudo, os planos para a praia foram definitivamente descartados.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'Os consumidores passaram a fazer escolhas alimentares mais conscientes ao comer fora. e Uma nova lei foi aprovada, exigindo que todos os restaurantes informem a contagem de calorias em seus cardápios.'?",
+                    "question": "Isso implica que 'viajaremos para as montanhas nas férias ou viajaremos para a praia nas férias'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não Os consumidores passaram a fazer escolhas alimentares mais conscientes ao comer fora. e Uma nova lei foi aprovada, exigindo que todos os restaurantes informem a contagem de calorias em seus cardápios.'?",
+                    "question": "Isso implica que 'não viajaremos para as montanhas nas férias ou viajaremos para a praia nas férias'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 7,
-            "context": "Enquanto pedalava tranquilamente pela nova via, bem separado do trânsito caótico, Miguel observava a paisagem urbana. Ele se lembrava de como, até pouco tempo atrás, o trajeto entre seu bairro residencial e o escritório no centro comercial era uma aventura perigosa. Agora, com o caminho claro e protegido, o que mais o surpreendia era a quantidade de rostos novos que via a cada manhã; o fluxo de pessoas indo de bicicleta para seus empregos parecia crescer a cada semana, transformando o que antes era um trajeto solitário em um movimento coletivo.",
+            "context": "Regra: Condição: Sabe-se que o almoço de hoje será massa ou o almoço de hoje será salada.; Situação: O almoço de hoje não será salada.\nContexto: Para o almoço de hoje, as opções eram claras: seria servido massa ou salada. Contudo, foi decidido que salada não estaria no cardápio do dia.\n\nPara o almoço de hoje, era certo que seria servido massa ou salada. Contudo, ficou decidido que o almoço de hoje não será salada.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'O uso de bicicletas como meio de transporte para o trabalho diário aumentou. e A cidade instalou ciclovias segregadas e seguras conectando bairros residenciais a áreas comerciais.'?",
+                    "question": "Isso implica que 'o almoço de hoje será salada ou o almoço de hoje será massa'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não O uso de bicicletas como meio de transporte para o trabalho diário aumentou. e A cidade instalou ciclovias segregadas e seguras conectando bairros residenciais a áreas comerciais.'?",
+                    "question": "Isso implica que 'o almoço de hoje não será salada ou o almoço de hoje será massa'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 8,
-            "context": "Lia, uma bióloga marinha, retornou ao seu local de mergulho favorito, o Recife das Cores, com um aperto no coração. Ela havia lido nos jornais sobre o acidente com o navio petroleiro, uma mancha escura e vasta que se espalhou justamente por aquela região costeira há algumas semanas. Ao submergir na água, que antes era cristalina, encontrou um cenário desolador: os corais, antes vibrantes, estavam opacos e sem vida, e os cardumes coloridos que sempre a recebiam haviam praticamente desaparecido, restando apenas alguns peixes que se moviam de forma lenta e errática pelo ambiente agora silencioso.",
+            "context": "**Contexto Melhorado:**\nHavia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. O gerente confirmou que a opção de meio período foi descartada.\n\n**História:**\nHavia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. Pouco depois, o gerente confirmou à equipe que a opção de meio período foi descartada.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'A vida marinha na área afetada, incluindo peixes e corais, sofreu danos ambientais severos. e Um vazamento de petróleo de grandes proporções ocorreu próximo a um ecossistema de corais.'?",
+                    "question": "Isso implica que 'o novo funcionário começará em meio período ou o novo funcionário começará em tempo integral'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não A vida marinha na área afetada, incluindo peixes e corais, sofreu danos ambientais severos. e Um vazamento de petróleo de grandes proporções ocorreu próximo a um ecossistema de corais.'?",
+                    "question": "Isso implica que 'o novo funcionário não começará em meio período ou o novo funcionário começará em tempo integral'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 9,
-            "context": "Com a passagem de avião já comprada, Ana manteve uma disciplina impressionante. Ao longo do último ano, todas as noites, ela separava religiosamente duas horas para seu projeto pessoal. Parte desse tempo era gasto em um aplicativo de idiomas em seu celular, e a outra parte, a mais divertida, era em longas conversas por vídeo com novos amigos que moravam em seu país de destino.",
+            "context": "Regra: Condição: Sabe-se que você pode escolher a cor azul para o carro ou você pode escolher a cor vermelha para o carro.; Situação: Você não escolheu a cor vermelha para o carro.\nContexto: Na concessionária, as duas únicas opções de cores disponíveis para o modelo desejado eram o azul e o vermelho. A escolha precisava ser feita entre eles. Após alguma deliberação, ficou decidido que o carro vermelho não seria o escolhido.\n***\nNa concessionária, a escolha para o novo carro se resumia a duas cores vibrantes. Era possível sair de lá com o modelo na cor azul ou na cor vermelha. Depois de muito pensar, ficou certo que a cor vermelha não seria a opção levada para casa.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'Após um ano, ela alcançou fluência conversacional no idioma. e Ana dedicou duas horas por dia ao estudo de um novo idioma usando um aplicativo e conversando com nativos.'?",
+                    "question": "Isso implica que 'você pode escolher a cor vermelha para o carro ou você pode escolher a cor azul para o carro'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não Após um ano, ela alcançou fluência conversacional no idioma. e Ana dedicou duas horas por dia ao estudo de um novo idioma usando um aplicativo e conversando com nativos.'?",
+                    "question": "Isso implica que 'você não pode escolher a cor vermelha para o carro ou você pode escolher a cor azul para o carro'?",
                     "answer": "Não"
                 }
             ]
         },
         {
             "id": 10,
-            "context": "Clara, corretora de imóveis, revisava seus arquivos e notava um padrão curioso. Nos últimos tempos, a procura por aluguéis de longo prazo em sua pequena e tranquila cidade, que recentemente instalou uma robusta rede de fibra óptica, havia disparado. Enquanto lia as notícias em seu tablet, uma matéria de destaque sobre o crescimento exponencial do trabalho remoto e do número de nômades digitais ao redor do mundo chamou sua atenção.",
+            "context": "Regra: Condição: Sabe-se que a prova final será um exame escrito ou a prova final será uma apresentação oral.; Situação: A prova final não será uma apresentação oral.\nContexto: Os alunos sabiam que a avaliação final do curso teria uma de duas opções: um exame escrito ou uma apresentação oral. No entanto, o professor anunciou que a avaliação final não seria uma apresentação oral.\n***\nAo longo do semestre, ficou estabelecido para os alunos que a avaliação final do curso assumiria a forma de um exame escrito ou de uma apresentação oral. Com o fim das aulas se aproximando, o professor esclareceu a todos que, naquele ano, a avaliação final não consistiria em uma apresentação oral diante da turma.",
             "qa_pairs": [
                 {
-                    "question": "Isso implica que 'Cidades menores e com boa infraestrutura de internet registraram um aumento na procura por aluguéis de longo prazo. e A popularidade do trabalho remoto e de nômades digitais cresceu exponencialmente.'?",
+                    "question": "Isso implica que 'a prova final será uma apresentação oral ou a prova final será um exame escrito'?",
                     "answer": "Sim"
                 },
                 {
-                    "question": "Isso implica que 'não Cidades menores e com boa infraestrutura de internet registraram um aumento na procura por aluguéis de longo prazo. e A popularidade do trabalho remoto e de nômades digitais cresceu exponencialmente.'?",
+                    "question": "Isso implica que 'a prova final não será uma apresentação oral ou a prova final será um exame escrito'?",
                     "answer": "Não"
                 }
             ]

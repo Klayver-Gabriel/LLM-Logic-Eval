@@ -11,7 +11,7 @@ os.environ['GRPC_VERBOSITY'] = 'ERROR'
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 from config import LOGIC_RULES_CONFIG
-from prompts import PROMPT_BANK, DEFAULT_PROMPT
+from prompts import PROMPT_BANK, FALLBACK_PROMPT
 from engine import ApiKeyManager, make_api_call
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
@@ -28,21 +28,28 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"CRÍTICO: Falha ao iniciar o gerenciador de chaves. Erro: {e}"); exit()
 
-    print(f"INICIANDO ETAPA 1: Geração de Bancos de Sentenças")
+    # MUDANÇA: Acessamos diretamente as regras de PL, simplificando a lógica.
+    pl_rules = LOGIC_RULES_CONFIG.get('PL', {})
+    if not pl_rules:
+        print("ERRO: Nenhuma regra de Lógica Proposicional ('PL') encontrada em config.py.")
+        exit()
+
+    print(f"INICIANDO ETAPA 1: Geração de Bancos de Sentenças (Foco: Lógica Proposicional)")
     print(f"O resultado será salvo em: {OUTPUT_FILE}\n")
     os.makedirs(OUTPUT_FILE.parent, exist_ok=True)
 
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        all_rules_keys = [f"{lt}/{rn}" for lt, rules in LOGIC_RULES_CONFIG.items() for rn in rules]
-        
-        for rule_key in tqdm(all_rules_keys, desc="Processando Regras"):
-            logic_type, rule_name = rule_key.split('/')
-            rule_template = LOGIC_RULES_CONFIG[logic_type][rule_name]
+        # MUDANÇA: Agora temos uma única barra de progresso que itera sobre as regras de PL.
+        for rule_name, rule_template in tqdm(pl_rules.items(), desc="Processando Regras de PL"):
             
-            prompt_template = PROMPT_BANK.get(rule_key, DEFAULT_PROMPT)
+            logic_type = 'PL'
+            rule_key = f"{logic_type}/{rule_name}"
             
-            base_propositions = sorted(list(set(re.findall(r'\{([a-zA-Z0-9_]+)\}', json.dumps(rule_template)))))
-            propositions_to_generate = [p for p in base_propositions if "not " not in p]
+            if rule_key not in PROMPT_BANK:
+                logging.warning(f"Nenhum prompt especializado encontrado para {rule_key}. Usando o FALLBACK_PROMPT.")
+            prompt_template = PROMPT_BANK.get(rule_key, FALLBACK_PROMPT)
+            
+            propositions_to_generate = sorted(list(set(re.findall(r'\{([a-zA-Z0-9_ ]+)\}', json.dumps(rule_template)))))
             
             prompt = prompt_template.format(
                 num_instances=NUM_INSTANCES_PER_RULE,
@@ -59,8 +66,11 @@ if __name__ == "__main__":
                     
                     if isinstance(sentence_banks_array, list) and len(sentence_banks_array) > 0:
                         for bank in sentence_banks_array:
-                            line_data = {"rule": rule_key, "sentence_bank": bank}
-                            f.write(json.dumps(line_data, ensure_ascii=False) + '\n')
+                            if all(prop in bank for prop in propositions_to_generate):
+                                line_data = {"rule": rule_key, "sentence_bank": bank}
+                                f.write(json.dumps(line_data, ensure_ascii=False) + '\n')
+                            else:
+                                logging.warning(f"JSON incompleto para {rule_key}. Faltando chaves. JSON: {bank}")
                     else:
                         logging.error(f"A resposta para {rule_key} não foi uma lista válida.")
 

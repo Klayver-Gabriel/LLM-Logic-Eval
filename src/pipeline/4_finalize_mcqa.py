@@ -1,4 +1,3 @@
-# src/pipeline/4_finalize_mcqa.py
 import os
 import json
 import re
@@ -19,8 +18,8 @@ from engine import ApiKeyManager, make_api_call
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 
-# --- CONFIGURAÇÃO DA SEGUNDA PARTE DA ETAPA 3 (MCQA) ---
-INPUT_FILE = PROJECT_ROOT / "artifacts" / "stage_2_naturalized_contexts.jsonl"
+# --- CONFIGURAÇÃO DA ETAPA 3.2 (MCQA) ---
+INPUT_FILE = PROJECT_ROOT / "artifacts" / "stage_2b_naturalized_contexts.jsonl"
 BASE_OUTPUT_DIR = PROJECT_ROOT / "output" / "LogicBench(Eval)" / "MCQA"
 MODEL_NAME = 'gemini-2.5-pro'
 # ------------------------------------
@@ -64,7 +63,7 @@ if __name__ == "__main__":
 
     input_log_path = INPUT_FILE
     
-    print(f"INICIANDO GERAÇÃO DO DATASET MCQA")
+    print(f"INICIANDO ETAPA 4: Geração do Dataset MCQA")
     print(f"Lendo contextos naturalizados de: {input_log_path}")
     all_instances_data = parse_stage_2_log(input_log_path)
 
@@ -87,13 +86,24 @@ if __name__ == "__main__":
         final_json_output = {"type": logic_type_folder_name, "axiom": rule_name.lower(), "samples": []}
 
         for i, instance_data in enumerate(instances):
-            sentence_bank = instance_data["sentence_bank"]
+            original_sentence_bank = instance_data["sentence_bank"]
             natural_context = instance_data["natural_context"]
 
-            # 1. Encontrar a conclusão correta usando a nova chave explícita
+            # Criamos um banco de sentenças limpo para formatar a conclusão
+            cleaned_bank = {}
+            for key, value in original_sentence_bank.items():
+                cleaned_value = value.strip().removesuffix('.')
+                if cleaned_value:
+                    cleaned_value = cleaned_value[0].lower() + cleaned_value[1:]
+                cleaned_bank[key] = cleaned_value
+
+            # 1. Encontrar a conclusão correta usando a chave explícita 'mcqa_correct_conclusion'
             try:
                 conclusion_format = rule_template["mcqa_correct_conclusion"]
-                correct_conclusion_text = conclusion_format.format(**sentence_bank)
+                correct_conclusion_text = conclusion_format.format(**cleaned_bank)
+                # Garante que a conclusão final comece com letra maiúscula
+                if correct_conclusion_text:
+                    correct_conclusion_text = correct_conclusion_text[0].upper() + correct_conclusion_text[1:]
             except KeyError:
                 logging.error(f"A chave 'mcqa_correct_conclusion' não foi encontrada para a regra {rule_key}. Pulando.")
                 continue
@@ -129,5 +139,5 @@ if __name__ == "__main__":
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(final_json_output, f, ensure_ascii=False, indent=4)
 
-    print(f"\nGERAÇÃO DO DATASET MCQA CONCLUÍDA.")
+    print(f"\nETAPA 3.2 (MCQA) CONCLUÍDA.")
     print("Processo finalizado com sucesso.")
