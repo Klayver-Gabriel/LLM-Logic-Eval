@@ -1,0 +1,152 @@
+[
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "Sempre que pego o ônibus para o trabalho, a viagem me permite chegar relaxado. Já ir de carro para o trabalho sempre significa ter que encontrar um lugar para estacionar. O que se sabe sobre a minha manhã é que ou eu peguei o ônibus, ou não precisei procurar por um lugar para estacionar.",
+    "sentence_bank": {
+      "p": "Eu pego o ônibus para o trabalho",
+      "q": "Eu chego ao trabalho relaxado",
+      "not q": "Eu não chego ao trabalho relaxado",
+      "r": "Eu vou de carro para o trabalho",
+      "not r": "Eu não vou de carro para o trabalho",
+      "s": "Eu tenho que encontrar um lugar para estacionar",
+      "not s": "Eu não tenho que encontrar um lugar para estacionar"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "Ao considerar minhas opções para o jantar, eu sabia que se pedisse pizza, a refeição chegaria em 30 minutos. Por outro lado, se eu cozinhasse em casa, a consequência seria ter que lavar a louça depois. No final das contas, o desfecho da minha noite era certo: ou eu pediria pizza para o jantar, ou eu não teria que lavar a louça mais tarde.",
+    "sentence_bank": {
+      "p": "Eu peço pizza para o jantar",
+      "q": "O jantar chega em 30 minutos",
+      "not q": "O jantar não chega em 30 minutos",
+      "r": "Eu cozinho o jantar em casa",
+      "not r": "Eu não cozinho o jantar em casa",
+      "s": "Eu tenho que lavar a louça depois",
+      "not s": "Eu não tenho que lavar a louça depois"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "Ao pensar em meus planos, eu sei que minha ida à academia hoje significa que farei um treino de musculação, e que optar por uma corrida no parque me garantiria a chance de tomar um pouco de ar fresco. No entanto, o dia se resume a isto: ou eu vou para a academia, ou acabarei não tomando ar fresco.",
+    "sentence_bank": {
+      "p": "Eu vou para a academia hoje",
+      "q": "Eu faço um treino de musculação",
+      "not q": "Eu não faço um treino de musculação",
+      "r": "Eu corro no parque hoje",
+      "not r": "Eu não corro no parque hoje",
+      "s": "Eu tomo ar fresco",
+      "not s": "Eu não tomo ar fresco"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "Ao me debruçar sobre os livros para a prova de matemática, o conceito de cálculo finalmente se torna claro para mim, e ao escrever meu ensaio de história, eu consigo aprender sobre a Revolução Francesa. No entanto, esta noite uma coisa é certa: eu vou me dedicar à prova de matemática ou acabarei por não aprender nada sobre a Revolução Francesa.",
+    "sentence_bank": {
+      "p": "Eu estudo para a prova de matemática",
+      "q": "Eu entendo o conceito de cálculo",
+      "not q": "Eu não entendo o conceito de cálculo",
+      "r": "Eu escrevo meu ensaio de história",
+      "not r": "Eu não escrevo meu ensaio de história",
+      "s": "Eu aprendo sobre a Revolução Francesa",
+      "not s": "Eu não aprendo sobre a Revolução Francesa"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "Quando o plano de férias nos leva à praia, nosso tempo é gasto nadando no oceano; alternativamente, se a escolha recai sobre as montanhas, nossas botas de caminhada nos guiam pelas trilhas. Este ano, o resultado final das nossas férias foi claro: ou o nosso destino seria a praia, ou com certeza não passaríamos nosso tempo fazendo caminhadas pelas trilhas.",
+    "sentence_bank": {
+      "p": "Nós vamos para a praia nas férias",
+      "q": "Nós nadamos no oceano",
+      "not q": "Nós não nadamos no oceano",
+      "r": "Nós vamos para as montanhas nas férias",
+      "not r": "Nós não vamos para as montanhas nas férias",
+      "s": "Nós fazemos caminhadas nas trilhas",
+      "not s": "Nós não fazemos caminhadas nas trilhas"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "Para eu ter uma câmera melhor, a única opção era comprar o novo smartphone. Ao mesmo tempo, eu sabia que manter meu telefone antigo era o caminho para economizar dinheiro. No final, o que aconteceu foi o seguinte: ou eu comprei o novo smartphone, ou eu não economizei dinheiro.",
+    "sentence_bank": {
+      "p": "Eu compro o novo smartphone",
+      "q": "Eu tenho uma câmera melhor",
+      "not q": "Eu não tenho uma câmera melhor",
+      "r": "Eu mantenho meu telefone antigo",
+      "not r": "Eu não mantenho meu telefone antigo",
+      "s": "Eu economizo dinheiro",
+      "not s": "Eu não economizo dinheiro"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "A tarde se apresenta com uma escolha clara para mim. Se eu decidir ler um livro, sei que serei transportado para um mundo de fantasia. Por outro lado, se eu escolher pintar um quadro, poderei expressar toda a minha criatividade na tela. No entanto, para esta tarde em específico, uma coisa é certa: ou mergulharei na leitura de um livro, ou minha criatividade não encontrará sua expressão.",
+    "sentence_bank": {
+      "p": "Eu leio um livro esta tarde",
+      "q": "Eu viajo para um mundo de fantasia",
+      "not q": "Eu não viajo para um mundo de fantasia",
+      "r": "Eu pinto um quadro esta tarde",
+      "not r": "Eu não pinto um quadro esta tarde",
+      "s": "Eu expresso minha criatividade",
+      "not s": "Eu não expresso minha criatividade"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "Tenho hábitos bem definidos para sair de casa que dependem do clima. Sempre que chove lá fora, eu pego meu guarda-chuva antes de sair, e da mesma forma, em dias de sol, meus óculos de sol são indispensáveis. Hoje, ao me preparar, uma coisa é certa sobre as condições lá fora: ou o céu está desabando em chuva, ou eu optei por não usar meus óculos de sol.",
+    "sentence_bank": {
+      "p": "Está chovendo lá fora",
+      "q": "Eu levo um guarda-chuva",
+      "not q": "Eu não levo um guarda-chuva",
+      "r": "Está ensolarado lá fora",
+      "not r": "Não está ensolarado lá fora",
+      "s": "Eu uso óculos de sol",
+      "not s": "Eu não uso óculos de sol"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "Ao ponderar sobre ter um novo animal de estimação, tenho clareza sobre as responsabilidades: se eu adotar um cachorro, precisarei passear com ele todos os dias, e se eu adotar um gato, terei que limpar a caixa de areia. Depois de muito pensar, cheguei a uma conclusão sobre meu futuro: ou eu adotarei um cachorro ou não terei que me preocupar em limpar uma caixa de areia.",
+    "sentence_bank": {
+      "p": "Eu adoto um cachorro",
+      "q": "Eu preciso passear com ele todos os dias",
+      "not q": "Eu não preciso passear com ele todos os dias",
+      "r": "Eu adoto um gato",
+      "not r": "Eu não adoto um gato",
+      "s": "Eu preciso limpar a caixa de areia",
+      "not s": "Eu não preciso limpar a caixa de areia"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Bidirectional_Dilemma",
+    "natural_context": "A aceitação daquela oferta de emprego em outra cidade significaria que eu teria que me mudar para um novo apartamento, enquanto que, se eu recusasse a oferta, eu simplesmente continuaria no meu cargo atual. Após muita reflexão, ficou claro para mim que uma de duas coisas aconteceria: ou eu aceitaria a oferta de emprego na outra cidade, ou eu não permaneceria no meu cargo atual.",
+    "sentence_bank": {
+      "p": "Eu aceito a oferta de emprego em outra cidade",
+      "q": "Eu me mudo para um novo apartamento",
+      "not q": "Eu não me mudo para um novo apartamento",
+      "r": "Eu recuso a oferta de emprego",
+      "not r": "Eu não recuso a oferta de emprego",
+      "s": "Eu continuo no meu cargo atual",
+      "not s": "Eu não continuo no meu cargo atual"
+    },
+    "solver_result": "sat",
+    "model": {}
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "Uma chuva intensa caiu durante a noite, fazendo com que o rio transbordasse. Devido ao transbordamento do rio, as ruas da cidade acabaram alagadas.",
+    "sentence_bank": {
+      "p": "Choveu muito durante a noite.",
+      "not p": "Não choveu muito durante a noite.",
+      "q": "O rio transbordou.",
+      "r": "As ruas da cidade ficaram alagadas.",
+      "not r": "As ruas da cidade não ficaram alagadas."
+    },
+    "solver_result": "unsat",
+    "model": null
+  },
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "Ao me dedicar diligentemente aos estudos para o exame, eu sabia que o resultado seria um domínio completo do conteúdo da matéria. Ter esse domínio, por sua vez, sempre me garantia a aprovação na prova com uma nota alta.",
+    "sentence_bank": {
+      "p": "Eu estudei diligentemente para o exame.",
+      "not p": "Eu não estudei diligentemente para o exame.",
+      "q": "Eu dominei o conteúdo da matéria.",
+      "r": "Eu passei na prova com uma nota alta.",
+      "not r": "Eu não passei na prova com uma nota alta."
+    },
+    "solver_result": "unsat",
+    "model": null
+  },
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "O meu voo foi cancelado por causa do mau tempo, o que me impediu de viajar para o meu destino. O facto de eu não ter conseguido viajar para o meu destino significou que perdi a conferência de negócios.",
+    "sentence_bank": {
+      "p": "O voo foi cancelado devido ao mau tempo.",
+      "not p": "O voo não foi cancelado devido ao mau tempo.",
+      "q": "Eu não consegui viajar para o destino.",
+      "r": "Eu perdi a conferência de negócios.",
+      "not r": "Eu não perdi a conferência de negócios."
+    },
+    "solver_result": "unsat",
+    "model": null
+  },
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "Devido ao sol estar tão forte hoje, a temperatura da areia da praia consequentemente aumentou. Uma consequência do aumento da temperatura da areia da praia é que meu sorvete derreteu rapidamente.",
+    "sentence_bank": {
+      "p": "O sol está muito forte hoje.",
+      "not p": "O sol não está muito forte hoje.",
+      "q": "A temperatura da areia da praia aumentou.",
+      "r": "Meu sorvete derreteu rapidamente.",
+      "not r": "Meu sorvete não derreteu rapidamente."
+    },
+    "solver_result": "unsat",
+    "model": null
+  },
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "A bateria do meu notebook acabou, o que fez com que o programa se fechasse inesperadamente. O encerramento inesperado do programa resultou na perda de todo o trabalho não salvo.",
+    "sentence_bank": {
+      "p": "A bateria do meu notebook acabou.",
+      "not p": "A bateria do meu notebook não acabou.",
+      "q": "O programa fechou inesperadamente.",
+      "r": "Eu perdi todo o trabalho não salvo.",
+      "not r": "Eu não perdi todo o trabalho não salvo."
+    },
+    "solver_result": "unsat",
+    "model": null
+  },
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "Durante o preparo, um momento de distração fez com que o fermento ficasse esquecido na bancada. É um facto conhecido que um bolo que não cresce adequadamente no forno resulta numa massa solada e dura.",
+    "sentence_bank": {
+      "p": "Esqueci de colocar fermento na massa.",
+      "not p": "Lembrei de colocar fermento na massa.",
+      "q": "O bolo não cresceu no forno.",
+      "r": "O bolo ficou solado e duro.",
+      "not r": "O bolo não ficou solado e duro."
+    },
+    "solver_result": "unsat",
+    "model": null
+  },
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "Quando o jogador estrela da equipe sofreu uma lesão, isso significou que a equipe teve que jogar desfalcada. Jogar desfalcado, por sua vez, levou a equipe a perder a partida final.",
+    "sentence_bank": {
+      "p": "O jogador estrela do time se machucou.",
+      "not p": "O jogador estrela do time não se machucou.",
+      "q": "O time jogou desfalcado.",
+      "r": "O time perdeu a partida final.",
+      "not r": "O time não perdeu a partida final."
+    },
+    "solver_result": "unsat",
+    "model": null
+  },
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "Um repentino corte de energia atingiu o bairro, o que fez com que os semáforos em todos os cruzamentos parassem de funcionar. Com os semáforos agora totalmente inoperantes, o trânsito rapidamente se transformou em um caos completo.",
+    "sentence_bank": {
+      "p": "Houve um corte de energia no bairro.",
+      "not p": "Não houve um corte de energia no bairro.",
+      "q": "Os semáforos pararam de funcionar.",
+      "r": "O trânsito ficou completamente caótico.",
+      "not r": "O trânsito não ficou completamente caótico."
+    },
+    "solver_result": "unsat",
+    "model": null
+  },
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "A presença de um bug crítico no código-fonte levaria inevitavelmente ao travamento do software durante a apresentação. Além disso, um travamento do software durante a apresentação significaria que a demonstração para o cliente seria um fracasso.",
+    "sentence_bank": {
+      "p": "O código-fonte continha um bug crítico.",
+      "not p": "O código-fonte não continha um bug crítico.",
+      "q": "O software travou durante a apresentação.",
+      "r": "A demonstração para o cliente foi um fracasso.",
+      "not r": "A demonstração para o cliente não foi um fracasso."
+    },
+    "solver_result": "unsat",
+    "model": null
+  },
+  {
+    "rule": "PL/Hypothetical_Syllogism",
+    "natural_context": "Por ter perdido minhas chaves de casa, eu não pude entrar no meu apartamento. Visto que eu não conseguia entrar no meu apartamento, tive que chamar um chaveiro de emergência.",
+    "sentence_bank": {
+      "p": "Eu perdi minhas chaves de casa.",
+      "not p": "Eu não perdi minhas chaves de casa.",
+      "q": "Eu não consegui entrar no meu apartamento.",
+      "r": "Eu tive que chamar um chaveiro de emergência.",
+      "not r": "Eu não tive que chamar um chaveiro de emergência."
+    },
+    "solver_result": "unsat",
+    "model": null
+  }
+]

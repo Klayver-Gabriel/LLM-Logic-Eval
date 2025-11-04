@@ -1,0 +1,162 @@
+[
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "Eu sabia que se decidisse cozinhar o jantar em casa, a cozinha acabaria numa completa bagunça. Por outro lado, se eu optasse por pedir comida por aplicativo, a entrega geralmente chegava em menos de uma hora. Contudo, eu tinha certeza de uma coisa sobre esta noite: a cozinha não terminaria bagunçada ou, por algum motivo, a entrega da comida não seria feita em menos de uma hora.",
+    "sentence_bank": {
+      "p": "Eu vou cozinhar o jantar em casa",
+      "not p": "Eu não vou cozinhar o jantar em casa",
+      "q": "A cozinha ficará uma bagunça",
+      "not q": "A cozinha não ficará uma bagunça",
+      "r": "Eu vou pedir comida por aplicativo",
+      "not r": "Eu não vou pedir comida por aplicativo",
+      "s": "A comida chegará em menos de uma hora",
+      "not s": "A comida não chegará em menos de uma hora"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "Se eu me concentrar nos estudos para a prova de cálculo, tenho certeza de que vou entender o conceito de limites; da mesma forma, se eu mergulhar nos livros para a prova de filosofia, serei capaz de explicar o pensamento de Platão com clareza. No entanto, olhando para a pilha de livros e o pouco tempo que resta, uma coisa é certa: ou não vou conseguir entender o conceito de limites, ou não serei capaz de explicar o pensamento de Platão.",
+    "sentence_bank": {
+      "p": "Vou estudar para a prova de cálculo",
+      "not p": "Não vou estudar para a prova de cálculo",
+      "q": "Vou entender o conceito de limites",
+      "not q": "Não vou entender o conceito de limites",
+      "r": "Vou estudar para a prova de filosofia",
+      "not r": "Não vou estudar para a prova de filosofia",
+      "s": "Vou conseguir explicar o pensamento de Platão",
+      "not s": "Não vou conseguir explicar o pensamento de Platão"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "Se eu for para a academia hoje, a minha intenção é treinar pernas. Alternativamente, se eu for correr no parque, eu aproveitarei o ar livre. No entanto, o que é certo é que hoje ou eu não treinarei pernas ou eu não aproveitarei o ar livre.",
+    "sentence_bank": {
+      "p": "Vou para a academia hoje",
+      "not p": "Não vou para a academia hoje",
+      "q": "Vou treinar pernas",
+      "not q": "Não vou treinar pernas",
+      "r": "Vou correr no parque",
+      "not r": "Não vou correr no parque",
+      "s": "Vou aproveitar o ar livre",
+      "not s": "Não vou aproveitar o ar livre"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "**Contexto:** Ao considerar as minhas opções de transporte, percebi que comprar um carro novo significaria inevitavelmente ter uma despesa com seguro e impostos. A alternativa, assinar um serviço de carro por assinatura, implicaria ter um custo mensal fixo. No entanto, após uma análise cuidadosa, tornou-se claro para mim que não terei uma despesa com seguro e impostos ou não terei um custo mensal fixo.\n\n**História:**\nComprar um carro novo implicaria ter uma despesa com seguro e impostos, enquanto assinar um serviço de carro por assinatura resultaria num custo mensal fixo. Contudo, uma coisa é certa: ou não terei uma despesa com seguro e impostos, ou não terei um custo mensal fixo.",
+    "sentence_bank": {
+      "p": "Vou comprar um carro novo",
+      "not p": "Não vou comprar um carro novo",
+      "q": "Terei uma despesa com seguro e impostos",
+      "not q": "Não terei uma despesa com seguro e impostos",
+      "r": "Vou assinar um serviço de carro por assinatura",
+      "not r": "Não vou assinar um serviço de carro por assinatura",
+      "s": "Terei um custo mensal fixo",
+      "not s": "Não terei um custo mensal fixo"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "O nosso plano de férias tinha duas opções encantadoras: se fôssemos para a praia, estava decidido que iríamos nadar no mar, e se a nossa escolha fossem as montanhas, a aventura seria fazer trilhas pela natureza. Contudo, uma coisa se tornou certa sobre a viagem que se aproxima: ou não vamos nadar no mar, ou não vamos fazer trilhas na natureza.",
+    "sentence_bank": {
+      "p": "Vamos passar as férias na praia",
+      "not p": "Não vamos passar as férias na praia",
+      "q": "Nós vamos nadar no mar",
+      "not q": "Nós não vamos nadar no mar",
+      "r": "Vamos passar as férias nas montanhas",
+      "not r": "Não vamos passar as férias nas montanhas",
+      "s": "Nós vamos fazer trilhas na natureza",
+      "not s": "Nós não vamos fazer trilhas na natureza"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "Investir meu dinheiro em ações de tecnologia significaria que meu portfólio enfrentaria uma alta volatilidade, e se eu investisse em imóveis, acabaria com um ativo de baixa liquidez em mãos. Contudo, uma coisa é certa: meu portfólio não sofrerá com alta volatilidade, ou eu não ficarei preso a um ativo de baixa liquidez.",
+    "sentence_bank": {
+      "p": "Vou investir meu dinheiro em ações de tecnologia",
+      "not p": "Não vou investir meu dinheiro em ações de tecnologia",
+      "q": "Meu portfólio terá alta volatilidade",
+      "not q": "Meu portfólio não terá alta volatilidade",
+      "r": "Vou investir meu dinheiro em imóveis",
+      "not r": "Não vou investir meu dinheiro em imóveis",
+      "s": "Terei um ativo de baixa liquidez",
+      "not s": "Não terei um ativo de baixa liquidez"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "Ao ponderar sobre ter um novo companheiro, sei que se eu adotar um cachorro, preciso ter tempo para passear com ele. Por outro lado, se eu adotar um gato, sei que ele será mais independente dentro de casa. No entanto, a realidade é que ou não terei tempo para passear com ele, ou ele não será tão independente dentro de casa.",
+    "sentence_bank": {
+      "p": "Vou adotar um cachorro",
+      "not p": "Não vou adotar um cachorro",
+      "q": "Preciso ter tempo para passear com ele",
+      "not q": "Não preciso ter tempo para passear com ele",
+      "r": "Vou adotar um gato",
+      "not r": "Não vou adotar um gato",
+      "s": "Ele será mais independente dentro de casa",
+      "not s": "Ele não será mais independente dentro de casa"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "Contexto: Tenho uma regra para a noite de cinema: escolher uma comédia sempre me garante boas risadas. Da mesma forma, sei que se eu optar por um filme de terror, com certeza vou levar alguns sustos. No entanto, para esta noite, uma coisa é certa: ou não vou dar nenhuma risada, ou não vou tomar susto algum.\n\n---\nTenho uma regra para a noite de cinema: escolher uma comédia sempre me garante boas risadas e, da mesma forma, sei que se eu optar por um filme de terror, com certeza vou levar alguns sustos. No entanto, para esta noite, uma coisa é certa: ou não vou dar nenhuma risada, ou não vou tomar susto algum.",
+    "sentence_bank": {
+      "p": "Vou assistir a um filme de comédia",
+      "not p": "Não vou assistir a um filme de comédia",
+      "q": "Eu vou dar boas risadas",
+      "not q": "Eu não vou dar boas risadas",
+      "r": "Vou assistir a um filme de terror",
+      "not r": "Não vou assistir a um filme de terror",
+      "s": "Eu vou tomar alguns sustos",
+      "not s": "Eu não vou tomar alguns sustos"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "Contexto: Eu tinha um plano claro: se eu fosse fazer um curso de programação, minha meta seria dominar a linguagem Python. Da mesma forma, caso eu decidisse seguir o caminho do design gráfico, meu foco seria aprender a usar o Photoshop. Contudo, agora tenho certeza de que não vou aprender a linguagem Python ou que não vou me dedicar ao Photoshop.\n***\nEu tinha um plano claro: se eu fosse fazer um curso de programação, minha meta seria dominar a linguagem Python; da mesma forma, caso eu decidisse seguir o caminho do design gráfico, meu foco seria aprender a usar o Photoshop. Contudo, agora tenho certeza de que não vou aprender a linguagem Python ou que não vou me dedicar ao Photoshop.",
+    "sentence_bank": {
+      "p": "Vou iniciar um curso de programação",
+      "not p": "Não vou iniciar um curso de programação",
+      "q": "Vou aprender a linguagem Python",
+      "not q": "Não vou aprender a linguagem Python",
+      "r": "Vou iniciar um curso de design gráfico",
+      "not r": "Não vou iniciar um curso de design gráfico",
+      "s": "Vou aprender a usar o Photoshop",
+      "not s": "Não vou aprender a usar o Photoshop"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Destructive_Dilemma",
+    "natural_context": "A equipe do projeto considerou que a escolha pela metodologia Ágil significaria que as entregas seriam realizadas em ciclos curtos. Por outro lado, se a decisão fosse pela metodologia Cascata, o escopo completo do projeto teria que ser definido desde o início. Ao final da reunião, ficou estabelecido que, para este projeto, ou as entregas não ocorreriam em ciclos curtos ou o escopo completo não seria definido logo de início.",
+    "sentence_bank": {
+      "p": "Para o projeto, usaremos a metodologia Ágil",
+      "not p": "Para o projeto, não usaremos a metodologia Ágil",
+      "q": "As entregas serão feitas em ciclos curtos",
+      "not q": "As entregas não serão feitas em ciclos curtos",
+      "r": "Para o projeto, usaremos a metodologia Cascata",
+      "not r": "Para o projeto, não usaremos a metodologia Cascata",
+      "s": "O escopo completo será definido no início",
+      "not s": "O escopo completo não será definido no início"
+    },
+    "solver_result": "sat",
+    "model": {}
+  }
+]

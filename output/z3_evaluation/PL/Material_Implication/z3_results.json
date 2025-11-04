@@ -1,0 +1,122 @@
+[
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "Contexto: Era um fato conhecido que uma temperatura externa elevada era uma consequência direta de o sol estar brilhando forte. Contudo, a temperatura lá fora não estava alta.\n\n---\nEra um fato conhecido que uma temperatura externa elevada era uma consequência direta de o sol estar brilhando forte. Contudo, a temperatura lá fora não estava alta.",
+    "sentence_bank": {
+      "p": "O sol está brilhando forte.",
+      "not p": "O sol não está brilhando forte.",
+      "q": "A temperatura externa está alta.",
+      "not q": "A temperatura externa não está alta."
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "Regra: Condição: Se choveu muito durante a noite, então as ruas da cidade estão molhadas.; Situação: As ruas da cidade não estão molhadas.\nContexto:\n\nUma chuva intensa durante a noite sempre deixa as ruas da cidade molhadas. Pela manhã, porém, as ruas da cidade estavam completamente secas.",
+    "sentence_bank": {
+      "p": "Choveu muito durante a noite.",
+      "not p": "Não choveu muito durante a noite.",
+      "q": "As ruas da cidade estão molhadas.",
+      "not q": "As ruas da cidade não estão molhadas."
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "Regra: Condição: Se o alarme de incêndio foi acionado, então o prédio foi evacuado por segurança.; Situação: O prédio não foi evacuado.\nContexto: O procedimento de segurança é que, se o alarme de incêndio for acionado, o prédio deve ser evacuado. No entanto, o prédio não foi evacuado.\n\n---\nSempre que o alarme de incêndio é acionado, o prédio é evacuado por razões de segurança. Contudo, o prédio não foi evacuado.",
+    "sentence_bank": {
+      "p": "O alarme de incêndio foi acionado.",
+      "not p": "O alarme de incêndio não foi acionado.",
+      "q": "O prédio foi evacuado por segurança.",
+      "not q": "O prédio não foi evacuado por segurança."
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "A expectativa era clara: uma boa nota na prova seria o resultado direto de um estudo diligente. Contudo, ao receber a sua prova, o aluno deparou-se com uma nota que não era boa.",
+    "sentence_bank": {
+      "p": "O aluno estudou diligentemente para a prova.",
+      "not p": "O aluno não estudou diligentemente para a prova.",
+      "q": "Ele obteve uma boa nota.",
+      "not q": "Ele não obteve uma boa nota."
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "Contexto: Um aumento nas vendas da empresa era esperado se ela lançasse um produto inovador. No entanto, os relatórios trimestrais revelaram que não houve crescimento nas vendas da empresa.\n***\nA expectativa era clara: um aumento nas vendas da empresa ocorreria se ela lançasse um produto inovador. Contudo, os relatórios trimestrais recém-divulgados revelaram que não houve crescimento nas vendas da empresa.",
+    "sentence_bank": {
+      "p": "A empresa lançou um produto inovador.",
+      "not p": "A empresa não lançou um produto inovador.",
+      "q": "As vendas da empresa aumentaram.",
+      "not q": "As vendas da empresa não aumentaram."
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "Regra: Condição: Se houve um corte no fornecimento de energia, então os aparelhos eletrônicos desligaram.; Situação: Os aparelhos eletrônicos não desligaram.\nContexto: A consequência de um corte no fornecimento de energia seria o desligamento dos aparelhos eletrônicos. No entanto, os aparelhos eletrônicos permaneceram ligados.\n\n---\nUma interrupção no fornecimento de eletricidade certamente faria com que os aparelhos eletrônicos se apagassem. Contudo, a televisão continuava ligada, o rádio tocava suavemente e a luz da cozinha permanecia acesa.",
+    "sentence_bank": {
+      "p": "Houve um corte no fornecimento de energia.",
+      "not p": "Não houve um corte no fornecimento de energia.",
+      "q": "Os aparelhos eletrônicos desligaram.",
+      "not q": "Os aparelhos eletrônicos não desligaram."
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "Situação: O motorista não recebeu uma multa de trânsito.\nContexto: A consequência de exceder o limite de velocidade era sempre uma multa de trânsito. No entanto, o motorista não recebeu nenhuma multa de trânsito.\n\n---\nEra uma regra clara que, se o motorista ultrapassasse o limite de velocidade, ele seria inevitavelmente presenteado com uma multa de trânsito. Contudo, o motorista chegou ao seu destino sem ter recebido qualquer notificação de multa.",
+    "sentence_bank": {
+      "p": "O motorista excedeu o limite de velocidade.",
+      "not p": "O motorista não excedeu o limite de velocidade.",
+      "q": "Ele recebeu uma multa de trânsito.",
+      "not q": "Ele não recebeu uma multa de trânsito."
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "A regra é bastante conhecida: se a bateria de um celular acaba, o aparelho desliga. No entanto, o aparelho permaneceu funcionando, com a tela ainda exibindo as notificações.",
+    "sentence_bank": {
+      "p": "A bateria do celular acabou.",
+      "not p": "A bateria do celular não acabou.",
+      "q": "O aparelho desligou.",
+      "not q": "O aparelho não desligou."
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "Regra: Condição: Se a pizza foi colocada no forno quente, então o queijo da pizza derreteu.; Situação: O queijo da pizza não derreteu.\nContexto: A pizza foi preparada com todos os ingredientes. A expectativa era que, ao ser colocada no forno quente, o queijo derretesse e ficasse borbulhante. No entanto, ao verificar a pizza, notou-se que o queijo ainda estava no seu estado sólido original.\n\n---\nUma deliciosa pizza, pronta para ser assada, esperava para entrar no forno já quente, um passo essencial para que seu queijo derretesse perfeitamente. No entanto, ao inspecionar a pizza algum tempo depois, o queijo permanecia exatamente como foi colocado, intacto e sem derreter.",
+    "sentence_bank": {
+      "p": "A pizza foi colocada no forno quente.",
+      "not p": "A pizza não foi colocada no forno quente.",
+      "q": "O queijo da pizza derreteu.",
+      "not q": "O queijo da pizza não derreteu."
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Material_Implication",
+    "natural_context": "Regra: Condição: Se o time marcou um gol no último minuto, então a torcida comemorou com entusiasmo.; Situação: A torcida não comemorou com entusiasmo.\nContexto: Marcar um gol no último minuto teria levado a torcida a comemorar com entusiasmo. No entanto, a torcida não estava comemorando com entusiasmo e permaneceu em silêncio.\n---\nA torcida teria explodido em comemoração entusiasmada se o time tivesse marcado um gol naquele último minuto decisivo. No entanto, a torcida permaneceu em um silêncio tenso, sem qualquer tipo de celebração.",
+    "sentence_bank": {
+      "p": "O time marcou um gol no último minuto.",
+      "not p": "O time não marcou um gol no último minuto.",
+      "q": "A torcida comemorou com entusiasmo.",
+      "not q": "A torcida não comemorou com entusiasmo."
+    },
+    "solver_result": "sat",
+    "model": {}
+  }
+]

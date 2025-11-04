@@ -1,0 +1,152 @@
+[
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "Era um fato bem conhecido que a água assumia uma forma sólida sempre que a temperatura caía para menos de 0°C. Naquela manhã em particular, o ar estava tão gelado que o termômetro no jardim confirmava que a temperatura estava, de fato, bem abaixo de 0°C.",
+    "sentence_bank": {
+      "p": "A temperatura está abaixo de 0°C.",
+      "not p": "A temperatura não está abaixo de 0°C.",
+      "q": "A água congela.",
+      "not q": "A água não congela."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  },
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "Contexto: Havia uma verdade fundamental de que a presença do sol brilhando significava que era dia. Naquele momento, era um fato inegável que o sol estava, de fato, a brilhar.",
+    "sentence_bank": {
+      "p": "O sol está brilhando.",
+      "not p": "O sol não está brilhando.",
+      "q": "É dia.",
+      "not q": "Não é dia."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  },
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "A consequência de a bateria de um celular acabar é o aparelho se desligar. Acontece que a bateria do celular de fato se esgotou.\n***\nHavia uma consequência inevitável sempre que a bateria de um celular acabava: o aparelho se desligava. Naquele momento, a bateria do celular de fato se esgotou por completo.",
+    "sentence_bank": {
+      "p": "A bateria do celular acabou.",
+      "not p": "A bateria do celular não acabou.",
+      "q": "O aparelho desliga.",
+      "not q": "O aparelho não desliga."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  },
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "Havia uma verdade inegável na rotina do atleta: sempre que ele treinava exaustivamente, sentia um cansaço profundo tomar conta de seu corpo. E hoje, de fato, sabe-se que o atleta treinou exaustivamente, dedicando cada grama de sua energia aos exercícios.",
+    "sentence_bank": {
+      "p": "O atleta treinou exaustivamente.",
+      "not p": "O atleta não treinou exaustivamente.",
+      "q": "Ele está cansado.",
+      "not q": "Ele não está cansado."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  },
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "Havia uma regra simples na cozinha: se a comida fosse deixada fora da geladeira por muito tempo, ela inevitavelmente estragaria. Após o almoço apressado, o ensopado de frango de ontem foi esquecido sobre o balcão da cozinha.",
+    "sentence_bank": {
+      "p": "A comida foi deixada fora da geladeira.",
+      "not p": "A comida não foi deixada fora da geladeira.",
+      "q": "A comida estragou.",
+      "not q": "A comida não estragou."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  },
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "A lei de trânsito estipula que se o semáforo está vermelho, os carros devem parar. Ao se aproximar do cruzamento, o motorista observou que a luz do semáforo à frente ficou vermelha.",
+    "sentence_bank": {
+      "p": "O semáforo está vermelho.",
+      "not p": "O semáforo não está vermelho.",
+      "q": "Os carros devem parar.",
+      "not q": "Os carros não devem parar."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  },
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "Contexto: A regra para o sucesso na avaliação era clara: se um aluno estudasse diligentemente para a prova, ele obteria um bom resultado. As informações confirmam que o aluno em questão dedicou tempo e esforço aos estudos.\n\n---\nA promessa era simples: se o aluno dedicasse tempo aos estudos para a prova, ele certamente se sairia bem na avaliação. O fato é que o aluno realmente estudou para a prova.",
+    "sentence_bank": {
+      "p": "O aluno estudou para a prova.",
+      "not p": "O aluno não estudou para a prova.",
+      "q": "Ele foi bem na avaliação.",
+      "not q": "Ele não foi bem na avaliação."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  },
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "O mecanismo da fechadura era bastante claro: a porta se abriria contanto que a chave correta fosse usada. Posteriormente, foi confirmado que a chave inserida na fechadura era, sem sombra de dúvida, a correta.",
+    "sentence_bank": {
+      "p": "A chave correta foi usada na fechadura.",
+      "not p": "A chave correta não foi usada na fechadura.",
+      "q": "A porta abriu.",
+      "not q": "A porta não abriu."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  },
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "Contexto: O filme foi inegavelmente emocionante, cativando a todos na sala. Sabe-se que filmes com essa carga emocional costumam fazer com que algumas pessoas chorem.\n\n---\nFoi uma experiência cinematográfica inegavelmente emocionante, que prendeu a atenção de todos na sala. Sabe-se que um filme com uma carga emocional tão forte como aquele costuma levar algumas pessoas às lágrimas.",
+    "sentence_bank": {
+      "p": "O filme foi emocionante.",
+      "not p": "O filme não foi emocionante.",
+      "q": "Algumas pessoas choraram.",
+      "not q": "Ninguém chorou."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  },
+  {
+    "rule": "PL/Modus_Ponens",
+    "natural_context": "Era uma certeza que, uma vez que o fogo estivesse aceso sob a panela, a água dentro dela começaria a ferver. Naquela ocasião, o fogo foi definitivamente aceso sob a panela.",
+    "sentence_bank": {
+      "p": "O fogo foi aceso sob a panela.",
+      "not p": "O fogo não foi aceso sob a panela.",
+      "q": "A água na panela ferveu.",
+      "not q": "A água na panela não ferveu."
+    },
+    "solver_result": "sat",
+    "model": {
+      "p": "True",
+      "q": "True"
+    }
+  }
+]

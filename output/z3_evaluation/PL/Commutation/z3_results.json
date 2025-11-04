@@ -1,0 +1,112 @@
+[
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "Para a sobremesa, foi estabelecido que a escolha seria entre bolo de chocolate ou sorvete de baunilha. No entanto, quando chegou a hora de servir, todos foram informados de que o bolo de chocolate não estava disponível.",
+    "sentence_bank": {
+      "p": "A sobremesa será bolo de chocolate",
+      "q": "A sobremesa será sorvete de baunilha",
+      "not q": "A sobremesa não será sorvete de baunilha"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "Os planos para esta noite eram claros: ou uma saída para ver o último filme em cartaz ou uma noite aconchegante no sofá maratonando uma série. Contudo, uma rápida olhada nos horários dos filmes mostrou que a sessão já tinha começado, inviabilizando a ida ao cinema.",
+    "sentence_bank": {
+      "p": "Vamos ao cinema hoje à noite",
+      "q": "Vamos ficar em casa e assistir a uma série",
+      "not q": "Não vamos ficar em casa e assistir a uma série"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "Sabe-se que para concluir a compra, o pagamento pode ser feito com cartão de crédito ou pode ser feito com PIX. Contudo, foi anunciado que o sistema para pagamentos com PIX está temporariamente indisponível.",
+    "sentence_bank": {
+      "p": "O pagamento pode ser feito com cartão de crédito",
+      "q": "O pagamento pode ser feito com PIX",
+      "not q": "O pagamento não pode ser feito com PIX"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "A equipe sabe que a reunião acontecerá na segunda-feira ou na terça-feira. Acontece que a reunião definitivamente não será na segunda-feira.",
+    "sentence_bank": {
+      "p": "A reunião será na segunda-feira",
+      "q": "A reunião será na terça-feira",
+      "not q": "A reunião não será na terça-feira"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "Contexto: Durante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso.\n\n---\nDurante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso.",
+    "sentence_bank": {
+      "p": "O projeto será desenvolvido em Python",
+      "q": "O projeto será desenvolvido em JavaScript",
+      "not q": "O projeto não será desenvolvido em JavaScript"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "Para as próximas férias, a decisão era clara: o destino seria a praia ou as montanhas. Contudo, os planos para a praia foram definitivamente descartados.",
+    "sentence_bank": {
+      "p": "Viajaremos para a praia nas férias",
+      "q": "Viajaremos para as montanhas nas férias",
+      "not q": "Não viajaremos para as montanhas nas férias"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "Regra: Condição: Sabe-se que o almoço de hoje será massa ou o almoço de hoje será salada.; Situação: O almoço de hoje não será salada.\nContexto: Para o almoço de hoje, as opções eram claras: seria servido massa ou salada. Contudo, foi decidido que salada não estaria no cardápio do dia.\n\nPara o almoço de hoje, era certo que seria servido massa ou salada. Contudo, ficou decidido que o almoço de hoje não será salada.",
+    "sentence_bank": {
+      "p": "O almoço de hoje será massa",
+      "q": "O almoço de hoje será salada",
+      "not q": "O almoço de hoje não será salada"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "**Contexto Melhorado:**\nHavia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. O gerente confirmou que a opção de meio período foi descartada.\n\n**História:**\nHavia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. Pouco depois, o gerente confirmou à equipe que a opção de meio período foi descartada.",
+    "sentence_bank": {
+      "p": "O novo funcionário começará em tempo integral",
+      "q": "O novo funcionário começará em meio período",
+      "not q": "O novo funcionário não começará em meio período"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "Regra: Condição: Sabe-se que você pode escolher a cor azul para o carro ou você pode escolher a cor vermelha para o carro.; Situação: Você não escolheu a cor vermelha para o carro.\nContexto: Na concessionária, as duas únicas opções de cores disponíveis para o modelo desejado eram o azul e o vermelho. A escolha precisava ser feita entre eles. Após alguma deliberação, ficou decidido que o carro vermelho não seria o escolhido.\n***\nNa concessionária, a escolha para o novo carro se resumia a duas cores vibrantes. Era possível sair de lá com o modelo na cor azul ou na cor vermelha. Depois de muito pensar, ficou certo que a cor vermelha não seria a opção levada para casa.",
+    "sentence_bank": {
+      "p": "Você pode escolher a cor azul para o carro",
+      "q": "Você pode escolher a cor vermelha para o carro",
+      "not q": "Você não pode escolher a cor vermelha para o carro"
+    },
+    "solver_result": "sat",
+    "model": {}
+  },
+  {
+    "rule": "PL/Commutation",
+    "natural_context": "Regra: Condição: Sabe-se que a prova final será um exame escrito ou a prova final será uma apresentação oral.; Situação: A prova final não será uma apresentação oral.\nContexto: Os alunos sabiam que a avaliação final do curso teria uma de duas opções: um exame escrito ou uma apresentação oral. No entanto, o professor anunciou que a avaliação final não seria uma apresentação oral.\n***\nAo longo do semestre, ficou estabelecido para os alunos que a avaliação final do curso assumiria a forma de um exame escrito ou de uma apresentação oral. Com o fim das aulas se aproximando, o professor esclareceu a todos que, naquele ano, a avaliação final não consistiria em uma apresentação oral diante da turma.",
+    "sentence_bank": {
+      "p": "A prova final será um exame escrito",
+      "q": "A prova final será uma apresentação oral",
+      "not q": "A prova final não será uma apresentação oral"
+    },
+    "solver_result": "sat",
+    "model": {}
+  }
+]
