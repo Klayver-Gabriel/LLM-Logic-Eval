@@ -144,13 +144,7 @@ def run_evaluation_pipeline(model_name="gemini-1.5-flash"):
                     
                 for i in range(N_INSTANCIAS_POR_PERGUNTA):
                     # Instancia o template com frases
-                    pares = random.sample(PROPOSICOES_PARES, 4)
-                    mapa_substituicao = {
-                        '{p}': pares[0][0], '{not p}': pares[0][1],
-                        '{q}': pares[1][0], '{not q}': pares[1][1],
-                        '{r}': pares[2][0], '{not r}': pares[2][1],
-                        '{s}': pares[3][0], '{not s}': pares[3][1],
-                    }
+                    
                     contexto_txt = config_regra["template_context"]
                     pergunta_txt = template_pergunta
                     for token, valor in mapa_substituicao.items():
