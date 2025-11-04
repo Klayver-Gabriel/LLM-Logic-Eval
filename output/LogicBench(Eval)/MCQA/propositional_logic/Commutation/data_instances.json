@@ -52,7 +52,7 @@
         },
         {
             "id": 5,
-            "context": "Contexto: Durante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso.\n\n---\nDurante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso.",
+            "context": "Durante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso. Durante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "O projeto será desenvolvido em Python e JavaScript.",
@@ -76,7 +76,7 @@
         },
         {
             "id": 7,
-            "context": "Regra: Condição: Sabe-se que o almoço de hoje será massa ou o almoço de hoje será salada.; Situação: O almoço de hoje não será salada.\nContexto: Para o almoço de hoje, as opções eram claras: seria servido massa ou salada. Contudo, foi decidido que salada não estaria no cardápio do dia.\n\nPara o almoço de hoje, era certo que seria servido massa ou salada. Contudo, ficou decidido que o almoço de hoje não será salada.",
+            "context": "Sabe-se que o almoço de hoje será massa ou o almoço de hoje será salada.; Situação: O almoço de hoje não será salada. Para o almoço de hoje, as opções eram claras: seria servido massa ou salada. Contudo, foi decidido que salada não estaria no cardápio do dia. Para o almoço de hoje, era certo que seria servido massa ou salada. Contudo, ficou decidido que o almoço de hoje não será salada.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "O almoço de hoje será frango.",
@@ -88,7 +88,7 @@
         },
         {
             "id": 8,
-            "context": "**Contexto Melhorado:**\nHavia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. O gerente confirmou que a opção de meio período foi descartada.\n\n**História:**\nHavia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. Pouco depois, o gerente confirmou à equipe que a opção de meio período foi descartada.",
+            "context": "**Contexto Melhorado:** Havia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. O gerente confirmou que a opção de meio período foi descartada. Havia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. Pouco depois, o gerente confirmou à equipe que a opção de meio período foi descartada.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "O novo funcionário começará em meio período.",
@@ -100,7 +100,7 @@
         },
         {
             "id": 9,
-            "context": "Regra: Condição: Sabe-se que você pode escolher a cor azul para o carro ou você pode escolher a cor vermelha para o carro.; Situação: Você não escolheu a cor vermelha para o carro.\nContexto: Na concessionária, as duas únicas opções de cores disponíveis para o modelo desejado eram o azul e o vermelho. A escolha precisava ser feita entre eles. Após alguma deliberação, ficou decidido que o carro vermelho não seria o escolhido.\n***\nNa concessionária, a escolha para o novo carro se resumia a duas cores vibrantes. Era possível sair de lá com o modelo na cor azul ou na cor vermelha. Depois de muito pensar, ficou certo que a cor vermelha não seria a opção levada para casa.",
+            "context": "Sabe-se que você pode escolher a cor azul para o carro ou você pode escolher a cor vermelha para o carro.; Situação: Você não escolheu a cor vermelha para o carro. Na concessionária, as duas únicas opções de cores disponíveis para o modelo desejado eram o azul e o vermelho. A escolha precisava ser feita entre eles. Após alguma deliberação, ficou decidido que o carro vermelho não seria o escolhido. Na concessionária, a escolha para o novo carro se resumia a duas cores vibrantes. Era possível sair de lá com o modelo na cor azul ou na cor vermelha. Depois de muito pensar, ficou certo que a cor vermelha não seria a opção levada para casa.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "Você pode escolher a cor vermelha para o carro ou você pode escolher a cor azul para o carro",
@@ -112,7 +112,7 @@
         },
         {
             "id": 10,
-            "context": "Regra: Condição: Sabe-se que a prova final será um exame escrito ou a prova final será uma apresentação oral.; Situação: A prova final não será uma apresentação oral.\nContexto: Os alunos sabiam que a avaliação final do curso teria uma de duas opções: um exame escrito ou uma apresentação oral. No entanto, o professor anunciou que a avaliação final não seria uma apresentação oral.\n***\nAo longo do semestre, ficou estabelecido para os alunos que a avaliação final do curso assumiria a forma de um exame escrito ou de uma apresentação oral. Com o fim das aulas se aproximando, o professor esclareceu a todos que, naquele ano, a avaliação final não consistiria em uma apresentação oral diante da turma.",
+            "context": "Sabe-se que a prova final será um exame escrito ou a prova final será uma apresentação oral.; Situação: A prova final não será uma apresentação oral. Os alunos sabiam que a avaliação final do curso teria uma de duas opções: um exame escrito ou uma apresentação oral. No entanto, o professor anunciou que a avaliação final não seria uma apresentação oral. Ao longo do semestre, ficou estabelecido para os alunos que a avaliação final do curso assumiria a forma de um exame escrito ou de uma apresentação oral. Com o fim das aulas se aproximando, o professor esclareceu a todos que, naquele ano, a avaliação final não consistiria em uma apresentação oral diante da turma.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "A prova final será um exame escrito e uma apresentação oral.",

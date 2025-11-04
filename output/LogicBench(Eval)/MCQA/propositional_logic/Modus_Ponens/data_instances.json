@@ -16,7 +16,7 @@
         },
         {
             "id": 2,
-            "context": "Contexto: Havia uma verdade fundamental de que a presença do sol brilhando significava que era dia. Naquele momento, era um fato inegável que o sol estava, de fato, a brilhar.",
+            "context": "Havia uma verdade fundamental de que a presença do sol brilhando significava que era dia. Naquele momento, era um fato inegável que o sol estava, de fato, a brilhar.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "É dia",
@@ -28,7 +28,7 @@
         },
         {
             "id": 3,
-            "context": "A consequência de a bateria de um celular acabar é o aparelho se desligar. Acontece que a bateria do celular de fato se esgotou.\n***\nHavia uma consequência inevitável sempre que a bateria de um celular acabava: o aparelho se desligava. Naquele momento, a bateria do celular de fato se esgotou por completo.",
+            "context": "A consequência de a bateria de um celular acabar é o aparelho se desligar. Acontece que a bateria do celular de fato se esgotou. Havia uma consequência inevitável sempre que a bateria de um celular acabava: o aparelho se desligava. Naquele momento, a bateria do celular de fato se esgotou por completo.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "O aparelho desliga",
@@ -76,7 +76,7 @@
         },
         {
             "id": 7,
-            "context": "Contexto: A regra para o sucesso na avaliação era clara: se um aluno estudasse diligentemente para a prova, ele obteria um bom resultado. As informações confirmam que o aluno em questão dedicou tempo e esforço aos estudos.\n\n---\nA promessa era simples: se o aluno dedicasse tempo aos estudos para a prova, ele certamente se sairia bem na avaliação. O fato é que o aluno realmente estudou para a prova.",
+            "context": "A regra para o sucesso na avaliação era clara: se um aluno estudasse diligentemente para a prova, ele obteria um bom resultado. As informações confirmam que o aluno em questão dedicou tempo e esforço aos estudos. A promessa era simples: se o aluno dedicasse tempo aos estudos para a prova, ele certamente se sairia bem na avaliação. O fato é que o aluno realmente estudou para a prova.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "O aluno achou a prova mais fácil do que esperava.",
@@ -100,7 +100,7 @@
         },
         {
             "id": 9,
-            "context": "Contexto: O filme foi inegavelmente emocionante, cativando a todos na sala. Sabe-se que filmes com essa carga emocional costumam fazer com que algumas pessoas chorem.\n\n---\nFoi uma experiência cinematográfica inegavelmente emocionante, que prendeu a atenção de todos na sala. Sabe-se que um filme com uma carga emocional tão forte como aquele costuma levar algumas pessoas às lágrimas.",
+            "context": "O filme foi inegavelmente emocionante, cativando a todos na sala. Sabe-se que filmes com essa carga emocional costumam fazer com que algumas pessoas chorem. Foi uma experiência cinematográfica inegavelmente emocionante, que prendeu a atenção de todos na sala. Sabe-se que um filme com uma carga emocional tão forte como aquele costuma levar algumas pessoas às lágrimas.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "O filme foi considerado chato e desinteressante pela audiência.",

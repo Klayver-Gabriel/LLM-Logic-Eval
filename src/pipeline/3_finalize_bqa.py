@@ -67,7 +67,6 @@ if __name__ == "__main__":
             original_sentence_bank = instance_data["sentence_bank"]
             natural_context = instance_data["natural_context"]
 
-            # MUDANÇA: Criamos um banco de sentenças limpo para formatar as perguntas
             cleaned_bank = {}
             for key, value in original_sentence_bank.items():
                 cleaned_value = value.strip().removesuffix('.')
@@ -88,7 +87,6 @@ if __name__ == "__main__":
                     else:
                         formatted_question = question_text_template.format(**cleaned_bank)
                     
-                    # Garante que a pergunta final comece com letra maiúscula
                     if formatted_question:
                         formatted_question = formatted_question[0].upper() + formatted_question[1:]
 

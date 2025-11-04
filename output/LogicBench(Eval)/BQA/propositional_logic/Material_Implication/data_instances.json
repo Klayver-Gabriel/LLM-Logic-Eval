@@ -4,7 +4,7 @@
     "samples": [
         {
             "id": 1,
-            "context": "Contexto: Era um fato conhecido que uma temperatura externa elevada era uma consequência direta de o sol estar brilhando forte. Contudo, a temperatura lá fora não estava alta.\n\n---\nEra um fato conhecido que uma temperatura externa elevada era uma consequência direta de o sol estar brilhando forte. Contudo, a temperatura lá fora não estava alta.",
+            "context": "Era um fato conhecido que uma temperatura externa elevada era uma consequência direta de o sol estar brilhando forte. Contudo, a temperatura lá fora não estava alta. Era um fato conhecido que uma temperatura externa elevada era uma consequência direta de o sol estar brilhando forte. Contudo, a temperatura lá fora não estava alta.",
             "qa_pairs": [
                 {
                     "question": "Isso implica que 'o sol não está brilhando forte ou a temperatura externa está alta'?",
@@ -18,7 +18,7 @@
         },
         {
             "id": 2,
-            "context": "Regra: Condição: Se choveu muito durante a noite, então as ruas da cidade estão molhadas.; Situação: As ruas da cidade não estão molhadas.\nContexto:\n\nUma chuva intensa durante a noite sempre deixa as ruas da cidade molhadas. Pela manhã, porém, as ruas da cidade estavam completamente secas.",
+            "context": "Se choveu muito durante a noite, então as ruas da cidade estão molhadas.; Situação: As ruas da cidade não estão molhadas. Uma chuva intensa durante a noite sempre deixa as ruas da cidade molhadas. Pela manhã, porém, as ruas da cidade estavam completamente secas.",
             "qa_pairs": [
                 {
                     "question": "Isso implica que 'não choveu muito durante a noite ou as ruas da cidade estão molhadas'?",
@@ -32,7 +32,7 @@
         },
         {
             "id": 3,
-            "context": "Regra: Condição: Se o alarme de incêndio foi acionado, então o prédio foi evacuado por segurança.; Situação: O prédio não foi evacuado.\nContexto: O procedimento de segurança é que, se o alarme de incêndio for acionado, o prédio deve ser evacuado. No entanto, o prédio não foi evacuado.\n\n---\nSempre que o alarme de incêndio é acionado, o prédio é evacuado por razões de segurança. Contudo, o prédio não foi evacuado.",
+            "context": "Se o alarme de incêndio foi acionado, então o prédio foi evacuado por segurança.; Situação: O prédio não foi evacuado. O procedimento de segurança é que, se o alarme de incêndio for acionado, o prédio deve ser evacuado. No entanto, o prédio não foi evacuado. Sempre que o alarme de incêndio é acionado, o prédio é evacuado por razões de segurança. Contudo, o prédio não foi evacuado.",
             "qa_pairs": [
                 {
                     "question": "Isso implica que 'o alarme de incêndio não foi acionado ou o prédio foi evacuado por segurança'?",
@@ -60,7 +60,7 @@
         },
         {
             "id": 5,
-            "context": "Contexto: Um aumento nas vendas da empresa era esperado se ela lançasse um produto inovador. No entanto, os relatórios trimestrais revelaram que não houve crescimento nas vendas da empresa.\n***\nA expectativa era clara: um aumento nas vendas da empresa ocorreria se ela lançasse um produto inovador. Contudo, os relatórios trimestrais recém-divulgados revelaram que não houve crescimento nas vendas da empresa.",
+            "context": "Um aumento nas vendas da empresa era esperado se ela lançasse um produto inovador. No entanto, os relatórios trimestrais revelaram que não houve crescimento nas vendas da empresa. A expectativa era clara: um aumento nas vendas da empresa ocorreria se ela lançasse um produto inovador. Contudo, os relatórios trimestrais recém-divulgados revelaram que não houve crescimento nas vendas da empresa.",
             "qa_pairs": [
                 {
                     "question": "Isso implica que 'a empresa não lançou um produto inovador ou as vendas da empresa aumentaram'?",
@@ -74,7 +74,7 @@
         },
         {
             "id": 6,
-            "context": "Regra: Condição: Se houve um corte no fornecimento de energia, então os aparelhos eletrônicos desligaram.; Situação: Os aparelhos eletrônicos não desligaram.\nContexto: A consequência de um corte no fornecimento de energia seria o desligamento dos aparelhos eletrônicos. No entanto, os aparelhos eletrônicos permaneceram ligados.\n\n---\nUma interrupção no fornecimento de eletricidade certamente faria com que os aparelhos eletrônicos se apagassem. Contudo, a televisão continuava ligada, o rádio tocava suavemente e a luz da cozinha permanecia acesa.",
+            "context": "Se houve um corte no fornecimento de energia, então os aparelhos eletrônicos desligaram.; Situação: Os aparelhos eletrônicos não desligaram. A consequência de um corte no fornecimento de energia seria o desligamento dos aparelhos eletrônicos. No entanto, os aparelhos eletrônicos permaneceram ligados. Uma interrupção no fornecimento de eletricidade certamente faria com que os aparelhos eletrônicos se apagassem. Contudo, a televisão continuava ligada, o rádio tocava suavemente e a luz da cozinha permanecia acesa.",
             "qa_pairs": [
                 {
                     "question": "Isso implica que 'não houve um corte no fornecimento de energia ou os aparelhos eletrônicos desligaram'?",
@@ -88,7 +88,7 @@
         },
         {
             "id": 7,
-            "context": "Situação: O motorista não recebeu uma multa de trânsito.\nContexto: A consequência de exceder o limite de velocidade era sempre uma multa de trânsito. No entanto, o motorista não recebeu nenhuma multa de trânsito.\n\n---\nEra uma regra clara que, se o motorista ultrapassasse o limite de velocidade, ele seria inevitavelmente presenteado com uma multa de trânsito. Contudo, o motorista chegou ao seu destino sem ter recebido qualquer notificação de multa.",
+            "context": "Situação: O motorista não recebeu uma multa de trânsito. A consequência de exceder o limite de velocidade era sempre uma multa de trânsito. No entanto, o motorista não recebeu nenhuma multa de trânsito. Era uma regra clara que, se o motorista ultrapassasse o limite de velocidade, ele seria inevitavelmente presenteado com uma multa de trânsito. Contudo, o motorista chegou ao seu destino sem ter recebido qualquer notificação de multa.",
             "qa_pairs": [
                 {
                     "question": "Isso implica que 'o motorista não excedeu o limite de velocidade ou ele recebeu uma multa de trânsito'?",
@@ -116,7 +116,7 @@
         },
         {
             "id": 9,
-            "context": "Regra: Condição: Se a pizza foi colocada no forno quente, então o queijo da pizza derreteu.; Situação: O queijo da pizza não derreteu.\nContexto: A pizza foi preparada com todos os ingredientes. A expectativa era que, ao ser colocada no forno quente, o queijo derretesse e ficasse borbulhante. No entanto, ao verificar a pizza, notou-se que o queijo ainda estava no seu estado sólido original.\n\n---\nUma deliciosa pizza, pronta para ser assada, esperava para entrar no forno já quente, um passo essencial para que seu queijo derretesse perfeitamente. No entanto, ao inspecionar a pizza algum tempo depois, o queijo permanecia exatamente como foi colocado, intacto e sem derreter.",
+            "context": "Se a pizza foi colocada no forno quente, então o queijo da pizza derreteu.; Situação: O queijo da pizza não derreteu. A pizza foi preparada com todos os ingredientes. A expectativa era que, ao ser colocada no forno quente, o queijo derretesse e ficasse borbulhante. No entanto, ao verificar a pizza, notou-se que o queijo ainda estava no seu estado sólido original. Uma deliciosa pizza, pronta para ser assada, esperava para entrar no forno já quente, um passo essencial para que seu queijo derretesse perfeitamente. No entanto, ao inspecionar a pizza algum tempo depois, o queijo permanecia exatamente como foi colocado, intacto e sem derreter.",
             "qa_pairs": [
                 {
                     "question": "Isso implica que 'a pizza não foi colocada no forno quente ou o queijo da pizza derreteu'?",
@@ -130,7 +130,7 @@
         },
         {
             "id": 10,
-            "context": "Regra: Condição: Se o time marcou um gol no último minuto, então a torcida comemorou com entusiasmo.; Situação: A torcida não comemorou com entusiasmo.\nContexto: Marcar um gol no último minuto teria levado a torcida a comemorar com entusiasmo. No entanto, a torcida não estava comemorando com entusiasmo e permaneceu em silêncio.\n---\nA torcida teria explodido em comemoração entusiasmada se o time tivesse marcado um gol naquele último minuto decisivo. No entanto, a torcida permaneceu em um silêncio tenso, sem qualquer tipo de celebração.",
+            "context": "Se o time marcou um gol no último minuto, então a torcida comemorou com entusiasmo.; Situação: A torcida não comemorou com entusiasmo. Marcar um gol no último minuto teria levado a torcida a comemorar com entusiasmo. No entanto, a torcida não estava comemorando com entusiasmo e permaneceu em silêncio. A torcida teria explodido em comemoração entusiasmada se o time tivesse marcado um gol naquele último minuto decisivo. No entanto, a torcida permaneceu em um silêncio tenso, sem qualquer tipo de celebração.",
             "qa_pairs": [
                 {
                     "question": "Isso implica que 'o time não marcou um gol no último minuto ou a torcida comemorou com entusiasmo'?",

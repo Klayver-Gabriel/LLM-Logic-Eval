@@ -64,7 +64,7 @@
         },
         {
             "id": 6,
-            "context": "Contexto: A equipe de tecnologia estava diante de um grande desafio para identificar a origem de uma falha crítica no sistema. Após uma análise inicial, eles concluíram que a raiz do problema só poderia estar em um de dois lugares: o software ou o hardware. Para refinar a busca, eles executaram uma série completa de diagnósticos no software, mas todos os testes retornaram resultados perfeitos, indicando que o software não era a fonte do problema.\n\n---\n\nApós uma análise inicial, ficou claro para a equipe que a raiz do problema no sistema residia ou no software ou no hardware. Uma série de diagnósticos detalhados confirmou que, felizmente, o problema não estava no software.",
+            "context": "A equipe de tecnologia estava diante de um grande desafio para identificar a origem de uma falha crítica no sistema. Após uma análise inicial, eles concluíram que a raiz do problema só poderia estar em um de dois lugares: o software ou o hardware. Para refinar a busca, eles executaram uma série completa de diagnósticos no software, mas todos os testes retornaram resultados perfeitos, indicando que o software não era a fonte do problema. Após uma análise inicial, ficou claro para a equipe que a raiz do problema no sistema residia ou no software ou no hardware. Uma série de diagnósticos detalhados confirmou que, felizmente, o problema não estava no software.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "Os testes de diagnóstico do software precisam ser refeitos por uma segunda equipe.",
@@ -76,7 +76,7 @@
         },
         {
             "id": 7,
-            "context": "Contexto: Para as próximas férias, a família tinha duas opções em mente: ir para a praia ou para as montanhas. Após alguma deliberação, eles decidiram que este ano não iriam para a praia.\n***\nA escolha para as férias da família havia sido reduzida a duas possibilidades empolgantes: uma viagem ensolarada para a praia ou um refúgio aconchegante nas montanhas. Depois de verificar as previsões do tempo e ver uma semana de chuva prevista para o litoral, foi tomada a decisão final: as praias de areia estavam definitivamente fora de questão para a viagem deste ano.",
+            "context": "Para as próximas férias, a família tinha duas opções em mente: ir para a praia ou para as montanhas. Após alguma deliberação, eles decidiram que este ano não iriam para a praia. A escolha para as férias da família havia sido reduzida a duas possibilidades empolgantes: uma viagem ensolarada para a praia ou um refúgio aconchegante nas montanhas. Depois de verificar as previsões do tempo e ver uma semana de chuva prevista para o litoral, foi tomada a decisão final: as praias de areia estavam definitivamente fora de questão para a viagem deste ano.",
             "question": "Qual seria a conclusão mais apropriada com base no contexto?",
             "options": [
                 "A família vai para a praia, pois não se importa com a chuva.",

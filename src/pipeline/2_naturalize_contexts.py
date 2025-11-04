@@ -1,4 +1,3 @@
-# src/pipeline/2_naturalize_contexts.py
 import os
 import json
 import re
@@ -24,7 +23,7 @@ MODEL_NAME = 'gemini-2.5-pro'
 # ------------------------------------
 
 def naturalize_context(key_manager, model_name, condition, situation, rule_key):
-    # (O prompt aprimorado em português está correto)
+    
     example_context = """Regra: Condição: Se Liam terminar seu trabalho cedo, então ele pedirá pizza para o jantar.; Situação: Ele não vai pedir pizza para o jantar.
 Contexto: Liam terminou seu trabalho mais cedo naquele dia, o que significava que ele normalmente pediria pizza para o jantar. No entanto, neste dia em particular, ele decidiu não pedir pizza e optou por outra coisa."""
 
@@ -45,7 +44,7 @@ Contexto:"""
     return make_api_call(key_manager, model_name, prompt, call_purpose=f"Naturalização ({rule_key})")
 
 def parse_audit_log(log_path):
-    # (Esta função está correta)
+    
     if not log_path.exists():
         raise FileNotFoundError(f"Arquivo de log '{log_path}' não encontrado.")
     with open(log_path, 'r', encoding='utf-8') as f:

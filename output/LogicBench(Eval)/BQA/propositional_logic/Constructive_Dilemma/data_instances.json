@@ -26,7 +26,7 @@
         },
         {
             "id": 2,
-            "context": "Contexto: Caso eu decida viajar nas férias, o meu destino será o litoral. Se a minha escolha for ficar em casa, então planejo maratonar uma série. Para estas férias, uma decisão já foi tomada: ou eu viajarei ou ficarei em casa.\n\n---\nPara estas férias, uma decisão já foi tomada: ou eu viajarei ou ficarei em casa. Caso eu decida viajar, o meu destino será o litoral. Se a minha escolha for ficar em casa, então planejo maratonar uma série.",
+            "context": "Caso eu decida viajar nas férias, o meu destino será o litoral. Se a minha escolha for ficar em casa, então planejo maratonar uma série. Para estas férias, uma decisão já foi tomada: ou eu viajarei ou ficarei em casa. Para estas férias, uma decisão já foi tomada: ou eu viajarei ou ficarei em casa. Caso eu decida viajar, o meu destino será o litoral. Se a minha escolha for ficar em casa, então planejo maratonar uma série.",
             "qa_pairs": [
                 {
                     "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu irei para o litoral e (b) eu vou maratonar uma série?",
@@ -48,7 +48,7 @@
         },
         {
             "id": 3,
-            "context": "Contexto: Eu estabeleci um plano claro para o meu desenvolvimento: se eu decidir aprender uma nova habilidade, eu vou estudar programação, e se a minha decisão for aprender um instrumento musical, eu vou tocar violão. Chegou o momento de agir, e eu sei com certeza que vou escolher entre aprender uma nova habilidade ou aprender um instrumento musical.\n\nEu estabeleci um plano claro para o meu desenvolvimento: se eu decidir aprender uma nova habilidade, eu vou estudar programação, e se a minha decisão for aprender um instrumento musical, eu vou tocar violão. Chegou o momento de agir, e eu sei com certeza que vou escolher entre aprender uma nova habilidade ou aprender um instrumento musical.",
+            "context": "Eu estabeleci um plano claro para o meu desenvolvimento: se eu decidir aprender uma nova habilidade, eu vou estudar programação, e se a minha decisão for aprender um instrumento musical, eu vou tocar violão. Chegou o momento de agir, e eu sei com certeza que vou escolher entre aprender uma nova habilidade ou aprender um instrumento musical. Eu estabeleci um plano claro para o meu desenvolvimento: se eu decidir aprender uma nova habilidade, eu vou estudar programação, e se a minha decisão for aprender um instrumento musical, eu vou tocar violão. Chegou o momento de agir, e eu sei com certeza que vou escolher entre aprender uma nova habilidade ou aprender um instrumento musical.",
             "qa_pairs": [
                 {
                     "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou estudar programação e (b) eu vou tocar violão?",
@@ -202,7 +202,7 @@
         },
         {
             "id": 10,
-            "context": "Contexto: Se eu me matricular em um curso de artes, aprenderei a pintar com aquarela. Da mesma forma, se eu me matricular em um curso de culinária, aprenderei a fazer pão artesanal. A certeza é que vou me matricular ou em um curso de artes ou em um curso de culinária.\n***\nPonderando sobre minhas opções, sei que se eu me matricular em um curso de artes, aprenderei a pintar com aquarela, e se eu me inscrever em um curso de culinária, então aprenderei a fazer pão artesanal. A decisão está tomada, e com certeza vou me matricular ou no curso de artes ou no de culinária.",
+            "context": "Se eu me matricular em um curso de artes, aprenderei a pintar com aquarela. Da mesma forma, se eu me matricular em um curso de culinária, aprenderei a fazer pão artesanal. A certeza é que vou me matricular ou em um curso de artes ou em um curso de culinária. Ponderando sobre minhas opções, sei que se eu me matricular em um curso de artes, aprenderei a pintar com aquarela, e se eu me inscrever em um curso de culinária, então aprenderei a fazer pão artesanal. A decisão está tomada, e com certeza vou me matricular ou no curso de artes ou no de culinária.",
             "qa_pairs": [
                 {
                     "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) eu vou aprender a pintar com aquarela e (b) eu vou aprender a fazer pão artesanal?",

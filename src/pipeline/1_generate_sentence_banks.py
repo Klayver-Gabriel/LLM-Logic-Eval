@@ -28,7 +28,6 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"CRÍTICO: Falha ao iniciar o gerenciador de chaves. Erro: {e}"); exit()
 
-    # MUDANÇA: Acessamos diretamente as regras de PL, simplificando a lógica.
     pl_rules = LOGIC_RULES_CONFIG.get('PL', {})
     if not pl_rules:
         print("ERRO: Nenhuma regra de Lógica Proposicional ('PL') encontrada em config.py.")
@@ -39,22 +38,18 @@ if __name__ == "__main__":
     os.makedirs(OUTPUT_FILE.parent, exist_ok=True)
 
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        # MUDANÇA: Agora temos uma única barra de progresso que itera sobre as regras de PL.
         for rule_name, rule_template in tqdm(pl_rules.items(), desc="Processando Regras de PL"):
             
             logic_type = 'PL'
             rule_key = f"{logic_type}/{rule_name}"
             
             if rule_key not in PROMPT_BANK:
-                logging.warning(f"Nenhum prompt especializado encontrado para {rule_key}. Usando o FALLBACK_PROMPT.")
-            prompt_template = PROMPT_BANK.get(rule_key, FALLBACK_PROMPT)
+                logging.warning(f"Nenhum prompt especializado encontrado para {rule_key}. Pulando esta regra.")
+                continue
             
-            propositions_to_generate = sorted(list(set(re.findall(r'\{([a-zA-Z0-9_ ]+)\}', json.dumps(rule_template)))))
+            prompt_template = PROMPT_BANK[rule_key]
             
-            prompt = prompt_template.format(
-                num_instances=NUM_INSTANCES_PER_RULE,
-                propositions=', '.join(f'"{p}"' for p in propositions_to_generate)
-            )
+            prompt = prompt_template.format(num_instances=NUM_INSTANCES_PER_RULE)
             
             response_text = make_api_call(key_manager, MODEL_NAME, prompt, call_purpose=rule_key)
             
@@ -66,11 +61,8 @@ if __name__ == "__main__":
                     
                     if isinstance(sentence_banks_array, list) and len(sentence_banks_array) > 0:
                         for bank in sentence_banks_array:
-                            if all(prop in bank for prop in propositions_to_generate):
-                                line_data = {"rule": rule_key, "sentence_bank": bank}
-                                f.write(json.dumps(line_data, ensure_ascii=False) + '\n')
-                            else:
-                                logging.warning(f"JSON incompleto para {rule_key}. Faltando chaves. JSON: {bank}")
+                            line_data = {"rule": rule_key, "sentence_bank": bank}
+                            f.write(json.dumps(line_data, ensure_ascii=False) + '\n')
                     else:
                         logging.error(f"A resposta para {rule_key} não foi uma lista válida.")
 

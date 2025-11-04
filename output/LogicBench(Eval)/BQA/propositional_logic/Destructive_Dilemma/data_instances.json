@@ -70,7 +70,7 @@
         },
         {
             "id": 4,
-            "context": "**Contexto:** Ao considerar as minhas opções de transporte, percebi que comprar um carro novo significaria inevitavelmente ter uma despesa com seguro e impostos. A alternativa, assinar um serviço de carro por assinatura, implicaria ter um custo mensal fixo. No entanto, após uma análise cuidadosa, tornou-se claro para mim que não terei uma despesa com seguro e impostos ou não terei um custo mensal fixo.\n\n**História:**\nComprar um carro novo implicaria ter uma despesa com seguro e impostos, enquanto assinar um serviço de carro por assinatura resultaria num custo mensal fixo. Contudo, uma coisa é certa: ou não terei uma despesa com seguro e impostos, ou não terei um custo mensal fixo.",
+            "context": "**** Ao considerar as minhas opções de transporte, percebi que comprar um carro novo significaria inevitavelmente ter uma despesa com seguro e impostos. A alternativa, assinar um serviço de carro por assinatura, implicaria ter um custo mensal fixo. No entanto, após uma análise cuidadosa, tornou-se claro para mim que não terei uma despesa com seguro e impostos ou não terei um custo mensal fixo. Comprar um carro novo implicaria ter uma despesa com seguro e impostos, enquanto assinar um serviço de carro por assinatura resultaria num custo mensal fixo. Contudo, uma coisa é certa: ou não terei uma despesa com seguro e impostos, ou não terei um custo mensal fixo.",
             "qa_pairs": [
                 {
                     "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não vou comprar um carro novo e (b) não vou assinar um serviço de carro por assinatura?",
@@ -158,7 +158,7 @@
         },
         {
             "id": 8,
-            "context": "Contexto: Tenho uma regra para a noite de cinema: escolher uma comédia sempre me garante boas risadas. Da mesma forma, sei que se eu optar por um filme de terror, com certeza vou levar alguns sustos. No entanto, para esta noite, uma coisa é certa: ou não vou dar nenhuma risada, ou não vou tomar susto algum.\n\n---\nTenho uma regra para a noite de cinema: escolher uma comédia sempre me garante boas risadas e, da mesma forma, sei que se eu optar por um filme de terror, com certeza vou levar alguns sustos. No entanto, para esta noite, uma coisa é certa: ou não vou dar nenhuma risada, ou não vou tomar susto algum.",
+            "context": "Tenho uma regra para a noite de cinema: escolher uma comédia sempre me garante boas risadas. Da mesma forma, sei que se eu optar por um filme de terror, com certeza vou levar alguns sustos. No entanto, para esta noite, uma coisa é certa: ou não vou dar nenhuma risada, ou não vou tomar susto algum. Tenho uma regra para a noite de cinema: escolher uma comédia sempre me garante boas risadas e, da mesma forma, sei que se eu optar por um filme de terror, com certeza vou levar alguns sustos. No entanto, para esta noite, uma coisa é certa: ou não vou dar nenhuma risada, ou não vou tomar susto algum.",
             "qa_pairs": [
                 {
                     "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não vou assistir a um filme de comédia e (b) não vou assistir a um filme de terror?",
@@ -180,7 +180,7 @@
         },
         {
             "id": 9,
-            "context": "Contexto: Eu tinha um plano claro: se eu fosse fazer um curso de programação, minha meta seria dominar a linguagem Python. Da mesma forma, caso eu decidisse seguir o caminho do design gráfico, meu foco seria aprender a usar o Photoshop. Contudo, agora tenho certeza de que não vou aprender a linguagem Python ou que não vou me dedicar ao Photoshop.\n***\nEu tinha um plano claro: se eu fosse fazer um curso de programação, minha meta seria dominar a linguagem Python; da mesma forma, caso eu decidisse seguir o caminho do design gráfico, meu foco seria aprender a usar o Photoshop. Contudo, agora tenho certeza de que não vou aprender a linguagem Python ou que não vou me dedicar ao Photoshop.",
+            "context": "Eu tinha um plano claro: se eu fosse fazer um curso de programação, minha meta seria dominar a linguagem Python. Da mesma forma, caso eu decidisse seguir o caminho do design gráfico, meu foco seria aprender a usar o Photoshop. Contudo, agora tenho certeza de que não vou aprender a linguagem Python ou que não vou me dedicar ao Photoshop. Eu tinha um plano claro: se eu fosse fazer um curso de programação, minha meta seria dominar a linguagem Python; da mesma forma, caso eu decidisse seguir o caminho do design gráfico, meu foco seria aprender a usar o Photoshop. Contudo, agora tenho certeza de que não vou aprender a linguagem Python ou que não vou me dedicar ao Photoshop.",
             "qa_pairs": [
                 {
                     "question": "Podemos dizer que pelo menos um dos seguintes deve ser sempre verdadeiro? (a) não vou iniciar um curso de programação e (b) não vou iniciar um curso de design gráfico?",

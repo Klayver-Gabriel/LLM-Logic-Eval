@@ -18,7 +18,7 @@
         },
         {
             "id": 2,
-            "context": "A transformação da água em gelo é uma certeza sempre que a temperatura desce abaixo de 0°C. Contudo, a água permaneceu no seu estado líquido.\n***\nEmbora a transformação da água em gelo seja uma certeza sempre que a temperatura desce abaixo de 0°C, a água, contudo, permaneceu no seu estado líquido.",
+            "context": "A transformação da água em gelo é uma certeza sempre que a temperatura desce abaixo de 0°C. Contudo, a água permaneceu no seu estado líquido. Embora a transformação da água em gelo seja uma certeza sempre que a temperatura desce abaixo de 0°C, a água, contudo, permaneceu no seu estado líquido.",
             "qa_pairs": [
                 {
                     "question": "Podemos inferir que 'a temperatura não está abaixo de 0°C'?",
