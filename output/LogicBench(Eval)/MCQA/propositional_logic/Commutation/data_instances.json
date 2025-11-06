@@ -1,0 +1,126 @@
+{
+    "type": "propositional_logic",
+    "axiom": "commutation",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Para a sobremesa, foi estabelecido que a escolha seria entre bolo de chocolate ou sorvete de baunilha. No entanto, quando chegou a hora de servir, todos foram informados de que o bolo de chocolate não estava disponível.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Se não houver bolo de chocolate, então não haverá sobremesa.",
+                "A sobremesa será apenas sorvete de baunilha.",
+                "A sobremesa será sorvete de baunilha ou a sobremesa será bolo de chocolate",
+                "A sobremesa será sorvete de baunilha e bolo de chocolate."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 2,
+            "context": "Os planos para esta noite eram claros: ou uma saída para ver o último filme em cartaz ou uma noite aconchegante no sofá maratonando uma série. Contudo, uma rápida olhada nos horários dos filmes mostrou que a sessão já tinha começado, inviabilizando a ida ao cinema.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Vamos ficar em casa e assistir a uma série ou vamos ao cinema hoje à noite",
+                "Apesar do horário, eles correram e conseguiram assistir ao filme no cinema.",
+                "Frustrados com a perda do filme, eles desistiram de ambos os planos e foram dormir cedo.",
+                "Decidiram então sair para jantar, já que o cinema não era mais uma opção."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "context": "Sabe-se que para concluir a compra, o pagamento pode ser feito com cartão de crédito ou pode ser feito com PIX. Contudo, foi anunciado que o sistema para pagamentos com PIX está temporariamente indisponível.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O pagamento pode ser feito com PIX e o pagamento pode ser feito com cartão de crédito.",
+                "Não é possível pagar com cartão de crédito nem com PIX.",
+                "O pagamento só pode ser feito com cartão de crédito.",
+                "O pagamento pode ser feito com PIX ou o pagamento pode ser feito com cartão de crédito"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 4,
+            "context": "A equipe sabe que a reunião acontecerá na segunda-feira ou na terça-feira. Acontece que a reunião definitivamente não será na segunda-feira.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A reunião não será na segunda-feira nem na terça-feira.",
+                "A reunião será na segunda-feira e na terça-feira.",
+                "A reunião será na segunda-feira.",
+                "A reunião será na terça-feira ou a reunião será na segunda-feira"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 5,
+            "context": "Durante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso. Durante a reunião de planejamento, a equipe estabeleceu uma diretriz clara: o novo projeto seria construído usando Python ou JavaScript. Após uma análise mais aprofundada dos requisitos, a equipe chegou à conclusão de que Python não seria a escolha adequada para este caso.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O projeto será desenvolvido em Python e JavaScript.",
+                "A equipe decidiu que nenhuma das duas linguagens era adequada.",
+                "O projeto será desenvolvido em Python.",
+                "O projeto será desenvolvido em JavaScript ou o projeto será desenvolvido em Python"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 6,
+            "context": "Para as próximas férias, a decisão era clara: o destino seria a praia ou as montanhas. Contudo, os planos para a praia foram definitivamente descartados.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Viajaremos para as montanhas nas férias ou viajaremos para a praia nas férias",
+                "Viajaremos para a praia e para as montanhas nas férias.",
+                "Não viajaremos para as montanhas nem para a praia nas férias.",
+                "Viajaremos para as montanhas nas férias."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 7,
+            "context": "Sabe-se que o almoço de hoje será massa ou o almoço de hoje será salada.; Situação: O almoço de hoje não será salada. Para o almoço de hoje, as opções eram claras: seria servido massa ou salada. Contudo, foi decidido que salada não estaria no cardápio do dia. Para o almoço de hoje, era certo que seria servido massa ou salada. Contudo, ficou decidido que o almoço de hoje não será salada.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O almoço de hoje será frango.",
+                "O almoço de hoje não será massa.",
+                "O almoço de hoje será massa e salada.",
+                "O almoço de hoje será salada ou o almoço de hoje será massa"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 8,
+            "context": "**Contexto Melhorado:** Havia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. O gerente confirmou que a opção de meio período foi descartada. Havia duas possibilidades para o contrato do novo funcionário: ele poderia começar em tempo integral ou em meio período. Pouco depois, o gerente confirmou à equipe que a opção de meio período foi descartada.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O novo funcionário começará em meio período.",
+                "O novo funcionário começará em meio período ou o novo funcionário começará em tempo integral",
+                "O gerente ainda não decidiu sobre o contrato do novo funcionário.",
+                "O novo funcionário não começará nem em tempo integral, nem em meio período."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "context": "Sabe-se que você pode escolher a cor azul para o carro ou você pode escolher a cor vermelha para o carro.; Situação: Você não escolheu a cor vermelha para o carro. Na concessionária, as duas únicas opções de cores disponíveis para o modelo desejado eram o azul e o vermelho. A escolha precisava ser feita entre eles. Após alguma deliberação, ficou decidido que o carro vermelho não seria o escolhido. Na concessionária, a escolha para o novo carro se resumia a duas cores vibrantes. Era possível sair de lá com o modelo na cor azul ou na cor vermelha. Depois de muito pensar, ficou certo que a cor vermelha não seria a opção levada para casa.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Você pode escolher a cor vermelha para o carro ou você pode escolher a cor azul para o carro",
+                "Você pode escolher a cor azul para o carro e você pode escolher a cor vermelha para o carro.",
+                "Você escolheu a cor azul para o carro.",
+                "Você escolheu a cor vermelha para o carro."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 10,
+            "context": "Sabe-se que a prova final será um exame escrito ou a prova final será uma apresentação oral.; Situação: A prova final não será uma apresentação oral. Os alunos sabiam que a avaliação final do curso teria uma de duas opções: um exame escrito ou uma apresentação oral. No entanto, o professor anunciou que a avaliação final não seria uma apresentação oral. Ao longo do semestre, ficou estabelecido para os alunos que a avaliação final do curso assumiria a forma de um exame escrito ou de uma apresentação oral. Com o fim das aulas se aproximando, o professor esclareceu a todos que, naquele ano, a avaliação final não consistiria em uma apresentação oral diante da turma.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A prova final será um exame escrito e uma apresentação oral.",
+                "A prova final não será um exame escrito.",
+                "A prova final foi cancelada.",
+                "A prova final será uma apresentação oral ou a prova final será um exame escrito"
+            ],
+            "answer": 3
+        }
+    ]
+}

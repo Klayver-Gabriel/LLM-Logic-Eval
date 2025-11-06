@@ -1,0 +1,126 @@
+{
+    "type": "propositional_logic",
+    "axiom": "modus_tollens",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Sempre que caía uma chuva muito forte, era certo que a rua ficaria alagada. Contudo, naquele dia, a rua permaneceu completamente transitável, sem nenhum sinal de inundação.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Não choveu muito",
+                "Choveu muito, mas a rua não alagou por outro motivo.",
+                "O sistema de escoamento da rua foi reformado recentemente.",
+                "A chuva começou de manhã e parou logo em seguida."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 2,
+            "context": "A transformação da água em gelo é uma certeza sempre que a temperatura desce abaixo de 0°C. Contudo, a água permaneceu no seu estado líquido. Embora a transformação da água em gelo seja uma certeza sempre que a temperatura desce abaixo de 0°C, a água, contudo, permaneceu no seu estado líquido.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A água continha impurezas dissolvidas.",
+                "A transformação em gelo é um processo lento.",
+                "O gelo derreteu e voltou a ser água.",
+                "A temperatura não está abaixo de 0°C"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 3,
+            "context": "A regra daquele cômodo era clara e imutável: se o interruptor estivesse na posição \"ligado\", a lâmpada deveria acender e encher o espaço de luz. Naquela noite, no entanto, uma escuridão teimosa persistia, pois era um fato conhecido que a lâmpada não estava acesa.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A lâmpada está queimada.",
+                "A regra sobre o funcionamento da luz foi recentemente alterada.",
+                "O interruptor não está ligado",
+                "O interruptor está ligado, mas existe um problema na rede elétrica."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 4,
+            "context": "Eu tinha a convicção de que ter estudado para o exame levaria inevitavelmente à minha aprovação. No entanto, o resultado final que recebi confirmou que eu não passei.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Estudar para o exame não foi suficiente para garantir a aprovação.",
+                "O resultado final foi contrário às expectativas do narrador.",
+                "A convicção do narrador sobre o resultado do exame estava equivocada.",
+                "Eu não estudei para o exame"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 5,
+            "context": "A comemoração da torcida era a reação natural e esperada a um gol do time. No entanto, um silêncio pesado pairou sobre as arquibancadas, pois sabe-se que a torcida não comemorou.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O gol foi anulado pelo árbitro por impedimento.",
+                "O time não marcou um gol",
+                "O gol foi marcado pelo time adversário.",
+                "A torcida estava fazendo um protesto silencioso contra a diretoria."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "context": "Era certo que o celular se desligaria se a sua bateria acabasse. No entanto, o aparelho permaneceu funcionando e não se desligou.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A bateria do celular não acabou",
+                "O celular estava conectado ao carregador.",
+                "O celular nunca se desliga quando a bateria acaba.",
+                "A bateria do celular estava com defeito."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 7,
+            "context": "Era uma verdade bem conhecida que, sempre que o sol brilhava no céu, as sombras se projetavam nítidas e escuras sobre o chão. No entanto, naquele momento em particular, era evidente que não havia nenhuma sombra a ser vista no chão.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O sol não está brilhando",
+                "A verdade sobre as sombras mudou.",
+                "É exatamente meio-dia.",
+                "O chão tornou-se reflexivo."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 8,
+            "context": "Sempre que o freio de um carro é acionado, espera-se que o veículo diminua a velocidade como consequência direta. Durante a análise do acidente, os peritos revisaram os dados da caixa-preta, que revelaram um fato crucial. Surpreendentemente, foi confirmado que o carro não diminuiu a velocidade em nenhum momento antes da colisão.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O sistema de freios do carro apresentou uma falha mecânica.",
+                "O freio do carro não foi acionado",
+                "O motorista perdeu o controle da direção antes da colisão.",
+                "A alta velocidade do veículo tornou os freios ineficazes."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "context": "A consequência de a madeira ser exposta ao fogo seria ela queimar. No entanto, a madeira não havia queimado.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O fogo não estava quente o suficiente.",
+                "A madeira estava molhada.",
+                "A madeira era resistente ao fogo.",
+                "A madeira não foi exposta ao fogo"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 10,
+            "context": "A expectativa era simples: se a internet estivesse conectada, então seria possível carregar a página da web. Contudo, o que se sabia com certeza era que não era possível carregar a página.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A internet não está conectada",
+                "Carregar a página da web é necessário para conectar a internet.",
+                "O navegador de internet precisa ser atualizado.",
+                "A internet está conectada, mas o site está fora do ar."
+            ],
+            "answer": 0
+        }
+    ]
+}

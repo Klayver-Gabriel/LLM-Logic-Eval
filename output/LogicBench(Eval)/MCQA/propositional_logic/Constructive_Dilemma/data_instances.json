@@ -1,0 +1,126 @@
+{
+    "type": "propositional_logic",
+    "axiom": "constructive_dilemma",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Se eu decidir por comida italiana, sei que meu prato será macarrão. Por outro lado, se a minha escolha for por comida japonesa, sei que comerei sushi. O que eu sei com certeza é que vou pedir comida italiana ou japonesa.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Eu vou comer macarrão ou eu vou comer sushi",
+                "Eu definitivamente vou comer sushi.",
+                "Eu vou comer macarrão e eu vou comer sushi.",
+                "Eu não sei o que vou comer."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 2,
+            "context": "Caso eu decida viajar nas férias, o meu destino será o litoral. Se a minha escolha for ficar em casa, então planejo maratonar uma série. Para estas férias, uma decisão já foi tomada: ou eu viajarei ou ficarei em casa. Para estas férias, uma decisão já foi tomada: ou eu viajarei ou ficarei em casa. Caso eu decida viajar, o meu destino será o litoral. Se a minha escolha for ficar em casa, então planejo maratonar uma série.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Se eu não viajar, então irei para o litoral.",
+                "Eu irei para o litoral ou eu vou maratonar uma série",
+                "Eu não irei para o litoral e não vou maratonar uma série.",
+                "Eu irei para o litoral e também vou maratonar uma série."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 3,
+            "context": "Eu estabeleci um plano claro para o meu desenvolvimento: se eu decidir aprender uma nova habilidade, eu vou estudar programação, e se a minha decisão for aprender um instrumento musical, eu vou tocar violão. Chegou o momento de agir, e eu sei com certeza que vou escolher entre aprender uma nova habilidade ou aprender um instrumento musical. Eu estabeleci um plano claro para o meu desenvolvimento: se eu decidir aprender uma nova habilidade, eu vou estudar programação, e se a minha decisão for aprender um instrumento musical, eu vou tocar violão. Chegou o momento de agir, e eu sei com certeza que vou escolher entre aprender uma nova habilidade ou aprender um instrumento musical.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Eu não vou estudar programação nem tocar violão.",
+                "Eu vou aprender uma nova habilidade, mas não um instrumento musical.",
+                "Eu vou estudar programação e eu vou tocar violão.",
+                "Eu vou estudar programação ou eu vou tocar violão"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 4,
+            "context": "Tenho um plano definido para o final do dia: se eu decidir ir ao shopping, com certeza voltarei com roupas novas. Por outro lado, se a minha escolha for ir ao supermercado, meu objetivo será comprar todos os ingredientes para o jantar. Depois de um dia longo, sei que preciso sair de casa, e meu destino será um desses dois lugares.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Eu vou comprar roupas novas ou eu vou comprar ingredientes para o jantar",
+                "Eu vou ao shopping, mas não vou comprar nada, apenas passear.",
+                "Eu vou comprar roupas novas e eu vou comprar ingredientes para o jantar.",
+                "Eu não vou sair de casa, pois estou muito cansado(a) para ir ao shopping ou ao supermercado."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 5,
+            "context": "Meus planos para o dia dependiam inteiramente do céu. Se o sol brilhasse, eu estava decidido a ir ao parque, mas se a chuva começasse a cair, eu me aconchegaria em casa para ler um livro. Ao acordar, eu tinha certeza de que o dia seria de sol ou de chuva.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Eu vou ao parque e também vou ler um livro em casa.",
+                "Eu vou ao parque ou eu vou ler um livro em casa",
+                "A chuva não vai me impedir de ir ao parque.",
+                "Se o tempo ficar nublado, eu não farei nenhuma das duas coisas."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "context": "Tenho certeza de que, se eu finalmente decidir adotar um animal de estimação, será um cachorro e, da mesma forma, se eu decidir comprar uma planta para alegrar o ambiente, minha escolha será uma samambaia. Chegou a hora de tomar uma decisão, e sei que vou adotar um animal de estimação ou comprar uma planta.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Será um cachorro ou será uma samambaia",
+                "Será um cachorro e uma samambaia",
+                "Será um gato ou uma orquídea",
+                "Não será nem um cachorro nem uma samambaia"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 7,
+            "context": "Hoje, o dia se resumia a uma escolha entre duas opções claras: ou eu me exercitaria, ou eu descansaria. Se a decisão fosse pelo exercício, então eu iria correr na esteira. Por outro lado, se a escolha fosse pelo descanso, com certeza eu tiraria um cochilo à tarde.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Eu vou correr na esteira ou eu vou tirar um cochilo à tarde",
+                "Eu não vou correr na esteira nem tirar um cochilo à tarde.",
+                "Eu vou correr na esteira e eu vou tirar um cochilo à tarde.",
+                "A melhor opção é me exercitar e depois descansar com um cochilo."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 8,
+            "context": "Para a noite de cinema, uma certeza eu tinha: a escolha seria entre uma comédia ou um terror. A escolha de um filme de comédia garantiria uma noite de muitas risadas, enquanto selecionar um filme de terror resultaria em alguns bons sustos.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Se eu escolher uma comédia, vou tomar alguns sustos.",
+                "Independentemente da minha escolha, a noite não terá risadas.",
+                "Eu vou dar muitas risadas e eu vou tomar alguns sustos.",
+                "Eu vou dar muitas risadas ou eu vou tomar alguns sustos"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 9,
+            "context": "Meus planos para esta noite são definitivos: eu irei ao jogo de futebol ou ao show de rock. Uma ida ao jogo de futebol significa que eu vou torcer apaixonadamente pelo time da casa. Por outro lado, se eu decidir ir ao show de rock, é garantido que vou cantar junto com a banda.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Eu vou torcer para o time da casa e também vou cantar junto com a banda.",
+                "Eu vou torcer para o time da casa ou eu vou cantar junto com a banda",
+                "Se eu não for ao jogo de futebol, então não vou cantar junto com a banda.",
+                "Eu posso ir ao jogo de futebol e mesmo assim decidir não torcer pelo time da casa."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "context": "Se eu me matricular em um curso de artes, aprenderei a pintar com aquarela. Da mesma forma, se eu me matricular em um curso de culinária, aprenderei a fazer pão artesanal. A certeza é que vou me matricular ou em um curso de artes ou em um curso de culinária. Ponderando sobre minhas opções, sei que se eu me matricular em um curso de artes, aprenderei a pintar com aquarela, e se eu me inscrever em um curso de culinária, então aprenderei a fazer pão artesanal. A decisão está tomada, e com certeza vou me matricular ou no curso de artes ou no de culinária.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Eu vou aprender a pintar com aquarela e eu vou aprender a fazer pão artesanal.",
+                "Eu com certeza vou aprender a fazer pão artesanal.",
+                "Eu vou aprender a pintar com aquarela ou eu vou aprender a fazer pão artesanal",
+                "Eu não vou aprender a pintar com aquarela nem a fazer pão artesanal."
+            ],
+            "answer": 2
+        }
+    ]
+}

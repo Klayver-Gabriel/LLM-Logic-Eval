@@ -1,0 +1,146 @@
+{
+    "type": "propositional_logic",
+    "axiom": "disjunctive_syllogism",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Para encontrar o relatório, havia apenas duas localizações possíveis que a busca indicava: ele estaria na pasta 'Documentos' ou, alternativamente, na pasta 'Relatórios 2023'. Após uma verificação minuciosa, no entanto, foi confirmado que o relatório não se encontrava na pasta 'Documentos'.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o relatório está na pasta 'Relatórios 2023''?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o relatório não está na pasta 'Relatórios 2023''?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "Havia apenas duas possibilidades para a partida do voo para Nova Iorque: às 8h ou às 10h da manhã. No entanto, uma atualização no painel de voos confirmou que o voo não decolaria às 8h.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o voo para Nova Iorque sai às 10h'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o voo para Nova Iorque não sai às 10h'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "Ao planear a sua semana, a equipa sabia que a sua reunião importante seria agendada para segunda ou terça-feira. Mais tarde, chegou uma atualização a confirmar que a reunião não iria definitivamente decorrer na segunda-feira.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'a reunião de equipa é na terça-feira'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'a reunião de equipa não é na terça-feira'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "A equipe aguardava a confirmação sobre quem seria o responsável pelo projeto, e era sabido que a decisão final seria entre Carlos ou Sofia. Mais tarde, foi anunciado a todos que o responsável pelo projeto não é o Carlos.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'a responsável pelo projeto é a Sofia'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'a responsável pelo projeto não é a Sofia'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "Para finalizar a transação, foi estabelecido que as opções de pagamento eram por transferência bancária ou por cartão de crédito. No entanto, também ficou claro que o pagamento não seria realizado através de uma transferência bancária.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o pagamento será feito por cartão de crédito'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o pagamento não será feito por cartão de crédito'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "A equipe de tecnologia estava diante de um grande desafio para identificar a origem de uma falha crítica no sistema. Após uma análise inicial, eles concluíram que a raiz do problema só poderia estar em um de dois lugares: o software ou o hardware. Para refinar a busca, eles executaram uma série completa de diagnósticos no software, mas todos os testes retornaram resultados perfeitos, indicando que o software não era a fonte do problema. Após uma análise inicial, ficou claro para a equipe que a raiz do problema no sistema residia ou no software ou no hardware. Uma série de diagnósticos detalhados confirmou que, felizmente, o problema não estava no software.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'a causa do problema é o hardware'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'a causa do problema não é o hardware'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "Para as próximas férias, a família tinha duas opções em mente: ir para a praia ou para as montanhas. Após alguma deliberação, eles decidiram que este ano não iriam para a praia. A escolha para as férias da família havia sido reduzida a duas possibilidades empolgantes: uma viagem ensolarada para a praia ou um refúgio aconchegante nas montanhas. Depois de verificar as previsões do tempo e ver uma semana de chuva prevista para o litoral, foi tomada a decisão final: as praias de areia estavam definitivamente fora de questão para a viagem deste ano.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'as férias serão na montanha'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'as férias não serão na montanha'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Ao ponderar sobre o que comer, ficou claro que as opções para o jantar se resumiam a duas escolhas deliciosas: comida italiana ou comida japonesa. Lembrando do banquete de massas da noite anterior, todos concordaram que não iriam jantar comida italiana novamente.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'vamos jantar comida japonesa'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'não vamos jantar comida japonesa'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "A entrega da encomenda estava prevista para acontecer hoje ou amanhã. Contudo, uma notificação de última hora confirmou que a encomenda não chegará hoje.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'a encomenda chegará amanhã'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'a encomenda não chegará amanhã'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "Na penumbra do cômodo, só poderiam haver duas explicações para a escuridão: o interruptor da luz já estava acionado, ou a lâmpada havia queimado de vez. Após um momento tateando a parede, constatou-se que o interruptor da luz não estava, de fato, na posição de ligado.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'a lâmpada está queimada'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'a lâmpada não está queimada'?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}
