@@ -1,0 +1,146 @@
+{
+    "type": "propositional_logic",
+    "axiom": "modus_tollens",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Sempre que caía uma chuva muito forte, era certo que a rua ficaria alagada. Contudo, naquele dia, a rua permaneceu completamente transitável, sem nenhum sinal de inundação.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'não choveu muito'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos inferir que 'choveu muito'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "context": "A transformação da água em gelo é uma certeza sempre que a temperatura desce abaixo de 0°C. Contudo, a água permaneceu no seu estado líquido. Embora a transformação da água em gelo seja uma certeza sempre que a temperatura desce abaixo de 0°C, a água, contudo, permaneceu no seu estado líquido.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos inferir que 'a temperatura não está abaixo de 0°C'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'a temperatura está abaixo de 0°C'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "context": "A regra daquele cômodo era clara e imutável: se o interruptor estivesse na posição \"ligado\", a lâmpada deveria acender e encher o espaço de luz. Naquela noite, no entanto, uma escuridão teimosa persistia, pois era um fato conhecido que a lâmpada não estava acesa.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos inferir que 'o interruptor não está ligado'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos inferir que 'o interruptor está ligado'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "context": "Eu tinha a convicção de que ter estudado para o exame levaria inevitavelmente à minha aprovação. No entanto, o resultado final que recebi confirmou que eu não passei.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'eu não estudei para o exame'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'eu estudei para o exame'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "context": "A comemoração da torcida era a reação natural e esperada a um gol do time. No entanto, um silêncio pesado pairou sobre as arquibancadas, pois sabe-se que a torcida não comemorou.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o time não marcou um gol'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos inferir que 'o time marcou um gol'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "context": "Era certo que o celular se desligaria se a sua bateria acabasse. No entanto, o aparelho permaneceu funcionando e não se desligou.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos inferir que 'a bateria do celular não acabou'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'a bateria do celular acabou'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "context": "Era uma verdade bem conhecida que, sempre que o sol brilhava no céu, as sombras se projetavam nítidas e escuras sobre o chão. No entanto, naquele momento em particular, era evidente que não havia nenhuma sombra a ser vista no chão.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'o sol não está brilhando'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o sol está brilhando'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "context": "Sempre que o freio de um carro é acionado, espera-se que o veículo diminua a velocidade como consequência direta. Durante a análise do acidente, os peritos revisaram os dados da caixa-preta, que revelaram um fato crucial. Surpreendentemente, foi confirmado que o carro não diminuiu a velocidade em nenhum momento antes da colisão.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos inferir que 'o freio do carro não foi acionado'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'o freio do carro foi acionado'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "context": "A consequência de a madeira ser exposta ao fogo seria ela queimar. No entanto, a madeira não havia queimado.",
+            "qa_pairs": [
+                {
+                    "question": "Podemos inferir que 'a madeira não foi exposta ao fogo'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Isso implica que 'a madeira foi exposta ao fogo'?",
+                    "answer": "Não"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "context": "A expectativa era simples: se a internet estivesse conectada, então seria possível carregar a página da web. Contudo, o que se sabia com certeza era que não era possível carregar a página.",
+            "qa_pairs": [
+                {
+                    "question": "Isso implica que 'a internet não está conectada'?",
+                    "answer": "Sim"
+                },
+                {
+                    "question": "Podemos inferir que 'a internet está conectada'?",
+                    "answer": "Não"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "type": "propositional_logic",
+    "axiom": "destructive_dilemma",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Eu sabia que se decidisse cozinhar o jantar em casa, a cozinha acabaria numa completa bagunça. Por outro lado, se eu optasse por pedir comida por aplicativo, a entrega geralmente chegava em menos de uma hora. Contudo, eu tinha certeza de uma coisa sobre esta noite: a cozinha não terminaria bagunçada ou, por algum motivo, a entrega da comida não seria feita em menos de uma hora.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A entrega da comida definitivamente não será feita em menos de uma hora.",
+                "Eu não vou cozinhar o jantar em casa e eu não vou pedir comida por aplicativo.",
+                "Eu vou cozinhar o jantar em casa e também vou pedir comida por aplicativo.",
+                "Eu não vou cozinhar o jantar em casa ou eu não vou pedir comida por aplicativo"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 2,
+            "context": "Se eu me concentrar nos estudos para a prova de cálculo, tenho certeza de que vou entender o conceito de limites; da mesma forma, se eu mergulhar nos livros para a prova de filosofia, serei capaz de explicar o pensamento de Platão com clareza. No entanto, olhando para a pilha de livros e o pouco tempo que resta, uma coisa é certa: ou não vou conseguir entender o conceito de limites, ou não serei capaz de explicar o pensamento de Platão.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Não vou estudar para a prova de cálculo ou não vou estudar para a prova de filosofia",
+                "A prova de cálculo e a prova de filosofia são difíceis demais para o tempo disponível.",
+                "Vou entender o conceito de limites e também serei capaz de explicar o pensamento de Platão.",
+                "Não vou estudar para a prova de cálculo e não vou estudar para a prova de filosofia."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "context": "Se eu for para a academia hoje, a minha intenção é treinar pernas. Alternativamente, se eu for correr no parque, eu aproveitarei o ar livre. No entanto, o que é certo é que hoje ou eu não treinarei pernas ou eu não aproveitarei o ar livre.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Se eu não for para a academia, então com certeza irei correr no parque.",
+                "Não vou para a academia hoje ou não vou correr no parque",
+                "Hoje vou treinar pernas, mas não vou aproveitar o ar livre.",
+                "Vou para a academia e também vou correr no parque."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "context": "**** Ao considerar as minhas opções de transporte, percebi que comprar um carro novo significaria inevitavelmente ter uma despesa com seguro e impostos. A alternativa, assinar um serviço de carro por assinatura, implicaria ter um custo mensal fixo. No entanto, após uma análise cuidadosa, tornou-se claro para mim que não terei uma despesa com seguro e impostos ou não terei um custo mensal fixo. Comprar um carro novo implicaria ter uma despesa com seguro e impostos, enquanto assinar um serviço de carro por assinatura resultaria num custo mensal fixo. Contudo, uma coisa é certa: ou não terei uma despesa com seguro e impostos, ou não terei um custo mensal fixo.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Terei uma despesa com seguro e impostos ou terei um custo mensal fixo.",
+                "Vou comprar um carro novo e assinar um serviço de carro por assinatura.",
+                "Não vou comprar um carro novo ou não vou assinar um serviço de carro por assinatura",
+                "Não vou comprar um carro novo e não vou assinar um serviço de carro por assinatura."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 5,
+            "context": "O nosso plano de férias tinha duas opções encantadoras: se fôssemos para a praia, estava decidido que iríamos nadar no mar, e se a nossa escolha fossem as montanhas, a aventura seria fazer trilhas pela natureza. Contudo, uma coisa se tornou certa sobre a viagem que se aproxima: ou não vamos nadar no mar, ou não vamos fazer trilhas na natureza.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Não vamos passar as férias na praia ou não vamos passar as férias nas montanhas",
+                "Não vamos nadar no mar e também não vamos fazer trilhas na natureza.",
+                "A viagem será para um destino que não envolve praia nem montanhas.",
+                "Se não formos para a praia, então iremos para as montanhas."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 6,
+            "context": "Investir meu dinheiro em ações de tecnologia significaria que meu portfólio enfrentaria uma alta volatilidade, e se eu investisse em imóveis, acabaria com um ativo de baixa liquidez em mãos. Contudo, uma coisa é certa: meu portfólio não sofrerá com alta volatilidade, ou eu não ficarei preso a um ativo de baixa liquidez.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Não vou investir meu dinheiro em ações de tecnologia ou não vou investir meu dinheiro em imóveis",
+                "Meu portfólio não sofrerá com alta volatilidade E eu não ficarei preso a um ativo de baixa liquidez.",
+                "Se eu não investir em imóveis, meu portfólio terá alta liquidez.",
+                "Vou investir meu dinheiro em ações de tecnologia e em imóveis."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 7,
+            "context": "Ao ponderar sobre ter um novo companheiro, sei que se eu adotar um cachorro, preciso ter tempo para passear com ele. Por outro lado, se eu adotar um gato, sei que ele será mais independente dentro de casa. No entanto, a realidade é que ou não terei tempo para passear com ele, ou ele não será tão independente dentro de casa.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Não vou adotar um cachorro ou não vou adotar um gato",
+                "Vou adotar um cachorro e um gato.",
+                "Vou adotar um gato, pois sei que ele será mais independente.",
+                "Não vou adotar um cachorro e não vou adotar um gato."
+            ],
+            "answer": 0
+        },
+        {
+            "id": 8,
+            "context": "Tenho uma regra para a noite de cinema: escolher uma comédia sempre me garante boas risadas. Da mesma forma, sei que se eu optar por um filme de terror, com certeza vou levar alguns sustos. No entanto, para esta noite, uma coisa é certa: ou não vou dar nenhuma risada, ou não vou tomar susto algum. Tenho uma regra para a noite de cinema: escolher uma comédia sempre me garante boas risadas e, da mesma forma, sei que se eu optar por um filme de terror, com certeza vou levar alguns sustos. No entanto, para esta noite, uma coisa é certa: ou não vou dar nenhuma risada, ou não vou tomar susto algum.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Com certeza vou assistir a um filme de drama.",
+                "Vou assistir a um filme de comédia e a um filme de terror.",
+                "Não vou assistir a um filme de comédia e não vou assistir a um filme de terror.",
+                "Não vou assistir a um filme de comédia ou não vou assistir a um filme de terror"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 9,
+            "context": "Eu tinha um plano claro: se eu fosse fazer um curso de programação, minha meta seria dominar a linguagem Python. Da mesma forma, caso eu decidisse seguir o caminho do design gráfico, meu foco seria aprender a usar o Photoshop. Contudo, agora tenho certeza de que não vou aprender a linguagem Python ou que não vou me dedicar ao Photoshop. Eu tinha um plano claro: se eu fosse fazer um curso de programação, minha meta seria dominar a linguagem Python; da mesma forma, caso eu decidisse seguir o caminho do design gráfico, meu foco seria aprender a usar o Photoshop. Contudo, agora tenho certeza de que não vou aprender a linguagem Python ou que não vou me dedicar ao Photoshop.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Vou iniciar um curso de design gráfico, mas não vou fazer o curso de programação.",
+                "Decidi que vou seguir uma carreira em uma área completamente diferente.",
+                "Não vou iniciar um curso de programação ou não vou iniciar um curso de design gráfico",
+                "Não vou iniciar um curso de programação e não vou iniciar um curso de design gráfico."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 10,
+            "context": "A equipe do projeto considerou que a escolha pela metodologia Ágil significaria que as entregas seriam realizadas em ciclos curtos. Por outro lado, se a decisão fosse pela metodologia Cascata, o escopo completo do projeto teria que ser definido desde o início. Ao final da reunião, ficou estabelecido que, para este projeto, ou as entregas não ocorreriam em ciclos curtos ou o escopo completo não seria definido logo de início.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A equipe decidiu combinar as duas metodologias, realizando entregas em ciclos curtos com o escopo completo definido desde o início.",
+                "Se a equipe optar por não usar a metodologia Cascata, ela será obrigada a usar a metodologia Ágil.",
+                "Para o projeto, não usaremos a metodologia Ágil e para o projeto, não usaremos a metodologia Cascata.",
+                "Para o projeto, não usaremos a metodologia Ágil ou para o projeto, não usaremos a metodologia Cascata"
+            ],
+            "answer": 3
+        }
+    ]
+}

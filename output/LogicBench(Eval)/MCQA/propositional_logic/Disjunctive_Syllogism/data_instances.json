@@ -1,0 +1,126 @@
+{
+    "type": "propositional_logic",
+    "axiom": "disjunctive_syllogism",
+    "samples": [
+        {
+            "id": 1,
+            "context": "Para encontrar o relatório, havia apenas duas localizações possíveis que a busca indicava: ele estaria na pasta 'Documentos' ou, alternativamente, na pasta 'Relatórios 2023'. Após uma verificação minuciosa, no entanto, foi confirmado que o relatório não se encontrava na pasta 'Documentos'.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "É impossível determinar a localização do relatório com as informações fornecidas.",
+                "O relatório está na pasta 'Relatórios 2023'",
+                "O relatório foi perdido e não pode ser encontrado.",
+                "A busca na pasta 'Documentos' precisa ser refeita."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "context": "Havia apenas duas possibilidades para a partida do voo para Nova Iorque: às 8h ou às 10h da manhã. No entanto, uma atualização no painel de voos confirmou que o voo não decolaria às 8h.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O voo foi remarcado para as 9h.",
+                "Não há informações suficientes para determinar o novo horário.",
+                "O voo para Nova Iorque foi cancelado.",
+                "O voo para Nova Iorque sai às 10h"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 3,
+            "context": "Ao planear a sua semana, a equipa sabia que a sua reunião importante seria agendada para segunda ou terça-feira. Mais tarde, chegou uma atualização a confirmar que a reunião não iria definitivamente decorrer na segunda-feira.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A reunião foi adiada para quarta-feira.",
+                "A reunião foi cancelada.",
+                "A reunião de equipa é na terça-feira",
+                "A data da reunião ainda não foi confirmada."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 4,
+            "context": "A equipe aguardava a confirmação sobre quem seria o responsável pelo projeto, e era sabido que a decisão final seria entre Carlos ou Sofia. Mais tarde, foi anunciado a todos que o responsável pelo projeto não é o Carlos.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A decisão sobre a liderança do projeto foi adiada.",
+                "Nem Carlos nem Sofia serão responsáveis pelo projeto.",
+                "Carlos e Sofia dividirão a responsabilidade pelo projeto.",
+                "A responsável pelo projeto é a Sofia"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 5,
+            "context": "Para finalizar a transação, foi estabelecido que as opções de pagamento eram por transferência bancária ou por cartão de crédito. No entanto, também ficou claro que o pagamento não seria realizado através de uma transferência bancária.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A transação foi cancelada por falta de acordo sobre o pagamento.",
+                "O pagamento será feito em dinheiro.",
+                "O pagamento será feito por cartão de crédito",
+                "O pagamento será feito por transferência bancária."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 6,
+            "context": "A equipe de tecnologia estava diante de um grande desafio para identificar a origem de uma falha crítica no sistema. Após uma análise inicial, eles concluíram que a raiz do problema só poderia estar em um de dois lugares: o software ou o hardware. Para refinar a busca, eles executaram uma série completa de diagnósticos no software, mas todos os testes retornaram resultados perfeitos, indicando que o software não era a fonte do problema. Após uma análise inicial, ficou claro para a equipe que a raiz do problema no sistema residia ou no software ou no hardware. Uma série de diagnósticos detalhados confirmou que, felizmente, o problema não estava no software.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "Os testes de diagnóstico do software precisam ser refeitos por uma segunda equipe.",
+                "A causa do problema é o hardware",
+                "A falha está tanto no software quanto no hardware.",
+                "É impossível determinar a causa do problema com as informações disponíveis."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 7,
+            "context": "Para as próximas férias, a família tinha duas opções em mente: ir para a praia ou para as montanhas. Após alguma deliberação, eles decidiram que este ano não iriam para a praia. A escolha para as férias da família havia sido reduzida a duas possibilidades empolgantes: uma viagem ensolarada para a praia ou um refúgio aconchegante nas montanhas. Depois de verificar as previsões do tempo e ver uma semana de chuva prevista para o litoral, foi tomada a decisão final: as praias de areia estavam definitivamente fora de questão para a viagem deste ano.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A família vai para a praia, pois não se importa com a chuva.",
+                "As férias serão na montanha",
+                "A família decidiu cancelar as férias por causa do mau tempo.",
+                "Eles procuraram um terceiro destino para a viagem."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 8,
+            "context": "Ao ponderar sobre o que comer, ficou claro que as opções para o jantar se resumiam a duas escolhas deliciosas: comida italiana ou comida japonesa. Lembrando do banquete de massas da noite anterior, todos concordaram que não iriam jantar comida italiana novamente.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "O grupo não conseguiu chegar a um acordo e decidiu não jantar.",
+                "Eles decidiram repetir o jantar de comida italiana.",
+                "Vamos jantar comida japonesa",
+                "A escolha final foi por um churrasco brasileiro."
+            ],
+            "answer": 2
+        },
+        {
+            "id": 9,
+            "context": "A entrega da encomenda estava prevista para acontecer hoje ou amanhã. Contudo, uma notificação de última hora confirmou que a encomenda não chegará hoje.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A encomenda foi cancelada.",
+                "A encomenda chegará amanhã",
+                "A encomenda não chegará amanhã.",
+                "A data de entrega da encomenda é incerta."
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "context": "Na penumbra do cômodo, só poderiam haver duas explicações para a escuridão: o interruptor da luz já estava acionado, ou a lâmpada havia queimado de vez. Após um momento tateando a parede, constatou-se que o interruptor da luz não estava, de fato, na posição de ligado.",
+            "question": "Qual seria a conclusão mais apropriada com base no contexto?",
+            "options": [
+                "A lâmpada está queimada",
+                "A pessoa acendeu a luz e o cômodo se iluminou.",
+                "O interruptor estava com defeito e, por isso, não podia ser acionado.",
+                "Houve uma queda de energia em toda a vizinhança."
+            ],
+            "answer": 0
+        }
+    ]
+}
