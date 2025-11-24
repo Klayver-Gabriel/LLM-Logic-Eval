@@ -13,12 +13,12 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 from config import LOGIC_RULES_CONFIG
 from engine import ApiKeyManager, make_api_call
 
-PROJECT_ROOT = Path(__file__).parent.parent.parent
+PROJECT_ROOT = Path(__file__).parent.parent.parent.parent
 
 # --- CONFIGURAÇÃO DA ETAPA 2 ---
-INPUT_FILE = PROJECT_ROOT / "artifacts" / "stage_1_sentence_banks.jsonl"
-OUTPUT_STAGE_2A_FILE = PROJECT_ROOT / "artifacts" / "stage_2a_templated_contexts.jsonl"
-OUTPUT_STAGE_2B_FILE = PROJECT_ROOT / "artifacts" / "stage_2b_naturalized_contexts.jsonl"
+INPUT_FILE = PROJECT_ROOT / "dataset_generation" / "artifacts" / "stage_1_sentence_banks.jsonl"
+OUTPUT_STAGE_2A_FILE = PROJECT_ROOT / "dataset_generation" / "artifacts" / "stage_2a_templated_contexts.jsonl"
+OUTPUT_STAGE_2B_FILE = PROJECT_ROOT / "dataset_generation" / "artifacts" / "stage_2b_naturalized_contexts.jsonl"
 MODEL_NAME = 'gemini-2.5-pro'
 # ------------------------------------
 

@@ -14,12 +14,12 @@ from config import LOGIC_RULES_CONFIG
 from prompts import PROMPT_BANK, FALLBACK_PROMPT
 from engine import ApiKeyManager, make_api_call
 
-PROJECT_ROOT = Path(__file__).parent.parent.parent
+PROJECT_ROOT = Path(__file__).parent.parent.parent.parent
 
 # --- CONFIGURAÇÃO DA ETAPA 1 ---
 NUM_INSTANCES_PER_RULE = 10
 MODEL_NAME = 'gemini-2.5-pro'
-OUTPUT_FILE = PROJECT_ROOT / "artifacts" / "stage_1_sentence_banks.jsonl"
+OUTPUT_FILE = PROJECT_ROOT / "dataset_generation" / "artifacts" / "stage_1_sentence_banks.jsonl"
 # ------------------------------------
 
 if __name__ == "__main__":

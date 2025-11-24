@@ -14,11 +14,11 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 from config import LOGIC_RULES_CONFIG
 
-PROJECT_ROOT = Path(__file__).parent.parent.parent
+PROJECT_ROOT = Path(__file__).parent.parent.parent.parent
 
 # --- CONFIGURAÇÃO DA ETAPA 3 (BQA) ---
-INPUT_FILE = PROJECT_ROOT / "artifacts" / "stage_2b_naturalized_contexts.jsonl"
-BASE_OUTPUT_DIR = PROJECT_ROOT / "output" / "LogicBench(Eval)" / "BQA"
+INPUT_FILE = PROJECT_ROOT / "dataset_generation" / "artifacts" / "stage_2b_naturalized_contexts.jsonl"
+BASE_OUTPUT_DIR = PROJECT_ROOT / "dataset_generation" / "output" / "LogicBench(Eval)" / "BQA"
 # ------------------------------------
 
 def parse_stage_2_log(log_path):

@@ -5,7 +5,7 @@ import time
 import logging
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).parent.parent
+PROJECT_ROOT = Path(__file__).parent.parent.parent
 
 class ApiKeyManager:
     def __init__(self):

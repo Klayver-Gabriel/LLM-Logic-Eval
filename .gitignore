@@ -226,3 +226,5 @@ api_keys.json
 # Arquivos do sistema operacional
 .DS_Store
 Thumbs.db
+
+.idea/

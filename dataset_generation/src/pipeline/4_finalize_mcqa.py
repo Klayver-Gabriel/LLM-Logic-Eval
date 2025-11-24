@@ -16,11 +16,11 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 from config import LOGIC_RULES_CONFIG
 from engine import ApiKeyManager, make_api_call
 
-PROJECT_ROOT = Path(__file__).parent.parent.parent
+PROJECT_ROOT = Path(__file__).parent.parent.parent.parent
 
 # --- CONFIGURAÇÃO DA ETAPA 3.2 (MCQA) ---
-INPUT_FILE = PROJECT_ROOT / "artifacts" / "stage_2b_naturalized_contexts.jsonl"
-BASE_OUTPUT_DIR = PROJECT_ROOT / "output" / "LogicBench(Eval)" / "MCQA"
+INPUT_FILE = PROJECT_ROOT / "dataset_generation" / "artifacts" / "stage_2b_naturalized_contexts.jsonl"
+BASE_OUTPUT_DIR = PROJECT_ROOT / "dataset_generation" / "output" / "LogicBench(Eval)" / "MCQA"
 MODEL_NAME = 'gemini-2.5-pro'
 # ------------------------------------
 
