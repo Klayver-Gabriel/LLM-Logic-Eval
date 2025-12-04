@@ -4,15 +4,17 @@ import matplotlib.ticker as mtick
 import sys
 from pathlib import Path
 
-# ==============================================================================
-# 1. CONFIGURAÇÕES
-# ==============================================================================
+THIS_SCRIPT_DIR = Path(__file__).resolve().parent
+
+PROJECT_ROOT = THIS_SCRIPT_DIR.parent
+
+sys.path.append(str(PROJECT_ROOT / 'src'))
 
 # Nome exato do arquivo gerado pelo processar_pasta.py
 NOME_ARQUIVO = "analise.xlsx"
 
-# Caminho: Procura dentro da pasta 'output'
-CAMINHO_ARQUIVO = Path(__file__).parent / "output" / NOME_ARQUIVO
+CAMINHO_ARQUIVO = PROJECT_ROOT / "output" / NOME_ARQUIVO
+
 
 # Nomes das colunas no Excel
 COL_FLASH = "flash_answer"

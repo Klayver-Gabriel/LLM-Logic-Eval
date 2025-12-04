@@ -6,7 +6,13 @@ from pathlib import Path
 import os
 
 
-PROJECT_ROOT = Path(__file__).parent
+THIS_FOLDER = Path(__file__).parent
+
+if THIS_FOLDER.name == 'scripts':
+    PROJECT_ROOT = THIS_FOLDER.parent
+else:
+    PROJECT_ROOT = THIS_FOLDER
+    
 sys.path.append(str(PROJECT_ROOT / 'src'))
 
 try:
